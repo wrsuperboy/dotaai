@@ -1,0 +1,1982 @@
+[Arpl]
+Name=Essence of Blight
+Tip=Essence of |cffffcc00B|rlight
+Ubertip="Restores <Arpl,DataA1> hit points to nearby friendly units."
+Untip=|cffc3dbff右键单击以激活自动施放|r
+Unubertip=|cffc3dbff右键单击以关闭自动施放|r
+Hotkey=B
+Unhotkey=B
+[Brpl]
+Bufftip=自然之助
+Buffubertip=This unit is having some of its health restored by a friendly wisp.
+[Arpm]
+Name=Spirit Touch
+Tip=Spirit Tou|cffffcc00c|rh
+Ubertip="Restores <Arpm,DataB1> mana to nearby friendly units."
+Untip=|cffc3dbff右键单击以激活自动施放|r
+Unubertip=|cffc3dbff右键单击以关闭自动施放|r
+Hotkey=C
+Unhotkey=C
+Order=replenishmana
+Orderon=replenishmanaon
+Orderoff=replenishmanaoff
+[Brpm]
+Bufftip=Spirit Touch
+Buffubertip=This unit has been hit by Spirit Touch; some of its mana has been restored.
+[Aave]
+Name=Destroyer Form
+[Afak]
+Name=Orb of Annihilation
+Tip=|cffffcc00O|rrb of Annihilation
+Ubertip="Adds <Afak,DataA1> bonus damage to the Destroyer's attack and causes his attacks to do area of effect damage."
+Untip=|cffc3dbff右键单击以激活自动施放|r
+Unubertip=|cffc3dbff右键单击以关闭自动施放|r
+Hotkey=O
+Unhotkey=O
+[Advm]
+Name=Devour Magic
+Tip=|cffffcc00D|revour Magic
+Ubertip="Consumes all magical buffs from units in an area. Each unit that is devoured of magic gives the Destroyer <Advm,DataA1> hit points and <Advm,DataB1> mana. |n|cffffcc00Deals <Advm,DataE1> damage to summoned units.|r"
+Hotkey=D
+[Aabs]
+Name=Absorb Mana
+Tip=A|cffffcc00b|rsorb Mana
+Ubertip=Takes all mana from one of your units and gives it to the Destroyer.
+Hotkey=B
+[Abur]
+Name=Burrow
+Tip=|cffffcc00B|rurrow
+Untip=Un|cffffcc00b|rurrow
+Ubertip="The Crypt Fiend digs into the ground, becomes invisible, and gains a regeneration rate of <ucrm,regenHP> hit points per second. |nThe Crypt Fiend cannot attack while burrowed."
+Unubertip=The Crypt Fiend pops out of the ground and becomes visible again.
+Hotkey=B
+Unhotkey=B
+[AUts]
+Name=Spiked Carapace
+Tip=Spiked Carapace - [|cffffcc00Level 1|r],Spiked Carapace - [|cffffcc00Level 2|r],Spiked Carapace - [|cffffcc00Level 3|r]
+Ubertip="Enhances the Crypt Lord's chitinous armor with organic barbs, giving the Crypt Lord <AUts,DataC1> bonus armor and returning <AUts,DataA1,%>% of melee attack damage to enemies.","Enhances the Crypt Lord's chitinous armor with organic barbs, giving him <AUts,DataC2> bonus armor and returning <AUts,DataA2,%>% of melee attack damage to enemies.","Enhances the Crypt Lord's chitinous armor with organic barbs, giving him <AUts,DataC3> bonus armor and returning <AUts,DataA3,%>% of melee attack damage to enemies."
+Researchtip=Learn |cffffcc00S|rpiked Carapace - [|cffffcc00Level %d|r]
+Researchubertip="The Crypt Lord forms barbed layers of chitinous armor that increases its defense and returns damage to enemy melee attackers.  |n|n|cffffcc00Level 1|r - <AUts,DataA1,%>% damage returned, <AUts,DataC1> bonus armor. |n|cffffcc00Level 2|r -  <AUts,DataA2,%>% damage returned, <AUts,DataC2> bonus armor. |n|cffffcc00Level 3|r -  <AUts,DataA3,%>% damage returned, <AUts,DataC3> bonus armor."
+Researchhotkey=S
+[AUcb]
+Name=食腐甲虫
+Tip=|cffffcc00C|rarrion Beetles - [|cffffcc00Level 1|r],|cffffcc00C|rarrion Beetles - [|cffffcc00Level 2|r],|cffffcc00C|rarrion Beetles - [|cffffcc00Level 3|r]
+Ubertip="Progenerates <AUcb,DataA1> Beetle from a target corpse. Beetles have <ucs1,realHP> hit points, and deal <ucs1,mindmg1> - <ucs1,maxdmg1> damage. Beetles are permanent until killed. |nMaximum of <AUcb,DataE1> Beetles.","Progenerates <AUcb,DataA2> Beetle from a target corpse. Beetles have <ucs2,realHP> hit points, and deal <ucs2,mindmg1> - <ucs2,maxdmg1> damage, and can burrow. Beetles are permanent until killed. |nMaximum of <AUcb,DataE2> Beetles.","Progenerates <AUcb,DataA3> Beetle from a target corpse. Beetles have <ucs3,realHP> hit points, and deal <ucs3,mindmg1> - <ucs3,maxdmg1> damage, and can burrow. Beetles are permanent until killed. |nMaximum of <AUcb,DataE3> Beetles."
+Hotkey=C
+Researchtip=Learn |cffffcc00C|rarrion Beetles - [|cffffcc00Level %d|r]
+Researchubertip="The Crypt Lord progenerates <AUcb,DataA1> Carrion Beetle from a target corpse to attack the Crypt Lord's enemies. Beetles are permanent, but only <AUcb,DataE1> can be controlled at a time. |n|n|cffffcc00Level 1|r - <ucs1,realHP> hit points, <ucs1,mindmg1> - <ucs1,maxdmg1> damage. |n|cffffcc00Level 2|r - <ucs2,realHP> hit points, <ucs2,mindmg1> - <ucs2,maxdmg1> damage, Beetles can burrow. |n|cffffcc00Level 3|r - <ucs3,realHP> hit points, <ucs3,mindmg1> - <ucs3,maxdmg1> damage, Beetles can burrow."
+Researchhotkey=C
+Untip=|cffc3dbff右键单击以激活自动施放|r
+Unubertip=|cffc3dbff右键单击以关闭自动施放|r
+[BUcb]
+Bufftip=食腐甲虫
+Buffubertip=驱散魔法会给召唤单位造成伤害
+[AUls]
+Name=Locust Swarm
+Tip=|cffffcc00L|rocust Swarm
+Ubertip="Creates a swarm of angry locusts that bite and tear at nearby enemy units. As they chew the enemy flesh, they convert it into a substance that restores hit points to the Crypt Lord when they return. |nLasts <AUls,HeroDur1> seconds."
+Hotkey=L
+Researchtip=Learn |cffffcc00L|rocust Swarm
+Researchubertip="Creates a swarm of angry locusts that bite and tear at nearby enemy units. As they chew the enemy flesh, they convert it into a substance that restores hit points to the Crypt Lord when they return. |nLasts <AUls,HeroDur1> seconds."
+Researchhotkey=L
+[BUlo]
+Bufftip=Locust
+[Amtc]
+Name=Cargo Hold
+[Atru]
+Name=真视
+Tip=真视
+Ubertip=侦察到周围的隐形单位。
+[Aaha]
+Name=Gather
+Tip=|cffffcc00G|rather
+Ubertip=Mines gold from Haunted Gold Mines.
+Untip=|cffffcc00R|return Resources
+Unubertip=Return the carried resources to the nearest town hall.
+Hotkey=G
+Unhotkey=R
+[Auns]
+Name=Unsummon Building
+Tip=|cffffcc00U|rnsummon Building
+Ubertip="Unsummons your building to regain <Auns,DataA1,%>% of the spent resources."
+Hotkey=U
+[Buns]
+Bufftip=Conversion
+[Agyd]
+Name=Create Corpse
+[Alam]
+Name=Sacrifice
+Tip=Sa|cffffcc00c|rrifice
+Ubertip=Target a Sacrificial Pit to sacrifice the Acolyte and turn it into a Shade. Shades are invisible spirits that can see invisible units. |nShades cannot attack.
+Hotkey=C
+[Acan]
+Name=Cannibalize
+Tip=|cffffcc00C|rannibalize
+Ubertip="Consumes a nearby corpse to heal <Acan,DataA1> hit points per second."
+Hotkey=C
+[Acn2]
+Name=Cannibalize
+Tip=|cffffcc00C|rannibalize
+Ubertip="Consumes a nearby corpse to heal <Acn2,DataA1> hit points per second."
+Hotkey=C
+[Astn]
+Name=石像形态
+Tip=石像形态
+Ubertip="Transforms the Gargoyle into a statue that is immune to spells, gains additional armor and has a regeneration rate of 80 hit points per second. |nThe Gargoyle cannot attack in this form."
+Hotkey=F
+Untip=Gargoyle |cffffcc00F|rorm
+Unubertip=Returns the Gargoyle to the air.
+Unhotkey=F
+[Aapl]
+Name=Disease Cloud
+Tip=Disease Cloud
+Ubertip="Infects nearby enemy living units with Disease Cloud. Disease Cloud deals <Aap1,DataB1> damage per second. |nLasts <Aap1,DataA1> seconds."
+[Aap1]
+Name=Disease Cloud
+Tip=Disease Cloud
+Ubertip="Infects nearby enemy living units with Disease Cloud. Disease Cloud deals <Aap1,DataB1> damage per second. |nLasts <Aap1,DataA1> seconds."
+[Aap2]
+Name=Disease Cloud
+[Bapl]
+Bufftip=Disease
+Buffubertip=This unit is diseased; it will take damage over time.
+[Afrb]
+Name=Frost Breath
+[Afra]
+Name=霜冻攻击
+Tip=霜冻攻击
+Ubertip=Adds a cold effect to this unit's attacks that slows enemy units' movement speed.
+[Afr2]
+Name=Skadi Ranged
+Tip=
+Ubertip=
+[Arai]
+Name=Raise Dead
+Tip=召唤骷髅
+Untip=|cffc3dbff右键单击以激活自动施放|r
+Ubertip="Raises <Arai,DataA1> skeletons from a corpse."
+Unubertip=|cffc3dbff右键单击以关闭自动施放|r
+Hotkey=R
+Unhotkey=R
+[Brai]
+Bufftip=小骷髅
+Buffubertip=驱散魔法会给召唤单位造成伤害
+[Auhf]
+Name=疯狂
+Tip=F|cffffcc00r|renzy - [|cffffcc00Level 1|r],F|cffffcc00r|renzy -  [|cffffcc00Level 2|r],F|cffffcc00r|renzy -  [|cffffcc00Level 3|r]
+Ubertip="Increases the attack rate of a target unit by 75% for 20 seconds, at the cost of 4 hit points per second.","Increases the attack rate of a target unit by 150% for 20 seconds, at the cost of 7 hit points per second.","Increases the attack rate of a target unit by 225% for 20 seconds, at the cost of 10 hit points per second."
+Hotkey=R
+Researchhotkey=R
+Researchtip=Learn F|cffffcc00r|renzy - [|cffffcc00Level %d|r]
+Researchubertip="Increases attack speed for 20 seconds, at the loss of hit points every second. |n|n|cffffcc00Level 1|r - 75% increase, 3 hit points lost. |n|cffffcc00Level 2|r - 100% increase, 6 hit points lost. |n|cffffcc00Level 3|r - 140% increase, 9 hit points lost.|n|cffffcc00Level 4|r - 180% increase, 11 hit points lost."
+[Buhf]
+Bufftip=疯狂
+Buffubertip=此单位疯狂了，攻击速度得到提升
+[Acrs]
+Name=Curse
+Tip=|cffffcc00C|rurse
+Ubertip="Curses a target enemy unit, causing it to have a <Acrs,DataA1,%>% chance to miss on an attack. |nLasts <Acrs,Dur1> seconds."
+Untip=|cffc3dbff右键单击以激活自动施放|r
+Unubertip=|cffc3dbff右键单击以关闭自动施放|r
+Hotkey=C
+Unhotkey=C
+[Bcrs]
+Bufftip=黄泉颤抖
+Buffubertip=该单位被黄泉颤抖技能授予了力量
+[Aams]
+Name=反魔法盾
+Tip=A|cffffcc00n|rti-magic Shell
+Ubertip="Creates a barrier that stops spells from affecting a target unit. |nLasts <Aams,Dur1> seconds."
+Hotkey=N
+[Bams]
+Bufftip=反魔法盾
+Buffubertip=This unit has Anti-magic Shell; it cannot be targeted by spells. It can be dispelled.
+[Bam2]
+Bufftip=反魔法盾
+Buffubertip=该单位受反魔法盾保护，攻击性魔法需要先摧毁盾才能伤害到它
+[Apos]
+Name=Possession
+Tip=P|cffffcc00o|rssession
+Ubertip="Displaces the soul of an enemy, giving you permanent control of it, but destroying the caster's body. |nPossession cannot be used on flying units, Heroes, or creeps above level <Apos,DataA1>."
+Hotkey=O
+[Bpos]
+Bufftip=Possession
+Buffubertip=This unit is being possessed.
+[AUau]
+Name=邪恶光环
+Tip=Unholy Aura - [|cffffcc00Level 1|r],Unholy Aura - [|cffffcc00Level 2|r],Unholy Aura - [|cffffcc00Level 3|r]
+Ubertip="Increases nearby friendly units' movement speed by <AUau,DataA1,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate."
+Researchtip=Learn |cffffcc00U|rnholy Aura - [|cffffcc00Level %d|r]
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Level 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Level 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Level 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[BUau]
+Bufftip=Aphotic Field
+Buffubertip=This unit is affected by Aphotic Field; it has increased hit points.
+[BUan]
+Bufftip=憎恶
+Buffubertip=该单位将持续受到伤害，并且将频繁被晕眩
+[AUcs]
+Name=Carrion Swarm
+Tip=|cffffcc00C|rarrion Swarm - [|cffffcc00Level 1|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Level 2|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Level 3|r]
+Ubertip="Sends a horde of bats to deal <AUcs,DataA1> damage to each enemy unit in a cone.","Sends a horde of bats to deal <AUcs,DataA2> damage to each enemy unit in a cone.","Sends a horde of bats to deal <AUcs,DataA3> damage to each enemy unit in a cone."
+Hotkey=C
+Researchtip=Learn |cffffcc00C|rarrion Swarm - [|cffffcc00Level %d|r]
+Researchubertip="Sends a horde of bats to damage enemies. |n|n|cffffcc00Level 1|r - <AUcs,DataA1> damage per unit. |n|cffffcc00Level 2|r - <AUcs,DataA2> damage per unit. |n|cffffcc00Level 3|r - <AUcs,DataA3> damage per unit."
+Researchhotkey=C
+[AUsl]
+Name=沉睡
+Tip=Sl|cffffcc00e|rep - [|cffffcc00Level 1|r],Sl|cffffcc00e|rep - [|cffffcc00Level 2|r],Sl|cffffcc00e|rep - [|cffffcc00Level 3|r]
+Ubertip="Puts a target enemy unit to sleep for <AUsl,Dur1> seconds. A sleeping unit can be awoken by attacking it.","Puts a target enemy unit to sleep for <AUsl,Dur2> seconds. A sleeping unit can be awoken by attacking it.","Puts a target enemy unit to sleep for <AUsl,Dur3> seconds. A sleeping unit can be awoken by attacking it."
+Hotkey=E
+Researchtip=Learn Sl|cffffcc00e|rep - [|cffffcc00Level %d|r]
+Researchubertip="Puts a target enemy unit to sleep. A sleeping unit can be awoken by attacking it. |n|n|cffffcc00Level 1|r - <AUsl,Dur1> second sleep for <AUsl,Cost1> mana. |n|cffffcc00Level 2|r - <AUsl,Dur2> second sleep for <AUsl,Cost2> mana. |n|cffffcc00Level 3|r - <AUsl,Dur3> second sleep for <AUsl,Cost3> mana."
+Researchhotkey=E
+[BUsl]
+Bufftip=沉睡
+Buffubertip=该单位正在沉睡，无法移动、攻击与施法。任何攻击会惊醒他
+[AUa2]
+Name=吸血光环
+Tip=吸血光环 - [|cffffcc00等级 1|r],吸血光环 - [|cffffcc00等级 2|r],吸血光环 - [|cffffcc00等级 3|r],吸血光环 - [|cffffcc00等级 4|r]
+Ubertip=附近的友方单位在攻击时，能将所造成伤害量的15%转化为自身的生命。|n|n|cff99ccff作用范围：|r900,附近的友方单位在攻击时，能将所造成伤害量的20%转化为自身的生命。|n|n|cff99ccff作用范围：|r900,附近的友方单位在攻击时，能将所造成伤害量的25%转化为自身的生命。|n|n|cff99ccff作用范围：|r900,附近的友方单位在攻击时，能将所造成伤害量的30%转化为自身的生命。|n|n|cff99ccff作用范围：|r900
+Researchtip=学习 吸血光环 - [|cffffcc00等级 %d|r]|n(Vampiric Aura)
+Researchubertip=附近友方单位攻击命敌人时，能回复所造成伤害量一定比率的生命。|n|n|cff99ccff作用范围：|r900|n|n|cffffcc00等级 1|r - 回复伤害量15%的生命|n|cffffcc00等级 2|r - 回复伤害量20%的生命|n|cffffcc00等级 3|r - 回复伤害量25%的生命|n|cffffcc00等级 4|r - 回复伤害量30%的生命
+Researchhotkey=V
+[BUa1]
+Bufftip=吸血光环
+Buffubertip=该单位正处于吸血光环的影响中，当对敌方造成伤害时，自己的生命也会回复
+[BUa2]
+Bufftip=吸血光环
+Buffubertip=该单位正处于吸血光环的影响中，当对敌方造成伤害时，自己的生命也会回复
+[BUa3]
+Bufftip=吸血光环
+Buffubertip=该单位正处于吸血光环的影响中，当对敌方造成伤害时，自己的生命也会回复
+[BUa4]
+Bufftip=吸血光环
+Buffubertip=该单位正处于吸血光环的影响中，当对敌方造成伤害时，自己的生命也会回复
+[AUfn]
+Name=Frost Nova
+Tip=Frost |cffffcc00N|rova - [|cffffcc00Level 1|r],Frost |cffffcc00N|rova - [|cffffcc00Level 2|r],Frost |cffffcc00N|rova - [|cffffcc00Level 3|r]
+Ubertip="Blasts enemy units with a wave of frost that deals <AUfn,DataB1> damage to the target, and <AUfn,DataA1> nova damage. Cold damage slows units' movement and attack rate for <AUfn,Dur1> seconds.","Blasts enemy units with a wave of frost that deals <AUfn,DataB2> damage to the target, and <AUfn,DataA2> nova damage. Cold damage slows units' movement and attack rate for <AUfn,Dur2> seconds.","Blasts enemy units with a wave of frost that deals <AUfn,DataB3> damage to the target, and <AUfn,DataA3> nova damage. Cold damage slows units' movement and attack rate for <AUfn,Dur3> seconds."
+Hotkey=N
+Researchtip=Learn Frost |cffffcc00N|rova - [|cffffcc00Level %d|r]
+Researchubertip="Blasts enemy units around a target enemy unit with a wave of damaging frost that slows movement and attack rate. |n|n|cffffcc00Level 1|r - <AUfn,DataB1> target damage, <AUfn,DataA1> nova damage. |n|cffffcc00Level 2|r - <AUfn,DataB2> target damage, <AUfn,DataA2> nova damage. |n|cffffcc00Level 3|r - <AUfn,DataB3> target damage, <AUfn,DataA3> nova damage."
+Researchhotkey=N
+[AUfa]
+Name=冰霜护甲
+Tip=霜冻护甲 - [|cffffcc00等级 1|r],霜冻护甲 - [|cffffcc00等级 2|r],霜冻护甲 - [|cffffcc00等级 3|r]
+Ubertip="Creates a shield of frost around a target friendly unit. The shield adds <AUfa,DataB1> armor and slows melee units that attack it for <AUfa,Dur1> seconds. |nLasts <AUfa,DataA1> seconds.","Creates a shield of frost around a target friendly unit. The shield adds <AUfa,DataB2> armor and slows melee units that attack it for <AUfa,Dur1> seconds. |nLasts <AUfa,DataA2> seconds.","Creates a shield of frost around a target friendly unit. The shield adds <AUfa,DataB3> armor and slows melee units that attack it for <AUfa,Dur1> seconds. |nLasts <AUfa,DataA3> seconds."
+Hotkey=F
+Researchtip=学习 霜冻护甲 - [|cffffcc00等级 %d|r]|n(Frost Armor)
+Researchubertip="Creates a shield of frost around a target friendly unit. The shield adds armor and slows melee units that attack it. |n|n|cffffcc00Level 1|r - Adds <AUfa,DataB1> armor. |n|cffffcc00Level 2|r - Adds <AUfa,DataB2> armor. |n|cffffcc00Level 3|r - Adds <AUfa,DataB3> armor."
+Researchhotkey=F
+[AUfu]
+Name=冰霜护甲
+Tip=霜冻护甲 - [|cffffcc00等级 1|r],霜冻护甲 - [|cffffcc00等级 2|r],霜冻护甲 - [|cffffcc00等级 3|r]
+Ubertip="Creates a shield of frost around a target friendly unit. The shield adds <AUfu,DataB1> armor and slows melee units that attack it for <AUfu,Dur1> seconds. |nLasts <AUfu,DataA1> seconds.","Creates a shield of frost around a target friendly unit. The shield adds <AUfa,DataB2> armor and slows melee units that attack it for <AUfa,Dur1> seconds. |nLasts <AUfa,DataA2> seconds.","Creates a shield of frost around a target friendly unit. The shield adds <AUfa,DataB3> armor and slows melee units that attack it for <AUfa,Dur1> seconds. |nLasts <AUfa,DataA3> seconds."
+Untip=|cffc3dbff右键单击以激活自动施放|r
+Unubertip=|cffc3dbff右键单击以关闭自动施放|r
+Hotkey=F
+Researchtip=学习 霜冻护甲 - [|cffffcc00等级 %d|r]|n(Frost Armor)
+Researchubertip="Creates a shield of frost around a target friendly unit. The shield adds armor and slows melee units that attack it. |n|n|cffffcc00Level 1|r - Adds <AUfu,DataB1> armor. |n|cffffcc00Level 2|r - Adds <AUfu,DataB2> armor. |n|cffffcc00Level 3|r - Adds <AUfu,DataB3> armor."
+Researchhotkey=F
+[BUfa]
+Bufftip=冰霜护甲
+Buffubertip=在冰霜护甲的保护下，此单位的护甲得到了提升，对他进行近身攻击的单位的攻击速度与移动速度将被降低
+[BUdd]
+Bufftip=午夜凋零
+Buffubertip=该单位受到午夜凋零影响，持续受到伤害
+[Acri]
+Name=致残
+Tip=残废
+Ubertip="Reduces movement speed by <Acri,DataA1,%>%, attack rate by <Acri,DataB1,%>%, and damage by <Acri,DataC1,%>% of a target enemy unit. |nLasts <Acri,Dur1> seconds."
+Hotkey=C
+[Bcri]
+Bufftip=黄泉颤抖
+Buffubertip=该单位的攻击速度与移动速度都被吸走了
+[Arst]
+Name=Restore
+Tip=|cffffcc00R|restore
+Ubertip=Repairs mechanical units and structures at the cost of resources.
+Untip=|cffc3dbff右键单击以激活自动施放|r
+Unubertip=|cffc3dbff右键单击以关闭自动施放|r
+Hotkey=R
+Unhotkey=R
+[AUin]
+Name=Inferno
+Tip=I|cffffcc00n|rferno
+Ubertip="Calls an Infernal down from the sky, dealing <AUin,DataA1> damage and stunning enemy land units for <AUin,Dur1> seconds in an area. The Infernal lasts <AUin,DataB1> seconds."
+Hotkey=N
+Researchtip=Learn I|cffffcc00n|rferno
+Researchubertip="Calls an Infernal down from the sky, dealing <AUin,DataA1> damage and stunning enemy land units for <AUin,Dur1> seconds in an area. The Infernal lasts <AUin,DataB1> seconds."
+Researchhotkey=N
+[BUcs]
+EditorName=Carrion Swarm (Caster)
+[BUsp]
+EditorName=Sleep (Pause)
+[BUst]
+EditorName=Sleep (Stun)
+[BUts]
+EditorName=Spiked Carapace
+[Bplg]
+EditorName=Disease Cloud
+[Xfus]
+EditorName=Building Damage - Undead Small
+[Xfum]
+EditorName=Building Damage - Undead Medium
+[Xful]
+EditorName=Building Damage - Undead Large
+[A01D]
+Name=水晶新星施放者
+Tip=霜冻新星 - [|cffffcc00等级 1|r],霜冻新星 - [|cffffcc00等级 2|r],霜冻新星 - [|cffffcc00等级 3|r],霜冻新星 - [|cffffcc00等级 4|r]
+Ubertip=Blasts enemy units with a wave of frost that deals 50 target damage and 75 nova damage. Cold damage slows movement speed and attack rate for 4 seconds. |n|n|cff99ccffCooldown: |r 11 seconds.,Blasts enemy units with a wave of frost that deals 100 target damage and 100 nova damage. Cold damage slows movement speed and attack rate for 4 seconds. |n|n|cff99ccffCooldown: |r 11 seconds.,Blasts enemy units with a wave of frost that deals 125 target damage and 125 nova damage. Cold damage slows movement speed and attack rate for 4 seconds. |n|n|cff99ccffCooldown: |r 11 seconds.,Blasts enemy units with a wave of frost that deals 175 target damage and 125 nova damage. Cold damage slows movement speed and attack rate for 4 seconds. |n|n|cff99ccffCooldown: |r 11 seconds.
+Hotkey=V
+Researchtip=学习 霜冻新星 - [|cffffcc00等级 %d|r]|n(Frost Nova)
+Researchubertip=Blasts enemy units around a target enemy unit with a wave of damaging frost that slows movement speed and attack rate for 4 seconds. |n|n|cffffcc00Level 1|r - 50 target damage and 75 nova damage. |n|cffffcc00Level 2|r - 100 target damage and 100 nova damage. |n|cffffcc00Level 3|r - 125 target damage and 125 nova damage.|n|cffffcc00Level 4|r - 175 target damage and 125 nova damage. |n|n|cff99ccffCooldown: |r 11 seconds.
+Researchhotkey=V
+[A02J]
+Name=Impale
+Tip=穿刺 - [|cffffcc00等级 1|r],穿刺 - [|cffffcc00等级 2|r],穿刺 - [|cffffcc00等级 3|r],穿刺 - [|cffffcc00等级 4|r]
+Ubertip=The Demon Witch releases his demonic magics into the ground in order to thrust solidified rock spikes along a straight path dealing 60 damage and stunning them for 0.5 seconds. |n|n|cff99ccffCooldown: |r 12 seconds.,The Demon Witch releases his demonic magics into the ground in order to thrust solidified rock spikes along a straight path dealing 130 damage and stunning them for 1 second. |n|n|cff99ccffCooldown: |r 12 seconds.,恶魔巫师所释放的恶魔之力使一条直线上的坚石化为地刺，将敌方地面单位抛向空中，落地后造成200点伤害，晕眩1.5秒。|n|n|cff99ccff施法距离：|r500|n|cff99ccff最大距离：|r700|n|cff99ccff冷却时间：|r12,恶魔巫师所释放的恶魔之力使一条直线上的坚石化为地刺，将敌方地面单位抛向空中，落地后造成260点伤害，晕眩2秒。|n|n|cff99ccff施法距离：|r500|n|cff99ccff最大距离：|r700|n|cff99ccff冷却时间：|r12
+Hotkey=E
+Researchtip=学习 穿刺 - [|cffffcc00等级 %d|r]|n(Impale)
+Researchubertip="The Demon Witch releases his demonic magics into the ground in order to thrust solidified rock spikes along a straight path. This sends all his enemies into the air, only to take damage on their painful impact with the ground. |n|n|cffffcc00Level 1|r - 60 damage, .5 second stun. |n|cffffcc00Level 2|r - 130 damage, 1 second stun. |n|cffffcc00Level 3|r - 200 damage, 1.5 second stun.|n|cffffcc00Level 4|r - 260 damage, 2 second stun. |n|n|cff99ccffCooldown: |r 12 seconds."
+Researchhotkey=E
+[A02L]
+Name=Spiked Carapace
+Tip=Spiked Carapace - [|cffffcc00Level 1|r],Spiked Carapace - [|cffffcc00Level 2|r],Spiked Carapace - [|cffffcc00Level 3|r],Spiked Carapace - [|cffffcc00Level 4|r]
+Ubertip="Enhances the Assassin's chitinous armor with organic barbs, giving him 2 bonus armor and returning 10% of melee attack damage to enemies.","Enhances the Assassin's chitinous armor with organic barbs, giving him 4 bonus armor and returning 20% of melee attack damage to enemies.","Enhances the Assassin's chitinous armor with organic barbs, giving him 6 bonus armor and returning 30% of melee attack damage to enemies.","Enhances the Assassin's chitinous armor with organic barbs, giving him 8 bonus armor and returning 40% of melee attack damage to enemies."
+Researchtip=学习 尖刺外壳 - [|cffffcc00等级 %d|r]|n(Spiked Carapace)
+Researchubertip="The Nerubian Assassin forms barbed layers of chitinous armor that increases its defense and returns damage to enemy melee attackers.  |n|n|cffffcc00Level 1|r - 10% damage returned, 2 bonus armor. |n|cffffcc00Level 2|r -  20% damage returned, 4 bonus armor.|n|cffffcc00Level 3|r -  30% damage returned, 6 bonus armor.|n|cffffcc00Level 4|r -  40% damage returned, 8 bonus armor."
+Researchhotkey=D
+Hotkey=D
+[A02M]
+Name=Carrion Swarm
+Tip=食腐蝠群 - [|cffffcc00等级 1|r],食腐蝠群 - [|cffffcc00等级 2|r],食腐蝠群 - [|cffffcc00等级 3|r],食腐蝠群 - [|cffffcc00等级 4|r]
+Ubertip=召唤一群蝙蝠对一条直线上的每个敌人造成100点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r8,召唤一群蝙蝠对一条直线上的每个敌人造成175点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r7,召唤一群蝙蝠对一条直线上的每个敌人造成250点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r6,召唤一群蝙蝠对一条直线上的每个敌人造成300点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r5
+Hotkey=R
+Researchtip=学习 食腐蝠群 - [|cffffcc00等级 %d|r]|n(Carrion Swarm)
+Researchubertip=召唤一群蝙蝠对一条直线上的敌方目标造成伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r8/7/6/5|n|cff99ccff魔法消耗：|r105/120/140/165|n|n|cffffcc00等级 1|r - 对每个目标造成100点伤害|n|cffffcc00等级 2|r - 对每个目标造成175点伤害|n|cffffcc00等级 3|r - 对每个目标造成250点伤害|n|cffffcc00等级 4|r - 对每个目标造成300点伤害
+Researchhotkey=R
+[A00N]
+Name=Eye of the Storm - 3
+Tip=,Unholy Fervor - [|cffffcc00Level 2|r],Unholy Fervor - [|cffffcc00Level 3|r],Unholy Fervor - [|cffffcc00Level 4|r]
+Ubertip=,"Harnesses the vacuum nearby to charge himself, Increasing his movement speed by 15%. Each nearby enemy unit creates an electrical disturbance, reducing this bonus by 1%.","Harnesses the vacuum nearby to charge himself, Increasing his movement speed by 20%. Each nearby enemy unit creates an electrical disturbance, reducing this bonus by 1%.",Increases Razor's movement speed by 10% and life regeneration rate by 2 hp/sec.
+Researchtip=
+Researchubertip=
+Researchhotkey=N
+[A05T]
+Name=Chain Frost
+Tip=连环霜冻 - [|cffffcc00等级 1|r],连环霜冻 - [|cffffcc00等级 2|r],连环霜冻 - [|cffffcc00等级 3|r]
+Ubertip=释放一股弹射10次的霜冻，每次弹射造成280（370）点伤害，第一次弹射同时造成0.01秒的睡眠。|n|n|cff99ccff施法距离：|r750(850)|n|cff99ccff冷却时间：|r120|n|n|c00fffc01神杖升级：增加伤害和施法距离，并移除弹射次数上限。|r,释放一股弹射10次的霜冻，每次弹射造成370（460）点伤害，第一次弹射同时造成0.01秒的睡眠。|n|n|cff99ccff施法距离：|r750(850)|n|cff99ccff冷却时间：|r90|n|n|c00fffc01神杖升级：增加伤害和施法距离，并移除弹射次数上限。|r,释放一股弹射10次的霜冻，每次弹射造成460（550）点伤害，第一次弹射同时造成0.01秒的睡眠。|n|n|cff99ccff施法距离：|r750(850)|n|cff99ccff冷却时间：|r60|n|n|c00fffc01神杖升级：增加伤害和施法距离，并移除弹射次数上限。|r
+Hotkey=C
+Researchtip=学习 连环霜冻 - [|cffffcc00等级 %d|r]|n(Chain Frost)
+Researchubertip=释放一股最多弹射10次的霜冻，第一次弹射造成0.01秒的睡眠。（括号内为装备阿哈利姆神杖时的数值）|n|n|cff99ccff施法距离：|r750(850)|n|cff99ccff冷却时间：|r120/90/60|n|cff99ccff魔法消耗：|r200/325/500|n|cffffcc00等级 1|r - 每次弹射造成280（370）点伤害|n|cffffcc00等级 2|r - 每次弹射造成370（460）点伤害|n|cffffcc00等级 3|r - 每次弹射造成460（550）点伤害|n|n|c00fffc01神杖升级：增加伤害和施法距离，并移除弹射次数上限。|r
+Researchhotkey=C
+[A066]
+Name=Omnislash
+Tip=Om|cffffcc00n|rislash - [|cffffcc00Level 1|r],Om|cffffcc00n|rislash - [|cffffcc00Level 2|r],Om|cffffcc00n|rislash - [|cffffcc00Level 3|r]
+Ubertip="Quickly move around the battlefield, slashing 3 times.  You are invulnerable.","Quickly move around the battlefield, slashing 5 times.  You are invulnerable.","Quickly move around the battlefield, slashing 8 times.  You are invulnerable."
+Hotkey=N
+Researchubertip="Quickly move around the battlefield, slashing many enemies.  You become invulnerable while Omnislashing.|n|n|cffffcc00Level 1|r - Attacks 3 times. |n|cffffcc00Level 2|r - Attacks 5 times. |n|cffffcc00Level 3|r - Attacks 8 times."
+Researchtip=Learn Om|cffffcc00n|rislash - [|cffffcc00Level %d|r]
+Researchhotkey=N
+[A06W]
+Name=Split Earth
+Tip=撕裂大地 - [|cffffcc00等级 1|r],撕裂大地 - [|cffffcc00等级 2|r],撕裂大地 - [|cffffcc00等级 3|r],撕裂大地 - [|cffffcc00等级 4|r]
+Ubertip=撕裂敌人脚下的大地，造成120点伤害，晕眩2秒。|n|n|cff99ccff施法距离：|r750|n|cff99ccff作用范围：|r150|n|cff99ccff施法延迟：|r0.35|n|cff99ccff冷却时间：|r9,撕裂敌人脚下的大地，造成180点伤害，晕眩2秒。|n|n|cff99ccff施法距离：|r750|n|cff99ccff作用范围：|r175|n|cff99ccff施法延迟：|r0.35|n|cff99ccff冷却时间：|r9,撕裂敌人脚下的大地，造成240点伤害，晕眩2秒。|n|n|cff99ccff施法距离：|r750|n|cff99ccff作用范围：|r200|n|cff99ccff施法延迟：|r0.35|n|cff99ccff冷却时间：|r9,撕裂敌人脚下的大地，造成300点伤害，晕眩2秒。|n|n|cff99ccff施法距离：|r750|n|cff99ccff作用范围：|r225|n|cff99ccff施法延迟：|r0.35|n|cff99ccff冷却时间：|r9
+Hotkey=T
+Researchtip=学习 撕裂大地 - [|cffffcc00等级 %d|r]|n(Split Earth)
+Researchubertip=撕裂敌人脚下的大地，造成伤害，并使其晕眩2秒。|n|n|cff99ccff施法距离：|r750|n|cff99ccff作用范围：|r150/175/200/225|n|cff99ccff施法延迟：|r0.35|n|cff99ccff冷却时间：|r9|n|cff99ccff魔法消耗：|r100/125/140/160|n|n|cffffcc00等级 1|r - 造成120点伤害|n|cffffcc00等级 2|r - 造成180点伤害|n|cffffcc00等级 3|r - 造成240点伤害|n|cffffcc00等级 4|r - 造成300点伤害
+Researchhotkey=T
+[A071]
+Name=盛宴
+Tip=盛宴 - [|cffffcc00等级 1|r],盛宴 - [|cffffcc00等级 2|r],盛宴 - [|cffffcc00等级 3|r],盛宴 - [|cffffcc00等级 4|r]
+Ubertip="N'aix regains part of his hit points with each attack, gaining 15% of his damage with each attack.|n|n|c00ff0303Orb effect.|r","N'aix regains part of his hit points with each attack, gaining 30% of his damage with each attack.|n|n|c00ff0303Orb effect.|r","N'aix regains part of his hit points with each attack, gaining 40% of his damage with each attack.|n|n|c00ff0303Orb effect.|r","N'aix regains part of his hit points with each attack, gaining 50% of his damage with each attack.|n|n|c00ff0303Orb effect.|r"
+Researchtip=学习 盛宴 - [|cffffcc00等级 %d|r]|n(Feast)
+Researchubertip=N'aix restores some of his life force by eating flesh. |n|n|cffffcc00Level 1|r - Regains 15% of attack damage. |n|cffffcc00Level 2|r - Regains 30% of attack damage.  |n|cffffcc00Level 3|r - Regains 40% of attack damage.  |n|cffffcc00Level 4|r - Regains 50% of attack damage. 
+Researchhotkey=F
+[A073]
+Name=Exorcism
+Tip=驱使恶灵 - [|cffffcc00等级 1|r],驱使恶灵 - [|cffffcc00等级 2|r],驱使恶灵 - [|cffffcc00等级 3|r]
+Ubertip=释放8个恶灵攻击敌方单位与建筑。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r35|n|cff99ccff冷却时间：|r135,释放16个恶灵攻击敌方单位与建筑。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r35|n|cff99ccff冷却时间：|r135,释放24个恶灵攻击敌方单位与建筑。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r35|n|cff99ccff冷却时间：|r135
+Hotkey=X
+Researchtip=学习 驱使恶灵 - [|cffffcc00等级 %d|r]|n(Exorcism)
+Researchubertip=释放恶灵，每个恶灵拥有53-58点英雄攻击，自动攻击周围的单位和建筑。|n技能施放完毕后恢复死亡先知技能造成伤害25%的生命。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r35|n|cff99ccff冷却时间：|r135|n|cff99ccff魔法消耗：|r200/300/400|n|n|cffffcc00等级 1|r - 释放6个恶灵|n|cffffcc00等级 2|r - 释放16个恶灵|n|cffffcc00等级 3|r - 释放24个恶灵
+Researchhotkey=X
+[A07K]
+Name=Raise Revenants
+Tip=复活怨灵 - [|cffffcc00等级 1|r],复活怨灵 - [|cffffcc00等级 2|r],复活怨灵 - [|cffffcc00等级 3|r]
+Ubertip=Progenerates a revenant from a corpse.  Has 350 hit points and deals 40 damage.  Takes 33% less damage from spells.|nCan summon 4 revenants. |n|n|cff99ccffCooldown: |r 6 seconds.,Progenerates a revenant from a corpse.  Has 550 hit points and deals 46 damage.  Takes 33% less damage from spells.|nCan summon 5 revenants. |n|n|cff99ccffCooldown: |r 6 seconds.,Progenerates a revenant from a corpse.  Has 800 hit points and deals 52 damage.  Increased spell resistance.|nCan summon 6 revenants. |n|n|cff99ccffCooldown: |r 6 seconds.
+Hotkey=E
+Researchtip=学习 怨灵复生 - [|cffffcc00等级 %d|r]|n(Raise Revenant)
+Researchubertip="Raises a revenant from a corpse. |n|n|cffffcc00Level 1|r - 350 hit points, 40 damage.|nCan summon 4 revenants. 33% spell resistance. |n|cffffcc00Level 2|r - 550 hit points, 46 damage. 33% spell resistance. |nCan summon 5 revenants.|n|cffffcc00Level 3|r - 800 hit points, 52 damage. Increased spell resistance. |nCan summon 6 revenants. |n|n|cff99ccffCooldown: |r 6 seconds."
+Researchhotkey=E
+Untip=|cffc3dbff右键单击以激活自动施放|r
+Unubertip=|cffc3dbff右键单击以关闭自动施放|r
+[A08N]
+Name=Purification
+Tip=洗礼 - [|cffffcc00等级 1|r],洗礼 - [|cffffcc00等级 2|r],洗礼 - [|cffffcc00等级 3|r],洗礼 - [|cffffcc00等级 4|r]
+Ubertip=立刻回复一个友方单位90点生命，并对其附近240范围内的敌方单位造成90点伤害。|n|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff施法距离：|r700|n|cff99ccff冷却时间：|r10,立刻回复一个友方单位180点生命，并对其附近240范围内的敌方单位造成180点伤害。|n|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff施法距离：|r700|n|cff99ccff冷却时间：|r10,立刻回复一个友方单位270点生命，并对其附近240范围内的敌方单位造成270点伤害。|n|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff施法距离：|r700|n|cff99ccff冷却时间：|r10,立刻回复一个友方单位360点生命，并对其附近240范围内的敌方单位造成360点伤害。|n|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff施法距离：|r700|n|cff99ccff冷却时间：|r10
+Hotkey=R
+Researchtip=学习 洗礼 - [|cffffcc00等级 %d|r]|n(Purification)
+Researchubertip=立刻回复一个友方单位的生命，并对其附近240范围内的敌方单位造成伤害。|n|n|cffff8000英雄攻击 魔法伤害|r|n|n|cff99ccff施法距离：|r700|n|cff99ccff冷却时间：|r10|n|cff99ccff魔法消耗：|r100/120/140/160|n|n|cffffcc00等级 1|r - 回复/伤害90点生命|n|cffffcc00等级 2|r - 回复/伤害180点生命|n|cffffcc00等级 3|r - 回复/伤害270点生命|n|cffffcc00等级 4|r - 回复/伤害360点生命
+Researchhotkey=R
+[A08V]
+Name=驱逐
+Tip=驱逐 - [|cffffcc00等级 1|r],驱逐 - [|cffffcc00等级 2|r],驱逐 - [|cffffcc00等级 3|r],驱逐 - [|cffffcc00等级 4|r]
+Ubertip=创造一个神圣的保护性魔法围绕目标单位，使其免受大多数魔法的影响。|n|n|cff99ccff施法距离：|r500|n|cff99ccff持续时间：|r6|n|cff99ccff冷却时间：|r14,创造一个神圣的保护性魔法围绕目标单位，使其免受大多数魔法的影响。|n|n|cff99ccff施法距离：|r500|n|cff99ccff持续时间：|r8|n|cff99ccff冷却时间：|r14,创造一个神圣的保护性魔法围绕目标单位，使其免受大多数魔法的影响。|n|n|cff99ccff施法距离：|r500|n|cff99ccff持续时间：|r10|n|cff99ccff冷却时间：|r14,创造一个神圣的保护性魔法围绕目标单位，使其免受大多数魔法的影响。|n|n|cff99ccff施法距离：|r500|n|cff99ccff持续时间：|r12|n|cff99ccff冷却时间：|r14
+Hotkey=E
+Researchhotkey=E
+Researchtip=学习 驱逐 - [|cffffcc00等级 %d|r]|n(Repel)
+Researchubertip=创造一个神圣守护使目标不受绝大部分魔法的影响。|n|n|cff99ccff施法距离：|r500|n|cff99ccff冷却时间：|r14|n|cff99ccff魔法消耗：|r50|n|n|cffffcc00等级 1|r - 持续6秒|n|cffffcc00等级 2|r - 持续8秒|n|cffffcc00等级 3|r - 持续10秒|n|cffffcc00等级 4|r - 持续12秒
+[A03J]
+Name=Exorcism
+Tip=驱使恶灵 - [|cffffcc00等级 1|r],驱使恶灵 - [|cffffcc00等级 2|r],驱使恶灵 - [|cffffcc00等级 3|r]
+Ubertip=释放9个恶灵攻击敌方单位与建筑。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r135,释放16个恶灵攻击敌方单位与建筑。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r135,释放24个恶灵攻击敌方单位与建筑。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r135
+Hotkey=X
+Researchtip=学习 驱使恶灵 - [|cffffcc00等级 %d|r]|n(Exorcism)
+Researchubertip=释放恶灵，每个恶灵拥有53-58点英雄攻击，自动攻击周围的单位和建筑。|n技能施放完毕后恢复死亡先知技能造成伤害25%的生命。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r135|n|cff99ccff魔法消耗：|r200/300/400|n|n|cffffcc00等级 1|r - 释放9个恶灵|n|cffffcc00等级 2|r - 释放16个恶灵|n|cffffcc00等级 3|r - 释放24个恶灵
+Researchhotkey=X
+[A04J]
+Name=Exorcism
+Tip=驱使恶灵 - [|cffffcc00等级 1|r],驱使恶灵 - [|cffffcc00等级 2|r],驱使恶灵 - [|cffffcc00等级 3|r]
+Ubertip=释放10个恶灵攻击敌方单位与建筑。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r135,释放17个恶灵攻击敌方单位与建筑。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r135,释放25个恶灵攻击敌方单位与建筑。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r135
+Hotkey=X
+Researchtip=学习 驱使恶灵 - [|cffffcc00等级 %d|r]|n(Exorcism)
+Researchubertip=释放恶灵，每个恶灵拥有53-58点英雄攻击，自动攻击周围的单位和建筑。|n技能施放完毕后恢复死亡先知技能造成伤害25%的生命。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r135|n|cff99ccff魔法消耗：|r200/300/400|n|n|cffffcc00等级 1|r - 释放10个恶灵|n|cffffcc00等级 2|r - 释放17个恶灵|n|cffffcc00等级 3|r - 释放25个恶灵
+Researchhotkey=X
+[A04M]
+Name=Exorcism
+Tip=驱使恶灵 - [|cffffcc00等级 1|r],驱使恶灵 - [|cffffcc00等级 2|r],驱使恶灵 - [|cffffcc00等级 3|r]
+Ubertip=释放11个恶灵攻击敌方单位与建筑。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r135,释放18个恶灵攻击敌方单位与建筑。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r135,释放26个恶灵攻击敌方单位与建筑。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r135
+Hotkey=X
+Researchtip=学习 驱使恶灵 - [|cffffcc00等级 %d|r]|n(Exorcism)
+Researchubertip=释放恶灵，每个恶灵拥有53-58点英雄攻击，自动攻击周围的单位和建筑。|n技能施放完毕后恢复死亡先知技能造成伤害25%的生命。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r135|n|cff99ccff魔法消耗：|r200/300/400|n|n|cffffcc00等级 1|r - 释放11个恶灵|n|cffffcc00等级 2|r - 释放18个恶灵|n|cffffcc00等级 3|r - 释放26个恶灵
+Researchhotkey=X
+[A04N]
+Name=Exorcism
+Tip=驱使恶灵 - [|cffffcc00等级 1|r],驱使恶灵 - [|cffffcc00等级 2|r],驱使恶灵 - [|cffffcc00等级 3|r]
+Ubertip=释放10个恶灵攻击敌方单位与建筑。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r135,释放18个恶灵攻击敌方单位与建筑。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r135,释放27个恶灵攻击敌方单位与建筑。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r135
+Hotkey=X
+Researchtip=学习 驱使恶灵 - [|cffffcc00等级 %d|r]|n(Exorcism)
+Researchubertip=释放恶灵，每个恶灵拥有53-58点英雄攻击，自动攻击周围的单位和建筑。|n技能施放完毕后恢复死亡先知技能造成伤害25%的生命。|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000英雄攻击 普通伤害|r|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r135|n|cff99ccff魔法消耗：|r200/300/400|n|n|cffffcc00等级 1|r - 释放12个恶灵|n|cffffcc00等级 2|r - 释放19个恶灵|n|cffffcc00等级 3|r - 释放27个恶灵
+Researchhotkey=X
+[A06N]
+Name=Carrion Swarm
+Tip=食腐蝠群 - [|cffffcc00等级 1|r],食腐蝠群 - [|cffffcc00等级 2|r],食腐蝠群 - [|cffffcc00等级 3|r],食腐蝠群 - [|cffffcc00等级 4|r]
+Ubertip=召唤一群蝙蝠对一条直线上的每个敌人造成100点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r7,召唤一群蝙蝠对一条直线上的每个敌人造成175点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r7,召唤一群蝙蝠对一条直线上的每个敌人造成250点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r7,召唤一群蝙蝠对一条直线上的每个敌人造成300点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r7
+Hotkey=R
+Researchtip=学习 食腐蝠群 - [|cffffcc00等级 %d|r]|n(Carrion Swarm)
+Researchubertip=召唤一群蝙蝠对一条直线上的敌方目标造成伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r7秒|n|cff99ccff魔法消耗：|r100/115/135/160|n|n|cffffcc00等级 1|r - 对每个目标造成100点伤害|n|cffffcc00等级 2|r - 对每个目标造成175点伤害|n|cffffcc00等级 3|r - 对每个目标造成250点伤害|n|cffffcc00等级 4|r - 对每个目标造成300点伤害
+Researchhotkey=R
+[A072]
+Name=Carrion Swarm
+Tip=食腐蝠群 - [|cffffcc00等级 1|r],食腐蝠群 - [|cffffcc00等级 2|r],食腐蝠群 - [|cffffcc00等级 3|r],食腐蝠群 - [|cffffcc00等级 4|r]
+Ubertip=召唤一群蝙蝠对一条直线上的每个敌人造成100点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r6,召唤一群蝙蝠对一条直线上的每个敌人造成175点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r6,召唤一群蝙蝠对一条直线上的每个敌人造成250点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r6,召唤一群蝙蝠对一条直线上的每个敌人造成300点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r6
+Hotkey=R
+Researchtip=学习 食腐蝠群 - [|cffffcc00等级 %d|r]|n(Carrion Swarm)
+Researchubertip=召唤一群蝙蝠对一条直线上的敌方目标造成伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r6|n|cff99ccff魔法消耗：|r95/110/130/155|n|n|cffffcc00等级 1|r - 对每个目标造成100点伤害|n|cffffcc00等级 2|r - 对每个目标造成175点伤害|n|cffffcc00等级 3|r - 对每个目标造成250点伤害|n|cffffcc00等级 4|r - 对每个目标造成300点伤害
+Researchhotkey=R
+[A074]
+Name=Carrion Swarm
+Tip=食腐蝠群 - [|cffffcc00等级 1|r],食腐蝠群 - [|cffffcc00等级 2|r],食腐蝠群 - [|cffffcc00等级 3|r],食腐蝠群 - [|cffffcc00等级 4|r]
+Ubertip=召唤一群蝙蝠对一条直线上的每个敌人造成100点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r5,召唤一群蝙蝠对一条直线上的每个敌人造成175点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r5,召唤一群蝙蝠对一条直线上的每个敌人造成250点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r5,召唤一群蝙蝠对一条直线上的每个敌人造成300点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r5
+Hotkey=R
+Researchtip=学习 食腐蝠群 - [|cffffcc00等级 %d|r]|n(Carrion Swarm)
+Researchubertip=召唤一群蝙蝠对一条直线上的敌方目标造成伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r5|n|cff99ccff魔法消耗：|r90/105/125/150|n|n|cffffcc00等级 1|r - 对每个目标造成100点伤害|n|cffffcc00等级 2|r - 对每个目标造成175点伤害|n|cffffcc00等级 3|r - 对每个目标造成250点伤害|n|cffffcc00等级 4|r - 对每个目标造成300点伤害
+Researchhotkey=R
+[A078]
+Name=Carrion Swarm
+Tip=食腐蝠群 - [|cffffcc00等级 1|r],食腐蝠群 - [|cffffcc00等级 2|r],食腐蝠群 - [|cffffcc00等级 3|r],食腐蝠群 - [|cffffcc00等级 4|r]
+Ubertip=召唤一群蝙蝠对一条直线上的每个敌人造成100点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r4,召唤一群蝙蝠对一条直线上的每个敌人造成175点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r4,召唤一群蝙蝠对一条直线上的每个敌人造成250点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r4,召唤一群蝙蝠对一条直线上的每个敌人造成300点伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r4
+Hotkey=R
+Researchtip=学习 食腐蝠群 - [|cffffcc00等级 %d|r]|n(Carrion Swarm)
+Researchubertip=召唤一群蝙蝠对一条直线上的敌方目标造成伤害。|n|n|cff99ccff施法距离：|r600|n|cff99ccff最大距离：|r810|n|cff99ccff冷却时间：|r4|n|cff99ccff魔法消耗：|r85/100/120/145|n|n|cffffcc00等级 1|r - 对每个目标造成100点伤害|n|cffffcc00等级 2|r - 对每个目标造成175点伤害|n|cffffcc00等级 3|r - 对每个目标造成250点伤害|n|cffffcc00等级 4|r - 对每个目标造成300点伤害
+Researchhotkey=R
+[A08H]
+Name=Chain Frost
+Tip=连环霜冻 - [|cffffcc00等级 1|r],连环霜冻 - [|cffffcc00等级 2|r],连环霜冻 - [|cffffcc00等级 3|r]
+Ubertip=释放一股无限弹射的霜冻，每次弹射造成370点伤害，第一次弹射同时造成0.01秒的睡眠。|n|n|cff99ccff施法距离：|r850|n|cff99ccff冷却时间：|r120,释放一股无限弹射的霜冻，每次弹射造成460点伤害，第一次弹射同时造成0.01秒的睡眠。|n|n|cff99ccff施法距离：|r850|n|cff99ccff冷却时间：|r90,释放一股无限弹射的霜冻，每次弹射造成550点伤害，第一次弹射同时造成0.01秒的睡眠。|n|n|cff99ccff施法距离：|r850|n|cff99ccff冷却时间：|r60
+Hotkey=C
+Researchtip=学习 连环霜冻 - [|cffffcc00等级 %d|r]|n(Chain Frost)
+Researchubertip=释放一股无限弹射的霜冻，第一次弹射造成0.01秒的睡眠。|n|n|cff99ccff施法距离：|r850|n|cff99ccff冷却时间：|r120/90/60|n|cff99ccff魔法消耗：|r200/325/500|n|n|cffffcc00等级 1|r - 每次弹射造成370点伤害|n|cffffcc00等级 2|r - 每次弹射造成460点伤害|n|cffffcc00等级 3|r - 每次弹射造成550点伤害
+Researchhotkey=C
+[A0BC]
+Name=Blind
+Tip=Blin|cffffcc00d|r - [|cffffcc00Level 1|r],Blin|cffffcc00d|r - [|cffffcc00Level 2|r],Blin|cffffcc00d|r - [|cffffcc00Level 3|r],Blin|cffffcc00d|r - [|cffffcc00Level 4|r]
+Ubertip="A searing light blinds a target enemy unit, giving it a 20% chance to miss with every attack. |n|n|cff99ccffCooldown: |r 15","A searing light blinds a target enemy unit, giving it a 28% chance to miss with every attack. |n|n|cff99ccffCooldown: |r 12","A searing light blinds a target enemy unit, giving it a 36% chance to miss with every attack. |n|n|cff99ccffCooldown: |r 9","A searing light blinds a target enemy unit, giving it a 44% chance to miss with every attack. |n|n|cff99ccffCooldown: |r 6"
+Untip=Lasts 15 seconds.,Lasts 15 seconds.,Lasts 15 seconds.,Lasts 15 seconds.
+Unubertip=|cffc3dbff右键单击以关闭自动施放|r,|cffc3dbff右键单击以关闭自动施放|r,|cffc3dbff右键单击以关闭自动施放|r,|cffc3dbff右键单击以关闭自动施放|r
+Hotkey=D
+Unhotkey=D
+Researchhotkey=D
+Researchtip=学习 致盲 - [|cffffcc00等级 %d|r]|n(Blind)
+Researchubertip=用一道灼热的光束致盲目标，使其攻击有一定的概率落空。|n|n|cff99ccff施法距离：|r700|n|cff99ccff持续时间：|r15(30)|n|cff99ccff冷却时间：|r15/12/9/6|n|cff99ccff魔法消耗：|r20|n|n|cffffcc00等级 1|r - 20%的概率攻击落空|n|cffffcc00等级 2|r - 28%的概率攻击落空|n|cffffcc00等级 3|r - 36%的概率攻击落空|n|cffffcc00等级 4|r - 44%的概率攻击落空
+[A06Q]
+Name=Sprout
+Tip=发芽 - [|cffffcc00等级 1|r],发芽 - [|cffffcc00等级 2|r],发芽 - [|cffffcc00等级 3|r],发芽 - [|cffffcc00等级 4|r]
+Ubertip="Sprouts a ring of trees around a unit, trapping it within (or others out).  Lasts 3 seconds. |n|n|cff99ccffCooldown: |r 11 seconds.","Sprouts a ring of trees around a unit, trapping it within (or others out).  Lasts 3.75 seconds. |n|n|cff99ccffCooldown: |r 11 seconds.","Sprouts a ring of trees around a unit, trapping it within (or others out).  Lasts 4.5 seconds. |n|n|cff99ccffCooldown: |r 11 seconds.","Sprouts a ring of trees around a unit, trapping it within (or others out).  Lasts 5.25 seconds. |n|n|cff99ccffCooldown: |r 11 seconds."
+Hotkey=T
+Researchtip=学习 发芽 - [|cffffcc00等级 %d|r]|n(Sprout)
+Researchubertip="Sprouts a ring of trees around an enemy unit, trapping it in place.|n|n|cffffcc00Level 1|r - Lasts for 3 seconds. |n|cffffcc00Level 2|r - Lasts for 3.75 seconds. |n|cffffcc00Level 3|r - Lasts for 4.5 seconds.|n|cffffcc00Level 4|r - Lasts for 5.25 seconds. |n|n|cff99ccffCooldown: |r 11 seconds."
+Researchhotkey=T
+[A07F]
+Name=Frost Nova
+Tip=霜冻新星 - [|cffffcc00等级 1|r],霜冻新星 - [|cffffcc00等级 2|r],霜冻新星 - [|cffffcc00等级 3|r],霜冻新星 - [|cffffcc00等级 4|r]
+Ubertip=用冰霜打击目标及其周围400范围内的单位，造成75点伤害，并对目标额外造成50点伤害。冰冻效果减慢敌人20/30%的攻击/移动速度，持续4秒。|n|n|cff99ccff施法距离：|r600|n|cff99ccff冷却时间：|r8,用冰霜打击目标及其周围400范围内的单位，造成100点伤害，并对目标额外造成100点伤害。冰冻效果减慢敌人20/30%的攻击/移动速度，持续4秒。|n|n|cff99ccff施法距离：|r600|n|cff99ccff冷却时间：|r8,用冰霜打击目标及其周围400范围内的单位，造成125点伤害，并对目标额外造成150点伤害。冰冻效果减慢敌人20/30%的攻击/移动速度，持续4秒。|n|n|cff99ccff施法距离：|r600|n|cff99ccff冷却时间：|r8,用冰霜打击目标及其周围400范围内的单位，造成150点伤害，并对目标额外造成200点伤害。冰冻效果减慢敌人20/30%的攻击/移动速度，持续4秒。|n|n|cff99ccff施法距离：|r600|n|cff99ccff冷却时间：|r8
+Hotkey=V
+Researchtip=学习 霜冻新星 - [|cffffcc00等级 %d|r]|n(Frost Nova)
+Researchubertip=用冰霜打击目标及其周围400范围内的单位，冰冻效果减慢敌人20/30%的攻击/移动速度，持续4秒。|n|n|cff99ccff施法距离：|r600|n|cff99ccff冷却时间：|r8|n|cff99ccff魔法消耗：|r125/150/170/190|n|n|cffffcc00等级 1|r - 造成75点伤害，对目标造成额外的50点伤害|n|cffffcc00等级 2|r - 造成100点伤害，对目标造成额外的100点伤害|n|cffffcc00等级 3|r - 造成125点伤害，对目标造成额外的150点伤害|n|cffffcc00等级 4|r - 造成150点伤害，对目标造成额外的200点伤害
+Researchhotkey=V
+[A07Q]
+Name=Sunder
+Tip=灵魂隔断 - [|cffffcc00等级 1|r],灵魂隔断 - [|cffffcc00等级 2|r],灵魂隔断 - [|cffffcc00等级 3|r]
+Ubertip=隔断并重新连接灵魂守卫和目标英雄的灵魂，两者生命值的百分比会随之互换。你或目标英雄至少保留25%的生命。|n|n|cffff0303无视魔法免疫|r|n|n|cff99ccff施法距离：|r550|n|cff99ccff冷却时间：|r120,隔断并重新连接灵魂守卫和目标英雄的灵魂，两者生命值的百分比会随之互换。你或目标英雄至少保留25%的生命。|n|n|cffff0303无视魔法免疫|r|n|n|cff99ccff施法距离：|r550|n|cff99ccff冷却时间：|r80,隔断并重新连接灵魂守卫和目标英雄的灵魂，两者生命值的百分比会随之互换。你或目标英雄至少保留25%的生命。|n|n|cffff0303无视魔法免疫|r|n|n|cff99ccff施法距离：|r550|n|cff99ccff冷却时间：|r40
+Hotkey=R
+Researchhotkey=R
+Researchtip=学习 灵魂隔断 - [|cffffcc00等级 %d|r]|n(Sunder)
+Researchubertip=隔断并重新连接灵魂守卫和目标英雄的灵魂，两者现有生命值的百分比会随之互换，至少保留25%的生命。|n|n|cffff0303无视魔法免疫|r|n|n|cff99ccff施法距离：|r550|n|cff99ccff魔法消耗：|r200/100/0|n|n|cffffcc00等级 1|r - 冷却时间为120|n|cffffcc00等级 2|r - 冷却时间为80|n|cffffcc00等级 3|r - 冷却时间为40
+[A08R]
+Name=冰霜护甲
+Tip=霜冻护甲 - [|cffffcc00等级 1|r],霜冻护甲 - [|cffffcc00等级 2|r],霜冻护甲 - [|cffffcc00等级 3|r],霜冻护甲 - [|cffffcc00等级 4|r]
+Ubertip=为友方单位或建筑制造一个霜冻护甲，增加3点护甲，并且对护甲进行攻击的敌人将被减速2秒。|n|n|cff99ccff施法距离：|r1000|n|cff99ccff持续时间：|r40|n|cff99ccff冷却时间：|r5,为友方单位或建筑制造一个霜冻护甲，增加5点护甲，并且对护甲进行攻击的敌人将被减速2秒。|n|n|cff99ccff施法距离：|r1000|n|cff99ccff持续时间：|r40|n|cff99ccff冷却时间：|r5,为友方单位或建筑制造一个霜冻护甲，增加7点护甲，并且对护甲进行攻击的敌人将被减速2秒。|n|n|cff99ccff施法距离：|r1000|n|cff99ccff持续时间：|r40|n|cff99ccff冷却时间：|r5,为友方单位或建筑制造一个霜冻护甲，增加9点护甲，并且对护甲进行攻击的敌人将被减速2秒。|n|n|cff99ccff施法距离：|r1000|n|cff99ccff持续时间：|r40|n|cff99ccff冷却时间：|r5
+Untip=|cffc3dbff右键单击以激活自动施放|r
+Unubertip=|cffc3dbff右键单击以关闭自动施放|r
+Hotkey=F
+Researchtip=学习 霜冻护甲 - [|cffffcc00等级 %d|r]|n(Frost Armor)
+Researchubertip=为友方单位或建筑制造一个霜冻护甲。对护甲进行攻击的敌人将被减速2秒。|n|n|cff99ccff施法距离：|r1000|n|cff99ccff持续时间：|r40|n|cff99ccff冷却时间：|r5|n|cff99ccff魔法消耗：|r50|n|n|cffffcc00等级 1|r - 增加3点护甲|n|cffffcc00等级 2|r - 增加5点护甲|n|cffffcc00等级 3|r - 增加7点护甲|n|cffffcc00等级 4|r - 增加9点护甲
+Researchhotkey=F
+[A09K]
+Name=Impale
+Tip=穿刺 - [|cffffcc00等级 1|r],穿刺 - [|cffffcc00等级 2|r],穿刺 - [|cffffcc00等级 3|r],穿刺 - [|cffffcc00等级 4|r]
+Ubertip="Slams the ground with massive claws, shooting spiked tendrils out in a straight line, dealing 80 damage and hurling enemy ground units into the air in their wake, stunning them for .75 seconds. |n|n|cff99ccffCooldown: |r 11 seconds.","Slams the ground with massive claws, shooting spiked tendrils out in a straight line, dealing 160 damage and hurling enemy ground units into the air in their wake, stunning them for 1.25 second. |n|n|cff99ccffCooldown: |r 11 seconds.","Slams the ground with massive claws, shooting spiked tendrils out in a straight line, dealing 230 damage and hurling enemy ground units into the air in their wake, stunning them for 1.75 seconds. |n|n|cff99ccffCooldown: |r 11 seconds.","Slams the ground with massive claws, shooting spiked tendrils out in a straight line, dealing 300 damage and hurling enemy ground units into the air in their wake, stunning them for 2.25 seconds. |n|n|cff99ccffCooldown: |r 11 seconds."
+Hotkey=E
+Researchtip=学习 穿刺 - [|cffffcc00等级 %d|r]|n(Impale)
+Researchubertip="Slams the ground with massive claws, shooting spiked tendrils out in a straight line, dealing damage and hurling enemy ground units into the air in their wake. |n|n|cffffcc00Level 1|r - 80 damage, .75 second stun. |n|cffffcc00Level 2|r - 160 damage, 1.25 second stun. |n|cffffcc00Level 3|r - 230 damage, 1.75 second stun.|n|cffffcc00Level 4|r - 300 damage, 2.25 second stun. |n|n|cff99ccffCooldown: |r 11 seconds."
+Researchhotkey=E
+[A0BG]
+Name=织网
+Tip=织网 - [|cffffcc00等级 1|r],织网 - [|cffffcc00等级 2|r],织网 - [|cffffcc00等级 3|r],织网 - [|cffffcc00等级 4|r]
+Ubertip=在指定区域织一张蛛网，育母蜘蛛在其中处于隐身状态，并且被动地提升她20%的移动速度和2点/秒的生命回复速率，同时可以无视地形移动。无视地形移动仅在处于蛛网下且3秒内没有受到来自玩家的伤害时有效。最多2张蛛网，蛛网可永久存在。|n|n|cff99ccff作用范围：|r900|n|cff99ccff施法距离：|r1000|n|cff99ccff冷却时间：|r30,在指定区域织一张蛛网，育母蜘蛛在其中处于隐身状态，并且被动地提升她25%的移动速度和4点/秒的生命回复速率，同时可以无视地形移动。无视地形移动仅在处于蛛网下且3秒内没有受到来自玩家的伤害时有效。最多4张蛛网，蛛网可永久存在。|n|n|cff99ccff作用范围：|r900|n|cff99ccff施法距离：|r1000|n|cff99ccff冷却时间：|r30,在指定区域织一张蛛网，育母蜘蛛在其中处于隐身状态，并且被动地提升她30%的移动速度和6点/秒的生命回复速率，同时可以无视地形移动。无视地形移动仅在处于蛛网下且3秒内没有受到来自玩家的伤害时有效。最多6张蛛网，蛛网可永久存在。|n|n|cff99ccff作用范围：|r900|n|cff99ccff施法距离：|r1000|n|cff99ccff冷却时间：|r30,在指定区域织一张蛛网，育母蜘蛛在其中处于隐身状态，并且被动地提升她35%的移动速度和8点/秒的生命回复速率，同时可以无视地形移动。无视地形移动仅在处于蛛网下且3秒内没有受到来自玩家的伤害时有效。最多8张蛛网，蛛网可永久存在。|n|n|cff99ccff作用范围：|r900|n|cff99ccff施法距离：|r1000|n|cff99ccff冷却时间：|r30
+Hotkey=B
+Researchtip=学习 织网 - [|cffffcc00等级 %d|r]|n(Spin Web)
+Researchubertip=在指定区域织一张蛛网，育母蜘蛛在其中处于隐身状态，并且被动地提升移动速度及生命回复速率，同时可以无视地形移动。无视地形移动仅在处于蛛网下且3秒内没有受到来自玩家的伤害时有效。|n|n|cffffcc00等级 1|r - 最多2张蛛网，1层充能，提升20%的移动速度及2点/秒的生命回复速率|n|cffffcc00等级 2|r - 最多4张蛛网，2层充能，提升25%的移动速度及4点/秒的生命回复速率|n|cffffcc00等级 3|r - 最多6张蛛网，3层充能，提升30%的移动速度及6点/秒的生命回复速率|n|cffffcc00等级 4|r - 最多8张蛛网，4层充能，提升35%的移动速度及8点/秒的生命回复速率|n|n|cff99ccff作用范围：|r900|n|cff99ccff施法距离：|r1000|n|cff99ccff冷却时间：|r30|n|cff99ccff魔法消耗：|r50
+Researchhotkey=B
+[A04Y]
+Name=噩梦
+Tip=噩梦 - [|cffffcc00等级 1|r],噩梦 - [|cffffcc00等级 2|r],噩梦 - [|cffffcc00等级 3|r],噩梦 - [|cffffcc00等级 4|r]
+Ubertip=使一个目标单位进入突发性的睡眠，受到20点/秒的伤害。如果目标单位在噩梦期间被普通攻击唤醒，那么对其进行普通攻击的单位将因此受到噩梦的影响。|n|n|cffff8000生命移除|r|n|n|cff99ccff施法距离：|r500|n|cff99ccff持续时间：|r4|n|cff99ccff冷却时间：|r22,使一个目标单位进入突发性的睡眠，受到20点/秒的伤害。如果目标单位在噩梦期间被普通攻击唤醒，那么对其进行普通攻击的单位将因此受到噩梦的影响。|n|n|cffff8000生命移除|r|n|n|cff99ccff施法距离：|r550|n|cff99ccff持续时间：|r5|n|cff99ccff冷却时间：|r19,使一个目标单位进入突发性的睡眠，受到20点/秒的伤害。如果目标单位在噩梦期间被普通攻击唤醒，那么对其进行普通攻击的单位将因此受到噩梦的影响。|n|n|cffff8000生命移除|r|n|n|cff99ccff施法距离：|r600|n|cff99ccff持续时间：|r6|n|cff99ccff冷却时间：|r16,使一个目标单位进入突发性的睡眠，受到20点/秒的伤害。如果目标单位在噩梦期间被普通攻击唤醒，那么对其进行普通攻击的单位将因此受到噩梦的影响。|n|n|cffff8000生命移除|r|n|n|cff99ccff施法距离：|r650|n|cff99ccff持续时间：|r7|n|cff99ccff冷却时间：|r13
+Hotkey=T
+Researchtip=学习 噩梦 - [|cffffcc00等级 %d|r]|n(Nightmare)
+Researchubertip=使一个目标单位进入突发性的睡眠，不停地被可怕的噩梦侵扰，受到20点/秒的伤害。如果目标单位在噩梦期间被普通攻击唤醒，那么对其进行普通攻击的单位将因此受到噩梦的影响。|n|n|cffffcc00等级 1|r - 噩梦持续4秒|n|cffffcc00等级 2|r - 噩梦持续5秒|n|cffffcc00等级 3|r - 噩梦持续6秒|n|cffffcc00等级 4|r - 噩梦持续7秒|n|n|cffff8000生命移除|r|n|n|cff99ccff施法距离：|r500/550/600/650|n|cff99ccff冷却时间：|r22/19/16/13|n|cff99ccff魔法消耗：|r165
+Researchhotkey=T
+[A04Z]
+Name=噩梦
+Tip=噩梦 - [|cffffcc00等级 1|r],噩梦 - [|cffffcc00等级 2|r],噩梦 - [|cffffcc00等级 3|r],噩梦 - [|cffffcc00等级 4|r]
+Ubertip="Puts another unit into a fitful slumber.  It takes 20 damage per second and may be awoken at any time.  If it is attacked before Nightmare expires, the attacking unit suffers a Nightmare.|nLasts 5 seconds.","Puts another unit into a fitful slumber.  It takes 20 damage per second and may be awoken at any time.  If it is attacked before Nightmare expires, the attacking unit suffers a Nightmare.|nLasts 6 seconds.","Puts another unit into a fitful slumber.  It takes 20 damage per second and may be awoken at any time.  If it is attacked before Nightmare expires, the attacking unit suffers a Nightmare.|nLasts 7 seconds.","Puts another unit into a fitful slumber.  It takes 20 damage per second and may be awoken at any time.  If it is attacked before Nightmare expires, the attacking unit suffers a Nightmare.|nLasts 8 seconds."
+Hotkey=T
+Researchtip=学习 噩梦 - [|cffffcc00等级 %d|r]|n(Nightmare)
+Researchubertip="Puts another unit into a fitful slumber, filled with horrifying nightmares.  It takes 20 damage per second.  If that unit is attacked while it slumbers, the attacking unit comes under the effect of Nightmare. |n|n|cffffcc00Level 1|r - Lasts 5 seconds. |n|cffffcc00Level 2|r - Lasts 6 seconds. |n|cffffcc00Level 3|r - Lasts 7 seconds.|n|cffffcc00Level 4|r - Lasts 8 seconds."
+Researchhotkey=T
+[A06U]
+Name=Entrench
+Tip=|cffffcc00E|rntrench - [|cffffcc00Level 1|r],|cffffcc00E|rntrench - [|cffffcc00Level 2|r],|cffffcc00E|rntrench - [|cffffcc00Level 3|r],|cffffcc00E|rntrench - [|cffffcc00Level 4|r]
+Untip=Un|cffffcc00e|rntrench,Un|cffffcc00e|rntrench,Un|cffffcc00e|rntrench,Un|cffffcc00e|rntrench
+Ubertip="The Sand King burrows into the ground, becoming invisible.  Upon unburrowing, he deals 70 damage in an area and stuns for 1.5 seconds.","The Sand King burrows into the ground, becoming invisible.  Upon unburrowing, he deals 140 damage in an area and stuns for 1.5 seconds.","The Sand King burrows into the ground, becoming invisible.  Upon unburrowing, he deals 210 damage in an area and stuns for 1.5 seconds.","The Sand King burrows into the ground, becoming invisible.  Upon unburrowing, he deals 280 damage in an area and stuns for 1.5 seconds."
+Unubertip="The Sand King pops out of the ground, dealing 70 damage and stunning for 1.5 seconds.","The Sand King pops out of the ground, dealing 140 damage and stunning for 1.5 seconds.","The Sand King pops out of the ground, dealing 240 damage and stunning for 1.5 seconds.","The Sand King pops out of the ground, dealing 280 damage and stunning for 1.5 seconds."
+Hotkey=E
+Unhotkey=E
+Researchhotkey=E
+Researchtip=Learn |cffffcc00E|rntrench - [|cffffcc00Level %d|r]
+Researchubertip="The Sand King digs into the ground, biding his time.  When he springs out from his burrow, he deals damage and stuns the surrounding enemies.  |n|n|cffffcc00Level 1|r - 250 AoE, 70 damage. |n|cffffcc00Level 2|r - 300 AoE, 140 damage. |n|cffffcc00Level 3|r - 350 AoE, 210 damage. |n|cffffcc00Level 4|r - 400 AoE, 280 damage."
+[A06Z]
+Name=BSImpale
+Tip=穿刺 - [|cffffcc00等级 1|r],穿刺 - [|cffffcc00等级 2|r],穿刺 - [|cffffcc00等级 3|r]
+Ubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing <AUim,DataC1> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur1> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC2> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur2> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC3> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur3> seconds."
+Hotkey=E
+Researchtip=学习 穿刺 - [|cffffcc00等级 %d|r]|n(Impale)
+Researchubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing damage and hurling enemy ground units into the air in their wake. |n|n|cffffcc00Level 1|r - <AUim,DataC1> damage, <AUim,Dur1> second stun. |n|cffffcc00Level 2|r - <AUim,DataC2> damage, <AUim,Dur2> second stun. |n|cffffcc00Level 3|r - <AUim,DataC3> damage, <AUim,Dur3> second stun."
+Researchhotkey=E
+[A070]
+Name=BSImpale
+Tip=穿刺 - [|cffffcc00等级 1|r],穿刺 - [|cffffcc00等级 2|r],穿刺 - [|cffffcc00等级 3|r]
+Ubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing <AUim,DataC1> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur1> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC2> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur2> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC3> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur3> seconds."
+Hotkey=E
+Researchtip=学习 穿刺 - [|cffffcc00等级 %d|r]|n(Impale)
+Researchubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing damage and hurling enemy ground units into the air in their wake. |n|n|cffffcc00Level 1|r - <AUim,DataC1> damage, <AUim,Dur1> second stun. |n|cffffcc00Level 2|r - <AUim,DataC2> damage, <AUim,Dur2> second stun. |n|cffffcc00Level 3|r - <AUim,DataC3> damage, <AUim,Dur3> second stun."
+Researchhotkey=E
+[A075]
+Name=BSImpale
+Tip=穿刺 - [|cffffcc00等级 1|r],穿刺 - [|cffffcc00等级 2|r],穿刺 - [|cffffcc00等级 3|r]
+Ubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing <AUim,DataC1> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur1> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC2> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur2> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC3> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur3> seconds."
+Hotkey=E
+Researchtip=学习 穿刺 - [|cffffcc00等级 %d|r]|n(Impale)
+Researchubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing damage and hurling enemy ground units into the air in their wake. |n|n|cffffcc00Level 1|r - <AUim,DataC1> damage, <AUim,Dur1> second stun. |n|cffffcc00Level 2|r - <AUim,DataC2> damage, <AUim,Dur2> second stun. |n|cffffcc00Level 3|r - <AUim,DataC3> damage, <AUim,Dur3> second stun."
+Researchhotkey=E
+[A077]
+Name=BSImpale
+Tip=穿刺 - [|cffffcc00等级 1|r],穿刺 - [|cffffcc00等级 2|r],穿刺 - [|cffffcc00等级 3|r]
+Ubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing <AUim,DataC1> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur1> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC2> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur2> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC3> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur3> seconds."
+Hotkey=E
+Researchtip=学习 穿刺 - [|cffffcc00等级 %d|r]|n(Impale)
+Researchubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing damage and hurling enemy ground units into the air in their wake. |n|n|cffffcc00Level 1|r - <AUim,DataC1> damage, <AUim,Dur1> second stun. |n|cffffcc00Level 2|r - <AUim,DataC2> damage, <AUim,Dur2> second stun. |n|cffffcc00Level 3|r - <AUim,DataC3> damage, <AUim,Dur3> second stun."
+Researchhotkey=E
+[A07Y]
+Name=Mana Leak
+Tip=法力流失 - [|cffffcc00等级 1|r],法力流失 - [|cffffcc00等级 2|r],法力流失 - [|cffffcc00等级 3|r],法力流失 - [|cffffcc00等级 4|r]
+Ubertip="Creates a leak in a target unit's mana pool.  If that unit casts a spell, 20% of its remaining mana will be lost. |n|n|cff99ccffCooldown: |r 15 seconds.","Creates a leak in a target unit's mana pool.  If that unit casts a spell, 40% of its remaining mana will be lost. |n|n|cff99ccffCooldown: |r 15 seconds.","Creates a leak in a target unit's mana pool.  If that unit casts a spell, 60% of its remaining mana will be lost. |n|n|cff99ccffCooldown: |r 15 seconds.","Creates a leak in a target unit's mana pool.  If that unit casts a spell, 80% of its remaining mana will be lost. |n|n|cff99ccffCooldown: |r 15 seconds."
+Hotkey=E
+Researchhotkey=E
+Researchtip=学习 法力流失 - [|cffffcc00等级 %d|r]|n(Mana Leak)
+Researchubertip="Casts a powerful inhibiting magic on another unit.  Should they cast a spell, a portion of their remaining mana leaks away.|nLasts 22 seconds.  |n|n|cffffcc00Level 1|r - 20% of their remaining mana leaks away. |n|cffffcc00Level 2|r - 40% of their remaining mana leaks away. |n|cffffcc00Level 3|r - 60% of their remaining mana leaks away. |n|cffffcc00Level 4|r - 80% of their remaining mana leaks away.  |n|n|cff99ccffCooldown: |r 15 seconds."
+[A084]
+Name=Ravage 1
+Tip=穿刺 - [|cffffcc00等级 1|r],穿刺 - [|cffffcc00等级 2|r],穿刺 - [|cffffcc00等级 3|r]
+Ubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing <AUim,DataC1> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur1> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC2> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur2> seconds.","Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line dealing <AUim,DataC3> damage and hurling enemy ground units into the air in their wake, stunning them for <AUim,Dur3> seconds."
+Hotkey=E
+Researchtip=学习 穿刺 - [|cffffcc00等级 %d|r]|n(Impale)
+Researchubertip="Slams the ground with the Crypt Lord's massive claws, shooting spiked tendrils out in a straight line, dealing damage and hurling enemy ground units into the air in their wake. |n|n|cffffcc00Level 1|r - <AUim,DataC1> damage, <AUim,Dur1> second stun. |n|cffffcc00Level 2|r - <AUim,DataC2> damage, <AUim,Dur2> second stun. |n|cffffcc00Level 3|r - <AUim,DataC3> damage, <AUim,Dur3> second stun."
+Researchhotkey=E
+[A05Q]
+Name=Frost Nova
+Tip=Frost |cffffcc00N|rova - [|cffffcc00Level 1|r],Frost |cffffcc00N|rova - [|cffffcc00Level 2|r],Frost |cffffcc00N|rova - [|cffffcc00Level 3|r]
+Ubertip="Blasts enemy units with a wave of frost that deals <AUfn,DataB1> damage to the target, and <AUfn,DataA1> nova damage. Cold damage slows units' movement and attack rate for <AUfn,Dur1> seconds.","Blasts enemy units with a wave of frost that deals <AUfn,DataB2> damage to the target, and <AUfn,DataA2> nova damage. Cold damage slows units' movement and attack rate for <AUfn,Dur2> seconds.","Blasts enemy units with a wave of frost that deals <AUfn,DataB3> damage to the target, and <AUfn,DataA3> nova damage. Cold damage slows units' movement and attack rate for <AUfn,Dur3> seconds."
+Hotkey=N
+Researchtip=Learn Frost |cffffcc00N|rova - [|cffffcc00Level %d|r]
+Researchubertip="Blasts enemy units around a target enemy unit with a wave of damaging frost that slows movement and attack rate. |n|n|cffffcc00Level 1|r - <AUfn,DataB1> target damage, <AUfn,DataA1> nova damage. |n|cffffcc00Level 2|r - <AUfn,DataB2> target damage, <AUfn,DataA2> nova damage. |n|cffffcc00Level 3|r - <AUfn,DataB3> target damage, <AUfn,DataA3> nova damage."
+Researchhotkey=N
+[A0D8]
+Name=Ante Up
+Tip=An|cffffcc00t|re Up - [|cffffcc00Level 1|r],An|cffffcc00t|re Up - [|cffffcc00Level 2|r],An|cffffcc00t|re Up - [|cffffcc00Level 3|r],An|cffffcc00t|re Up - [|cffffcc00Level 4|r]
+Ubertip="Maverick goes heads-up with another hero.  If that hero is the first to get a kill, Maverick cashes in for 300.  If that hero is the first to die, Maverick cashes in for 150.  If that unit is a friendly unit, Maverick heals it for 50.  If it's an enemy unit, Maverick damages it for 50.  Costs 100 gold.|nLasts 60 seconds. Will not work on allied pudge or techie dying.","Maverick goes heads-up with another hero.  If that hero is the first to get a kill, Maverick cashes in for 400.  If that hero is the first to die, Maverick cashes in for 200.  If that unit is a friendly unit, Maverick heals it for 100.  If it's an enemy unit, Maverick damages it for 100.  Costs 100 gold.|nLasts 60 seconds. Will not work on allied pudge or techie dying.","Maverick goes heads-up with another hero.  If that hero is the first to get a kill, Maverick cashes in for 500.  If that hero is the first to die, Maverick cashes in for 250.  If that unit is a friendly unit, Maverick heals it for 150.  If it's an enemy unit, Maverick damages it for 150.  Costs 100 gold.|nLasts 60 seconds. Will not work on allied pudge or techie dying.","Maverick goes heads-up with another hero.  If that hero is the first to get a kill, Maverick cashes in for 600.  If that hero is the first to die, Maverick cashes in for 300.  If that unit is a friendly unit, Maverick heals it for 200.  If it's an enemy unit, Maverick damages it for 200.  Costs 100 gold.|nLasts 60 seconds. Will not work on allied pudge or techie dying."
+Hotkey=T
+Researchhotkey=T
+Researchtip=Learn An|cffffcc00t|re Up - [|cffffcc00Level %d|r]
+Researchubertip="Maverick goes heads-up with another unit, friend or foe.  Maverick wagers 100 gold on the game.  If that hero is the first to get a kill, Maverick cashes in for a big reward.  If that hero is the first to die, Maverick cashes in for half as much.  If that hero is an enemy, Maverick damages it.  If that hero is an ally, Maverick heals it.|n|n|cffffcc00Level 1|r - Cash in for 300 gold, damages or heals for 50. |n|cffffcc00Level 2|r - Cash in for 400 gold, damages or heals for 100.|n|cffffcc00Level 3|r - Cash in for 500 gold, damages or heals for 150.|n|cffffcc00Level 4|r - Cash in for 600 gold, damages or heals for 200. Will not work on allied pudge or techie dying."
+[A0DK]
+Name=Fissure
+Tip=沟壑 - [|cffffcc00等级 1|r],沟壑 - [|cffffcc00等级 2|r],沟壑 - [|cffffcc00等级 3|r],沟壑 - [|cffffcc00等级 4|r]
+Ubertip="Slams the ground with Raigor's mighty totem, dealing 75 damage in a line and stunning for 1 seconds.  Leaves an impassible crevasse in the ground for 8 seconds.","Slams the ground with Raigor's mighty totem, dealing 145 damage in a line and stunning for 1.5 seconds.  Leaves an impassible crevasse in the ground for 8 seconds.","Slams the ground with Raigor's mighty totem, dealing 210 damage in a line and stunning for 2 seconds.  Leaves an impassible crevasse in the ground for 8 seconds.","Slams the ground with Raigor's mighty totem, dealing 320 damage in a line and stunning for 2 seconds.  Leaves an impassible crevasse in the ground for 8 seconds."
+Hotkey=F
+Researchtip=学习 沟壑 - [|cffffcc00等级 %d|r]|n(Fissure)
+Researchubertip="Slams the ground with the Raigor's mighty totem, causing the ground to crack in half in front of him, damaging opponents and leaving an impassible trail for a period of time. |n|n|cffffcc00Level 1|r - 75 damage, 1 second stun. |n|cffffcc00Level 2|r - 145 damage, 1.5 second stun. |n|cffffcc00Level 3|r - 210 damage, 2 second stun. |n|cffffcc00Level 4|r - 320 damage, 2 second stun."
+Researchhotkey=F
+[A01N]
+Name=竭心光环
+Tip=竭心光环 - [|cffffcc00等级 1|r],竭心光环 - [|cffffcc00等级 2|r],竭心光环 - [|cffffcc00等级 3|r],竭心光环 - [|cffffcc00等级 4|r]
+Ubertip=使附近敌方单位的心脏逐渐停止跳动，每秒受到0.6%最大生命值的伤害。|n|n|cffff0303无视魔法免疫|r|n|n|cff99ccff作用范围：|r1200,使附近敌方单位的心脏逐渐停止跳动，每秒受到0.9%最大生命值的伤害。|n|n|cffff0303无视魔法免疫|r|n|n|cff99ccff作用范围：|r1200,使附近敌方单位的心脏逐渐停止跳动，每秒受到1.2%最大生命值的伤害。|n|n|cffff0303无视魔法免疫|r|n|n|cff99ccff作用范围：|r1200,使附近敌方单位的心脏逐渐停止跳动，每秒受到1.5%最大生命值的伤害。|n|n|cffff0303无视魔法免疫|r|n|n|cff99ccff作用范围：|r1200
+Researchtip=学习 竭心光环 - [|cffffcc00等级 %d|r]|n(Heartstopper Aura)
+Researchubertip=死灵法师所散发的死亡气息使附近敌方单位的心脏逐渐停止跳动，每秒受到正比于其最大生命值的伤害。|n|n|cffff0303无视魔法免疫|r|n|n|cff99ccff作用范围：|r1200|n|n|cffffcc00等级 1|r - 每秒受到0.6%最大生命值的伤害|n|cffffcc00等级 2|r - 每秒受到0.9%最大生命值的伤害|n|cffffcc00等级 3|r - 每秒受到1.2%最大生命值的伤害|n|cffffcc00等级 4|r - 每秒受到1.5%最大生命值的伤害
+Researchhotkey=T
+[A0C3]
+Name=刃甲|nBlade Mail
+Tip=Spiked Carapace - [|cffffcc00Level 1|r],Spiked Carapace - [|cffffcc00Level 2|r],Spiked Carapace - [|cffffcc00Level 3|r]
+Ubertip="Enhances the Crypt Lord's chitinous armor with organic barbs, giving the Crypt Lord <AUts,DataC1> bonus armor and returning <AUts,DataA1,%>% of melee attack damage to enemies.","Enhances the Crypt Lord's chitinous armor with organic barbs, giving him <AUts,DataC2> bonus armor and returning <AUts,DataA2,%>% of melee attack damage to enemies.","Enhances the Crypt Lord's chitinous armor with organic barbs, giving him <AUts,DataC3> bonus armor and returning <AUts,DataA3,%>% of melee attack damage to enemies."
+Researchtip=Learn |cffffcc00S|rpiked Carapace - [|cffffcc00Level %d|r]
+Researchubertip="The Crypt Lord forms barbed layers of chitinous armor that increases its defense and returns damage to enemy melee attackers.  |n|n|cffffcc00Level 1|r - <AUts,DataA1,%>% damage returned, <AUts,DataC1> bonus armor. |n|cffffcc00Level 2|r -  <AUts,DataA2,%>% damage returned, <AUts,DataC2> bonus armor. |n|cffffcc00Level 3|r -  <AUts,DataA3,%>% damage returned, <AUts,DataC3> bonus armor."
+Researchhotkey=S
+[A08X]
+Name=黄泉颤抖
+Tip=黄泉颤抖 - [|cffffcc00等级 1|r],黄泉颤抖 - [|cffffcc00等级 2|r],黄泉颤抖 - [|cffffcc00等级 3|r],黄泉颤抖 - [|cffffcc00等级 4|r]
+Ubertip=死灵飞龙从目标身上抽取生命元气，降低其64/32%的攻击/移动速度，并使自身得到相应的提升。|n|n|cff99ccff施法距离：|r600|n|cff99ccff持续时间：|r3|n|cff99ccff冷却时间：|r16,死灵飞龙从目标身上抽取生命元气，降低其64/32%的攻击/移动速度，并使自身得到相应的提升。|n|n|cff99ccff施法距离：|r600|n|cff99ccff持续时间：|r4|n|cff99ccff冷却时间：|r14,死灵飞龙从目标身上抽取生命元气，降低其64/32%的攻击/移动速度，并使自身得到相应的提升。|n|n|cff99ccff施法距离：|r600|n|cff99ccff持续时间：|r5|n|cff99ccff冷却时间：|r12,死灵飞龙从目标身上抽取生命元气，降低其64/32%的攻击/移动速度，并使自身得到相应的提升。|n|n|cff99ccff施法距离：|r600|n|cff99ccff持续时间：|r6|n|cff99ccff冷却时间：|r10
+Hotkey=G
+Researchhotkey=G
+Researchtip=学习 黄泉颤抖 - [|cffffcc00等级 %d|r]|n(Grave Chill)
+Researchubertip=死灵飞龙从目标身上抽取生命元气，降低其64/32%的攻击/移动速度，并使自身得到相应的提升。|n|n|cff99ccff施法距离：|r600|n|cff99ccff冷却时间：|r16/14/12/10|n|cff99ccff魔法消耗：|r100|n|n|cffffcc00等级 1|r - 持续3秒|n|cffffcc00等级 2|r - 持续4秒|n|cffffcc00等级 3|r - 持续5秒|n|cffffcc00等级 4|r - 持续6秒
+[A09R]
+Name=Mana Void
+Tip=法力虚空 - [|cffffcc00等级 1|r],法力虚空 - [|cffffcc00等级 2|r],法力虚空 - [|cffffcc00等级 3|r]
+Ubertip="Creates a void in the soul of a target enemy unit.  For each 1 mana point missing, the unit takes .6 damage.","Creates a void in the soul of a target enemy unit.  For each 1 mana point missing, the unit takes .85 damage.","Creates a void in the soul of a target enemy unit.  For each 1 mana point missing, the unit takes 1.1 damage."
+Hotkey=V
+Researchhotkey=V
+Researchtip=学习 法力虚空 - [|cffffcc00等级 %d|r]|n(Mana Void)
+Researchubertip="Creates a powerful void in an enemy unit caused by a lack of mana.  For each mana point missing, the unit takes damage. |n|n|cffffcc00Level 1|r - .6 damage per mana point missing.|n|cffffcc00Level 2|r - .85 damage per mana point missing.|n|cffffcc00Level 3|r - 1.1 damage per mana point missing."
+[A0B2]
+Name=Midnight Pulse effect
+Tip=|cffffcc00D|reath And Decay
+Ubertip="Damages everything in its area of effect by <AUdd,DataA1,%>% of its base hit points per second. Also destroys trees. |nLasts <AUdd,Dur1> seconds."
+Hotkey=D
+Researchtip=Learn |cffffcc00D|reath And Decay
+Researchubertip="Damages everything in its area of effect by <AUdd,DataA1,%>% of its base hit points per second. Also destroys trees."
+Researchhotkey=D
+[A01B]
+Name=自然之助
+Tip=自然之助 - [|cffffcc00等级 1|r],自然之助 - [|cffffcc00等级 2|r],自然之助 - [|cffffcc00等级 3|r],自然之助 - [|cffffcc00等级 4|r]
+Ubertip=释放出4个小精灵来治疗魅惑魔女周围的友方单位。每个小精灵持续10秒，并回复10点/秒的生命。|n|n|cff99ccff作用范围：|r275|n|cff99ccff冷却时间：|r45,释放出6个小精灵来治疗魅惑魔女周围的友方单位。每个小精灵持续10秒，并回复10点/秒的生命。|n|n|cff99ccff作用范围：|r275|n|cff99ccff冷却时间：|r45,释放出8个小精灵来治疗魅惑魔女周围的友方单位。每个小精灵持续10秒，并回复10点/秒的生命。|n|n|cff99ccff作用范围：|r275|n|cff99ccff冷却时间：|r45,释放出10个小精灵来治疗魅惑魔女周围的友方单位。每个小精灵持续10秒，并回复10点/秒的生命。|n|n|cff99ccff作用范围：|r275|n|cff99ccff冷却时间：|r45
+Hotkey=R
+Researchtip=学习 自然之助 - [|cffffcc00等级 %d|r]|n(Nature's Attendants)
+Researchubertip=释放出小精灵来治疗魅惑魔女周围的友方单位。每个小精灵持续10秒，并回复10点/秒的生命。|n|n|cff99ccff作用范围：|r275|n|cff99ccff冷却时间：|r45|n|cff99ccff魔法消耗：|r125/140/155/170|n|n|cffffcc00等级 1|r - 释放4个小精灵|n|cffffcc00等级 2|r - 释放6个小精灵|n|cffffcc00等级 3|r - 释放8个小精灵|n|cffffcc00等级 4|r - 释放10个小精灵
+Researchhotkey=R
+[A02F]
+Name=Holy Light
+Tip=Holy Ligh|cffffcc00t|r - [|cffffcc00Level 1|r],Holy Ligh|cffffcc00t|r - [|cffffcc00Level 2|r],Holy Ligh|cffffcc00t|r - [|cffffcc00Level 3|r],Holy Ligh|cffffcc00t|r - [|cffffcc00Level 4|r]
+Ubertip=Heals a friendly unit for 125 health or damages an enemy unit for 75 damage.,Heals a friendly unit for 250 health or damages an enemy unit for 150 damage.,Heals a friendly unit for 375 health or damages an enemy unit for 225 damage.,Heals a friendly unit for 500 health or damages an enemy unit for 300 damage.
+Hotkey=T
+Researchtip=Learn Holy Ligh|cffffcc00t|r - [|cffffcc00Level %d|r]
+Researchubertip=A holy light that can heal a friendly unit or damage an enemy unit. |n|n|cffffcc00Level 1|r - Heals for 125 hit points or damages for 75 hit points. |n|cffffcc00Level 2|r - Heals for 250 hit points or damages for 150 hit points. |n|cffffcc00Level 3|r - Heals for 375 hit points or damages for 225 hit points.  |n|cffffcc00Level 4|r - Heals for 500 hit points or damages for 300 hit points.
+Researchhotkey=T
+[A07V]
+Name=Typhoon
+Tip=|cffffcc00T|ryphoon - [|cffffcc00Level 1|r],|cffffcc00T|ryphoon - [|cffffcc00Level 2|r],|cffffcc00T|ryphoon - [|cffffcc00Level 3|r],|cffffcc00T|ryphoon - [|cffffcc00Level 4|r]
+Ubertip="Conjurs a great cyclone to whip across an area, dealing 340 damage and and throwing into the air for 2 seconds enemy units that are caught in its path.","Conjurs a great cyclone to whip across an area, dealing 470 damage and and throwing into the air for 2.5 seconds enemy units that are caught in its path.","Conjurs a great cyclone to whip across an area, dealing 600 damage and and throwing into the air for 3 seconds enemy units that are caught in its path.","Conjurs a great cyclone to whip across an area, dealing 320 damage and Cycloning enemy units/heroes that get hit by it for 2.50 seconds."
+Hotkey=T
+Researchtip=Learn |cffffcc00T|ryphoon - [|cffffcc00Level %d|r]
+Researchubertip="Conjures a great cyclone to whip across an area, dealing damage to enemies and Cycloning enemy heroes that get caught in it. |n|n|cffffcc00Level 1|r - 340 damage per unit, enemy units get cycloned for 2 seconds. |n|cffffcc00Level 2|r - 470 damage per unit, enemy units get cycloned for 2.5 seconds. |n|cffffcc00Level 3|r - 600 damage per unit, enemy units get cycloned for 3 seconds."
+Researchhotkey=T
+[A0CL]
+Name=龙族血统
+Tip=龙族血统 - [|cffffcc00等级 1|r],龙族血统 - [|cffffcc00等级 2|r],龙族血统 - [|cffffcc00等级 3|r],龙族血统 - [|cffffcc00等级 4|r]
+Ubertip=龙骑士身上所流的龙族之血提高他3点/秒的生命回复速度和3点的护甲。,龙骑士身上所流的龙族之血提高他6点/秒的生命回复速度和6点的护甲。,龙骑士身上所流的龙族之血提高他9点/秒的生命回复速度和9点的护甲。,龙骑士身上所流的龙族之血提高他12点/秒的生命回复速度和12点的护甲。
+Researchtip=学习 龙族血统 - [|cffffcc00等级 %d|r]|n(Dragon Blood)
+Researchubertip=龙骑士身上所流的龙族之血使他有更高的生命回复速度和护甲。|n|n|cffffcc00等级 1|r - 提高3点/秒的生命回复速度和3点的护甲|n|cffffcc00等级 2|r - 提高6点/秒的生命回复速度和6点的护甲|n|cffffcc00等级 3|r - 提高9点/秒的生命回复速度和9点的护甲|n|cffffcc00等级 4|r - 提高12点/秒的生命回复速度和12点的护甲
+Researchhotkey=D
+[A0D1]
+Name=Spirit Lance (Cripple)
+Tip=
+Ubertip=
+Hotkey=C
+[A0F8]
+Name=SandKing Dust
+Tip=织网 - [|cffffcc00等级 1|r],织网 - [|cffffcc00等级 2|r],织网 - [|cffffcc00等级 3|r],织网 - [|cffffcc00等级 4|r]
+Ubertip="Summons a web which will hide the Broodmother, as well as give a 10% speed bonus and a slight regeneration bonus.  Lasts indefinitely.  Can have 2 webs.  90 second cooldown.","Summons a web which will hide the Broodmother, as well as give a 10% speed bonus and a slight regeneration bonus.  Lasts indefinitely.  Can have 4 webs.  75 second cooldown.","Summons a web which will hide the Broodmother, as well as give a 10% speed bonus and a slight regeneration bonus.  Lasts indefinitely.  Can have 6 webs.  60 second cooldown.","Summons a web which will hide the Broodmother, as well as give a 10% speed bonus and a slight regeneration bonus.  Lasts indefinitely.  Can have 8 webs.  45 second cooldown."
+Hotkey=B
+Researchtip=学习 织网 - [|cffffcc00等级 %d|r]|n(Spin Web)
+Researchubertip="Spins a web which grants the Broodmother invisibility in an area, as well as a passive speed increase.  |n|n|cffffcc00Level 1|r - 2 allowed webs, 90 second cooldown. |n|cffffcc00Level 2|r - 4 allowed webs, 75 second cooldown. |n|cffffcc00Level 3|r - 6 allowed webs, 60 second cooldown. |n|cffffcc00Level 4|r - 8 allowed webs, 45 second cooldown."
+Researchhotkey=B
+[A0GE]
+Name=charge 1
+Tip=
+Ubertip=
+Researchtip=Learn |cffffcc00U|rnholy Aura - [|cffffcc00Level %d|r]
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Level 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Level 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Level 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[A0GF]
+Name=charge 2
+Tip=Unholy Aura - [|cffffcc00Level 1|r],Unholy Aura - [|cffffcc00Level 2|r],Unholy Aura - [|cffffcc00Level 3|r]
+Ubertip="Increases nearby friendly units' movement speed by <AUau,DataA1,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate."
+Researchtip=Learn |cffffcc00U|rnholy Aura - [|cffffcc00Level %d|r]
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Level 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Level 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Level 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[A0GG]
+Name=charge 3
+Tip=Unholy Aura - [|cffffcc00Level 1|r],Unholy Aura - [|cffffcc00Level 2|r],Unholy Aura - [|cffffcc00Level 3|r]
+Ubertip="Increases nearby friendly units' movement speed by <AUau,DataA1,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate."
+Researchtip=Learn |cffffcc00U|rnholy Aura - [|cffffcc00Level %d|r]
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Level 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Level 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Level 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[A0GH]
+Name=charge 4
+Tip=Unholy Aura - [|cffffcc00Level 1|r],Unholy Aura - [|cffffcc00Level 2|r],Unholy Aura - [|cffffcc00Level 3|r]
+Ubertip="Increases nearby friendly units' movement speed by <AUau,DataA1,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate."
+Researchtip=Learn |cffffcc00U|rnholy Aura - [|cffffcc00Level %d|r]
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Level 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Level 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Level 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[A0ES]
+Name=神行太保
+Tip=神行太保 - [|cffffcc00等级 1|r],Empowering Haste - [|cffffcc00Level 2|r],Empowering Haste - [|cffffcc00Level 3|r],Empowering Haste - [|cffffcc00Level 4|r]
+Ubertip=裂魂人给予周围友军6%移动速度提升光环。,The Spiritbreaker gives a 10% movement speed aura.,The Spiritbreaker gives a 14% movement speed aura.,The Spiritbreaker gives a 18% movement speed aura.
+Researchtip=学习 神行太保 - [|cffffcc00等级 %d|r]|n(Empowering Haste)
+Researchubertip=裂魂人的出现提升了附近友方单位的移动速度。|n|n|cff99ccff作用范围：|r900|n|n|cffffcc00等级 1|r - 提升附近友方单位6%的移动速度|n|cffffcc00等级 2|r - 提升附近友方单位10%的移动速度|n|cffffcc00等级 3|r - 提升附近友方单位14%的移动速度|n|cffffcc00等级 4|r - 提升附近友方单位18%的移动速度
+Researchhotkey=H
+[A0HG]
+Name=Requiem of Souls Effect
+Tip=
+Ubertip=
+Hotkey=R
+Researchtip=
+Researchubertip=
+Researchhotkey=R
+[A0HH]
+Name=Requiem of Souls Cripple Far
+Tip=
+Ubertip=
+Hotkey=C
+[A0HI]
+Name=Requiem of Souls Cripple Close
+Tip=
+Ubertip=
+Hotkey=C
+[A0HJ]
+Name=Requiem of Souls Cripple Moderate
+Tip=
+Ubertip=
+Hotkey=C
+[A0HK]
+Name=致残
+Tip=残废
+Ubertip="Reduces movement speed by <Acri,DataA1,%>%, attack rate by <Acri,DataB1,%>%, and damage by <Acri,DataC1,%>% of a target enemy unit. |nLasts <Acri,Dur1> seconds."
+Hotkey=C
+[A0CZ]
+Name=时间膨胀
+Tip=时间膨胀 - [|cffffcc00等级 1|r],时间膨胀 - [|cffffcc00等级 2|r],时间膨胀 - [|cffffcc00等级 3|r],时间膨胀 - [|cffffcc00等级 4|r]
+Ubertip=对周围所有敌军施加一个负面状态。时间在被该技能影响的英雄身上停止，使得该英雄技能在负面状态持续时间内将不会冷却。每被锁定一个技能，该英雄的移动速度和攻击速度就将减缓7%。|n|n|cff99ccff作用范围：|r725|n|cff99ccff持续时间：|r6|n|cff99ccff冷却时间：|r36,对周围所有敌军施加一个负面状态。时间在被该技能影响的英雄身上停止，使得该英雄技能在负面状态持续时间内将不会冷却。每被锁定一个技能，该英雄的移动速度和攻击速度就将减缓8%。|n|n|cff99ccff作用范围：|r725|n|cff99ccff持续时间：|r8|n|cff99ccff冷却时间：|r30,对周围所有敌军施加一个负面状态。时间在被该技能影响的英雄身上停止，使得该英雄技能在负面状态持续时间内将不会冷却。每被锁定一个技能，该英雄的移动速度和攻击速度就将减缓9%。|n|n|cff99ccff作用范围：|r725|n|cff99ccff持续时间：|r10|n|cff99ccff冷却时间：|r24,对周围所有敌军施加一个负面状态。时间在被该技能影响的英雄身上停止，使得该英雄技能在负面状态持续时间内将不会冷却。每被锁定一个技能，该英雄的移动速度和攻击速度就将减缓10%。|n|n|cff99ccff作用范围：|r725|n|cff99ccff持续时间：|r12|n|cff99ccff冷却时间：|r18
+Hotkey=D
+Researchtip=学习 时间膨胀 - [|cffffcc00等级 %d|r]|n(Time Dilation)
+Researchubertip=对周围所有敌军施加一个负面状态。时间在被该技能影响的英雄身上停止，使得该英雄技能在负面状态持续时间内将不会冷却。每被锁定一个技能，该英雄的移动速度和攻击速度就将减缓。|n|n|cff99ccff作用范围：|r725|n|cff99ccff冷却时间：|r36/30/24/16|n|cff99ccff魔法消耗：|r50|n|n|cffffcc00等级 1|r - 持续5.5秒，每次降低7%的移动速度和攻击速度|n|cffffcc00等级 2|r - 持续7秒，每次降低8%的移动速度和攻击速度|n|cffffcc00等级 3|r - 持续8.5秒，每次降低9%的移动速度和攻击速度|n|cffffcc00等级 4|r - 持续10秒，每次降低10%的移动速度和攻击速度
+Researchhotkey=D
+[A0JI]
+Name=真视
+Tip=真视
+Ubertip=侦察到周围的隐形单位。
+[A0KW]
+Name=Morph
+Tip=力量转换 - [|cffffcc00等级 1|r],力量转换 - [|cffffcc00等级 2|r],力量转换 - [|cffffcc00等级 3|r],力量转换 - [|cffffcc00等级 4|r]
+Ubertip=激活自动施放时，每秒将2点敏捷转化为力量。|n|n|cff99ccff魔法消耗：|r30/秒,激活自动施放时，每秒将4点敏捷转化为力量。|n|n|cff99ccff魔法消耗：|r30/秒,激活自动施放时，每秒将8点敏捷转化为力量。|n|n|cff99ccff魔法消耗：|r30/秒,激活自动施放时，每秒将16点敏捷转化为力量。|n|n|cff99ccff魔法消耗：|r30/秒
+Untip=|cffc3dbff右键单击以激活自动施放|r|n激活自动施放时，变体精灵每秒将2点敏捷转化为2点力量。,|cffc3dbff右键单击以激活自动施放|r|n激活自动施放时，变体精灵每秒将4点敏捷转化为4点力量。,|cffc3dbff右键单击以激活自动施放|r|n激活自动施放时，变体精灵每秒将8点敏捷转化为8点力量。,|cffc3dbff右键单击以激活自动施放|r|n激活自动施放时，变体精灵每秒将16点敏捷转化为16点力量。
+Unubertip=|cffc3dbff右键单击以关闭自动施放|r|n如果不想转换请及时关闭自动施放！,|cffc3dbff右键单击以关闭自动施放|r|n如果不想转换请及时关闭自动施放！,|cffc3dbff右键单击以关闭自动施放|r|n如果不想转换请及时关闭自动施放！,|cffc3dbff右键单击以关闭自动施放|r|n如果不想转换请及时关闭自动施放！
+Hotkey=F
+Unhotkey=
+[A0KX]
+Name=Morph
+Tip=敏捷转换 - [|cffffcc00等级 1|r],敏捷转换 - [|cffffcc00等级 2|r],敏捷转换 - [|cffffcc00等级 3|r],敏捷转换 - [|cffffcc00等级 4|r]
+Ubertip=激活自动施放时，每秒将2点力量转化为敏捷。|n|n|cff99ccff魔法消耗：|r30/秒,激活自动施放时，每秒将4点力量转化为敏捷。|n|n|cff99ccff魔法消耗：|r30/秒,激活自动施放时，每秒将8点力量转化为敏捷。|n|n|cff99ccff魔法消耗：|r30/秒,激活自动施放时，每秒将16点力量转化为敏捷。|n|n|cff99ccff魔法消耗：|r30/秒
+Untip=|cffc3dbff右键单击以激活自动施放|r|n激活自动施放时，变体精灵每秒将2点力量转化为2点敏捷。,|cffc3dbff右键单击以激活自动施放|r|n激活自动施放时，变体精灵每秒将4点力量转化为4点敏捷。,|cffc3dbff右键单击以激活自动施放|r|n激活自动施放时，变体精灵每秒将8点力量转化为8点敏捷。,|cffc3dbff右键单击以激活自动施放|r|n激活自动施放时，变体精灵每秒将16点力量转化为16点敏捷。
+Unubertip=|cffc3dbff右键单击以关闭自动施放|r|n如果不想转换请及时关闭自动施放！,|cffc3dbff右键单击以关闭自动施放|r|n如果不想转换请及时关闭自动施放！,|cffc3dbff右键单击以关闭自动施放|r|n如果不想转换请及时关闭自动施放！,|cffc3dbff右键单击以关闭自动施放|r|n如果不想转换请及时关闭自动施放！
+Hotkey=D
+Unhotkey=
+Order=replenishmana
+Orderon=replenishmanaon
+Orderoff=replenishmanaoff
+Researchhotkey=D
+Researchtip=学习 属性转换 - [|cffffcc00等级 %d|r]|n(Morph)
+Researchubertip=变体精灵的物理形态能随环境自由变化，可以将一定量的力量转化为敏捷，反之亦然。每次学习技能获得一定敏捷和力量加成。|n|n|cff99ccff魔法消耗：|r30/秒|n|n|cffffcc00等级 1|r - 转化2点/秒的属性，增加3点力量和敏捷|n|cffffcc00等级 2|r - 转化4点/秒的属性，增加4点力量和敏捷|n|cffffcc00等级 3|r - 转化6点/秒的属性，增加5点力量和敏捷|n|cffffcc00等级 4|r - 转化10点/秒的属性，增加6点力量和敏捷
+[A0JQ]
+Name=盛宴
+Tip=盛宴 - [|cffffcc00等级 1|r],盛宴 - [|cffffcc00等级 2|r],盛宴 - [|cffffcc00等级 3|r],盛宴 - [|cffffcc00等级 4|r]
+Ubertip=奈克斯每次攻击都能回复一定生命值，每次攻击回复造成伤害10%的生命值。,奈克斯每次攻击都能回复一定生命值，每次攻击回复造成伤害20%的生命值。,奈克斯每次攻击都能回复一定生命值，每次攻击回复造成伤害30%的生命值。,奈克斯每次攻击都能回复一定生命值，每次攻击回复造成伤害40%的生命值。
+Researchtip=学习 盛宴 - [|cffffcc00等级 %d|r]|n(Feast)
+Researchubertip=奈克斯通过吞噬血肉来回复生命之力。|n|n|cffffcc00等级 1|r - 回复造成伤害10%数值的生命值。 |n|cffffcc00等级 2|r - 回复造成伤害20%数值的生命值。 |n|cffffcc00等级 3|r - 回复造成伤害30%数值的生命值。|n|cffffcc00等级 4|r - 回复造成伤害40%数值的生命值。
+Researchhotkey=F
+[A0LD]
+Name=Avalanche
+Tip=山崩 - [|cffffcc00等级 1|r],山崩 - [|cffffcc00等级 2|r],山崩 - [|cffffcc00等级 3|r],山崩 - [|cffffcc00等级 4|r]
+Ubertip="Bombards an area with rocks, dealing 100 damage and stunning for 2 second.","Bombards an area with rocks, dealing 180 damage and stunning for 2 second.","Bombards an area with rocks, dealing 260 damage and stunning for 2 second.","Bombards an area with rocks, dealing 300 damage and stunning for 2 second."
+Hotkey=V
+Researchtip=学习 山崩 - [|cffffcc00等级 %d|r]|n(Avalanche)
+Researchubertip=Bombards an area with rocks stunning and damaging enemy land units.|n|n|cffffcc00Level 1|r - 100 damage.|n|cffffcc00Level 2|r - 180 damage.|n|cffffcc00Level 3|r - 260 damage.|n|cffffcc00Level 4|r - 300 damage.
+Researchhotkey=V
+[A0M0]
+Name=Fissure
+Tip=沟壑 - [|cffffcc00等级 1|r],沟壑 - [|cffffcc00等级 2|r],沟壑 - [|cffffcc00等级 3|r],沟壑 - [|cffffcc00等级 4|r]
+Ubertip=撼地神牛用图腾撕裂地表，形成巨大的沟壑，8秒内不能通行，造成125点伤害，晕眩1秒。|n|n|cff99ccff施法距离：|r1400|n|cff99ccff冷却时间：|r15,撼地神牛用图腾撕裂地表，形成巨大的沟壑，8秒内不能通行，造成175点伤害，晕眩1.25秒。|n|n|cff99ccff施法距离：|r1400|n|cff99ccff冷却时间：|r15,撼地神牛用图腾撕裂地表，形成巨大的沟壑，8秒内不能通行，造成225点伤害，晕眩1.5秒。|n|n|cff99ccff施法距离：|r1400|n|cff99ccff冷却时间：|r15,撼地神牛用图腾撕裂地表，形成巨大的沟壑，8秒内不能通行，造成275点伤害，晕眩1.75秒。|n|n|cff99ccff施法距离：|r1400|n|cff99ccff冷却时间：|r15
+Hotkey=F
+Researchtip=学习 沟壑 - [|cffffcc00等级 %d|r]|n(Fissure)
+Researchubertip=用图腾猛击地面，将前方的大地撕裂形成沟壑并且对敌方单位造成眩晕和伤害。同时在一定时间内无法通过沟壑。|n|n|cff99ccff冷却时间： |r15 |n|cff99ccff魔法消耗： |r125/140/155/170 |n|n|cffffcc00等级 1|r - 造成125伤害，1秒眩晕。 |n|cffffcc00等级 2|r - 造成175伤害，1.25秒眩晕。 |n|cffffcc00等级 3|r - 造成225伤害，1.5秒眩晕。 |n|cffffcc00等级 4|r - 造成275伤害，1.75秒眩晕。
+Researchhotkey=F
+[A0O1]
+Name=野性之斧
+Tip=野性之斧 - [|cffffcc00等级 1|r],野性之斧 - [|cffffcc00等级 2|r],野性之斧 - [|cffffcc00等级 3|r],野性之斧 - [|cffffcc00等级 4|r]
+Ubertip=兽王掷出他的双斧，它们交错回旋并最终会回到兽王手中。每把飞斧对经过的敌方单位造成70点伤害，并最多只能对同一单位造成一次伤害。|n|n|cffff8000法术攻击 普通伤害|r|n|n|cff99ccff施法距离：|r1300|n|cff99ccff冷却时间：|r13,兽王掷出他的双斧，它们交错回旋并最终会回到兽王手中。每把飞斧对经过的敌方单位造成100点伤害，并最多只能对同一单位造成一次伤害。|n|n|cffff8000法术攻击 普通伤害|r|n|n|cff99ccff施法距离：|r1300|n|cff99ccff冷却时间：|r13,兽王掷出他的双斧，它们交错回旋并最终会回到兽王手中。每把飞斧对经过的敌方单位造成130点伤害，并最多只能对同一单位造成一次伤害。|n|n|cffff8000法术攻击 普通伤害|r|n|n|cff99ccff施法距离：|r1300|n|cff99ccff冷却时间：|r13,兽王掷出他的双斧，它们交错回旋并最终会回到兽王手中。每把飞斧对经过的敌方单位造成160点伤害，并最多只能对同一单位造成一次伤害。|n|n|cffff8000法术攻击 普通伤害|r|n|n|cff99ccff施法距离：|r1300|n|cff99ccff冷却时间：|r13
+Hotkey=W
+Researchtip=学习 野性之斧 - [|cffffcc00等级 %d|r]|n(Wild Axes)
+Researchubertip=兽王掷出他的双斧，它们交错回旋并最终会回到兽王手中。每把飞斧最多能对同一单位造成一次伤害。|n|n|cffffcc00等级 1|r - 每把飞斧对经过的单位造成70点伤害|n|cffffcc00等级 2|r - 每把飞斧对经过的单位造成100点伤害|n|cffffcc00等级 3|r - 每把飞斧对经过的单位造成130点伤害|n|cffffcc00等级 4|r - 每把飞斧对经过的单位造成160点伤害|n|n|cffff8000法术攻击 普通伤害|r|n|n|cff99ccff施法距离：|r1300|n|cff99ccff冷却时间：|r13|n|cff99ccff魔法消耗：|r120
+Researchhotkey=W
+[A0O7]
+Name=冰火交加
+Tip=冰火交加 - [|cffffcc00等级 1|r],冰火交加 - [|cffffcc00等级 2|r],冰火交加 - [|cffffcc00等级 3|r],冰火交加 - [|cffffcc00等级 4|r]
+Ubertip=双头龙的双头吐出寒冰和火焰气息，在接下的5秒内，敌方单位的攻击速度和移动速度因此下降28%，并受到持续的20点/秒的火焰伤害。|n|n|cff99ccff施法距离：|r500|n|cff99ccff最大距离：|r500|n|cff99ccff冷却时间：|r10,双头龙的双头吐出寒冰和火焰气息，在接下的5秒内，敌方单位的攻击速度和移动速度因此下降32%，并受到持续的40点/秒的火焰伤害。|n|n|cff99ccff施法距离：|r500|n|cff99ccff最大距离：|r500|n|cff99ccff冷却时间：|r10,双头龙的双头吐出寒冰和火焰气息，在接下的5秒内，敌方单位的攻击速度和移动速度因此下降36%，并受到持续的60点/秒的火焰伤害。|n|n|cff99ccff施法距离：|r500|n|cff99ccff最大距离：|r500|n|cff99ccff冷却时间：|r10,双头龙的双头吐出寒冰和火焰气息，在接下的5秒内，敌方单位的攻击速度和移动速度因此下降40%，并受到持续的80点/秒的火焰伤害。|n|n|cff99ccff施法距离：|r500|n|cff99ccff最大距离：|r500|n|cff99ccff冷却时间：|r10
+Hotkey=D
+Researchtip=学习 冰火交加 - [|cffffcc00等级 %d|r]|n(Dual Breath)
+Researchubertip=双头龙的双头能分别吐出寒冰和火焰气息，在接下的5秒内，敌方单位的攻击速度和移动速度因此下降，并受到持续的火焰伤害。|n|n|cff99ccff施法距离：|r500|n|cff99ccff最大距离：|r500|n|cff99ccff冷却时间：|r10|n|cff99ccff魔法消耗：|r135/140/155/170|n|n|cffffcc00等级 1|r - 造成20点/秒的火焰伤害|n|cffffcc00等级 2|r - 造成40点/秒的火焰伤害|n|cffffcc00等级 3|r - 造成60点/秒的火焰伤害|n|cffffcc00等级 4|r - 造成80点/秒的火焰伤害
+Researchhotkey=D
+[A0HF]
+Name=食腐甲虫
+Tip=|cffffcc00C|rarrion Beetles - [|cffffcc00Level 1|r],|cffffcc00C|rarrion Beetles - [|cffffcc00Level 2|r],|cffffcc00C|rarrion Beetles - [|cffffcc00Level 3|r],|cffffcc00C|rarrion Beetles - [|cffffcc00Level 4|r]
+Ubertip=Progenerates a Lesser Carrion Beetle from a target corpse. Causes a 0.5 stun effect when it unburrows. |nMaximum of 5 Beetles.,Progenerates a Lesser Carrion Beetle from a target corpse. Causes a 0.5 stun effect when it unburrows. |nMaximum of 5 Beetles.,Progenerates a Lesser Carrion Beetle from a target corpse. Causes a 0.75 stun effect when it unburrows. |nMaximum of 5 Beetles.,Progenerates a Lesser Carrion Beetle from a target corpse. Causes a 0.75 stun effect when it unburrows. |nMaximum of 5 Beetles.
+Hotkey=C
+Researchtip=Learn |cffffcc00C|rarrion Beetles - [|cffffcc00Level %d|r]
+Researchubertip="Progenerates a Carrion Beetle from a nearby corpse to attack Abaddon's enemies. Beetles are permanent, and can Burrow underground. Minor stun effect when unborrowing. Max of 5 Beetles. |n|n|cffffcc00Level 1|r - Summons a Lesser Carrion Beetle. |n|cffffcc00Level 2|r - Summons a Weak Carrion Beetle. |n|cffffcc00Level 3|r - Summons a Strong Carrion Beetle. |n|cffffcc00Level 4|r - Summons a Greater Carrion Beetle. "
+Researchhotkey=C
+Untip=|cffc3dbff右键单击以激活自动施放|r
+Unubertip=|cffc3dbff右键单击以关闭自动施放|r
+[A0HQ]
+Name=Burrow
+Tip=|cffffcc00B|rurrow
+Untip=Un|cffffcc00b|rurrow
+Ubertip=The Carrion Beetle digs into the ground and becomes invisible.
+Unubertip=The Carrion Beetle pops out of the ground and becomes visible again.
+Hotkey=B
+Unhotkey=B
+[A0HR]
+Name=Burrow
+Tip=|cffffcc00B|rurrow
+Untip=Un|cffffcc00b|rurrow
+Ubertip=The Carrion Beetle digs into the ground and becomes invisible.
+Unubertip=The Carrion Beetle pops out of the ground and becomes visible again.
+Hotkey=B
+Unhotkey=B
+[A0HS]
+Name=Burrow
+Tip=|cffffcc00B|rurrow
+Untip=Un|cffffcc00b|rurrow
+Ubertip=The Carrion Beetle digs into the ground and becomes invisible.
+Unubertip=The Carrion Beetle pops out of the ground and becomes visible again.
+Hotkey=B
+Unhotkey=B
+[A0HT]
+Name=Burrow
+Tip=|cffffcc00B|rurrow
+Untip=Un|cffffcc00b|rurrow
+Ubertip=The Carrion Beetle digs into the ground and becomes invisible.
+Unubertip=The Carrion Beetle pops out of the ground and becomes visible again.
+Hotkey=B
+Unhotkey=B
+[A0KA]
+Name=弗拉迪米尔的祭品|nVladmir's Offering
+Tip=吸血光环 - [|cffffcc00等级 1|r],吸血光环 - [|cffffcc00等级 2|r],吸血光环 - [|cffffcc00等级 3|r],吸血光环 - [|cffffcc00等级 4|r]
+Ubertip=附近的友方近程单位在攻击时，能将所造成伤害量的5%转化为自身的生命。|n|n|cff99ccff作用范围：|r300,Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 20% of their attack damage when they hit enemy units.
+Researchtip=学习 吸血光环 - [|cffffcc00等级 %d|r]|n(Vampiric Aura)
+Researchubertip=附近的友方近程单位在攻击时，能将所造成的伤害量转化为自身的生命。|n|n|cff99ccff作用范围：|r300|n|n|cffffcc00等级 1|r - 转化伤害量的5%|n|cffffcc00等级 2|r - 转化伤害量的10%|n|cffffcc00等级 3|r - 转化伤害量的15%|n|cffffcc00等级 4|r - 转化伤害量的20%
+Researchhotkey=V
+[A0OZ]
+Name=Modified Trap 
+Tip=|cffffcc00B|rurrow
+Untip=Un|cffffcc00b|rurrow
+Ubertip=The Carrion Beetle digs into the ground and becomes invisible.
+Unubertip=The Carrion Beetle pops out of the ground and becomes visible again.
+Hotkey=B
+Unhotkey=B
+[A0R6]
+Name=火焰壁垒
+Tip=Ba|cffffcc00r|rrier - |cffffcc00Level 1|r,Ba|cffffcc00r|rrier - |cffffcc00Level 2|r,Ba|cffffcc00r|rrier - |cffffcc00Level 3|r,Ba|cffffcc00r|rrier - |cffffcc00Level 4|r
+Ubertip="Shields a target with Raijin's discharged mana, resisting up to 150 spell damage. |nLasts 20 seconds. |n|n|cff99ccffCooldown: |r 20","Shields a target with Raijin's discharged mana, resisting up to 300 spell damage. |nLasts 20 seconds. |n|n|cff99ccffCooldown: |r 20","Shields a target with Raijin's discharged mana, resisting up to 450 spell damage. |nLasts 20 seconds. |n|n|cff99ccffCooldown: |r 20","Shields a target with Raijin's discharged mana, resisting up to 600 spell damage. |nLasts 20 seconds. |n|n|cff99ccffCooldown: |r 20"
+Hotkey=R
+Researchtip=Learn Ba|cffffcc00r|rrier - |cffffcc00Level %d|r
+Researchubertip="Shields a target with Raijin's discharged mana, resisting spell damage while under the effect. Lasts 20 seconds. |n|n|cffffcc00Level 1|r - Prevents 150 magical damage |n|cffffcc00Level 2|r - Prevents 300 magical damage  |n|cffffcc00Level 3|r - Prevents 450 magical damage  |n|cffffcc00Level 4|r - Prevents 600 magical damage   |n|n|cff99ccffCooldown: |r 20 |n|cff99ccffManacost: |r 75 "
+Researchhotkey=R
+[A0S2]
+Name=天神下凡
+Tip=,驱逐 - [|cffffcc00等级 2|r],驱逐 - [|cffffcc00等级 3|r],驱逐 - [|cffffcc00等级 4|r]
+Ubertip=,Creates powerful warding magics around a target unit that protects it from all magic for 10 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 15 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 20 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.
+Hotkey=E
+Researchhotkey=E
+Researchtip=学习 驱逐 - [|cffffcc00等级 %d|r]|n(Repel)
+Researchubertip=创造一个神圣守护使目标不受绝大部分魔法的影响。|n|n|cff99ccff施法距离：|r500|n|cff99ccff冷却时间：|r20|n|cff99ccff魔法消耗：|r60/70/80/90|n|n|cffffcc00等级 1|r - 持续5秒|n|cffffcc00等级 2|r - 持续10秒|n|cffffcc00等级 3|r - 持续15秒|n|cffffcc00等级 4|r - 持续20秒
+[A0UL]
+Name=Arctic Blast
+Tip=霜冻新星 - [|cffffcc00等级 1|r],霜冻新星 - [|cffffcc00等级 2|r],霜冻新星 - [|cffffcc00等级 3|r],霜冻新星 - [|cffffcc00等级 4|r]
+Ubertip=Blasts enemy units with a wave of frost that deals 50 target damage and 75 nova damage. Cold damage slows movement speed and attack rate for 4 seconds. |n|n|cff99ccffCooldown: |r 11 seconds.,Blasts enemy units with a wave of frost that deals 100 target damage and 100 nova damage. Cold damage slows movement speed and attack rate for 4 seconds. |n|n|cff99ccffCooldown: |r 11 seconds.,Blasts enemy units with a wave of frost that deals 125 target damage and 125 nova damage. Cold damage slows movement speed and attack rate for 4 seconds. |n|n|cff99ccffCooldown: |r 11 seconds.,Blasts enemy units with a wave of frost that deals 175 target damage and 125 nova damage. Cold damage slows movement speed and attack rate for 4 seconds. |n|n|cff99ccffCooldown: |r 11 seconds.
+Hotkey=V
+Researchtip=学习 霜冻新星 - [|cffffcc00等级 %d|r]|n(Frost Nova)
+Researchubertip=Blasts enemy units around a target enemy unit with a wave of damaging frost that slows movement speed and attack rate for 4 seconds. |n|n|cffffcc00Level 1|r - 50 target damage and 75 nova damage. |n|cffffcc00Level 2|r - 100 target damage and 100 nova damage. |n|cffffcc00Level 3|r - 125 target damage and 125 nova damage.|n|cffffcc00Level 4|r - 175 target damage and 125 nova damage. |n|n|cff99ccffCooldown: |r 11 seconds.
+Researchhotkey=V
+[A0WV]
+Name=Insatiable Hunger - Lifesteal Level 2
+Tip=吸血光环 - [|cffffcc00等级 1|r],吸血光环 - [|cffffcc00等级 2|r],吸血光环 - [|cffffcc00等级 3|r],吸血光环 - [|cffffcc00等级 4|r]
+Ubertip=附近的友方近程单位在攻击时，能将所造成伤害量的5%转化为自身的生命。|n|n|cff99ccff作用范围：|r300,Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 20% of their attack damage when they hit enemy units.
+Researchtip=学习 吸血光环 - [|cffffcc00等级 %d|r]|n(Vampiric Aura)
+Researchubertip=附近的友方近程单位在攻击时，能将所造成的伤害量转化为自身的生命。|n|n|cff99ccff作用范围：|r300|n|n|cffffcc00等级 1|r - 转化伤害量的5%|n|cffffcc00等级 2|r - 转化伤害量的10%|n|cffffcc00等级 3|r - 转化伤害量的15%|n|cffffcc00等级 4|r - 转化伤害量的20%
+Researchhotkey=V
+[A0WW]
+Name=Insatiable Hunger - Lifesteal Level 1
+Tip=吸血光环 - [|cffffcc00等级 1|r],吸血光环 - [|cffffcc00等级 2|r],吸血光环 - [|cffffcc00等级 3|r],吸血光环 - [|cffffcc00等级 4|r]
+Ubertip=附近的友方近程单位在攻击时，能将所造成伤害量的5%转化为自身的生命。|n|n|cff99ccff作用范围：|r300,Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 20% of their attack damage when they hit enemy units.
+Researchtip=学习 吸血光环 - [|cffffcc00等级 %d|r]|n(Vampiric Aura)
+Researchubertip=附近的友方近程单位在攻击时，能将所造成的伤害量转化为自身的生命。|n|n|cff99ccff作用范围：|r300|n|n|cffffcc00等级 1|r - 转化伤害量的5%|n|cffffcc00等级 2|r - 转化伤害量的10%|n|cffffcc00等级 3|r - 转化伤害量的15%|n|cffffcc00等级 4|r - 转化伤害量的20%
+Researchhotkey=V
+[A0WX]
+Name=Insatiable Hunger - Lifesteal Level 3
+Tip=吸血光环 - [|cffffcc00等级 1|r],吸血光环 - [|cffffcc00等级 2|r],吸血光环 - [|cffffcc00等级 3|r],吸血光环 - [|cffffcc00等级 4|r]
+Ubertip=附近的友方近程单位在攻击时，能将所造成伤害量的5%转化为自身的生命。|n|n|cff99ccff作用范围：|r300,Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 20% of their attack damage when they hit enemy units.
+Researchtip=学习 吸血光环 - [|cffffcc00等级 %d|r]|n(Vampiric Aura)
+Researchubertip=附近的友方近程单位在攻击时，能将所造成的伤害量转化为自身的生命。|n|n|cff99ccff作用范围：|r300|n|n|cffffcc00等级 1|r - 转化伤害量的5%|n|cffffcc00等级 2|r - 转化伤害量的10%|n|cffffcc00等级 3|r - 转化伤害量的15%|n|cffffcc00等级 4|r - 转化伤害量的20%
+Researchhotkey=V
+[A10C]
+Name=Spirit Lance Slow
+Tip=
+Ubertip=
+Hotkey=C
+[A118]
+Name=天神下凡
+Tip=,驱逐 - [|cffffcc00等级 2|r],驱逐 - [|cffffcc00等级 3|r],驱逐 - [|cffffcc00等级 4|r]
+Ubertip=,Creates powerful warding magics around a target unit that protects it from all magic for 10 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 15 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 20 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.
+Hotkey=E
+Researchhotkey=E
+Researchtip=学习 驱逐 - [|cffffcc00等级 %d|r]|n(Repel)
+Researchubertip=创造一个神圣守护使目标不受绝大部分魔法的影响。|n|n|cff99ccff施法距离：|r500|n|cff99ccff冷却时间：|r20|n|cff99ccff魔法消耗：|r60/70/80/90|n|n|cffffcc00等级 1|r - 持续5秒|n|cffffcc00等级 2|r - 持续10秒|n|cffffcc00等级 3|r - 持续15秒|n|cffffcc00等级 4|r - 持续20秒
+[A119]
+Name=天神下凡
+Tip=,驱逐 - [|cffffcc00等级 2|r],驱逐 - [|cffffcc00等级 3|r],驱逐 - [|cffffcc00等级 4|r]
+Ubertip=,Creates powerful warding magics around a target unit that protects it from all magic for 10 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 15 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 20 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.
+Hotkey=E
+Researchhotkey=E
+Researchtip=学习 驱逐 - [|cffffcc00等级 %d|r]|n(Repel)
+Researchubertip=创造一个神圣守护使目标不受绝大部分魔法的影响。|n|n|cff99ccff施法距离：|r500|n|cff99ccff冷却时间：|r20|n|cff99ccff魔法消耗：|r60/70/80/90|n|n|cffffcc00等级 1|r - 持续5秒|n|cffffcc00等级 2|r - 持续10秒|n|cffffcc00等级 3|r - 持续15秒|n|cffffcc00等级 4|r - 持续20秒
+[A11A]
+Name=天神下凡
+Tip=,驱逐 - [|cffffcc00等级 2|r],驱逐 - [|cffffcc00等级 3|r],驱逐 - [|cffffcc00等级 4|r]
+Ubertip=,Creates powerful warding magics around a target unit that protects it from all magic for 10 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 15 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 20 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.
+Hotkey=E
+Researchhotkey=E
+Researchtip=学习 驱逐 - [|cffffcc00等级 %d|r]|n(Repel)
+Researchubertip=创造一个神圣守护使目标不受绝大部分魔法的影响。|n|n|cff99ccff施法距离：|r500|n|cff99ccff冷却时间：|r20|n|cff99ccff魔法消耗：|r60/70/80/90|n|n|cffffcc00等级 1|r - 持续5秒|n|cffffcc00等级 2|r - 持续10秒|n|cffffcc00等级 3|r - 持续15秒|n|cffffcc00等级 4|r - 持续20秒
+[A11B]
+Name=天神下凡
+Tip=,驱逐 - [|cffffcc00等级 2|r],驱逐 - [|cffffcc00等级 3|r],驱逐 - [|cffffcc00等级 4|r]
+Ubertip=,Creates powerful warding magics around a target unit that protects it from all magic for 10 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 15 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 20 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.
+Hotkey=E
+Researchhotkey=E
+Researchtip=学习 驱逐 - [|cffffcc00等级 %d|r]|n(Repel)
+Researchubertip=创造一个神圣守护使目标不受绝大部分魔法的影响。|n|n|cff99ccff施法距离：|r500|n|cff99ccff冷却时间：|r20|n|cff99ccff魔法消耗：|r60/70/80/90|n|n|cffffcc00等级 1|r - 持续5秒|n|cffffcc00等级 2|r - 持续10秒|n|cffffcc00等级 3|r - 持续15秒|n|cffffcc00等级 4|r - 持续20秒
+[A11C]
+Name=天神下凡
+Tip=,驱逐 - [|cffffcc00等级 2|r],驱逐 - [|cffffcc00等级 3|r],驱逐 - [|cffffcc00等级 4|r]
+Ubertip=,Creates powerful warding magics around a target unit that protects it from all magic for 10 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 15 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 20 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.
+Hotkey=E
+Researchhotkey=E
+Researchtip=学习 驱逐 - [|cffffcc00等级 %d|r]|n(Repel)
+Researchubertip=创造一个神圣守护使目标不受绝大部分魔法的影响。|n|n|cff99ccff施法距离：|r500|n|cff99ccff冷却时间：|r20|n|cff99ccff魔法消耗：|r60/70/80/90|n|n|cffffcc00等级 1|r - 持续5秒|n|cffffcc00等级 2|r - 持续10秒|n|cffffcc00等级 3|r - 持续15秒|n|cffffcc00等级 4|r - 持续20秒
+[A18C]
+Name=Borrowed Time
+Tip=回光返照 - [|cffffcc00等级 1|r],回光返照 - [|cffffcc00等级 2|r],回光返照 - [|cffffcc00等级 3|r],敏捷转换 - [|cffffcc00等级 4|r]
+Ubertip="On activation, removes most negative buffs and you will gain hp instead of losing hp for any damage you take in the next 4 seconds. If not in cooldown, automatically casts whenever your hitpoints drop below 400 hp. |n|n|cff99ccffCooldown: |r 60","On activation, removes most negative buffs and you will gain hp instead of losing hp for any damage you take in the next 5 seconds. If not in cooldown, automatically casts whenever your hitpoints drop below 400 hp. |n|n|cff99ccffCooldown: |r 60","On activation, removes most negative buffs and you will gain hp instead of losing hp for any damage you take in the next 6 seconds. If not in cooldown, automatically casts whenever your hitpoints drop below 400 hp. |n|n|cff99ccffCooldown: |r 60",When activated turns 8 Strength into Agility for 20 mana per second.
+Untip=|cffc3dbff右键单击以激活自动施放|r|n激活自动施放时，变体精灵每秒将2点力量转化为2点敏捷。,|cffc3dbff右键单击以激活自动施放|r|n激活自动施放时，变体精灵每秒将4点力量转化为4点敏捷。,|cffc3dbff右键单击以激活自动施放|r|n激活自动施放时，变体精灵每秒将6点力量转化为6点敏捷。,"|cffc3dbffRight-click to activate auto-casting.|r|nWhile auto-cast is enabled, the Morphling permanently gains 8 Agility and loses 8 Strength every second."
+Unubertip=|cffc3dbff右键单击以关闭自动施放|r|n如果不想转换请及时关闭自动施放！,|cffc3dbff右键单击以关闭自动施放|r|n如果不想转换请及时关闭自动施放！,|cffc3dbff右键单击以关闭自动施放|r|n如果不想转换请及时关闭自动施放！,|cffc3dbff右键单击以关闭自动施放|r|n如果不想转换请及时关闭自动施放！
+Hotkey=B
+Unhotkey=
+Order=replenishmana
+Orderon=replenishmanaon
+Orderoff=replenishmanaoff
+Researchhotkey=B
+Researchtip=学习 回光返照 - [|cffffcc00等级 %d|r]|n(Borrowed Time)
+Researchubertip="When activated, most negative buffs will be removed and any damage you take will heal you instead of damage you. If the ability is not in cooldown, it will passively activate when your hitpoints drop below 400 hp. |n|n|cffffcc00Level 1|r - Lasts 4 seconds.  |n|cffffcc00Level 2|r - Lasts 5 seconds.  |n|cffffcc00Level 3|r - Lasts 6 seconds.  |n|n|cff99ccffCooldown: |r 60"
+[A18E]
+Name=Unholy Fervor (bonus-6)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A18F]
+Name=Unholy Fervor (bonus-7)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A18G]
+Name=Unholy Fervor (bonus-8)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A18H]
+Name=Unholy Fervor (bonus-9)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A18I]
+Name=Unholy Fervor (bonus-10)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A18J]
+Name=Unholy Fervor (bonus-11)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A18K]
+Name=Unholy Fervor (bonus-12)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A18L]
+Name=Unholy Fervor (bonus-13)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A18M]
+Name=Unholy Fervor (bonus-14)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A18N]
+Name=Unholy Fervor (bonus-15)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A18O]
+Name=Unholy Fervor (bonus-16)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A18Q]
+Name=Unholy Fervor (bonus-18)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A18R]
+Name=Unholy Fervor (bonus-5)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A18S]
+Name=Unholy Fervor (bonus-20)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A197]
+Name=Unholy Fervor (bonus-17)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A198]
+Name=Unholy Fervor (bonus-3)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A199]
+Name=Unholy Fervor (bonus-1)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A19A]
+Name=Unholy Fervor (bonus-2)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A19B]
+Name=Unholy Fervor (bonus-4)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A19C]
+Name=Unholy Fervor (bonus-19)
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A19Q]
+Name=Craggy Exterior
+Tip=崎岖外表 - [|cffffcc00等级 1|r],崎岖外表 - [|cffffcc00等级 2|r],崎岖外表 - [|cffffcc00等级 3|r],崎岖外表 - [|cffffcc00等级 4|r]
+Ubertip=在山岭巨人附近300范围内，对其进行攻击的单位有10%的概率受到25点伤害，并晕眩1秒。同时被动增加山岭巨人2点护甲。,在山岭巨人附近300范围内，对其进行攻击的单位有15%的概率受到35点伤害，并晕眩1.25秒。同时被动增加山岭巨人3点护甲。,在山岭巨人附近300范围内，对其进行攻击的单位有20%的概率受到45点伤害，并晕眩1.5秒。同时被动增加山岭巨人4点护甲。,在山岭巨人附近300范围内，对其进行攻击的单位有25%的概率受到55点伤害，并晕眩1.75秒。同时被动增加山岭巨人5点护甲。
+Researchtip=学习 崎岖外表 - [|cffffcc00等级 %d|r]|n(Craggy Exterior)
+Researchubertip=山岭巨人的身体由坚硬的花岗岩组成，在其附近300范围内的单位对其进行攻击都有可能受到伤害，并被晕眩。|n|n|cffffcc00等级 1|r - 有10%的概率被眩晕1秒并受到25点伤害，同时被动增加山岭巨人2点护甲|n|cffffcc00等级 2|r - 有15%的概率被眩晕1.25秒并受到35点伤害，同时被动增加山岭巨人3点护甲|n|cffffcc00等级 3|r - 有20%的概率被眩晕1.5秒并受到45点伤害，同时被动增加山岭巨人4点护甲|n|cffffcc00等级 4|r - 有25%的概率被眩晕1.75秒并受到55点伤害，同时被动增加山岭巨人5点护甲
+Researchhotkey=C
+[A1AP]
+Name=Eye of the Storm - 2
+Tip=,Unholy Fervor - [|cffffcc00Level 2|r],Unholy Fervor - [|cffffcc00Level 3|r],Unholy Fervor - [|cffffcc00Level 4|r]
+Ubertip=,"Harnesses the vacuum nearby to charge himself, Increasing his movement speed by 15%. Each nearby enemy unit creates an electrical disturbance, reducing this bonus by 1%.","Harnesses the vacuum nearby to charge himself, Increasing his movement speed by 20%. Each nearby enemy unit creates an electrical disturbance, reducing this bonus by 1%.",Increases Razor's movement speed by 10% and life regeneration rate by 2 hp/sec.
+Researchtip=
+Researchubertip=
+Researchhotkey=N
+[A1AQ]
+Name=Eye of the Storm - 1
+Tip=,Unholy Fervor - [|cffffcc00Level 2|r],Unholy Fervor - [|cffffcc00Level 3|r],Unholy Fervor - [|cffffcc00Level 4|r]
+Ubertip=,"Harnesses the vacuum nearby to charge himself, Increasing his movement speed by 15%. Each nearby enemy unit creates an electrical disturbance, reducing this bonus by 1%.","Harnesses the vacuum nearby to charge himself, Increasing his movement speed by 20%. Each nearby enemy unit creates an electrical disturbance, reducing this bonus by 1%.",Increases Razor's movement speed by 10% and life regeneration rate by 2 hp/sec.
+Researchtip=
+Researchubertip=
+Researchhotkey=N
+[A1E6]
+Name=不稳定电流
+Tip=不稳定电流 - [|cffffcc00等级 1|r],不稳定电流 - [|cffffcc00等级 2|r],不稳定电流 - [|cffffcc00等级 3|r],不稳定电流 - [|cffffcc00等级 4|r]
+Ubertip=被动地提升闪电幽魂4%的移动速度。任何向闪电幽魂施放指向性技能的敌方单位，都会被回馈40点伤害，并被净化0.5秒。,被动地提升闪电幽魂8%的移动速度。任何向闪电幽魂施放指向性技能的敌方单位，都会被回馈70点伤害，并被净化1秒。,被动地提升闪电幽魂12%的移动速度。任何向闪电幽魂施放指向性技能的敌方单位，都会被回馈100点伤害，并被净化1.5秒。,被动地提升闪电幽魂16%的移动速度。任何向闪电幽魂施放指向性技能的敌方单位，都会被回馈130点伤害，并被净化2秒。
+Researchtip=学习 不稳定电流 - [|cffffcc00等级 %d|r]|n(Unstable Current)
+Researchubertip=闪电幽魂的身体由不稳定的暗能量构成。这反自然的状态能使他以超自然的速度移动，而且，如果有哪个愚蠢的敌人对他施展指向性技能，他将会为自己的冒失付出代价——被反馈回来的电流好好“奖赏”。|n|n|cffffcc00等级 1|r - 被动提升闪电幽魂4%的移动速度，被施放指向性技能时反馈40点伤害和0.5秒的净化|n|cffffcc00等级 2|r - 被动提升闪电幽魂8%的移动速度，被施放指向性技能时反馈70点伤害和1秒的净化|n|cffffcc00等级 3|r - 被动提升闪电幽魂12%的移动速度，被施放指向性技能时反馈100点伤害和1.5秒的净化|n|cffffcc00等级 4|r - 被动提升闪电幽魂16%的移动速度，被施放指向性技能时反馈130点伤害和2秒的净化
+Researchhotkey=N
+[A1EV]
+Name=Pipe of Insight barrier
+Tip=,Ba|cffffcc00r|rrier - |cffffcc00Level 2|r,Ba|cffffcc00r|rrier - |cffffcc00Level 3|r,Ba|cffffcc00r|rrier - |cffffcc00Level 4|r
+Ubertip=,"Shields a target with Raijin's discharged mana, resisting up to 300 spell damage. |nLasts 20 seconds. |n|n|cff99ccffCooldown: |r 20","Shields a target with Raijin's discharged mana, resisting up to 450 spell damage. |nLasts 20 seconds. |n|n|cff99ccffCooldown: |r 20","Shields a target with Raijin's discharged mana, resisting up to 600 spell damage. |nLasts 20 seconds. |n|n|cff99ccffCooldown: |r 20"
+Hotkey=R
+Researchhotkey=R
+[A1GC]
+Name=Burrow
+Tip=Bu|cffffcc00r|rrow
+Untip=Unbu|cffffcc00r|rrow
+Ubertip="The Scarab digs into the ground, becomes invisible and immobile."
+Unubertip=The Scarab pops out of the ground and becomes visible again.
+Hotkey=R
+Unhotkey=R
+[A1HL]
+Name=Frost Barrier
+Tip=|cffffcc00F|rrost Barrier - |cffffcc00Level 1|r,|cffffcc00F|rrost Barrier - |cffffcc00Level 2|r,|cffffcc00F|rrost Barrier - |cffffcc00Level 3|r,|cffffcc00F|rrost Barrier - |cffffcc00Level 3|r
+Ubertip=text. |nLasts 15 seconds. |n|n|cff99ccffCooldown: |r 40,text. |nLasts 15 seconds. |n|n|cff99ccffCooldown: |r 40,text. |nLasts 15 seconds. |n|n|cff99ccffCooldown: |r 40,text. |nLasts 15 seconds. |n|n|cff99ccffCooldown: |r 25
+Hotkey=F
+Researchtip=Learn |cffffcc00F|rrost Barrier - |cffffcc00Level %d|r
+Researchubertip=text. |n|n|cffffcc00Level 1|r - 1. |n|cffffcc00Level 2|r - 2. |n|cffffcc00Level 3|r - 3.  |n|n|cff99ccffCooldown: |r 40 |n|cff99ccffManacost: |r 200
+Researchhotkey=F
+[A1HP]
+Name=鱼人夜行者
+Tip=Nightcrawler - [|cffffcc00Level 1|r],Nightcrawler - [|cffffcc00Level 2|r],Nightcrawler - [|cffffcc00Level 3|r],Nightcrawler - [|cffffcc00You are visible|r]
+Ubertip=text.,text.,text.,text.
+Researchtip=
+Researchubertip=
+Researchhotkey=H
+[A1MF]
+Name=Boomerang
+Tip=Boome|cffffcc00r|rang - [|cffffcc00Level 1|r],Boome|cffffcc00r|rang - [|cffffcc00Level 2|r],Boome|cffffcc00r|rang - [|cffffcc00Level 3|r],Boome|cffffcc00r|rang - [|cffffcc00Level 4|r]
+Ubertip=text. |n|n|cff99ccffCooldown: |r 30,text. |n|n|cff99ccffCooldown: |r 30,text. |n|n|cff99ccffCooldown: |r 30,text. |n|n|cff99ccffCooldown: |r 30
+Hotkey=R
+Researchtip=Learn Boome|cffffcc00r|rang - [|cffffcc00Level %d|r]
+Researchubertip=text. |n|n|cffffcc00Level 1|r - 1. |n|cffffcc00Level 2|r - 2. |n|cffffcc00Level 3|r - 3. |n|cffffcc00Level 4|r - 4. |n|n|cff99ccffCooldown: |r 30
+Researchhotkey=R
+[A0FF]
+Name=Scorched Earth MS + Regen - Level 4
+Tip=,Unholy Aura - [|cffffcc00Level 2|r],Unholy Aura - [|cffffcc00Level 3|r]
+Ubertip=,"Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate."
+Researchtip=Learn |cffffcc00U|rnholy Aura - [|cffffcc00Level %d|r]
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Level 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Level 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Level 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[A1OH]
+Name=Scorched Earth MS + Regen - Level 2
+Tip=,Unholy Aura - [|cffffcc00Level 2|r],Unholy Aura - [|cffffcc00Level 3|r]
+Ubertip=,"Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate."
+Researchtip=Learn |cffffcc00U|rnholy Aura - [|cffffcc00Level %d|r]
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Level 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Level 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Level 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[A1OJ]
+Name=Scorched Earth MS + Regen - Level 1
+Tip=,Unholy Aura - [|cffffcc00Level 2|r],Unholy Aura - [|cffffcc00Level 3|r]
+Ubertip=,"Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate."
+Researchtip=Learn |cffffcc00U|rnholy Aura - [|cffffcc00Level %d|r]
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Level 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Level 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Level 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[A1OK]
+Name=Scorched Earth MS + Regen - Level 3
+Tip=,Unholy Aura - [|cffffcc00Level 2|r],Unholy Aura - [|cffffcc00Level 3|r]
+Ubertip=,"Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate."
+Researchtip=Learn |cffffcc00U|rnholy Aura - [|cffffcc00Level %d|r]
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Level 1|r - <AUau,DataA1,%>% movement, minor regeneration bonus. |n|cffffcc00Level 2|r - <AUau,DataA2,%>% movement, moderate regeneration bonus. |n|cffffcc00Level 3|r - <AUau,DataA3,%>% movement, greater regeneration bonus."
+Researchhotkey=U
+[A1RD]
+Name=獠牙冲刺
+Tip=獠牙冲刺 - [|cffffcc00等级 1|r],獠牙冲刺 - [|cffffcc00等级 2|r],獠牙冲刺 - [|cffffcc00等级 3|r],獠牙冲刺 - [|cffffcc00等级 4|r]
+Ubertip=半人猛犸以较快的速度向目标地点冲刺最大900距离，将途中碰到的敌方英雄用獠牙穿起，造成70点伤害，并带向目标地点。之后，被穿起的敌人移动速度降低40%，持续2.5秒。|n|n|cffff0303无视地形|r|n|cffff0303减速效果无视魔法免疫|r|n|n|cff99ccff冷却时间：|r30,半人猛犸以较快的速度向目标地点冲刺最大1000距离，将途中碰到的敌方英雄用獠牙穿起，造成140点伤害，并带向目标地点。之后，被穿起的敌人移动速度降低40%，持续2.75秒。|n|n|cffff0303无视地形|r|n|cffff0303减速效果无视魔法免疫|r|n|n|cff99ccff冷却时间：|r30,半人猛犸以较快的速度向目标地点冲刺最大1100距离，将途中碰到的敌方英雄用獠牙穿起，造成210点伤害，并带向目标地点。之后，被穿起的敌人移动速度降低40%，持续3秒。|n|n|cffff0303无视地形|r|n|cffff0303减速效果无视魔法免疫|r|n|n|cff99ccff冷却时间：|r30,半人猛犸以较快的速度向目标地点冲刺最大1200距离，将途中碰到的敌方英雄用獠牙穿起，造成280点伤害，并带向目标地点。之后，被穿起的敌人移动速度降低40%，持续3.25秒。|n|n|cffff0303无视地形|r|n|cffff0303减速效果无视魔法免疫|r|n|n|cff99ccff冷却时间：|r30
+Hotkey=D
+Researchtip=学习 獠牙冲刺 - [|cffffcc00等级 %d|r]|n(Skewer)
+Researchubertip=半人猛犸以较快的速度冲向一个目标地点，将途中碰到的敌方英雄用獠牙穿起，造成伤害并带向目标地点。之后，被穿起的敌人移动速度降低40%。|n|n|cffff0303无视地形|r|n|cffff0303减速效果无视魔法免疫|r|n|n|cff99ccff冷却时间：|r30|n|cff99ccff魔法消耗：|r80|n|n|cffffcc00等级 1|r - 造成70点伤害，最大距离900，减速效果持续2.5秒|n|cffffcc00等级 2|r - 造成140点伤害，最大距离1000，减速效果持续2.75秒|n|cffffcc00等级 3|r - 造成210点伤害，最大距离1100，减速效果持续3秒|n|cffffcc00等级 4|r - 造成280点伤害，最大距离1200，减速效果持续3.25秒
+Researchhotkey=D
+[A1SG]
+Name=Snowball Aura
+Tip=
+Ubertip=
+Researchtip=学习 神行太保 - [|cffffcc00等级 %d|r]|n(Empowering Haste)
+Researchubertip="Causes the Spiritbreaker to swing his weapon faster with higher movement speed, allowing him to deal extra damage. His presence increases the movement speed of nearby allied units.  |n|n|cffffcc00Level 1|r - Increases movement speed by 4% and damage by 4% of his movement speed. |n|cffffcc00Level 2|r - Increases movement speed by 6% and damage by 8% of his movement speed. |n|cffffcc00Level 3|r - Increases movement speed by 8% and damage by 12% of his movement speed. |n|cffffcc00Level 4|r - Increases movement speed by 10% and damage by 16% of his movement speed."
+Researchhotkey=H
+[A1SV]
+Name=Psionic Wave
+Tip=Psionic |cffffcc00W|rave - [|cffffcc00Level 1|r],Psionic |cffffcc00W|rave - [|cffffcc00Level 2|r],Psionic |cffffcc00W|rave - [|cffffcc00Level 3|r],Psionic |cffffcc00W|rave - [|cffffcc00Level 4|r]
+Ubertip=text. |n|n|cff99ccffCooldown: |r 17,text. |n|n|cff99ccffCooldown: |r 17,text. |n|n|cff99ccffCooldown: |r 17,text. |n|n|cff99ccffCooldown: |r 17
+Hotkey=W
+Researchtip=Learn Psionic |cffffcc00W|rave - [|cffffcc00Level %d|r]
+Researchubertip=text. |n|n|cffffcc00Level 1|r - 1. |n|cffffcc00Level 2|r - 2. |n|cffffcc00Level 3|r - 3.|n|cffffcc00Level 4|r - 4.|n|n|cff99ccffCooldown: |r 17
+Researchhotkey=W
+[A1TY]
+Name=Global Regen
+Tip=Global Regen - [|cffffcc00Level 1|r],Global Regen - [|cffffcc00Level 2|r],Global Regen - [|cffffcc00Level 3|r],Global Regen - [|cffffcc00Level 4|r]
+Ubertip=text.,text.,text.,text.
+Researchtip=Learn |cffffcc00G|rlobal Regen - [|cffffcc00Level %d|r]
+Researchubertip=text. |n|n|cffffcc00Level 1|r - 1. |n|cffffcc00Level 2|r - 2. |n|cffffcc00Level 3|r - 3. |n|cffffcc00Level 4|r - 4.
+Researchhotkey=G
+[A21E]
+Name=Sprout
+Tip=发芽 - [|cffffcc00等级 1|r],发芽 - [|cffffcc00等级 2|r],发芽 - [|cffffcc00等级 3|r],发芽 - [|cffffcc00等级 4|r]
+Ubertip=使目标单位或地点周围的树木发芽生长，将他围在中央，持续3秒。|n|n|cff99ccff施法距离：|r625|n|cff99ccff冷却时间：|r11,使目标单位或地点周围的树木发芽生长，将他围在中央，持续4秒。|n|n|cff99ccff施法距离：|r700|n|cff99ccff冷却时间：|r10,使目标单位或地点周围的树木发芽生长，将他围在中央，持续5秒。|n|n|cff99ccff施法距离：|r775|n|cff99ccff冷却时间：|r9,使目标单位或地点周围的树木发芽生长，将他围在中央，持续6秒。|n|n|cff99ccff施法距离：|r850|n|cff99ccff冷却时间：|r8
+Hotkey=T
+Researchtip=学习 发芽 - [|cffffcc00等级 %d|r]|n(Sprout)
+Researchubertip=使目标单位或地点周围的树木发芽生长，将其围在中央。|n|n|cff99ccff施法距离：|r625/700/775/850|n|cff99ccff冷却时间：|r11/10/9/8|n|cff99ccff魔法消耗：|r70/90/110/130|n|n|cffffcc00等级 1|r - 持续3秒|n|cffffcc00等级 2|r - 持续4秒|n|cffffcc00等级 3|r - 持续5秒|n|cffffcc00等级 4|r - 持续6秒
+Researchhotkey=T
+[A21O]
+Name=Blind
+Tip=
+Ubertip=
+Untip=
+Unubertip=
+Hotkey=D
+Unhotkey=D
+Researchhotkey=D
+Researchtip=学习 致盲 - [|cffffcc00等级 %d|r]|n(Blind)
+Researchubertip=用一道灼热的光束致盲目标，使其攻击有一定的概率落空。|n|n|cff99ccff施法距离：|r700|n|cff99ccff持续时间：|r15(30)|n|cff99ccff冷却时间：|r15/12/9/6|n|cff99ccff魔法消耗：|r20|n|n|cffffcc00等级 1|r - 20%的概率攻击落空|n|cffffcc00等级 2|r - 28%的概率攻击落空|n|cffffcc00等级 3|r - 36%的概率攻击落空|n|cffffcc00等级 4|r - 44%的概率攻击落空
+[A23Y]
+Name=Rip Tide
+Tip=激流 - [|cffffcc00等级 1|r],激流 - [|cffffcc00等级 2|r],激流 - [|cffffcc00等级 3|r],激流 - [|cffffcc00等级 4|r]
+Ubertip=运用大海的力量，创造出一股有魔力的激流冲刷敌人，造成130点伤害并降低2点护甲。|n|n|cff99ccff作用范围：|r320|n|cff99ccff持续时间：|r8|n|cff99ccff冷却时间：|r10,运用大海的力量，创造出一股有魔力的激流冲刷敌人，造成160点伤害并降低3点护甲。|n|n|cff99ccff作用范围：|r320|n|cff99ccff持续时间：|r8|n|cff99ccff冷却时间：|r10,运用大海的力量，创造出一股有魔力的激流冲刷敌人，造成190点伤害并降低4点护甲。|n|n|cff99ccff作用范围：|r320|n|cff99ccff持续时间：|r8|n|cff99ccff冷却时间：|r10,运用大海的力量，创造出一股有魔力的激流冲刷敌人，造成220点伤害并降低5点护甲。|n|n|cff99ccff作用范围：|r320|n|cff99ccff持续时间：|r8|n|cff99ccff冷却时间：|r10
+Hotkey=D
+Researchtip=学习 激流 - [|cffffcc00等级 %d|r]|n(Rip Tide)
+Researchubertip=运用大海的力量，创造出一股有魔力的激流冲刷敌人，造成伤害并降其低护甲。|n|n|cff99ccff作用范围：|r320|n|cff99ccff持续时间：|r8|n|cff99ccff冷却时间：|r10|n|cff99ccff魔法消耗：|r80/90/100/110|n|n|cffffcc00等级 1|r - 造成130点伤害，降低2点护甲|n|cffffcc00等级 2|r - 造成160点伤害，降低3点护甲|n|cffffcc00等级 3|r - 造成190点伤害，降低4点护甲|n|cffffcc00等级 4|r - 造成220点伤害，降低5点护甲
+Researchhotkey=D
+[A2B8]
+Name=Wraith MS Bonus - 4
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A2B9]
+Name=Wraith MS Bonus - 2
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A2BA]
+Name=Wraith MS Bonus - 1
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A2BB]
+Name=Wraith MS Bonus - 3
+Tip=
+Ubertip=
+Researchtip=学习 邪恶执着 - [|cffffcc00等级 %d|r]|n(Unholy Fervor)
+Researchubertip=提升闪电幽魂的移动速度和生命回复速度。|n|n|cffffcc00等级 1|r - 提升3%的移动速度和0.5点/秒的生命回复速度。|n|cffffcc00等级 2|r - 提升5%的移动速度和1点/秒的生命回复速度。|n|cffffcc00等级 3|r - 提升8%的移动速度和1.5点/秒的生命回复速度。|n|cffffcc00等级 4|r - 提升10%的移动速度和2点/秒的生命回复速度。
+Researchhotkey=N
+[A2E2]
+Name=Whirling Death
+Tip=死亡旋风 - [|cffffcc00等级 1|r],死亡旋风 - [|cffffcc00等级 2|r],死亡旋风 - [|cffffcc00等级 3|r],死亡旋风 - [|cffffcc00等级 4|r]
+Ubertip=text,text,text,text
+Hotkey=D
+Researchtip=学习 死亡旋风 - [|cffffcc00等级 %d|r]|n(Whirling Death)
+Researchubertip=text
+Researchhotkey=D
+[A2F0]
+Name=疾风屏障
+Tip=疾风屏障 - [|cffffcc00等级 1|r],疾风屏障 - [|cffffcc00等级 2|r],疾风屏障 - [|cffffcc00等级 3|r],疾风屏障 - [|cffffcc00等级 4|r]
+Ubertip=text,text,text,text
+Hotkey=R
+Researchtip=学习 疾风屏障 - [|cffffcc00等级 %d|r]|n(Wind Barrier)
+Researchubertip=text.
+Researchhotkey=R
+[A2G8]
+Name=Moment of Courage - Lifesteal 1
+Tip=吸血光环 - [|cffffcc00等级 1|r],吸血光环 - [|cffffcc00等级 2|r],吸血光环 - [|cffffcc00等级 3|r],吸血光环 - [|cffffcc00等级 4|r]
+Ubertip=附近的友方近程单位在攻击时，能将所造成伤害量的5%转化为自身的生命。|n|n|cff99ccff作用范围：|r300,Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 20% of their attack damage when they hit enemy units.
+Researchtip=学习 吸血光环 - [|cffffcc00等级 %d|r]|n(Vampiric Aura)
+Researchubertip=附近的友方近程单位在攻击时，能将所造成的伤害量转化为自身的生命。|n|n|cff99ccff作用范围：|r300|n|n|cffffcc00等级 1|r - 转化伤害量的5%|n|cffffcc00等级 2|r - 转化伤害量的10%|n|cffffcc00等级 3|r - 转化伤害量的15%|n|cffffcc00等级 4|r - 转化伤害量的20%
+Researchhotkey=V
+[A2G9]
+Name=Moment of Courage - Lifesteal 3
+Tip=吸血光环 - [|cffffcc00等级 1|r],吸血光环 - [|cffffcc00等级 2|r],吸血光环 - [|cffffcc00等级 3|r],吸血光环 - [|cffffcc00等级 4|r]
+Ubertip=附近的友方近程单位在攻击时，能将所造成伤害量的5%转化为自身的生命。|n|n|cff99ccff作用范围：|r300,Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 20% of their attack damage when they hit enemy units.
+Researchtip=学习 吸血光环 - [|cffffcc00等级 %d|r]|n(Vampiric Aura)
+Researchubertip=附近的友方近程单位在攻击时，能将所造成的伤害量转化为自身的生命。|n|n|cff99ccff作用范围：|r300|n|n|cffffcc00等级 1|r - 转化伤害量的5%|n|cffffcc00等级 2|r - 转化伤害量的10%|n|cffffcc00等级 3|r - 转化伤害量的15%|n|cffffcc00等级 4|r - 转化伤害量的20%
+Researchhotkey=V
+[A2GA]
+Name=Moment of Courage - Lifesteal 2
+Tip=吸血光环 - [|cffffcc00等级 1|r],吸血光环 - [|cffffcc00等级 2|r],吸血光环 - [|cffffcc00等级 3|r],吸血光环 - [|cffffcc00等级 4|r]
+Ubertip=附近的友方近程单位在攻击时，能将所造成伤害量的5%转化为自身的生命。|n|n|cff99ccff作用范围：|r300,Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 20% of their attack damage when they hit enemy units.
+Researchtip=学习 吸血光环 - [|cffffcc00等级 %d|r]|n(Vampiric Aura)
+Researchubertip=附近的友方近程单位在攻击时，能将所造成的伤害量转化为自身的生命。|n|n|cff99ccff作用范围：|r300|n|n|cffffcc00等级 1|r - 转化伤害量的5%|n|cffffcc00等级 2|r - 转化伤害量的10%|n|cffffcc00等级 3|r - 转化伤害量的15%|n|cffffcc00等级 4|r - 转化伤害量的20%
+Researchhotkey=V
+[A2GB]
+Name=Moment of Courage - Lifesteal 4
+Tip=吸血光环 - [|cffffcc00等级 1|r],吸血光环 - [|cffffcc00等级 2|r],吸血光环 - [|cffffcc00等级 3|r],吸血光环 - [|cffffcc00等级 4|r]
+Ubertip=附近的友方近程单位在攻击时，能将所造成伤害量的5%转化为自身的生命。|n|n|cff99ccff作用范围：|r300,Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 20% of their attack damage when they hit enemy units.
+Researchtip=学习 吸血光环 - [|cffffcc00等级 %d|r]|n(Vampiric Aura)
+Researchubertip=附近的友方近程单位在攻击时，能将所造成的伤害量转化为自身的生命。|n|n|cff99ccff作用范围：|r300|n|n|cffffcc00等级 1|r - 转化伤害量的5%|n|cffffcc00等级 2|r - 转化伤害量的10%|n|cffffcc00等级 3|r - 转化伤害量的15%|n|cffffcc00等级 4|r - 转化伤害量的20%
+Researchhotkey=V
+[A2H5]
+Name=火焰屏障
+Tip=
+Ubertip=
+Hotkey=E
+Researchhotkey=E
+[A2JS]
+Name=Fire Barrier - Lifesteal 3
+Tip=吸血光环 - [|cffffcc00等级 1|r],吸血光环 - [|cffffcc00等级 2|r],吸血光环 - [|cffffcc00等级 3|r],吸血光环 - [|cffffcc00等级 4|r]
+Ubertip=附近的友方近程单位在攻击时，能将所造成伤害量的5%转化为自身的生命。|n|n|cff99ccff作用范围：|r300,Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 20% of their attack damage when they hit enemy units.
+Researchtip=学习 吸血光环 - [|cffffcc00等级 %d|r]|n(Vampiric Aura)
+Researchubertip=附近的友方近程单位在攻击时，能将所造成的伤害量转化为自身的生命。|n|n|cff99ccff作用范围：|r300|n|n|cffffcc00等级 1|r - 转化伤害量的5%|n|cffffcc00等级 2|r - 转化伤害量的10%|n|cffffcc00等级 3|r - 转化伤害量的15%|n|cffffcc00等级 4|r - 转化伤害量的20%
+Researchhotkey=V
+[A2JT]
+Name=Fire Barrier - Lifesteal 2
+Tip=吸血光环 - [|cffffcc00等级 1|r],吸血光环 - [|cffffcc00等级 2|r],吸血光环 - [|cffffcc00等级 3|r],吸血光环 - [|cffffcc00等级 4|r]
+Ubertip=附近的友方近程单位在攻击时，能将所造成伤害量的5%转化为自身的生命。|n|n|cff99ccff作用范围：|r300,Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 20% of their attack damage when they hit enemy units.
+Researchtip=学习 吸血光环 - [|cffffcc00等级 %d|r]|n(Vampiric Aura)
+Researchubertip=附近的友方近程单位在攻击时，能将所造成的伤害量转化为自身的生命。|n|n|cff99ccff作用范围：|r300|n|n|cffffcc00等级 1|r - 转化伤害量的5%|n|cffffcc00等级 2|r - 转化伤害量的10%|n|cffffcc00等级 3|r - 转化伤害量的15%|n|cffffcc00等级 4|r - 转化伤害量的20%
+Researchhotkey=V
+[A2JU]
+Name=Fire Barrier - Lifesteal 1
+Tip=吸血光环 - [|cffffcc00等级 1|r],吸血光环 - [|cffffcc00等级 2|r],吸血光环 - [|cffffcc00等级 3|r],吸血光环 - [|cffffcc00等级 4|r]
+Ubertip=附近的友方近程单位在攻击时，能将所造成伤害量的5%转化为自身的生命。|n|n|cff99ccff作用范围：|r300,Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 20% of their attack damage when they hit enemy units.
+Researchtip=学习 吸血光环 - [|cffffcc00等级 %d|r]|n(Vampiric Aura)
+Researchubertip=附近的友方近程单位在攻击时，能将所造成的伤害量转化为自身的生命。|n|n|cff99ccff作用范围：|r300|n|n|cffffcc00等级 1|r - 转化伤害量的5%|n|cffffcc00等级 2|r - 转化伤害量的10%|n|cffffcc00等级 3|r - 转化伤害量的15%|n|cffffcc00等级 4|r - 转化伤害量的20%
+Researchhotkey=V
+[A2JV]
+Name=Fire Barrier - Lifesteal 4
+Tip=吸血光环 - [|cffffcc00等级 1|r],吸血光环 - [|cffffcc00等级 2|r],吸血光环 - [|cffffcc00等级 3|r],吸血光环 - [|cffffcc00等级 4|r]
+Ubertip=附近的友方近程单位在攻击时，能将所造成伤害量的5%转化为自身的生命。|n|n|cff99ccff作用范围：|r300,Nearby friendly melee units gain 10% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 15% of their attack damage when they hit enemy units.,Nearby friendly melee units gain 20% of their attack damage when they hit enemy units.
+Researchtip=学习 吸血光环 - [|cffffcc00等级 %d|r]|n(Vampiric Aura)
+Researchubertip=附近的友方近程单位在攻击时，能将所造成的伤害量转化为自身的生命。|n|n|cff99ccff作用范围：|r300|n|n|cffffcc00等级 1|r - 转化伤害量的5%|n|cffffcc00等级 2|r - 转化伤害量的10%|n|cffffcc00等级 3|r - 转化伤害量的15%|n|cffffcc00等级 4|r - 转化伤害量的20%
+Researchhotkey=V
+[A2L3]
+Name=Summon Shade
+Tip=召唤阴影 - [|cffffcc00等级 1|r],召唤阴影 - [|cffffcc00等级 |2r],召唤阴影 - [|cffffcc00等级 3|r],召唤阴影 - [|cffffcc00等级 4|r]
+Ubertip=Text. |n|n|cff99ccffCooldown: |r 30,Text. |n|n|cff99ccffCooldown: |r 25,Text. |n|n|cff99ccffCooldown: |r 20,Text. |n|n|cff99ccffCooldown: |r 15
+Hotkey=W
+Researchtip=学习 洞察虫群 - [|cffffcc00等级 %d|r]|n(Urna Swarm)
+Researchubertip=Text.|n|n|cffffcc00Level 1|r - 1 maximum. |n|cffffcc00Level 2|r - 2 maximum.|n|cffffcc00Level 3|r - 3 maximum.|n|cffffcc00Level 4|r - 4 maximum. |n|n|cff99ccffCooldown: |r 30/25/20/15 |n|cff99ccffManacost: |r 40
+Researchhotkey=W
+Untip=|cffc3dbff右键单击以激活自动施放|r
+Unubertip=|cffc3dbff右键单击以关闭自动施放|r
+[A2LH]
+Name=天神下凡
+Tip=,驱逐 - [|cffffcc00等级 2|r],驱逐 - [|cffffcc00等级 3|r],驱逐 - [|cffffcc00等级 4|r]
+Ubertip=,Creates powerful warding magics around a target unit that protects it from all magic for 10 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 15 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.,Creates powerful warding magics around a target unit that protects it from all magic for 20 seconds. |n|n|cff99ccffCooldown: |r 20 seconds.
+Hotkey=E
+Researchhotkey=E
+Researchtip=学习 驱逐 - [|cffffcc00等级 %d|r]|n(Repel)
+Researchubertip=创造一个神圣守护使目标不受绝大部分魔法的影响。|n|n|cff99ccff施法距离：|r500|n|cff99ccff冷却时间：|r20|n|cff99ccff魔法消耗：|r60/70/80/90|n|n|cffffcc00等级 1|r - 持续5秒|n|cffffcc00等级 2|r - 持续10秒|n|cffffcc00等级 3|r - 持续15秒|n|cffffcc00等级 4|r - 持续20秒
+[A2QG]
+Name=空瓶子减速
+Tip=神行太保 - [|cffffcc00等级 1|r],Empowering Haste - [|cffffcc00Level 2|r],Empowering Haste - [|cffffcc00Level 3|r],Empowering Haste - [|cffffcc00Level 4|r]
+Ubertip=裂魂人给予周围友军6%移动速度提升光环。,The Spiritbreaker gives a 10% movement speed aura.,The Spiritbreaker gives a 14% movement speed aura.,The Spiritbreaker gives a 18% movement speed aura.
+Researchtip=学习 神行太保 - [|cffffcc00等级 %d|r]|n(Empowering Haste)
+Researchubertip=裂魂人的出现提升了附近友方单位的移动速度。|n|n|cff99ccff作用范围：|r900|n|n|cffffcc00等级 1|r - 提升附近友方单位6%的移动速度|n|cffffcc00等级 2|r - 提升附近友方单位10%的移动速度|n|cffffcc00等级 3|r - 提升附近友方单位14%的移动速度|n|cffffcc00等级 4|r - 提升附近友方单位18%的移动速度
+Researchhotkey=H
+[A2QH]
+Name=巨石
+Tip=Ston|cffffcc00e|r Rock - [|cffffcc00Level 1|r],Ston|cffffcc00e|r Rock - [|cffffcc00Level 2|r],Ston|cffffcc00e|r Rock - [|cffffcc00Level 3|r],Ston|cffffcc00e|r Rock - [|cffffcc00Level 4|r]
+Ubertip=Text.   |n|n|cff99ccffCooldown: |r 0,Text.   |n|n|cff99ccffCooldown: |r 0,Text.   |n|n|cff99ccffCooldown: |r 0,Text.   |n|n|cff99ccffCooldown: |r 0
+Hotkey=E
+Researchtip=学习 巨石 - [|cffffcc00等级 %d|r]|n(Stone Rock)
+Researchubertip=Text.   |n|n|cff99ccffCooldown: |r 2 |n|cff99ccffManacost: |r 0
+Researchhotkey=E
+[A2QM]
+Name=Boulder Smash
+Tip=巨石猛击 - [|cffffcc00等级 1|r],巨石猛击 - [|cffffcc00等级 2|r],巨石猛击 - [|cffffcc00等级 3|r],巨石猛击 - [|cffffcc00等级 4|r]
+Ubertip="Kaolin slams an ally, enemy, or Rock with his mighty stone, knocking them away from him, and damaging enemies the slammed target collides with. Slammed Rocks travel farther than fleshy targets and also silence impacted enemies for 5 seconds. Deals 100 damage.|n|n|cff99ccffCooldown: |r 22","Kaolin slams an ally, enemy, or Rock with his mighty stone, knocking them away from him, and damaging enemies the slammed target collides with. Slammed Rocks travel farther than fleshy targets and also silence impacted enemies for 5 seconds. Deals 150 damage.|n|n|cff99ccffCooldown: |r 20","Kaolin slams an ally, enemy, or Rock with his mighty stone, knocking them away from him, and damaging enemies the slammed target collides with. Slammed Rocks travel farther than fleshy targets and also silence impacted enemies for 5 seconds. Deals 200 damage.|n|n|cff99ccffCooldown: |r 18","Kaolin slams an ally, enemy, or Rock with his mighty stone, knocking them away from him, and damaging enemies the slammed target collides with. Slammed Rocks travel farther than fleshy targets and also silence impacted enemies for 5 seconds. Deals 250 damage.|n|n|cff99ccffCooldown: |r 16"
+Hotkey=D
+Researchhotkey=D
+Researchtip=学习 巨石猛击 - [|cffffcc00等级 %d|r]|n(Boulder Smash)
+Researchubertip="Kaolin slams an ally, enemy, or Rock with his mighty stone, knocking them away from him, and damaging enemies the slammed target collides with. Slammed Rocks travel farther than fleshy targets and also silence impacted enemies for 5 seconds. |n|n|cffffcc00Level 1|r - 100 Damage. |n|cffffcc00Level 2|r - 150 Damage. |n|cffffcc00Level 3|r - 200 Damage. |n|cffffcc00Level 4|r - 250 Damage.  |n|n|cff99ccffCooldown: |r 22/20/18/16 |n|cff99ccffManacost: |r 100 "
+[A2WQ]
+Name=Lightning Bolt
+Tip=闪电击 - [|cffffcc00等级 1|r],闪电击 - [|cffffcc00等级 2|r],闪电击 - [|cffffcc00等级 3|r],闪电击 - [|cffffcc00等级 4|r]
+Ubertip=从天空召唤一道闪电对目标造成100点伤害，晕眩0.01秒；同时闪电给予你750范围的真视效果，持续4.5秒。可以对地面施放，影响325范围内最近的敌方英雄。|n|n|cff99ccff施法距离：|r700|n|cff99ccff冷却时间：|r6,从天空召唤一道闪电对目标造成175点伤害，晕眩0.01秒；同时闪电给予你750范围的真视效果，持续4.5秒。可以对地面施放，影响325范围内最近的敌方英雄。|n|n|cff99ccff施法距离：|r700|n|cff99ccff冷却时间：|r6,从天空召唤一道闪电对目标造成275点伤害，晕眩0.01秒；同时闪电给予你750范围的真视效果，持续4.5秒。可以对地面施放，影响325范围内最近的敌方英雄。|n|n|cff99ccff施法距离：|r700|n|cff99ccff冷却时间：|r6,从天空召唤一道闪电对目标造成350点伤害，晕眩0.01秒；同时闪电给予你750范围的真视效果，持续4.5秒。可以对地面施放，影响325范围内最近的敌方英雄。|n|n|cff99ccff施法距离：|r700|n|cff99ccff冷却时间：|r6
+Hotkey=G
+Researchtip=学习 闪电击 - [|cffffcc00等级 %d|r]|n(Lightning Bolt)
+Researchubertip=从天空召唤一道闪电对目标造成伤害，并晕眩0.01秒；同时闪电给予你750范围的真视效果，持续4.5秒。可以对地面施放，影响325范围内最近的敌方英雄。|n|n|cff99ccff施法距离：|r700|n|cff99ccff冷却时间：|r6|n|cff99ccff魔法消耗：|r75/95/115/135|n|n|cffffcc00等级 1|r - 造成100点伤害。|n|cffffcc00等级 2|r - 造成175点伤害|n|cffffcc00等级 3|r - 造成275点伤害|n|cffffcc00等级 4|r - 造成350点伤害
+Researchhotkey=G
+[A2ZJ]
+Name=真视
+Tip=真视
+Ubertip=侦察到周围的隐形单位。
+[A30G]
+Name=神行太保
+Tip=神行太保 - [|cffffcc00等级 1|r],Empowering Haste - [|cffffcc00Level 2|r],Empowering Haste - [|cffffcc00Level 3|r],Empowering Haste - [|cffffcc00Level 4|r]
+Ubertip=裂魂人给予周围友军6%移动速度提升光环。,The Spiritbreaker gives a 10% movement speed aura.,The Spiritbreaker gives a 14% movement speed aura.,The Spiritbreaker gives a 18% movement speed aura.
+Researchtip=学习 神行太保 - [|cffffcc00等级 %d|r]|n(Empowering Haste)
+Researchubertip=裂魂人的出现提升了附近友方单位的移动速度。|n|n|cff99ccff作用范围：|r900|n|n|cffffcc00等级 1|r - 提升附近友方单位6%的移动速度|n|cffffcc00等级 2|r - 提升附近友方单位10%的移动速度|n|cffffcc00等级 3|r - 提升附近友方单位14%的移动速度|n|cffffcc00等级 4|r - 提升附近友方单位18%的移动速度
+Researchhotkey=H
+[A30I]
+Name=神行太保
+Tip=神行太保 - [|cffffcc00等级 1|r],Empowering Haste - [|cffffcc00Level 2|r],Empowering Haste - [|cffffcc00Level 3|r],Empowering Haste - [|cffffcc00Level 4|r]
+Ubertip=裂魂人给予周围友军6%移动速度提升光环。,The Spiritbreaker gives a 10% movement speed aura.,The Spiritbreaker gives a 14% movement speed aura.,The Spiritbreaker gives a 18% movement speed aura.
+Researchtip=学习 神行太保 - [|cffffcc00等级 %d|r]|n(Empowering Haste)
+Researchubertip=裂魂人的出现提升了附近友方单位的移动速度。|n|n|cff99ccff作用范围：|r900|n|n|cffffcc00等级 1|r - 提升附近友方单位6%的移动速度|n|cffffcc00等级 2|r - 提升附近友方单位10%的移动速度|n|cffffcc00等级 3|r - 提升附近友方单位14%的移动速度|n|cffffcc00等级 4|r - 提升附近友方单位18%的移动速度
+Researchhotkey=H
+[A30J]
+Name=神行太保
+Tip=神行太保 - [|cffffcc00等级 1|r],Empowering Haste - [|cffffcc00Level 2|r],Empowering Haste - [|cffffcc00Level 3|r],Empowering Haste - [|cffffcc00Level 4|r]
+Ubertip=裂魂人给予周围友军6%移动速度提升光环。,The Spiritbreaker gives a 10% movement speed aura.,The Spiritbreaker gives a 14% movement speed aura.,The Spiritbreaker gives a 18% movement speed aura.
+Researchtip=学习 神行太保 - [|cffffcc00等级 %d|r]|n(Empowering Haste)
+Researchubertip=裂魂人的出现提升了附近友方单位的移动速度。|n|n|cff99ccff作用范围：|r900|n|n|cffffcc00等级 1|r - 提升附近友方单位6%的移动速度|n|cffffcc00等级 2|r - 提升附近友方单位10%的移动速度|n|cffffcc00等级 3|r - 提升附近友方单位14%的移动速度|n|cffffcc00等级 4|r - 提升附近友方单位18%的移动速度
+Researchhotkey=H
+[A30K]
+Name=神行太保
+Tip=神行太保 - [|cffffcc00等级 1|r],Empowering Haste - [|cffffcc00Level 2|r],Empowering Haste - [|cffffcc00Level 3|r],Empowering Haste - [|cffffcc00Level 4|r]
+Ubertip=裂魂人给予周围友军6%移动速度提升光环。,The Spiritbreaker gives a 10% movement speed aura.,The Spiritbreaker gives a 14% movement speed aura.,The Spiritbreaker gives a 18% movement speed aura.
+Researchtip=学习 神行太保 - [|cffffcc00等级 %d|r]|n(Empowering Haste)
+Researchubertip=裂魂人的出现提升了附近友方单位的移动速度。|n|n|cff99ccff作用范围：|r900|n|n|cffffcc00等级 1|r - 提升附近友方单位6%的移动速度|n|cffffcc00等级 2|r - 提升附近友方单位10%的移动速度|n|cffffcc00等级 3|r - 提升附近友方单位14%的移动速度|n|cffffcc00等级 4|r - 提升附近友方单位18%的移动速度
+Researchhotkey=H
+[A30L]
+Name=神行太保
+Tip=神行太保 - [|cffffcc00等级 1|r],Empowering Haste - [|cffffcc00Level 2|r],Empowering Haste - [|cffffcc00Level 3|r],Empowering Haste - [|cffffcc00Level 4|r]
+Ubertip=裂魂人给予周围友军6%移动速度提升光环。,The Spiritbreaker gives a 10% movement speed aura.,The Spiritbreaker gives a 14% movement speed aura.,The Spiritbreaker gives a 18% movement speed aura.
+Researchtip=学习 神行太保 - [|cffffcc00等级 %d|r]|n(Empowering Haste)
+Researchubertip=裂魂人的出现提升了附近友方单位的移动速度。|n|n|cff99ccff作用范围：|r900|n|n|cffffcc00等级 1|r - 提升附近友方单位6%的移动速度|n|cffffcc00等级 2|r - 提升附近友方单位10%的移动速度|n|cffffcc00等级 3|r - 提升附近友方单位14%的移动速度|n|cffffcc00等级 4|r - 提升附近友方单位18%的移动速度
+Researchhotkey=H
+[A30M]
+Name=神行太保
+Tip=神行太保 - [|cffffcc00等级 1|r],Empowering Haste - [|cffffcc00Level 2|r],Empowering Haste - [|cffffcc00Level 3|r],Empowering Haste - [|cffffcc00Level 4|r]
+Ubertip=裂魂人给予周围友军6%移动速度提升光环。,The Spiritbreaker gives a 10% movement speed aura.,The Spiritbreaker gives a 14% movement speed aura.,The Spiritbreaker gives a 18% movement speed aura.
+Researchtip=学习 神行太保 - [|cffffcc00等级 %d|r]|n(Empowering Haste)
+Researchubertip=裂魂人的出现提升了附近友方单位的移动速度。|n|n|cff99ccff作用范围：|r900|n|n|cffffcc00等级 1|r - 提升附近友方单位6%的移动速度|n|cffffcc00等级 2|r - 提升附近友方单位10%的移动速度|n|cffffcc00等级 3|r - 提升附近友方单位14%的移动速度|n|cffffcc00等级 4|r - 提升附近友方单位18%的移动速度
+Researchhotkey=H
+[A30N]
+Name=神行太保
+Tip=神行太保 - [|cffffcc00等级 1|r],Empowering Haste - [|cffffcc00Level 2|r],Empowering Haste - [|cffffcc00Level 3|r],Empowering Haste - [|cffffcc00Level 4|r]
+Ubertip=裂魂人给予周围友军6%移动速度提升光环。,The Spiritbreaker gives a 10% movement speed aura.,The Spiritbreaker gives a 14% movement speed aura.,The Spiritbreaker gives a 18% movement speed aura.
+Researchtip=学习 神行太保 - [|cffffcc00等级 %d|r]|n(Empowering Haste)
+Researchubertip=裂魂人的出现提升了附近友方单位的移动速度。|n|n|cff99ccff作用范围：|r900|n|n|cffffcc00等级 1|r - 提升附近友方单位6%的移动速度|n|cffffcc00等级 2|r - 提升附近友方单位10%的移动速度|n|cffffcc00等级 3|r - 提升附近友方单位14%的移动速度|n|cffffcc00等级 4|r - 提升附近友方单位18%的移动速度
+Researchhotkey=H
+[A30O]
+Name=神行太保
+Tip=神行太保 - [|cffffcc00等级 1|r],Empowering Haste - [|cffffcc00Level 2|r],Empowering Haste - [|cffffcc00Level 3|r],Empowering Haste - [|cffffcc00Level 4|r]
+Ubertip=裂魂人给予周围友军6%移动速度提升光环。,The Spiritbreaker gives a 10% movement speed aura.,The Spiritbreaker gives a 14% movement speed aura.,The Spiritbreaker gives a 18% movement speed aura.
+Researchtip=学习 神行太保 - [|cffffcc00等级 %d|r]|n(Empowering Haste)
+Researchubertip=裂魂人的出现提升了附近友方单位的移动速度。|n|n|cff99ccff作用范围：|r900|n|n|cffffcc00等级 1|r - 提升附近友方单位6%的移动速度|n|cffffcc00等级 2|r - 提升附近友方单位10%的移动速度|n|cffffcc00等级 3|r - 提升附近友方单位14%的移动速度|n|cffffcc00等级 4|r - 提升附近友方单位18%的移动速度
+Researchhotkey=H
+[A30S]
+Name=神行太保
+Tip=神行太保 - [|cffffcc00等级 1|r],Empowering Haste - [|cffffcc00Level 2|r],Empowering Haste - [|cffffcc00Level 3|r],Empowering Haste - [|cffffcc00Level 4|r]
+Ubertip=裂魂人给予周围友军6%移动速度提升光环。,The Spiritbreaker gives a 10% movement speed aura.,The Spiritbreaker gives a 14% movement speed aura.,The Spiritbreaker gives a 18% movement speed aura.
+Researchtip=学习 神行太保 - [|cffffcc00等级 %d|r]|n(Empowering Haste)
+Researchubertip=裂魂人的出现提升了附近友方单位的移动速度。|n|n|cff99ccff作用范围：|r900|n|n|cffffcc00等级 1|r - 提升附近友方单位6%的移动速度|n|cffffcc00等级 2|r - 提升附近友方单位10%的移动速度|n|cffffcc00等级 3|r - 提升附近友方单位14%的移动速度|n|cffffcc00等级 4|r - 提升附近友方单位18%的移动速度
+Researchhotkey=H
+[A30T]
+Name=神行太保
+Tip=神行太保 - [|cffffcc00等级 1|r],Empowering Haste - [|cffffcc00Level 2|r],Empowering Haste - [|cffffcc00Level 3|r],Empowering Haste - [|cffffcc00Level 4|r]
+Ubertip=裂魂人给予周围友军6%移动速度提升光环。,The Spiritbreaker gives a 10% movement speed aura.,The Spiritbreaker gives a 14% movement speed aura.,The Spiritbreaker gives a 18% movement speed aura.
+Researchtip=学习 神行太保 - [|cffffcc00等级 %d|r]|n(Empowering Haste)
+Researchubertip=裂魂人的出现提升了附近友方单位的移动速度。|n|n|cff99ccff作用范围：|r900|n|n|cffffcc00等级 1|r - 提升附近友方单位6%的移动速度|n|cffffcc00等级 2|r - 提升附近友方单位10%的移动速度|n|cffffcc00等级 3|r - 提升附近友方单位14%的移动速度|n|cffffcc00等级 4|r - 提升附近友方单位18%的移动速度
+Researchhotkey=H
+[A30U]
+Name=神行太保
+Tip=神行太保 - [|cffffcc00等级 1|r],Empowering Haste - [|cffffcc00Level 2|r],Empowering Haste - [|cffffcc00Level 3|r],Empowering Haste - [|cffffcc00Level 4|r]
+Ubertip=裂魂人给予周围友军6%移动速度提升光环。,The Spiritbreaker gives a 10% movement speed aura.,The Spiritbreaker gives a 14% movement speed aura.,The Spiritbreaker gives a 18% movement speed aura.
+Researchtip=学习 神行太保 - [|cffffcc00等级 %d|r]|n(Empowering Haste)
+Researchubertip=裂魂人的出现提升了附近友方单位的移动速度。|n|n|cff99ccff作用范围：|r900|n|n|cffffcc00等级 1|r - 提升附近友方单位6%的移动速度|n|cffffcc00等级 2|r - 提升附近友方单位10%的移动速度|n|cffffcc00等级 3|r - 提升附近友方单位14%的移动速度|n|cffffcc00等级 4|r - 提升附近友方单位18%的移动速度
+Researchhotkey=H
+[A30V]
+Name=神行太保
+Tip=神行太保 - [|cffffcc00等级 1|r],Empowering Haste - [|cffffcc00Level 2|r],Empowering Haste - [|cffffcc00Level 3|r],Empowering Haste - [|cffffcc00Level 4|r]
+Ubertip=裂魂人给予周围友军6%移动速度提升光环。,The Spiritbreaker gives a 10% movement speed aura.,The Spiritbreaker gives a 14% movement speed aura.,The Spiritbreaker gives a 18% movement speed aura.
+Researchtip=学习 神行太保 - [|cffffcc00等级 %d|r]|n(Empowering Haste)
+Researchubertip=裂魂人的出现提升了附近友方单位的移动速度。|n|n|cff99ccff作用范围：|r900|n|n|cffffcc00等级 1|r - 提升附近友方单位6%的移动速度|n|cffffcc00等级 2|r - 提升附近友方单位10%的移动速度|n|cffffcc00等级 3|r - 提升附近友方单位14%的移动速度|n|cffffcc00等级 4|r - 提升附近友方单位18%的移动速度
+Researchhotkey=H
+[A30X]
+Name=Buttery MS Bonus
+Tip=神行太保 - [|cffffcc00等级 1|r],Empowering Haste - [|cffffcc00Level 2|r],Empowering Haste - [|cffffcc00Level 3|r],Empowering Haste - [|cffffcc00Level 4|r]
+Ubertip=裂魂人给予周围友军6%移动速度提升光环。,The Spiritbreaker gives a 10% movement speed aura.,The Spiritbreaker gives a 14% movement speed aura.,The Spiritbreaker gives a 18% movement speed aura.
+Researchtip=学习 神行太保 - [|cffffcc00等级 %d|r]|n(Empowering Haste)
+Researchubertip=裂魂人的出现提升了附近友方单位的移动速度。|n|n|cff99ccff作用范围：|r900|n|n|cffffcc00等级 1|r - 提升附近友方单位6%的移动速度|n|cffffcc00等级 2|r - 提升附近友方单位10%的移动速度|n|cffffcc00等级 3|r - 提升附近友方单位14%的移动速度|n|cffffcc00等级 4|r - 提升附近友方单位18%的移动速度
+Researchhotkey=H
+[A387]
+Name=火焰之息减弱攻击
+[A38K]
+Name=雷区标识
+Tip=雷区标识
+Ubertip=放置一个警示标识提醒敌人小心地踩。雷区标识125范围内埋布地雷，麻痹陷阱和遥控炸弹不受真实视域的影响。同一时间只能拥有一个标识。|n|n|cff99ccff冷却时间：|r 300
+Hotkey=G
+[A38P]
+Name=寒冬诅咒攻速加成
+[A3CT]
+Name=钻地
+Tip=钻地
+Ubertip=地穴刺客钻入战场之下，钻地期间不能移动或攻击，但技能得到增强。|n|n|cff99ccff施法时间：|r1
+Hotkey=W
+[A3CV]
+Name=出地
+Tip=出地
+Ubertip=地穴刺客从地穴返回战场。
+Hotkey=W
+[A3CY]
+Name=Mana Burn
+Tip=法力燃烧 - [|cffffcc00等级 1|r],法力燃烧 - [|cffffcc00等级 2|r],法力燃烧 - [|cffffcc00等级 3|r],法力燃烧 - [|cffffcc00等级 4|r]
+Ubertip=向目标投射一支反魔法箭，燃烧目标相当于其智力值3.5倍的魔法，并造成与被燃烧的魔法等量的伤害。|n|n|cff99ccff施法距离：|r900|n|cff99ccff冷却时间：|r28,向目标投射一支反魔法箭，燃烧目标相当于其智力值4倍的魔法，并造成与被燃烧的魔法等量的伤害。|n|n|cff99ccff施法距离：|r900|n|cff99ccff冷却时间：|r20,向目标投射一支反魔法箭，燃烧目标相当于其智力值4.5倍的魔法，并造成与被燃烧的魔法等量的伤害。|n|n|cff99ccff施法距离：|r900|n|cff99ccff冷却时间：|r12,向目标投射一支反魔法箭，燃烧目标相当于其智力值5倍的魔法，并造成与被燃烧的魔法等量的伤害。|n|n|cff99ccff施法距离：|r900|n|cff99ccff冷却时间：|r4
+Hotkey=R
+Researchhotkey=R
+Researchtip=学习 法力燃烧 - [|cffffcc00等级 %d|r]|n(Mana Burn)
+Researchubertip=向目标投射一支反魔法箭，燃烧目标相当于其智力值倍数的魔法，并造成与被燃烧的魔法等量的伤害。|n|n|cff99ccff施法距离：|r900|n|cff99ccff魔法消耗：|r100|n|n|cffffcc00等级 1|r - 冷却时间28秒，燃烧3.5倍目标智力值的魔法|n|cffffcc00等级 2|r - 冷却时间20秒，燃烧4倍目标智力值的魔法|n|cffffcc00等级 3|r - 冷却时间12秒，燃烧4.5倍目标智力值的魔法|n|cffffcc00等级 4|r - 冷却时间4秒，燃烧5倍目标智力值的魔法
+[A3CZ]
+Name=尖刺外壳
+Tip=尖刺外壳 - [|cffffcc00等级 1|r],尖刺外壳 - [|cffffcc00等级 2|r],尖刺外壳 - [|cffffcc00等级 3|r],尖刺外壳 - [|cffffcc00等级 4|r]
+Ubertip=暂时用有机倒钩增强刺客的壳质护甲，立即眩晕周围单位0.6秒，并阻挡并反弹来自其他单位的一次伤害，同时眩晕这些攻击者0.6秒。|n|n|cff99ccff持续时间：|r2.25|n|cff99ccff冷却时间：|r22,暂时用有机倒钩增强刺客的壳质护甲，立即眩晕周围单位1.2秒，并阻挡并反弹来自其他单位的一次伤害，同时眩晕这些攻击者1.2秒。|n|n|cff99ccff持续时间：|r2.25|n|cff99ccff冷却时间：|r18,暂时用有机倒钩增强刺客的壳质护甲，立即眩晕周围单位1.8秒，并阻挡并反弹来自其他单位的一次伤害，同时眩晕这些攻击者1.8秒。|n|n|cff99ccff持续时间：|r2.25|n|cff99ccff冷却时间：|r14,暂时用有机倒钩增强刺客的壳质护甲，立即眩晕周围单位2.4秒，并阻挡并反弹来自其他单位的一次伤害，同时眩晕这些攻击者2.4秒。|n|n|cff99ccff持续时间：|r2.25|n|cff99ccff冷却时间：|r10
+Hotkey=D
+Researchtip=学习 尖刺外壳 - [|cffffcc00等级 %d|r]|n(Spiked Carapace)
+Researchubertip=暂时用有机倒钩增强刺客的壳质护甲，立即眩晕周围单位，并阻挡并反弹来自其他单位的一次伤害，同时眩晕这些攻击者。|n|n|cff99ccff持续时间：|r2.25|n|cff99ccff冷却时间：|r22/18/14/10|n|cff99ccff魔法消耗：|r50|n|n|cffffcc00等级 1|r - 造成0.6秒眩晕|n|cffffcc00等级 2|r - 造成1.2秒眩晕|n|cffffcc00等级 3|r - 造成1.8秒眩晕|n|cffffcc00等级 4|r - 造成2.4秒眩晕
+Researchhotkey=D
+[A3D0]
+Name=Impale
+Tip=穿刺 - [|cffffcc00等级 1|r],穿刺 - [|cffffcc00等级 2|r],穿刺 - [|cffffcc00等级 3|r],穿刺 - [|cffffcc00等级 4|r]
+Ubertip=用巨爪猛击地面，向一条直线上射出带刺的卷须，造成80点伤害，并将敌方地面单位抛向空中，晕眩0.75秒。|n|n|cff99ccff施法距离：|r400|n|cff99ccff最大距离：|r1225|n|cff99ccff冷却时间：|r9,用巨爪猛击地面，向一条直线上射出带刺的卷须，造成140点伤害，并将敌方地面单位抛向空中，晕眩1.25秒。|n|n|cff99ccff施法距离：|r400|n|cff99ccff最大距离：|r1225|n|cff99ccff冷却时间：|r9,用巨爪猛击地面，向一条直线上射出带刺的卷须，造成200点伤害，并将敌方地面单位抛向空中，晕眩1.75秒。|n|n|cff99ccff施法距离：|r400|n|cff99ccff最大距离：|r1225|n|cff99ccff冷却时间：|r9,用巨爪猛击地面，向一条直线上射出带刺的卷须，造成260点伤害，并将敌方地面单位抛向空中，晕眩2.25秒。|n|n|cff99ccff施法距离：|r400|n|cff99ccff最大距离：|r1225|n|cff99ccff冷却时间：|r9
+Hotkey=E
+Researchtip=学习 穿刺 - [|cffffcc00等级 %d|r]|n(Impale)
+Researchubertip=用巨爪猛击地面，向一条直线上射出带刺的卷须，造成伤害并将敌方地面单位抛向空中，在他们落回地面后将晕眩一段时间。|n|n|cff99ccff施法距离：|r400|n|cff99ccff最大距离：|r1225|n|cff99ccff冷却时间：|r9|n|cff99ccff魔法消耗：|r95/115/135/155|n|n|cffffcc00等级 1|r - 造成80点伤害，晕眩0.75秒|n|cffffcc00等级 2|r - 造成140点伤害，晕眩1.25秒|n|cffffcc00等级 3|r - 造成200点伤害，晕眩1.75秒|n|cffffcc00等级 4|r - 造成260点伤害，晕眩2.25秒
+Researchhotkey=E
+[A3DF]
+Name=海象神踢
+Tip=海象神踢
+Ubertip=将目标往回踢900距离。之后会减速40%，持续4秒。|n|n|cff99ccff施法距离：|r150|n|cff99ccff冷却时间：|r10
+Hotkey=C
+[A3DG]
+Name=海象神踢
+[A3DO]
+Name=吸收
+Tip=吸收
+Ubertip=噬魂鬼可以将友方英雄吸收，使其藏在噬魂鬼体内。吸收的英雄将享受噬魂鬼受到的任何回复效果。友方英雄只要点击状态图标就能从体内出来，并对700范围内敌人造成300点伤害。如果噬魂鬼死亡或者吸收了另一个英雄，当前被吸收的英雄就会自动出来。|n|n|cff99ccff冷却时间：|r50
+Hotkey=E
+[A3DU]
+Name=查克拉魔法
+[A3E7]
+Name=炼金术士神杖授予效果
+[A3E9]
+Name=红莲宝珠效果
+[A3IG]
+Name=腐蚀吐息效果
+[A3II]
+Name=战鼓光环 - 攻击力
+Tip=战鼓光环
+Ubertip=增加附近友方单位15点攻击力
+[A3IJ]
+Name=战鼓光环 - 攻击速度
+Tip=战鼓光环
+Ubertip=增加附近友方单位15点攻击速度
+[A3IK]
+Name=龙肤光环
+Tip=龙肤光环
+Ubertip=对周围友方单位提供3点护甲，可叠加
+[A3IL]
+Name=混沌暴击减甲
+[A3IT]
+Name=自然之怒树人
+[A3MB]
+Name=魔法抗性光环
+Tip=魔法抗性光环
+Ubertip=该生物用魔法抗性光环保护友军。增加普通单位/英雄，20%/5%的魔法抗性。可以叠加。
+[A3MW]
+Name=火球
+Hotkey=F
+Tip=火球
+Ubertip=以一片区域为目标吐出一个火球，持续10秒。每秒造成85点伤害。|n|n|cff99ccff作用范围：|r900|n|cff99ccff施法距离：|r1000|n|cff99ccff冷却时间：|r10
+[A3N5]
+Name=吸精巫术
+Tip=吸精巫术 - [|cffffcc00等级 1|r],吸精巫术 - [|cffffcc00等级 2|r],吸精巫术 - [|cffffcc00等级 3|r],吸精巫术 - [|cffffcc00等级 4|r]
+Ubertip=在你和目标之间制造一个灵魂链接，每秒汲取20+1%*最大生命值，并减速5%，持续5秒。超出300距离链接将断裂。|n|n|cff99ccff施法距离：|r500|n|cff99ccff最大充能：|r1|n|cff99ccff充能时间：|r45,在你和目标之间制造一个灵魂链接，每秒汲取20+2%*最大生命值，并减速10%，持续5秒。超出300距离链接将断裂。|n|n|cff99ccff施法距离：|r500|n|cff99ccff最大充能：|r2|n|cff99ccff充能时间：|r45,在你和目标之间制造一个灵魂链接，每秒汲取20 + 3%最大生命值，并减速15%，持续5秒。超出300距离链接将断裂。|n|n|cff99ccff施法距离：|r500|n|cff99ccff最大充能：|r3|n|cff99ccff充能时间：|r45,在你和目标之间制造一个灵魂链接，每秒汲取20+4%*最大生命值，并减速20%，持续5秒。超出300距离链接将断裂。|n|n|cff99ccff施法距离：|r500|n|cff99ccff最大充能：|r4|n|cff99ccff充能时间：|r45
+Hotkey=F
+Researchtip=学习 吸精巫术 - [|cffffcc00等级 %d|r]|n(Spirit Siphon)
+Researchubertip=在你和目标之间制造一个灵魂链接，每秒汲取20+一定百分比最大生命值，并减速。超出300距离链接将断裂。持续5秒。|n|n|cff99ccff施法距离：|r500|n|cff99ccff充能时间：|r45|n|cff99ccff最大充能：|r1/2/3/4|n|cff99ccff魔法消耗：|r70/65/60/55|n|n|cffffcc00等级 1|r - 每秒汲取20+1%最大生命值，并减速5%|n|cffffcc00等级 2|r - 每秒汲取20+2%*最大生命值，并减速10%|n|cffffcc00等级 3|r - 每秒汲取20+3%*最大生命值，并减速15%|n|cffffcc00等级 4|r - 每秒汲取20+4%*最大生命值，并减速20%
+Researchhotkey=F
+[A3NH]
+Name=残废（幽灵狼）
+Tip=残废
+Ubertip=攻击有20%的概率残废目标，使其每秒承受8点伤害，攻击速度降低40，持续4秒。
+[A3NI]
+Name=残废（幽灵狼）效果
+[A3NW]
+Name=嫁祸诀窍
+Tip=嫁祸诀窍 - [|cffffcc00等级 1|r],嫁祸诀窍 - [|cffffcc00等级 2|r],嫁祸诀窍 - [|cffffcc00等级 3|r]
+Ubertip=力丸转移出现实世界的位面，持续3秒，从身后攻击其身边500范围内的敌方英雄。转移出位面时攻击一次，在位面外时则每秒攻击一次。|n|n|cff99ccff施法前摇：|r0.4|n|cff99ccff冷却时间：|r40,力丸转移出现实世界的位面，持续4秒，从身后攻击其身边500范围内的敌方英雄。转移出位面时攻击一次，在位面外时则每秒攻击一次。|n|n|cff99ccff施法前摇：|r0.4|n|cff99ccff冷却时间：|r40,力丸转移出现实世界的位面，持续5秒，从身后攻击其身边500范围内的敌方英雄。转移出位面时攻击一次，在位面外时则每秒攻击一次。|n|n|cff99ccff施法前摇：|r0.4|n|cff99ccff冷却时间：|r40
+Hotkey=E
+Researchtip=学习 嫁祸诀窍 - [|cffffcc00等级 %d|r]|n(Tricks of the Trade)
+Researchubertip=力丸转移出现实世界的位面，从身后攻击其身边500范围内的敌方英雄。转移出位面时攻击一次，在位面外时则每秒攻击一次。|n|n|cff99ccff施法前摇：|r0.4|n|cff99ccff冷却时间：|r70|n|cff99ccff魔法消耗：|r75|n|n|cffffcc00等级 1|r - 持续3秒|n|cffffcc00等级 2|r - 持续4秒|n|cffffcc00等级 3|r - 持续5秒
+Researchhotkey=E
+[A3Q6]
+Name=地狱之刃
+Tip=地狱之刃 - [|cffffcc00等级 1|r],地狱之刃 - [|cffffcc00等级 2|r],地狱之刃 - [|cffffcc00等级 3|r],地狱之刃 - [|cffffcc00等级 4|r]
+Ubertip=末日挥舞他的炽烈之剑，将敌人点燃。对攻击目标造成0.3秒短暂眩晕，并使其燃烧，持续4秒，每秒造成40+1.25%*最大生命值的魔法伤害。|n|n|cff99ccff冷却时间：|r16,末日挥舞他的炽烈之剑，将敌人点燃。对攻击目标造成0.3秒短暂眩晕，并使其燃烧，持续4秒，每秒造成40+2.5%*最大生命值的魔法伤害。|n|n|cff99ccff冷却时间：|r12,末日挥舞他的炽烈之剑，将敌人点燃。对攻击目标造成0.3秒短暂眩晕，并使其燃烧，持续4秒，每秒造成40+3.75%*最大生命值的魔法伤害。|n|n|cff99ccff冷却时间：|r8,末日挥舞他的炽烈之剑，将敌人点燃。对攻击目标造成0.3秒短暂眩晕，并使其燃烧，持续4秒，每秒造成40+5%*最大生命值的魔法伤害。|n|n|cff99ccff冷却时间：|r4
+Hotkey=R
+Unhotkey=R
+Researchtip=学习 地狱之刃 - [|cffffcc00等级 %d|r]|n(Infernal Blade)
+Researchubertip=末日挥舞他的炽烈之剑，将敌人点燃。对攻击目标造成0.3秒短暂眩晕，并使其燃烧，持续4秒，每秒造成40+一定百分比最大生命值的魔法伤害。|n|n|cff99ccff魔法消耗：|r40|n|n|cffffcc00等级 1|r - 每秒造成40+1.25%*最大生命值的魔法伤害，16秒冷却时间|n|cffffcc00等级 2|r - 每秒造成40+2.5%*最大生命值的魔法伤害，12秒冷却时间|n|cffffcc00等级 3|r - 每秒造成40+3.75%*最大生命值的魔法伤害，8秒冷却时间|n|cffffcc00等级 4|r - 每秒造成40+5%*最大生命值的魔法伤害，8秒冷却时间
+Untip=|cffc3dbff右键单击以激活自动施放|r
+Unubertip=|cffc3dbff右键单击以关闭自动施放|r
+Researchhotkey=R
+[A3QB]
+Name=野蛮咆哮
+Tip=野蛮咆哮 - [|cffffcc00等级 1|r],野蛮咆哮 - [|cffffcc00等级 2|r],野蛮咆哮 - [|cffffcc00等级 3|r],野蛮咆哮 - [|cffffcc00等级 4|r]
+Ubertip=德鲁伊发出野性的咆哮，使你或熊灵身边325范围内的敌人以20%加成的移动速度向他们的泉水方向跑去，持续1.2秒。|n|n|cff99ccff冷却时间：|r38,德鲁伊发出野性的咆哮，使你或熊灵身边325范围内的敌人以20%加成的移动速度向他们的泉水方向跑去，持续1.6秒。|n|n|cff99ccff冷却时间：|r32,德鲁伊发出野性的咆哮，使你或熊灵身边325范围内的敌人以20%加成的移动速度向他们的泉水方向跑去，持续2秒。|n|n|cff99ccff冷却时间：|r26,德鲁伊发出野性的咆哮，使你或熊灵身边325范围内的敌人以20%加成的移动速度向他们的泉水方向跑去，持续2.4秒。|n|n|cff99ccff冷却时间：|r20
+Hotkey=E
+Researchtip=学习 野蛮咆哮 - [|cffffcc00等级 %d|r]|n(Savage Roar)
+Researchubertip=德鲁伊发出野性的咆哮，使你或熊灵身边325范围内的敌人以20%加成的移动速度向他们的泉水方向跑去。|n|n|cff99ccff魔法消耗：|r50|n|n|cffffcc00等级 1|r - 持续1.2秒|n|cffffcc00等级 2|r - 持续1.6秒|n|cffffcc00等级 3|r - 持续2秒|n|cffffcc00等级 4|r - 持续2.4秒
+Researchhotkey=E
+[A3QC]
+Name=野蛮咆哮加速
+[A3RO]
+Name=时间膨胀效果
+[B004]
+Bufftip=Ultimate
+Buffubertip=This unit is under the effect of Ultimate.
+EditorName=Ultimate
+[B006]
+Bufftip=永久隐身
+Buffubertip=除非进行攻击，否则该单位保持隐形状态
+EditorName=永久隐身
+[B01I]
+Bufftip=Troll's Regeneration
+Buffubertip=Tiny's hitpoints recover rapidly, like a Troll's.
+EditorName=Troll's Regeneration
+[B026]
+Bufftip=盛宴
+Buffubertip=食尸鬼每次攻击都会吞噬敌人的生命
+EditorName=盛宴
+[B02J]
+Bufftip=海妖之歌
+Buffubertip=该单位受到娜迦海妖魔力的影响，在歌声停止前都将处于睡眠状态
+EditorName=海妖之歌
+[B02K]
+Bufftip=Necrogenesis
+Buffubertip=Corpses spawn every few seconds.
+EditorName=Necrogenesis
+[B02M]
+Bufftip=伤残恐惧
+Buffubertip=该单位受到了暗夜魔王的惊吓，无法使用技能，攻击有一定几率落空
+[B00C]
+Bufftip=旋风飞斧
+Buffubertip=该单位被致盲了，其攻击有一定几率落空
+[B01C]
+Bufftip=隐匿于蛛网
+Buffubertip=该单位隐匿于蛛网中，处于隐身状态，并且移动速度得到了提升
+EditorName=隐匿于蛛网
+[B01M]
+Bufftip=衰老
+Buffubertip=This unit is Decrepified; its movement speed and damage have been reduced.
+[B01V]
+Bufftip=Caught in a Web
+Buffubertip=This unit's movement speed is slowed while it moves through a Web.
+EditorName=Caught in a Web
+[B01Z]
+Bufftip=暗影冲刺
+Buffubertip=暗影冲刺
+[B023]
+Bufftip=恢复头巾
+Buffubertip=该单位正在回复生命值
+[B02F]
+Bufftip=噩梦
+Buffubertip=该单位受到了噩梦的侵扰，如果他遭到了攻击，那么噩梦效果将会转移到攻击者身上
+[B036]
+Bufftip=Portal
+Buffubertip=This unit is being Transported and damaged.
+[B037]
+Bufftip=Soul Blast
+Buffubertip=This unit is having its soul Blasted.
+[B038]
+Bufftip=Ante Up
+Buffubertip=Maverick's bet rests on the shoulders of this hero.
+[B01L]
+Bufftip=衰退光环
+Buffubertip=该单位受到衰退光环的影响，攻击的潜力被削弱了。
+EditorName=衰退光环
+[B03P]
+Bufftip=反击螺旋
+Buffubertip=该单位在受到攻击时会做出致命的反击
+EditorName=反击螺旋
+[B04D]
+Bufftip=龙族血统
+Buffubertip=该单位的生命回复速度和护甲得到了提升
+EditorName=龙族血统
+[B04E]
+Bufftip=长大！ |n|cff4F4F4F等级：|r 1
+Buffubertip=该单位获得更高的攻击力，但是攻击速度降低了
+EditorName=Grow! - 1
+[B04T]
+Bufftip=
+Buffubertip=
+EditorName=Sand Storm Flame
+[B04U]
+Bufftip=
+Buffubertip=
+EditorName=Sand Storm Dust
+[B05E]
+Bufftip=Shroud of Flames
+Buffubertip=This unit has spell resistance.
+[B060]
+Bufftip=Animate Dead
+Buffubertip=驱散魔法会给召唤单位造成伤害
+[B061]
+Bufftip=邪恶光环
+Buffubertip=该单位获得邪恶光环的效果，生命回复速度得到了提升
+[B06A]
+Bufftip=梅肯斯姆
+Buffubertip=该单位正在回复生命值
+[B06I]
+Bufftip=Reality
+Buffubertip=.
+[B075]
+Bufftip=弗拉迪米尔的祭品
+Buffubertip=在弗拉迪米尔的祭品作用下，该单位攻击时拥有吸血效果
+[B07O]
+Bufftip=弗拉迪米尔的祭品
+Buffubertip=该单位攻击力得到了提升，攻击时拥有吸血效果
+[B080]
+Bufftip=|cff00ff00活血术|r
+Buffubertip=英雄失去的生命值越多或者英雄的主属性值越高，则生命恢复速度越高
+[B083]
+Bufftip=牺牲
+Buffubertip=该单位的移动速度在几秒内被降低
+EditorName=牺牲
+[B084]
+Bufftip=竭心光环
+Buffubertip=该单位受竭心光环影响，每秒损失一定最大生命值的生命
+[B086]
+Bufftip=火焰壁垒
+Buffubertip=该单位处于火焰壁垒的保护下，可以抵挡一定量的法术攻击伤害
+[B087]
+Bufftip=火焰壁垒
+Buffubertip=该单位处于火焰壁垒的保护下，可以抵挡一定量的法术攻击伤害
+[B08C]
+Bufftip=Fear
+Buffubertip=This unit cannot attack or cast spells.
+[B09C]
+Bufftip=长大！ |n|cff4F4F4F等级：|r 2
+Buffubertip=该单位获得更高的攻击力，但是攻击速度降低了
+EditorName=Grow! - 2
+[B09E]
+Bufftip=长大！ |n|cff4F4F4F等级：|r 3
+Buffubertip=该单位获得更高的攻击力，但是攻击速度降低了
+EditorName=Grow! - 3
+[B0BT]
+Bufftip=绝缘
+Buffubertip=该单位处于绝缘状态，可以抵挡一定量的法术攻击伤害
+[B0BU]
+Bufftip=绝缘
+Buffubertip=该单位处于绝缘状态，可以抵挡一定量的法术攻击伤害
+[B0C6]
+Bufftip=Energy Barrier
+Buffubertip=This unit has a magical barrier. It will block a limited amount of spell damage. It will not lose any mana while it has this buff.
+[B0C7]
+Bufftip=Energy Barrier
+Buffubertip=This unit has a magical barrier. It will block a limited amount of spell damage. It will not lose any mana while it has this buff.
+[B0CT]
+Bufftip=占据点3技能
+Buffubertip=该单位的生命和魔法回复速度增加。
+[B0CU]
+Bufftip=占据点3技能
+Buffubertip=该单位生命回复速度增加。
+[B0CV]
+Bufftip=占据点3技能
+Buffubertip=该单位魔法回复速度增加。
+[B0CW]
+Bufftip=占据点3技能
+Buffubertip=该单位魔法回复速度增加。
+[B0DK]
+Bufftip=Global Regen
+Buffubertip=This unit is affected by Global Regen; it has increased regeneration.
+[B0FP]
+Bufftip=火焰壁垒
+Buffubertip=该单位处于火焰壁垒的保护下，可以抵挡一定量的法术攻击伤害
+[B0FQ]
+Bufftip=火焰壁垒
+Buffubertip=该单位处于火焰壁垒的保护下，可以抵挡一定量的法术攻击伤害
+[B0GV]
+Bufftip=冰霜护甲
+Buffubertip=该单位的移动速度降低
+[B0GW]
+Bufftip=冰霜护甲
+Buffubertip=该单位的移动速度降低
+[B0GY]
+Bufftip=吸血光环
+Buffubertip=该单位正处于吸血光环的影响中，当对敌方造成伤害时，自己的生命也会回复
+[B0H4]
+Bufftip=吸血光环
+Buffubertip=该单位正处于吸血光环的影响中，当对敌方造成伤害时，自己的生命也会回复
+[B0H7]
+Bufftip=卡德加之洞察烟斗
+Buffubertip=该单位正在回复生命值
+[X005]
+EditorName=Death And Decay (Effect)
+[B0HI]
+Bufftip=隐匿于蛛网
+Buffubertip=该单位隐匿于蛛网中，处于隐身状态，并且移动速度得到了提升
+EditorName=隐匿于蛛网
+[B36D]
+Bufftip=破坏
+Buffubertip=该单位一段时间内被动技能无效
+[B37T]
+Bufftip=烈焰破击
+Buffubertip=该单位持续受到伤害
+[B387]
+Bufftip=火焰气息
+Buffubertip=该单位受火焰气息影响，基础攻击减弱
+[B38P]
+Bufftip=寒冬诅咒
+Buffubertip=该单位受寒冬诅咒，以更快的攻速攻击友方单位
+[B392]
+Bufftip=卫士胫甲
+Buffubertip=该单位的生命回复速度和护甲得到了提升
+[B398]
+Bufftip=|cff00ff00月之碎片|r
+Buffubertip=该单位吞噬了月之碎片，攻击速度提升了
+[B39C]
+Bufftip=疾风步
+Buffubertip=该单位正在走疾风步，隐身并且移动速度得到提升
+[B39I]
+Bufftip=炎阳之冠
+Buffubertip=该单位护甲降低了，并且攻击会有一定概率落空
+[B3DG]
+Bufftip=海象神踢
+Buffubertip=该单位被海象踢中，移动速度降低了
+[B3DU]
+Bufftip=|c0000ff00查克拉魔法|r
+Buffubertip=该单位灌注了查克拉魔法，增加法力上限并减少施放的下一个技能的冷却时间
+[B3E7]
+Bufftip=阿哈利姆之力
+Buffubertip=该单位注入了阿哈利姆之力，似乎像装备着神杖一般
+[B3E9]
+Bufftip=回音护盾
+Buffubertip=该单位受回音护盾影响，反弹任何指向性技能
+[B3I9]
+Bufftip=|c0000ff00收割|r
+Buffubertip=该英雄被骷髅王所强化，会死而复生并寻求复仇
+[B3IG]
+Bufftip=腐蚀吐息
+Buffubertip=该单位受腐蚀吐息影响，持续受到伤害
+[B3II]
+Bufftip=战鼓光环
+Buffubertip=该单位受战鼓光环影响，攻击力增加了
+[B3IJ]
+Bufftip=战鼓光环
+Buffubertip=该单位受战鼓光环影响，攻击速度增加了
+[B3IK]
+Bufftip=龙肤光环
+Buffubertip=该单位受龙肤光环的影响，护甲提高了
+[B3IL]
+Bufftip=混沌暴击
+Buffubertip=该单位受混沌暴击的影响，护甲降低了
+[B3IP]
+Bufftip=授予力量
+Buffubertip=该单位被授予力量，攻击力被提升了
+[B3IT]
+Bufftip=混沌暴击
+Buffubertip=该单位受混沌暴击的影响，护甲降低了
+[B3MB]
+Bufftip=魔法抗性光环
+Buffubertip=该单位受魔法抗性光环的影响，魔法抗性增加了
+[B3N4]
+Bufftip=离子外壳
+Buffubertip=该单位具有离子外壳，周围单位将受到持续性伤害
+[B3N6]
+Bufftip=吸精巫术
+Buffubertip=该单位受吸精巫术影响，移动速度降低了
+[B3NI]
+Bufftip=幽灵残废
+Buffubertip=该单位被幽灵狼残废，攻击速度降低了
+[B3Q6]
+Bufftip=地狱之刃
+Buffubertip=该单位受地狱之刃影响，将受到持续性伤害
+EditorName=地狱之刃
+[B3QC]
+Bufftip=野蛮咆哮
+Buffubertip=该单位受野蛮咆哮影响，加速逃离
+[B3RO]
+Bufftip=时间膨胀
+Buffubertip=该单位的时间膨胀了，施放技能会被锁定技能并减速

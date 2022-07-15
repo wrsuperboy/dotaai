@@ -1,0 +1,145 @@
+﻿STRING 39999
+{
+声明: 此版本AI消息由Ciel汉化，其余Dota游戏内容的字符串均来源均为官方Dota汉化组.
+}
+STRING 49998
+{
+你可以在模式选择时使用相应AI gold/exp加成调整指令模式来控制电脑的金钱和经验获得率,金钱调整和经验调整可以同时调用.
+
+经验加成调整 :
+|c00dd8dff 默认情况|r:      根据难度, AI将得到+20%/45%/80% 的额外经验.
+|c00dd8dff-normexp (-ne)|r: AI将不再得到任何额外经验加成.
+|c00dd8dff-highexp (-he)|r: 根据难度的不同,AI将得到不同加成的额外经验,默认增幅为 +40%/70%/110%.
+|c00dd8dff-dynaexp (-de)|r: 动态经验模式---每次AI被击杀,其经验获得率都将得到额外的(50+5*敌方主攻玩家数)%的增长. 每三分钟如果没有敌方英雄被AI击杀则其额外经验获得率将增长17.5%. 而每次AI获得击杀/助攻时, 额外经验获得率将降低 33% / 25%. AI总共能获得最大200%的额外经验.
+
+金钱加成调整:
+|c00dd8dff 默认情况|r: 根据难度, AI将得到每7秒 0/4/8 的额外金钱以及少量初始金钱的加成.
+|c00dd8dff-normgold (-ng)|r: AI不再获得任何额外金钱.
+|c00dd8dff-highgold (-hg)|r: 每7秒额外获得 8 的金钱, 初始金钱 +10% .
+|c00dd8dff-dynagold (-dg)|r: 动态金钱模式---每次AI被击杀,其金钱获得速度都将提升 5 /7秒. 每三分钟如果没有敌方英雄被AI击杀则提升+2.5/7秒  (从游戏开始第5分钟算起). 而每次AI获得击杀/助攻时, 额外金钱获得率将降低 33% / 25%. AI总共能获得最大每7秒 72金 的额外金钱.
+
+上述模式命令的混合调用方式:
+|c00dd8dff-beginnermode (-bm) 新手模式|r: 等价于 normexp + normgold
+|c00dd8dff-advancedmode (-am) 进阶模式|r: 等价于 normexp + normgold + dynaexp + dynagold
+|c00dd8dff-xtrememode   (-xm) 玩脱了|r: 等价于 normexp + normgold + dynaexp + dynagold, 但是动态部分的增幅将更高.
+}
+STRING 49999
+{
+此地图AI脚本主要由Cloud_str, RGB and BuffMePlz开发. PBMN和PlayDota.com的AI制作组致力于完善AI以适应不断更新的Dota地图，但主要部分都是由前者完成的.
+
+地图的AI系统由 PleaseBugMeNot (PBMN), Cloud_str, Ciel(0飞鸟各投林0) & AITeam 合作完成.
+}
+
+STRING 50000
+{
+DotA v6.86f 中文版 NB
+}
+
+STRING 50001
+{
+从112位独特的英雄中选择一位投身于史诗般的|c00ff0303遗迹保卫战|r中。
+按F9以了解地图信息。
+更多信息请访问 |c001e90ffwww.PlayDotA.com|r。
+}
+
+STRING 50002
+{
+|c00ff0303近卫军团|r
+}
+
+STRING 50003
+{
+|c0020c000天灾军团|r
+}
+
+STRING 50004
+{
+联系方法
+}
+
+STRING 50005
+{
+你可以在 |c000042ffPlayDotA.com|r 私信（PM）我， 或者通过邮箱 （IceFrog@gmail.com） 来联系我。
+
+我的博客： IceFrog.com。
+我的中文微博： http://t.qq.com/icefrogdev。
+
+如果你有任何建议，想法或者疑问，都可以通过以上途径来告诉我。
+}
+
+STRING 50006
+{
+模式及命令
+}
+
+STRING 50007
+{
+完整列表：
+|c000042ffPlayDotA.com/learn/commands|r
+
+游戏模式：
+-allpick(-ap), -allrandom(-ar), -randomdraft (-rd), -extendedleague (-xl), -singledraft(-sd), -deathmatch(-dm), -captainsmode(-cm), -leaguemode(-lm), -mirrormatch(-mm), -teamrandom(-tr),  -moderandom(-mr), -voterandom(-vr), -reverse(-rv), -duplicatemode(-du), -shuffleplayers(-sp), -samehero(-sh), -allagility(-aa), -allintelligence(-ai), -allstrength(-as), -itemdrop(-id), -easymode(-em), -nopowerups(-np), -supercreeps(-sc), -onlymid(-om), -notop(-nt), -nomid(-nm), -nobot(-nb), -noswap(-ns), -norepick(-nr), -poolingmode(-pm), -observerinfo(-oi), -miniheroes(-mi), -fastrespawn(-fr), -meleeonly(-mo), -rangeonly(-ro), -experimentalrunes(-er)
+
+游戏命令：
+-ma, -ms, -cs, -cson, -csoff, -disablehelp, -enablehelp, -unstuck, -recreate, -swaphero, -showmsg, -hidemsg, -showdeny, -hidedeny, -weather rain, -weather snow, -weather moonlight, -weather wind, -weather random, -weather off, -denyinfo (-di), -deathon(-don), -deathoff(-doff), -roll, -hideheronames(-hhn), -test, -mute, -gameinfo, -kickafk, -afkinfo, -apm, -clear, -swapall, -courier, -ah, -list, -rolloff, -rollon, -music, -water, -itemswap, -quote, -bonus, -switch, -terrain
+}
+
+STRING 50008
+{
+特别致谢
+}
+
+STRING 50009
+{
+首先也最重要的是，感谢所有玩家不断地向我提供反馈并支持这张地图。
+
+一些人以各种形式提供了帮助，包括但不限于：Ki-Hunterkiller, arthur5863, Neichus, MYM|Merlini, coL.Warr1ck, Zetta, Plastic.Angel, TheRandomDude, Naz, IEatDeadPeoples, MYM|Maelk, RodOfNod, DamnNoHtml, Jazradel, Mercurial, Trystero, Philip.J.Fry, Cottontop, Minotaar, Switch, Terrorblaze, Ro-Coco, unHOLYdoNUTS, Akuryou, Sejr, Sledgehmr, eva00r, TheMantis, Ska_Goblin, ~PGRu-Unexpect3D, PitzerMike, snork, M3Th0dz, Jazradel, War-Mage, Malle, seerTneerGevoLI, Vexorian, MetallibaN, sSerenity, Mago-Merlino, Vodoun, antiweltteilchen, coldlikehell, iNCQRiT, Infrisios, BeamCannon, LulaLula, Beast_Pete, Wedge, p0c, jmesch04, tinfoiltank, Guyoverthere, SetzerGabbiani, Danat, Pipedream, Rubadub, UTDC.Justin, ArcheKleine, eldorquo, Chairraider, Slam, Toadcop 和 Lordshinjo。 还有许多人也以这样或那样的形式提供了帮助，感谢你们。
+
+这张地图完全是从零开始制作出来的。尽管相比早期来说她已经脱胎换骨，但是许多创意都应该感谢星际争霸上的AoS，在混乱之治上制作了最早的DotA的Euls，以及其后在冰封王座上继续制作的Meian/Guinsoo。
+
+由于此处空间有限，我没法把所有人的名字都列出来。想了解其他的作出贡献及提供资源的人，请访问 getdota.com/ResourceCredits.txt。 
+
+汉化致谢： 
+感谢参与地图汉化的朋友们，感谢所有为汉化版提供建议、指出问题的朋友们，感谢所有DotA玩家长期以来的支持。
+
+汉化组前辈： Heintje， Aegis， Harreke， xyf890228
+汉化： Hippovic， outskirts
+}
+
+STRING 50010
+{
+最新地图
+}
+
+STRING 50011
+{
+Icefrog官方版本地图已经停止维护。
+
+获取该地图的最新版本，请访问百度dotaai吧。
+
+其他6.83+版本：
+DotA Allstars： http://d1stats.ru
+DotA LoD： http://legendsofdota.com
+
+魔兽争霸III官方网站： http://www.playwarcraft3.com。
+}
+
+STRING 50012
+{
+Beta申请
+}
+
+STRING 50013
+{
+Icefrog官方版本地图已经停止维护。
+}
+
+STRING 50014
+{
+Bug提交
+}
+
+STRING 50015
+{
+请至百度dotaai吧向 蔚然小超人 提交BUG。
+}

@@ -1,0 +1,5697 @@
+﻿[I007]
+Name=|c00fffc01幻象|r
+Hotkey=
+Tip=
+Ubertip=
+Description=|c00ffffff为使用者创造两个幻象，持续75秒，幻象拥有使用者35%的攻击力，承受300%的伤害|r
+[I00E]
+Name=变体精灵BUG修复
+Tip=
+Ubertip=
+Description=
+[I015]
+Name=Disassembler
+Tip=
+Ubertip="Disassembles the current item in this inventory. (Only works for Perseverance, Mjollnir, Ring of Basilius, Bloodstone, Helm of the Dominator, Aghanim's Scepter and Shiva's Guard)"
+Description=
+[I01N]
+Name=Freeze Hero
+Tip=
+Ubertip=Freezes a hero. Works on leaver hero to cause them to become frozen and invulnerable.
+Description=
+[I01O]
+Name=Unfreeze Hero
+Tip=
+Ubertip=Unfreezes a hero. Works on leaver hero to cause them to become unfrozen and vulnerable.
+Description=
+[I02M]
+Name=Dummy Item Scourge
+Hotkey=
+Tip=
+Ubertip=
+Description=
+[I02O]
+Name=速度之鞋|nBoots of Speed
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升45点移动速度|n|n|c00ff0303移动速度提升效果不与其他任何鞋类物品叠加|r|n|n|c00838B8B穿双鞋子，跑得更快|r
+Description=
+[I02P]
+Name=急速手套|nGloves of Haste
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升20的攻击速度|n|n|c00838B8B这双神奇的手套，似乎可以使武器变轻|r
+Description=
+[I02R]
+Name=精灵皮靴|nBoots of Elvenskin
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加6点敏捷|n|n|cff838B8B这双鞋子常用来表演太空步|r
+Description=
+[I02T]
+Name=动力鞋（|cffff8000敏捷|r）|nPower Treads (Agility)
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升45点移动速度|n提升25点攻击速度|n增加9点敏捷|n|n|cffffcc00点击以转换形态|r|n|n|c00ff0303移动速度提升效果不与其他任何鞋子叠加|r|n|n|cffff0303装备唯一|r|n|n|c00838B8B名牌跑鞋|r
+Description=
+[I02V]
+Name=Power Treads Recipe
+Tip=
+Ubertip=
+Description=
+[I02W]
+Name=Power Treads Recipe
+Tip=
+Ubertip=|cffffcc00Gives:|r |n +60 movement speed |n +7 Str or +9 Int or +11 Agi |n +25 Attack Speed  |n|n|cffffcc00Requires:|r |n Boots of Speed - 500 |n Gloves of Haste - 500 |n  Boots of Elvenskin - 450 |n   |c00fffc01or|r |n  Robe of the Magi - 450|n   |c00fffc01or|r |n  Belt of Giant Strength - 450 |n|n|c00838B8B Total Cost: 1450  |n|n|c00ff0303Movement Speed does not stack with other boot items.|r |n|n|c00ff0303Cannot carry more than one|r
+Description=
+[I02N]
+Name=精灵皮靴|nBoots of Elvenskin
+Tip=
+Ubertip=
+Description=
+[I02Q]
+Name=速度之鞋|nBoots of Speed
+Tip=
+Ubertip=
+Description=
+[I02S]
+Name=急速手套|nGloves of Haste
+Tip=
+Ubertip=
+Description=
+[I02X]
+Name=贵族头环|nCirclet of Nobility
+Tip=
+Ubertip=
+Description=
+[I02Y]
+Name=贵族头环|nCirclet of Nobility
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加2点所有属性|n|n|c00838B8B为人类公主们设计的雅致头环|r
+Description=
+[I02Z]
+Name=巨人力量腰带|nBelt of Giant Strength
+Tip=
+Ubertip=
+Description=
+[I030]
+Name=欢欣之刃|nBlade of Alacrity
+Tip=
+Ubertip=
+Description=
+[I031]
+Name=攻击之爪|nBlades of Attack
+Tip=
+Ubertip=
+Description=
+[I032]
+Name=阔剑|nBroadsword
+Tip=
+Ubertip=
+Description=
+[I033]
+Name=锁甲|nChainmail
+Tip=
+Ubertip=
+Description=
+[I034]
+Name=大剑|nClaymore
+Tip=
+Ubertip=
+Description=
+[I035]
+Name=恶魔刀锋|nDemon Edge
+Tip=
+Ubertip=
+Description=
+[I036]
+Name=鹰角弓|nEaglehorn
+Tip=
+Ubertip=
+Description=
+[I037]
+Name=能量之球|nEnergy Booster
+Tip=
+Ubertip=
+Description=
+[I038]
+Name=力量护手|nGauntlets of Strength
+Tip=
+Ubertip=
+Description=
+[I039]
+Name=真视宝石|nGem of True Sight
+Tip=
+Ubertip=
+Description=
+[I03B]
+Name=铁意头盔|nHelm of Iron Will
+Tip=
+Ubertip=
+Description=
+[I03C]
+Name=振奋宝石|nHyperstone
+Tip=
+Ubertip=
+Description=
+[I03D]
+Name=铁树枝干|nIronwood Branch
+Tip=
+Ubertip=
+Description=
+[I03E]
+Name=凯伦的匕首|nKelen's Dagger
+Tip=
+Ubertip=
+Description=
+[I03F]
+Name=智力斗篷|nMantle of Intelligence
+Tip=
+Ubertip=
+Description=
+[I03G]
+Name=死亡面具|nMask of Death
+Tip=
+Ubertip=
+Description=
+[I03H]
+Name=梅塞施密特的劫掠者|nMesserschmidt's Reaver
+Tip=
+Ubertip=
+Description=
+[I03I]
+Name=秘银锤|nMithril Hammer
+Tip=
+Ubertip=
+Description=
+[I03J]
+Name=神秘法杖|nMystic Staff
+Tip=
+Ubertip=
+Description=
+[I03K]
+Name=食人魔之斧|nOgre Axe
+Tip=
+Ubertip=
+Description=
+[I03L]
+Name=流浪法师斗篷|nPlaneswalker's Cloak
+Tip=
+Ubertip=
+Description=
+[I03M]
+Name=板甲|nPlate Mail
+Tip=
+Ubertip=
+Description=
+[I03N]
+Name=精气之球|nPoint Booster
+Tip=
+Ubertip=
+Description=
+[I03O]
+Name=动力鞋（|cffff8000敏捷|r）|nPower Treads (Agility)
+Tip=
+Ubertip=
+Description=
+[I03P]
+Name=短棍|nQuarterstaff
+Tip=
+Ubertip=
+Description=
+[I03Q]
+Name=医疗指环|nRing of Health
+Tip=
+Ubertip=
+Description=
+[I03R]
+Name=守护指环|nRing of Protection
+Tip=
+Ubertip=
+Description=
+[I03S]
+Name=再生之戒|nRing of Regeneration
+Tip=
+Ubertip=
+Description=
+[I03T]
+Name=法师长袍|nRobe of the Magi
+Tip=
+Ubertip=
+Description=
+[I03U]
+Name=圣者遗物|nSacred Relic
+Tip=
+Ubertip=
+Description=
+[I03V]
+Name=敏捷便鞋|nSlippers of Agility
+Tip=
+Ubertip=
+Description=
+[I03W]
+Name=艺人面罩|nSobi Mask
+Tip=
+Ubertip=
+Description=
+[I03X]
+Name=魔力法杖|nStaff of Wizardry
+Tip=
+Ubertip=
+Description=
+[I03A]
+Name=圆盾（近程）|nStout Shield (melee)
+Tip=
+Ubertip=
+Description=
+[I03Y]
+Name=极限宝珠|nUltimate Orb
+Tip=
+Ubertip=
+Description=
+[I03Z]
+Name=活力之球|nVitality Booster
+Tip=
+Ubertip=
+Description=
+[I040]
+Name=虚无宝石|nVoid Stone
+Tip=
+Ubertip=
+Description=
+[I041]
+Name=标枪|nJavelin
+Tip=
+Ubertip=
+Description=
+[I043]
+Name=巨人力量腰带|nBelt of Giant Strength
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加6点力量|n|n|cff838B8B儿童及孕妇慎用|r
+Description=
+[I044]
+Name=欢欣之刃|nBlade of Alacrity
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点敏捷|n|n|cff838B8B充盈着时光魔法的长剑|r
+Description=
+[I045]
+Name=攻击之爪|nBlades of Attack
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加9点攻击力|n|n|cff838B8B虐待狂们的可选武器之一|r
+Description=
+[I046]
+Name=阔剑|nBroadsword
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加18点攻击力|n|n|cff838B8B想做个称职的骑士的话，就该买上一把|r
+Description=
+[I047]
+Name=锁甲|nChainmail
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加5点护甲|n|n|c00838B8B金属锁链制成的编织甲|r
+Description=
+[I048]
+Name=大剑|nClaymore
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加21点攻击力|n|n|c00838B8B大至盔甲，小到番茄，无所不切|r
+Description=
+[I049]
+Name=恶魔刀锋|nDemon Edge
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加46点攻击力|n|n|c00838B8B燃烧军团的堕落统领所使用的武器，充满着邪恶的力量|r
+Description=
+[I04A]
+Name=鹰角弓|nEaglehorn
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加25点敏捷|n|n|cff838B8B用这把轻巧的弓进行攻击是如此的精准，就好像它自己会瞄准目标一样|r
+Description=
+[I04B]
+Name=能量之球|nEnergy Booster
+Tip=
+Ubertip=|cffffcc00属性：|r|n提高250点魔法上限|n|n|c00838B8BEnie|r
+Description=
+[I04C]
+Name=力量护手|nGauntlets of Strength
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加3点力量|n|n|c00838B8B指节铜套——豪华版！|r
+Description=
+[I04D]
+Name=真视宝石|nGem of True Sight
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc真视：|r|n显现附近的隐形单位|n|n|cffff0303死亡后掉落|n不可出售|r|n|n|c00838B8B一块有魔力的石头，能够让你看到视野之外的东西|r
+Description=
+[I04E]
+Name=铁意头盔|nHelm of Iron Will
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加5点护甲|n提升3点/秒的生命恢复速率|n|n|c00838B8B一位战死沙场的传奇般的武士穿戴过的头盔|r
+Description=
+[I04F]
+Name=振奋宝石|nHyperstone
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升55的攻击速度|n|n|c00838B8B一块刻有神秘纹路的石头，能够提升携带者的激情|r
+Description=
+[I04G]
+Name=铁树枝干|nIronwood Branch
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加1点所有属性|n|n|cffff8000种树：|r|n对目标地点使用，种下一颗快乐的小树，持续20秒|n|cff99ccff施法距离：|r200|n|n|cff838B8B带上它来确保一场好的开局（Good Game）|r
+Description=
+[I04H]
+Name=凯伦的匕首|nKelen's Dagger
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000瞬间移动：|r|n瞬间移动到目标地点；受到来自英雄的伤害后3秒之内无法使用|n|n|cff99ccff施法距离：|r1200|n|cff99ccff冷却时间：|r12|n|n|c00838B8B艾泽拉斯传说中来去如风的刺客凯伦所使用的匕首|r
+Description=
+[I04I]
+Name=凯伦的匕首 - |cffff0303禁用|r
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000瞬间移动：|r|n瞬间移动到目标地点；受到来自英雄或Roshan的伤害后3秒之内无法使用|n|n|cff99ccff施法距离：|r1200|n|cff99ccff冷却时间：|r12|n|n|c00838B8B艾泽拉斯传说中来去如风的刺客凯伦所使用的匕首|r
+Description=
+[I04J]
+Name=智力斗篷|nMantle of Intelligence
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加3点智力|n|n|c00838B8B穿上去像花花公子的蓝色斗篷；这个季节非常流行|r
+Description=
+[I04K]
+Name=死亡面具|nMask of Death
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加15%的吸血|n|n|cff838B8B再没比这个更拉风的了|r
+Description=
+[I04L]
+Name=梅塞施密特的劫掠者|nMesserschmidt's Reaver
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加25点力量|n|n|cff838B8B这把巨斧能够劈开一整条山脉|r
+Description=
+[I04M]
+Name=秘银锤|nMithril Hammer
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加24点的攻击力|n|n|cff838B8B由纯粹的秘银打造而成的锤子，It's Hammer Time！|r
+Description=
+[I04N]
+Name=神秘法杖|nMystic Staff
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加25点智力|n|n|cff838B8B这根谜一般的法杖是由最贵重的水晶做成的|r
+Description=
+[I04O]
+Name=食人魔之斧|nOgre Axe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点力量|n|n|cff838B8B只是握着它就感觉自己变得更加强壮|r
+Description=
+[I04P]
+Name=流浪法师斗篷|nPlaneswalker's Cloak
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升15%的魔法抗性|n|n|cff838B8B以魔法材质制作的斗篷可以抵御法术攻击|r
+Description=
+[I04Q]
+Name=板甲|nPlate Mail
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点护甲|n|n|cff838B8B厚重的金属板甲可以保护你的上身，但要小心掉下来砸到脚|r
+Description=
+[I04R]
+Name=精气之球|nPoint Booster
+Tip=
+Ubertip=|cffffcc00属性：|r|n提高200点生命上限|n提高150点魔法上限|n|n|cff838B8BMeenie|r
+Description=
+[I04S]
+Name=短棍|nQuarterstaff
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点攻击力|n提升10的攻击速度|n|n|c00838B8B要四根短棍才能组成一根普通的棍子，晕！|r
+Description=
+[I04T]
+Name=医疗指环|nRing of Health
+Tip=
+Ubertip=|cffffcc00属性：|r|n提高5点/秒的生命恢复速率|n|n|cff838B8B在半身人肥仔尸体下找到的发光戒指|r
+Description=
+[I04U]
+Name=守护指环|nRing of Protection
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加2点护甲|n|n|cff838B8B也许是它尺寸太小的缘故，大多数人想戴上它的话会有点困难|r
+Description=
+[I04W]
+Name=法师长袍|nRobe of the Magi
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加6点智力|n|n|cff838B8B这件长袍会腐蚀使用者的灵魂，但作为回报，增加携带者的智力|r
+Description=
+[I04X]
+Name=圣者遗物|nSacred Relic
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加60点攻击力|n|n|cff838B8B一把年代久远的武器。很难说出圣者遗物到底是什么，有传言称这是一把有着无限能量的宝剑。啊！|r
+Description=
+[I04Y]
+Name=敏捷便鞋|nSlippers of Agility
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加3点敏捷|n|n|cff838B8B用蜘蛛皮做的皮靴，能使你感到些许刺痛|r
+Description=
+[I04Z]
+Name=艺人面罩|nSobi Mask
+Tip=
+Ubertip=|cffffcc00属性：|r|n提高50%的魔法恢复速率|n|n|cff838B8B法师和术士们在仪祭时使用的面具|r
+Description=
+[I050]
+Name=魔力法杖|nStaff of Wizardry
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点智力|n|n|c00838B8B禁止通行！！|r
+Description=
+[I051]
+Name=圆盾（近程）|nStout Shield (melee)
+Tip=
+Ubertip=|cffffcc00属性：|r|n受到普通攻击时有50%的概率抵挡16点伤害|n|n|c00838B8B这个小盾牌原先是某人的酒桶底子|r
+Description=
+[I052]
+Name=极限宝珠|nUltimate Orb
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n|n|cff838B8B一个包含着生命精华的神秘球体|r
+Description=
+[I053]
+Name=活力之球|nVitality Booster
+Tip=
+Ubertip=|cffffcc00属性：|r|n提高250点生命上限|n|n|c00838B8BMinie|r
+Description=
+[I054]
+Name=虚无宝石|nVoid Stone
+Tip=
+Ubertip=|cffffcc00属性：|r|n提高100%的魔法恢复速率|n|n|cff838B8B这块宝石看起来蕴藏着无穷的能量|r
+Description=
+[I055]
+Name=标枪|nJavelin
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点攻击力|n攻击有25%的概率造成85点额外伤害|n|n|c00838B8B与其说是标枪，倒更加像标准的长矛，用来攻击的时候能够穿透敌人的铠甲|r
+Description=
+[I042]
+Name=明澈药水|nClarity Potion
+Tip=
+Ubertip=
+Description=
+[I056]
+Name=治疗药膏|nHealing Salve
+Tip=
+Ubertip=
+Description=
+[I057]
+Name=艾西菲的远古祭祀|nAncient Tango of Essifation
+Tip=
+Ubertip=
+Description=
+[I058]
+Name=侦察结界
+Tip=
+Ubertip=
+Description=
+[I059]
+Name=岗哨结界
+Tip=
+Ubertip=
+Description=
+[I05A]
+Name=城镇传送卷轴|nScroll of Town Portal
+Tip=
+Ubertip=
+Description=
+[I05B]
+Name=动物信使|nAnimal Courier
+Tip=
+Ubertip=
+Description=
+[I05E]
+Name=魔瓶|nEmpty Bottle
+Tip=
+Ubertip=
+Description=
+[I05C]
+Name=艾西菲的远古祭祀|nAncient Tango of Essifation
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000吃树：|r|n允许使用者吞食树木，16秒内恢复115点生命，对结界使用持续时间加倍|n|n可以使用|cffff03034|r次|n|n|c00838B8B越用你就会越依赖它！|r
+Description=
+[I05D]
+Name=明澈药水|nClarity Potion
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000魔法回复：|r|n在50秒内恢复190点魔法，受到攻击即失去效果|n|n|c00838B8B每瓶药水中都困着一个鲜活的小精灵|r
+Description=
+[I05F]
+Name=治疗药膏|nHealing Salve
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000生命回复：|r|n在8秒内恢复一个友方单位400点生命，受到攻击即失去效果|n|n|c00838B8B具有魔法功效的药膏，再深的伤口也能迅速治愈|r
+Description=
+[I05G]
+Name=侦察结界|nObserver Wards
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000侦察结界：|r|n放置一个侦察结界来监视一片的区域，侦查结界不具有真视能力|n|cff99ccff持续时间：|r7分钟
+Description=
+[I05H]
+Name=岗哨结界|nSentry Wards
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000岗哨结界：|r|n放置一个具有真视能力的岗哨结界，能侦测周围的隐形单位；它本身的视野非常之小|n|cff99ccff持续时间：|r4分钟
+Description=
+[I05I]
+Name=城镇传送卷轴|nScroll of Town Portal
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000传送：|r|n将你传送至任意友方建筑|n|cff99ccff冷却时间：|r70
+Description=
+[I05J]
+Name=动物信使|nAnimal Courier
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000召唤信使：|r|n制造一个小巧而又快速的单位，能携带物品往返于基地。
+Description=
+[I05L]
+Name=恢复头巾卷轴|nHeaddress of Rejuvenation Recipe
+Tip=
+Ubertip=
+Description=
+[I05M]
+Name=纳斯雷兹姆盾牌卷轴|nNathrezim Buckler Recipe
+Tip=
+Ubertip=
+Description=
+[I05O]
+Name=远行鞋卷轴|nBoots of Travel Recipe
+Tip=
+Ubertip=
+Description=
+[I05P]
+Name=迈达斯之手卷轴|nHand of Midas Recipe
+Tip=
+Ubertip=
+Description=
+[I05K]
+Name=护腕卷轴|nBracer Recipe
+Tip=
+Ubertip=
+Description=
+[I05N]
+Name=怨灵系带卷轴|nWraith Band Recipe
+Tip=
+Ubertip=
+Description=
+[I05Q]
+Name=空灵挂件卷轴|nNull Talisman Recipe
+Tip=
+Ubertip=
+Description=
+[I05R]
+Name=恢复头巾卷轴|nHeaddress of Rejuvenation Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加2点所有属性|n|cff0033cc恢复光环|r（被动）|n|n|cffffcc00需要：|r|n再生之戒|n铁树枝干
+Description=
+[I05S]
+Name=纳斯雷兹姆盾牌卷轴|nNathrezim Buckler Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加2点所有属性|n增加5点护甲|n|cffff8000防御提升|r（主动）|n|n|cffffcc00需要：|r|n锁甲|n铁树枝干
+Description=
+[I05T]
+Name=远行鞋卷轴|nBoots of Travel Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升100点移动速度|n|cffff8000传送|r（主动）|n|n|cffffcc00需要：|r|n速度之鞋|n|n|c00ff0303移动速度提升效果不与其他任何鞋类物品叠加|r|n|n|c00fffc01可以使用卷轴升级（共2等级）|r
+Description=
+[I05U]
+Name=迈达斯之手卷轴|nHand of Midas Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升30的攻击速度|n|cffff8000炼金|r（主动）|n|n|cffffcc00需要：|r|n急速手套|n|n|cffff0303修补匠不能刷新此物品|r
+Description=
+[I05V]
+Name=护腕卷轴|nBracer Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加3点所有属性|n增加3点力量|n增加3点攻击力|n|n|cffffcc00需要：|r|n贵族头环|n力量护手
+Description=
+[I05W]
+Name=怨灵系带卷轴|nWraith Band Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加3点所有属性|n增加3点敏捷|n增加3点攻击力|n|n|cffffcc00需要：|r|n贵族头环|n敏捷便鞋
+Description=
+[I05X]
+Name=空灵挂件卷轴|nNull Talisman Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加3点所有属性|n增加3点智力|n增加3点攻击力|n|n|cffffcc00需要：|r|n贵族头环|n智力斗篷
+Description=
+[I02U]
+Name=动力鞋（|cffff8000力量|r）|nPower Treads (Strength)
+Tip=
+Ubertip=
+Description=
+[I05Y]
+Name=动力鞋（|cffff8000力量|r）|nPower Treads (Strength)
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升50点移动速度|n提升25点攻击速度|n增加9点力量|n|n|cffffcc00点击以转换形态|r|n|n|c00ff0303移动速度提升效果不与其他任何鞋子叠加|r|n|n|cffff0303装备唯一|r|n|n|c00838B8B名牌跑鞋|r
+Description=
+[I05Z]
+Name=动力鞋（|cffff8000智力|r）|nPower Treads (Intelligence)
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升50点移动速度|n提升25点攻击速度|n增加9点智力|n|n|cffffcc00点击以转换形态|r|n|n|c00ff0303移动速度提升效果不与其他任何鞋子叠加|r|n|n|cffff0303装备唯一|r|n|n|c00838B8B名牌跑鞋|r
+Description=
+[I060]
+Name=动力鞋（|cffff8000智力|r）|nPower Treads (Intelligence)
+Tip=
+Ubertip=
+Description=
+[I061]
+Name=坚韧球|nPerseverance
+Tip=
+Ubertip=
+Description=
+[I062]
+Name=坚韧球|nPerseverance
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点攻击力|n提升5点/秒的生命恢复速率|n提升125%的魔法恢复速率|n|n|c00838B8B一块能让佩戴者心体强健的宝石|r
+Description=
+[I063]
+Name=恢复头巾|nHeaddress of Rejuvenation
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加2点所有属性|n|n|cff0033cc恢复光环：|r|n提升附近友方单位3点/秒的生命恢复速率|n|n|cff99ccff作用范围：|r900
+Description=
+[I064]
+Name=恢复头巾|nHeaddress of Rejuvenation
+Tip=
+Ubertip=
+Description=
+[I065]
+Name=纳斯雷兹姆盾牌|nNathrezim Buckler
+Tip=
+Ubertip=
+Description=
+[I066]
+Name=纳斯雷兹姆盾牌|nNathrezim Buckler
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加2点所有属性|n增加5点护甲|n|n|cffff8000防御提升：|r|n增加900范围内的友方单位2点护甲|n|cff99ccff持续时间：|r25|n|cff99ccff冷却时间：|r25|n|n|c00838B8B蕴含着过往英雄力量的盾牌|r
+Description=
+[I067]
+Name=王者之戒(|cffff0000普通|r)|nRing of Basilius
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加6点攻击力|n增加1点护甲|n|n|cff0033cc虔诚光环：|r|n增加900范围内的友方单位2点护甲|n|n|cff0033cc辉煌光环：|r|n提升900范围内的友方单位0.65点/秒的魔法恢复速率|n|n|cffffcc00点击转换虔诚光环为只对英雄有效|r|n|n|c00838B8B这个戒指在第二次大战里，常被当作奖赏赠予联盟中最强大的法师们|r
+Description=
+[I068]
+Name=王者之戒|nRing of Basilius
+Tip=
+Ubertip=
+Description=
+[I069]
+Name=王者之戒（英雄）|nRing of Basilius (Heroes)
+Tip=
+Ubertip=
+Description=
+[I06A]
+Name=王者之戒(|cffff0000英雄|r)|nRing of Basilius
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加6点攻击力|n增加1点护甲|n|n|cff0033cc虔诚光环：|r|n增加900范围内的友方英雄单位2点护甲|n|n|cff0033cc辉煌光环：|r|n提升900范围内的友方单位0.65点/秒的魔法恢复速率|n|n|cffffcc00点击转换虔诚光环为对所有单位有效|r|n|n|c00838B8B这个戒指在第二次大战里，常被当作奖赏赠予联盟中最强大的法师们|r
+Description=
+[I06B]
+Name=远行鞋|nBoots of Travel
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升100点移动速度|n|n|cffff8000传送：|r|n将你传送至除英雄及自有单位以外的任意友方单位或者建筑|n|cff99ccff施法时间：|r3|n|cff99ccff冷却时间：|r45|n|n能够升级|cffff03031|r次|n|n|c00ff0303移动速度提升效果不与其他任何鞋类物品叠加|r|n|n|c00838B8B仙女附魔过的鞋子|r
+Description=
+[I06C]
+Name=远行鞋|nBoots of Travel
+Tip=
+Ubertip=
+Description=
+[I06D]
+Name=迈达斯之手|nHand of Midas
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升30的攻击速度|n|n|cffff8000炼金：|r|n瞬间将敌方非英雄、远古单位转化为190金钱|n|cff99ccff施法距离：|r600|n|cff99ccff冷却时间：|r100|n|n|cffff0303修补匠不能刷新此物品|r|n|n|c00838B8B通过使用一些未知的魔法进行保存，迈达斯之手仍然保留了大部分的力量|r
+Description=
+[I06E]
+Name=迈达斯之手|nHand of Midas
+Tip=
+Ubertip=
+Description=
+[I06F]
+Name=空明杖|nOblivion Staff
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加15点攻击力|n增加6点智力|n提升75%的魔法恢复速率|n提升10的攻击速度|r|n|n|c00838B8B名匠杰克斯所打造的短棍，外表看起来和普通的短棍没什么两样|r
+Description=
+[I06G]
+Name=空明杖|nOblivion Staff
+Tip=
+Ubertip=
+Description=
+[I06H]
+Name=护腕|nBracer
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加3点所有属性|n增加3点力量|n增加3点攻击力|n|n|c00838B8B华丽的护腕|r
+Description=
+[I06I]
+Name=护腕|nBracer
+Tip=
+Ubertip=
+Description=
+[I06J]
+Name=怨灵系带|nWraith Band
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加3点所有属性|n增加3点敏捷|n增加3点攻击力|n|n|c00838B8B总是回响着微弱耳语的圆环|r
+Description=
+[I06K]
+Name=怨灵系带|nWraith Band
+Tip=
+Ubertip=
+Description=
+[I06L]
+Name=空灵挂件|nNull Talisman
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加3点所有属性|n增加3点智力|n增加3点攻击力|n|n|c00838B8B由锁链装饰起来的小巧的宝石|r
+Description=
+[I06M]
+Name=空灵挂件|nNull Talisman
+Tip=
+Ubertip=
+Description=
+[I06N]
+Name=夜叉卷轴|nYasha Recipe
+Tip=
+Ubertip=
+Description=
+[I06O]
+Name=夜叉卷轴|nYasha Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加16点敏捷|n增加15的攻击速度|n增加10%的移动速度|n|n|cffffcc00需要：|r|n欢欣之刃|n精灵皮靴|n|n|cffff0303夜叉的移动速度提升效果不能和夜叉以及散夜对剑相叠加|r
+Description=
+[I06P]
+Name=散华卷轴|nSange Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点攻击力|n增加16点力量|n|cff0033cc残废|r（被动）|n|n|cffffcc00需要：|r|n食人魔之斧|n巨人力量腰带
+Description=
+[I06Q]
+Name=散华卷轴|nSange Recipe
+Tip=
+Ubertip=
+Description=
+[I06R]
+Name=碎颅锤卷轴|nCranium Basher Recipe
+Tip=
+Ubertip=
+Description=
+[I06S]
+Name=碎颅锤卷轴|nCranium Basher Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加40点攻击力|n增加6点力量|n|cff0033cc重击|r（被动）|n|n|cffffcc00需要：|r|n标枪|n巨人力量腰带|n卷轴|n|n|cffff0303重击效果不与其他被动击晕技能叠加|r
+Description=
+[I06T]
+Name=Blade Mail Recipe
+Tip=
+Ubertip=
+Description=
+[I06U]
+Name=Blade Mail Recipe
+Tip=
+Ubertip=|cffffcc00Gives:|r |n+5 armor |n+15 damage |nMelee damage return |n|cffffcc00Requires:|r |nBlades of Attack |nChainmail
+Description=
+[I06V]
+Name=漩涡卷轴|nMaelstrom Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加24点攻击力|n提升25的攻击速度|n|cff0042ff连环闪电|r（被动）|n|n|cffffcc00需要：|r|n秘银锤|n急速手套|n|n|cffff0303法球效果不能叠加|r
+Description=
+[I06W]
+Name=漩涡卷轴|nMaelstrom Recipe
+Tip=
+Ubertip=
+Description=
+[I06X]
+Name=净魂之刃卷轴|nDiffusal Blade Recipe
+Tip=
+Ubertip=
+Description=
+[I06Y]
+Name=净魂之刃卷轴|nDiffusal Blade Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增20点敏捷|n增加6点智力|n|cff0033cc反馈|r（被动）|n|cffff8000净化|r（主动）|n|n|cffffcc00需要：|r|n欢欣之刃x2|n法师长袍|n|n|cffff0303法球效果不能叠加|r|n|n|c00fffc01可以使用卷轴升级（共2等级）|r
+Description=
+[I06Z]
+Name=疯狂面具卷轴|nMask of Madness Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加20%的吸血|n|cffff8000狂热|r（主动）|n|n|cffffcc00需要：|r|n死亡面具
+Description=
+[I070]
+Name=疯狂面具卷轴|nMask of Madness Recipe
+Tip=
+Ubertip=
+Description=
+[I071]
+Name=Eul的神圣法杖卷轴|nEul's Scepter of Divinity Recipe
+Tip=
+Ubertip=
+Description=
+[I072]
+Name=Eul的神圣法杖卷轴|nEul's Scepter of Divinity Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点智力|n提升150%的魔法恢复速率|n提升30点移动速度|n|cffff8000龙卷风|r（主动）|n|n|cffffcc00需要：|r|n魔力法杖|n艺人面罩|n虚无宝石|n卷轴
+Description=
+[I073]
+Name=梅肯斯姆卷轴|nMekansm Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加5点所有属性|n增加5点护甲|n|cff0033cc回复光环|r（被动）|n|cffff8000活力|r（主动）|n|n|cffffcc00需要：|r|n恢复头巾（支援法衣）|n纳斯雷兹姆盾牌（支援法衣）
+Description=
+[I074]
+Name=梅肯斯姆卷轴|nMekansm Recipe
+Tip=
+Ubertip=
+Description=
+[I075]
+Name=Sange and Yasha Recipe
+Tip=
+Ubertip=
+Description=
+[I076]
+Name=黯灭卷轴|nStygian Desolator Recipe
+Tip=
+Ubertip=
+Description=
+[I077]
+Name=水晶剑卷轴|nCrystalys Recipe
+Tip=
+Ubertip=
+Description=
+[I078]
+Name=黑皇杖卷轴|nBlack King Bar Recipe
+Tip=
+Ubertip=
+Description=
+[I079]
+Name=幻影斧卷轴|nManta Style Recipe
+Tip=
+Ubertip=
+Description=
+[I07A]
+Name=Lothar's Edge Recipe
+Tip=
+Ubertip=
+Description=
+[I07B]
+Name=达贡之神力卷轴|nDagon Recipe
+Tip=
+Ubertip=
+Description=
+[I07C]
+Name=死灵书卷轴|nNecronomicon Recipe
+Tip=
+Ubertip=
+Description=
+[I07D]
+Name=林克的法球卷轴|nken's Sphere Recipe
+Tip=
+Ubertip=
+Description=
+[I07E]
+Name=暴雪弩炮卷轴|nBuriza-do Kyanon Recipe
+Tip=
+Ubertip=
+Description=
+[I07G]
+Name=辉耀卷轴|nRadiance Recipe
+Tip=
+Ubertip=
+Description=
+[I07H]
+Name=恐鳌之心卷轴|nHeart of Tarrasque Recipe
+Tip=
+Ubertip=
+Description=
+[I07I]
+Name=The Butterfly Recipe
+Tip=
+Ubertip=
+Description=
+[I07J]
+Name=刷新球卷轴|nRefresher Orb Recipe
+Tip=
+Ubertip=
+Description=
+[I07K]
+Name=Guinsoo的邪恶镰刀|nGuinsoo's Scythe of Vyse
+Tip=
+Ubertip=
+Description=
+[I07L]
+Name=雷神之锤卷轴|nMjollnir Recipe
+Tip=
+Ubertip=
+Description=
+[I07M]
+Name=秘法指环卷轴|nArcane Ring Recipe
+Tip=
+Ubertip=
+Description=
+[I07N]
+Name=Eye of Skadi Recipe
+Tip=
+Ubertip=
+Description=
+[I07O]
+Name=撒旦之邪力卷轴|nSatanic Recipe
+Tip=
+Ubertip=
+Description=
+[I07P]
+Name=飞行信使卷轴|nFlying Courier Recipe
+Tip=
+Ubertip=
+Description=
+[I07Q]
+Name=弗拉迪米尔的祭品卷轴|nVladmir's Offering Recipe
+Tip=
+Ubertip=
+Description=
+[I07R]
+Name=强袭装甲卷轴|nAssault Cuirass Recipe
+Tip=
+Ubertip=
+Description=
+[I07S]
+Name=莫尔迪基安的臂章卷轴|nArmlet of Mordiggian Recipe
+Tip=
+Ubertip=
+Description=
+[I07T]
+Name=希瓦的守护卷轴|nShiva's Guard Recipe
+Tip=
+Ubertip=
+Description=
+[I07U]
+Name=Sange and Yasha Recipe
+Tip=
+Ubertip=|cffffcc00Gives:|r |n+16 Agility |n+16 Strength  |n+15% Greater Maim (passive)  |n+15 Attack Speed |n+12 Damage  |n+12% Movement Speed |n|cffffcc00Requires:|r |nSange (level 2 shop) |nYasha (level 2 shop) 
+Description=
+[I07V]
+Name=黯灭卷轴|nStygian Desolator Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加60点攻击力|n|cff0033cc腐蚀攻击|r（被动）|n|n|cffffcc00需要：|r|n两把秘银锤|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r
+Description=
+[I07W]
+Name=水晶剑卷轴|nCrystalys Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加30点攻击力|n|cff0033cc致命一击|r（被动）|n|n|cffffcc00需要：|r|n阔剑|n攻击之爪
+Description=
+[I07X]
+Name=黑皇杖卷轴|nBlack King Bar Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加24点攻击力|n增加10点力量|n|cffff8000天神下凡|r（主动）|n|n|cffffcc00需要：|r|n食人魔之斧|n秘银锤|n|n|cffff0303修补匠不能刷新此物品|r
+Description=
+[I07Y]
+Name=幻影斧卷轴|nManta Style Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升15的攻击速度|n增加10点所有属性|n增加16点敏捷|n提升10%的移动速度|n|cffff8000幻影|r（主动）|n|n|cffffcc00需要：|r|n夜叉（附魔古物）|n极限宝珠|n|n|cfffffc01可以拆分|r
+Description=
+[I07Z]
+Name=Lothar's Edge Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加38点攻击力|n提升10的攻击速度|n|cffff8000疾风步|r（主动）|n|n|cffffcc00需要：|r|n大剑|n短棍
+Description=
+[I080]
+Name=达贡之神力卷轴|nDagon Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加9点攻击力|n增加3点所有属性|n增加13点智力|n|cffff8000能量冲击|r（主动）|n|n|cffffcc00需要：|r|n魔力法杖|n空灵挂件（圣物关口）|n|n|c00fffc01可以使用卷轴升级（共5等级）|r
+Description=
+[I081]
+Name=死灵书卷轴|nNecronomicon Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加8点力量|n增加15点智力|n|cffff8000召唤死灵|r（主动）|n|n|cffffcc00需要：|r|n魔力法杖|n巨人力量腰带|n|n|cffff0303死灵书可以使用此合成卷轴升级|r|n|n|cffff0303修补匠不能刷新此物品|r
+Description=
+[I082]
+Name=林克的法球卷轴|nken's Sphere Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加15点所有属性|n增加10点攻击力|n提升6点/秒的生命恢复速率|n提升150%的魔法恢复速率|n|cff0033cc法术否定|r（被动/主动）|n|n|cffffcc00需要：|r|n坚韧球（圣物关口）|n极限宝珠
+Description=
+[I083]
+Name=暴雪弩炮卷轴|nBuriza-do Kyanon Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加81点攻击力|n|cff0033cc致命一击|r（被动）|n|n|cffffcc00需要：|r|n恶魔刀锋|n水晶剑（远古兵器）
+Description=
+[I07F]
+Name=辉耀卷轴|nRadiance Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加65点攻击力|n|cff0033cc辉耀|r（被动）|n|n|cffffcc00需要：|r|n圣者遗物|n卷轴|r
+Description=
+[I084]
+Name=恐鳌之心卷轴|nHeart of Tarrasque Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加40点力量|n提高300点生命上限|n|cff0033cc治愈伤口|r（被动）|n|n|cffffcc00需要：|r|n梅塞施密特的劫掠者|n活力之球
+Description=
+[I085]
+Name=撒旦之邪力卷轴|nSatanic Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加25%的吸血|n增加20点攻击力|n增加25点力量|n增加5点护甲|n|cffff8000不洁狂热|r（主动）|n|n|cffffcc00需要：|r|n支配头盔（附魔古物）|n梅塞施密特的劫掠者
+Description=
+[I086]
+Name=Eye of Skadi Recipe
+Tip=
+Ubertip="|cffffcc00Gives:|r |n +25 Agility |n +25 Intelligence |n +25 Strength |n +25 Damage |n +200 HP |n +150 mana  |n Cold Attack (orb,passive) |n|n|cffffcc00Requires:|r |n 2 Ultimate Orbs - 4200  |n Point Booster - 1200 |n Orb of Venom - 600  |n Recipe - 300 |n|n|c00838B8B Total Cost: 6300 |n|n|c00ff0303Orb effects do not stack (melee)|r|n|cff99ccffBuff placers do not stack|r"
+Description=
+[I087]
+Name=The Butterfly Recipe
+Tip=
+Ubertip=|cffffcc00Gives:|r |n+30 Agility |n+30 Damage |n+30% Attack Speed |n+35% Evasion |n|cffffcc00Requires:|r |nEaglehorn |nQuarterstaff
+Description=
+[I088]
+Name=刷新球卷轴|nRefresher Orb Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加40点攻击力|n增加10点攻击速度|n增加6点智力|n提升5点/秒的生命恢复速率|n提升200%的魔法恢复速率|n|cffff8000刷新|r（主动）|n|n|cffffcc00需要：|r|n坚韧球x2（圣物关口）|n|n|cffff0303修补匠不能刷新此物品|r
+Description=
+[I089]
+Name=秘法指环卷轴|nArcane Ring Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加4点护甲|n提高300点魔法上限|n|cffff8000回复魔法|r（主动）|n|n|cffffcc00需要：|r|n能量之球|n守护指环|n|n|cffff0303修补匠不能刷新此物品|r
+Description=
+[I08A]
+Name=飞行信使卷轴|nFlying Courier Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000飞行信使|r（主动）|n|n|cffffcc00需要：|r|n动物信使
+Description=
+[I08B]
+Name=弗拉迪米尔的祭品卷轴|nVladmir's Offering Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加2点所有属性|n|cff0033cc攻击光环|r（被动）|n|cff0033cc吸血光环|r（被动）|n|cff0033cc辉煌光环|r（被动）|n|cff0033cc虔诚光环|r（被动）|n|cff0033cc恢复光环|r（被动）|n|n|cffffcc00需要：|r|n王者之戒|n死亡面具|n恢复头巾|n卷轴
+Description=
+[I08C]
+Name=强袭装甲卷轴|nAssault Cuirass Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点护甲|n提升35的攻击速度|n|cff0033cc虔诚光环|r（被动）|n|cff0033cc荒芜光环|r（被动）|n|cff0033cc狂热光环|r（被动）|n|n|cffffcc00需要：|r|n板甲|n锁甲|n振奋宝石
+Description=
+[I08D]
+Name=莫尔迪基安的臂章卷轴|nArmlet of Mordiggian Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加9点攻击力|n增加5点护甲|n提升25的攻击速度|n提升7点/秒的生命恢复速率|n|cffff8000邪恶之力|r（主动）|n|n|cffffcc00需要：|r|n铁意头盔|n急速手套|n攻击之|n|n|cffff0303装备唯一|r
+Description=
+[I08E]
+Name=希瓦的守护卷轴|nShiva's Guard Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加30点智力|n增加15点护甲|n|cff0033cc寒霜光环|r（被动）|n|cffff8000极寒冲击|r（主动）|n|n|cffffcc00需要：|r|n板甲|n神秘法杖|n|n|cfffffc01可以拆分|r
+Description=
+[I08F]
+Name=夜叉|nYasha
+Tip=
+Ubertip=
+Description=
+[I08G]
+Name=夜叉|nYasha
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加16点敏捷|n提升15的攻击速度|n提升8%的移动速度|r|n|n|c00838B8B夜叉可以称得上有史以来最为轻巧的兵器，少数有幸使用过它的人说，它几乎没有任何重量|r
+Description=
+[I08H]
+Name=散华|nSange
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点攻击力|n增加16点力量|n|n|cff0033cc残废：|r|n攻击有15%的概率使目标残废，降低20/20%的攻击/移动速度，持续4秒|n|n|c00838B8B散华是一件异常精准的武器，它具有不可思议的灵性，就好像它会自己寻找对手的弱点进行攻击|r
+Description=
+[I08I]
+Name=散华|nSange
+Tip=
+Ubertip=
+Description=
+[I08J]
+Name=碎颅锤|nCranium Basher
+Tip=
+Ubertip=
+Description=
+[I08K]
+Name=碎颅锤|nCranium Basher
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点攻击力|n增加10点力量|n|n|cff0042ff重击：|r|n近程/远程英雄在攻击中有25%/10%的概率重击目标，造成120点额外伤害，晕眩1.4秒，击晕最小间隔2.3秒。|n|n|cffff0303重击效果不与其他被动击晕技能叠加|r|n|n|c00838B8B一件强大的武器，用来开颅取脑|r
+Description=
+[I08L]
+Name=Cranium Basher (Ranged)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加25点攻击力|n增加8点力量|n|n|cff0042ff重击：|r|n近程/远程英雄在攻击中有25%/10%的概率重击目标，晕眩1.4秒，击晕最小间隔2秒。|n|n|cffff0303重击效果不与其他被动击晕技能叠加|r|n|n|c00838B8B一件强大的武器，用来开颅取脑|r
+Description=
+[I08M]
+Name=Cranium Basher (Ranged)
+Tip=
+Ubertip=
+Description=
+[I08N]
+Name=刃甲|nBlade Mail
+Tip=
+Ubertip=
+Description=
+[I08O]
+Name=刃甲|nBlade Mail
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加22点攻击力|n增加10点智力|n增加6点护甲|n|n|cffff8000尖刺：|r|n反弹所有伤害|n|n|cffff8000英雄攻击 魔法伤害|r|n|cff99ccff持续时间：|r4.5|n|cff99ccff冷却时间：|r13|n|n|c00838B8B这件燃烧军团所发明的用锋利的刀片编织而成的外套，适合那些总是读秒的倒霉蛋|r
+Description=
+[I08P]
+Name=漩涡|nMaelstrom
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加24点攻击力|n提升25的攻击速度|n|n|cff0033cc连环闪电：|r|n攻击有25%的概率释放出能跳跃4次的连环闪电，造成120点伤害，不衰减|n|n|cffff0303法球效果不能叠加|r|n|n|c00838B8B神亲自打造的战锤，漩涡可以在攻击中发动闪电的力量|r
+Description=
+[I08Q]
+Name=漩涡|nMaelstrom
+Tip=
+Ubertip=
+Description=
+[I08R]
+Name=净魂之刃 等级1|nDiffusal Blade Level 1
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加25点敏捷|n增加10点智力|n|n|cff0042ff反馈：|r|n攻击燃烧目标25点魔法并造成等量伤害（远程幻象无效）|n|n|cffff8000净化：|r|n消除目标身上的魔法效果，将敌方单位移动速度降低至1/5，持续4秒|n|cff99ccff施法距离：|r600|n|cff99ccff冷却时间：|r8|n能够升级|cffff03031|r次|n
+Description=
+[I08S]
+Name=净魂之刃 等级1|nDiffusal Blade Level 1
+Tip=
+Ubertip=
+Description=
+[I08T]
+Name=支配头盔|nHelm of the Dominator
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加20点攻击力|n增加5点护甲|n增加3/秒生命恢复速率|n增加15%的吸血|n|n|cffff8000支配：|r|n完全控制一个非英雄或非远古单位并增加其500生命值上限|n|cff99ccff施法距离：|r700|n|cff99ccff冷却时间：|r60秒|n|n|cffff0303修补匠不能刷新此物品|r|n|n|c00838B8B死去的死灵法师留下的可怕头盔|r
+Description=
+[I08U]
+Name=支配头盔|nHelm of the Dominator
+Tip=
+Ubertip=
+Description=
+[I08V]
+Name=支配头盔（信使版）|nHelm of the Dominator (Courier Edition)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加20点攻击力|n增加5点护甲|n增加15%的吸血|n|n|cffff8000支配：|r|n完全控制一个非英雄或非远古单位|n|cff99ccff施法距离：|r700|n|cff99ccff冷却时间：|r60秒|n|n|cffff0303修补匠不能刷新此物品|r|n|n|c00838B8B死去的死灵法师留下的可怕头盔|r
+Description=
+[I08W]
+Name=支配头盔（信使版）|nHelm of the Dominator (Courier Edition)
+Tip=
+Ubertip=
+Description=
+[I08X]
+Name=疯狂面具|nMask of Madness
+Tip=
+Ubertip=
+Description=
+[I08Y]
+Name=疯狂面具|nMask of Madness
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加20%的吸血|n|n|cffff8000狂热：|r|n提升100点攻击速度和17%的移动速度，受到攻击额外承受30%的伤害|n|cff99ccff持续时间：|r12|n|cff99ccff冷却时间：|r25|n|n|c00838B8B这个面具是如此的狰狞，以至于只是看着它就会陷入疯狂|r
+Description=
+[I08Z]
+Name=Eul的神圣法杖|nEul's Scepter of Divinity
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点智力|n提升150%的魔法恢复速率|n提升40点移动速度|n|n|cffff8000龙卷风：|r|n使目标悬空2.5秒，可以对自己使用|n|cff99ccff施法距离：|r700|n|cff99ccff冷却时间：|r23|n|n|c00838B8BEul（最初版本的作者）所留下的物品，令我们回想起过往的岁月|r
+Description=
+[I090]
+Name=Eul的神圣法杖|nEul's Scepter of Divinity
+Tip=
+Ubertip=
+Description=
+[I091]
+Name=振魂石|nSoul Booster
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升450点生命上限|n提升400点魔法上限|n提升4点/秒的生命恢复速率|n提升100%的魔法恢复速率|n|n|c00838B8BMo|r
+Description=
+[I092]
+Name=振魂石|nSoul Booster
+Tip=
+Ubertip=
+Description=
+[I093]
+Name=梅肯斯姆|nMekansm
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加5点所有属性|n增加5点护甲|n|n|cff0033cc回复光环：|r|n提升900范围内友方单位4点/秒的生命恢复速率|n|n|cffff8000活力：|r|n回复900范围内友方单位250点生命，增加2点护甲，效果在25秒内无法叠加|n|cff99ccff持续时间：|r25|n|cff99ccff冷却时间：|r45|n|n|c00838B8B以一种近乎完美的方式结晶而成的光亮的宝石，在你遭遇危险时给予保护|r
+Description=
+[I094]
+Name=梅肯斯姆|nMekansm
+Tip=
+Ubertip=
+Description=
+[I095]
+Name=散夜对剑|nSange and Yasha
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加16点攻击力|n增加16点力量|n增加16点敏捷|n提升16%的移动速度|n提升16的攻击速度|n|n|cff0033cc残废：|r|n攻击有16%的概率使目标残废，降低30/30%的攻击/移动速度，持续4秒|n|n|cffff0303提升移动速度效果不能和夜叉叠加|r|n|n|c00838B8B散华和夜叉经过月光的照耀而产生共鸣，双剑合璧发挥出更大的威力|r|n|n|c00fffc01可以拆分|r
+Description=
+[I096]
+Name=散夜对剑|nSange and Yasha
+Tip=
+Ubertip=
+Description=
+[I097]
+Name=黯灭|nStygian Desolator
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加50点攻击力|n|n|cff0033cc腐蚀攻击：|r|n降低目标7点护甲，持续15秒，不叠加|n|n|cffff0303对建筑有效|n法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|n|c00838B8B这件邪恶并且嗜血的武器，通常用于拷打政治犯|r
+Description=
+[I098]
+Name=黯灭|nStygian Desolator
+Tip=
+Ubertip=
+Description=
+[I099]
+Name=狂战斧|nBattle Fury
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加55点攻击力|n提升6点/秒的生命恢复速率|n提升150%的魔法恢复速率|n|n|cffff8000伐木：|r|n砍掉一棵树|n|cff99ccff冷却时间：|r5|n|n|cff0033cc分裂攻击：|r|n范围225，溅射35%的伤害；远程英雄无溅射效果|n|n|cff0033cc压制：|r|n对非英雄单位额外造成近战/远程60%/25%的伤害|n|n|c00838B8B拥有它的人简直成为了一部杀人机器|r
+Description=
+[I09A]
+Name=狂战斧|nBattle Fury
+Tip=
+Ubertip=
+Description=
+[I09B]
+Name=水晶剑|nCrystalys
+Tip=
+Ubertip=
+Description=
+[I09C]
+Name=水晶剑|nCrystalys
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加30点攻击力|n|n|cff0033cc致命一击：|r|n攻击有20%的概率造成1.75倍伤害|n|n|c00838B8B在法师战争中，因为反叛军使用这柄剑帮助Roshan逃出禁锢他的水晶而得名|r
+Description=
+[I09D]
+Name=黑皇杖（6）|nBlack King Bar (6)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加24点攻击力|n增加10点力量|n|n|cffff8000天神下凡：|r|n魔法免疫|n|cff99ccff持续时间：|r6|n|cff99ccff冷却时间：|r60|n|n|c00838B8B凝结着巨人神力的权杖|r|n|n|cffff0303修补匠不能刷新此物品|r
+Description=
+[I09E]
+Name=黑皇杖（8）|nBlack King Bar (8)
+Tip=
+Ubertip=
+Description=
+[I09F]
+Name=幻影斧|nManta Style
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升15的攻击速度|n增加10点所有属性|n增加16点敏捷|n提升10%的移动速度|n|n|cffff8000幻影：|r|n制造两个幻影，拥有本体33%的攻击力，承受350%的伤害|n|cff99ccff持续时间：|r20|n|cff99ccff冷却时间：|r30|n|n|cfffffc01可以拆分|r|n|n|c00838B8B一把花哨的斧子|r
+Description=
+[I09G]
+Name=幻影斧|nManta Style
+Tip=
+Ubertip=
+Description=
+[I09H]
+Name=洛萨之锋|nLothar's Edge
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加22点攻击力|n提升30的攻击速度|n|n|cffff8000疾风步：|r|n进入隐形状态，提升20%的移动速度，打破隐形状态的第一击额外造成175点伤害|n|cff99ccff持续时间：|r14|n|cff99ccff冷却时间：|r28|n|n|c00838B8B传奇般的英雄洛萨在第二次人兽大战中失落的宝剑|r
+Description=
+[I09I]
+Name=洛萨之锋|nLothar's Edge
+Tip=
+Ubertip=
+Description=
+[I09K]
+Name=达贡之神力 等级1|nDagon Level 1
+Tip=
+Ubertip=
+Description=
+[I09L]
+Name=达贡之神力 等级5|nDagon Level 5
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加9点攻击力|n增加3点所有属性|n增加25点智力|n|n|cffff8000能量冲击：|r|n对目标造成800点伤害|n|cff99ccff施法距离：|r800|n|cff99ccff冷却时间：|r15|n|n已经升级至|c00ff0303最高|r等级|n|n|c00838B8B一把被一再仿制的小型法杖|r
+Description=
+[I09M]
+Name=达贡之神力 等级1|nDagon Level 1
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加9点攻击力|n增加3点所有属性|n增加13点智力|n|n|cffff8000能量冲击：|r|n对目标造成400点伤害|n|cff99ccff施法距离：|r600|n|cff99ccff冷却时间：|r35|n|n能够升级|cffff03034|r次|n|n|c00838B8B一把被一再仿制的小型法杖|r
+Description=
+[I09N]
+Name=达贡之神力 等级3|nDagon Level 3
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加9点攻击力|n增加3点所有属性|n增加19点智力|n|n|cffff8000能量冲击：|r|n对目标造成600点伤害|n|cff99ccff施法距离：|r700|n|cff99ccff冷却时间：|r25|n|n能够升级|cffff03032|r次|n|n|c00838B8B一把被一再仿制的小型法杖|r
+Description=
+[I09O]
+Name=达贡之神力 等级4|nDagon Level 4
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加9点攻击力|n增加3点所有属性|n增加22点智力|n|n|cffff8000能量冲击：|r|n对目标造成700点伤害|n|cff99ccff施法距离：|r750|n|cff99ccff冷却时间：|r20|n|n能够升级|cffff03031|r次|n|n|c00838B8B一把被一再仿制的小型法杖|r
+Description=
+[I09P]
+Name=达贡之神力 等级2|nDagon Level 2
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加9点攻击力|n增加3点所有属性|n增加16点智力|n|n|cffff8000能量冲击：|r|n对目标造成500点伤害|n|cff99ccff施法距离：|r650|n|cff99ccff冷却时间：|r30|n|n能够升级|cffff03033|r次|n|n|c00838B8B一把被一再仿制的小型法杖|r
+Description=
+[I09J]
+Name=达贡之神力 等级2|nDagon Level 2
+Tip=
+Ubertip=
+Description=
+[I09Q]
+Name=达贡之神力 等级3|nDagon Level 3
+Tip=
+Ubertip=
+Description=
+[I09R]
+Name=达贡之神力 等级5|nDagon Level 5
+Tip=
+Ubertip=
+Description=
+[I09S]
+Name=达贡之神力 等级4|nDagon Level 4
+Tip=
+Ubertip=
+Description=
+[I09T]
+Name=死灵书 等级1|nNecronomicon Level 1
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加15点智力|n增加8点力量|n|n|cffff8000召唤死灵：|r|n召唤一个低级的死灵战士和一个低级的死灵射手|n|cff99ccff持续时间：|r40|n|cff99ccff冷却时间：|r95|n能够升级|cffff03032|r次|n|cffff0303修补匠不能刷新此物品|n|c00838B8B借助圣杯上关于亡灵和恶魔的记载，将强大的邪恶力量封印在书内|r
+Description=
+[I09U]
+Name=死灵书 等级1|nNecronomicon Level 1
+Tip=
+Ubertip=
+Description=
+[I09V]
+Name=死灵书 等级2|nNecronomicon Level 2
+Tip=
+Ubertip=
+Description=
+[I09W]
+Name=死灵书 等级3|nNecronomicon Level 3
+Tip=
+Ubertip=
+Description=
+[I09X]
+Name=死灵书 等级2|nNecronomicon Level 2
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加21点智力|n增加12点力量|n|n|cffff8000召唤死灵：|r|n召唤一个中级的死灵战士和一个中级的死灵射手|n|cff99ccff持续时间：|r35|n|cff99ccff冷却时间：|r95|n能够升级|cffff03031|r次|n|cffff0303修补匠不能刷新此物品|n|c00838B8B借助圣杯上关于亡灵和恶魔的记载，将强大的邪恶力量封印在书内|r
+Description=
+[I09Y]
+Name=死灵书 等级3|nNecronomicon Level 3
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加24点智力|n增加16点力量|n|n|cffff8000召唤死灵：|r|n召唤一个高级的死灵战士和一个高级的死灵射手|n|cff99ccff持续时间：|r35|n|cff99ccff冷却时间：|r95|n已经至|cffff0303最高|r等级|n|cffff0303修补匠不能刷新此物品|n|c00838B8B借助圣杯上关于亡灵和恶魔的记载，将强大的邪恶力量封印在书内|r
+Description=
+[I09Z]
+Name=林克的法球|nLinken's Sphere
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加15点所有属性|n增加15点攻击力|n提升6点/秒的生命恢复速率|n提升150%的魔法恢复速率|n|n|cff0033cc法术否定：|r|n抵挡一次指向性法术攻击|n|cff99ccff冷却时间：|r13|n|n|c00838B8B这颗充满魔力的法球曾经保护过历史上最著名英雄中的一位|r
+Description=
+[I0A0]
+Name=林克的法球|nLinken's Sphere
+Tip=
+Ubertip=
+Description=
+[I0A1]
+Name=|cff999900圣剑|r
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加330点攻击力|n|n|cffff0303死亡后掉落|r|n|n|c00838B8B能力越大，责任就越大|r
+Description=
+[I0A2]
+Name=|cff999900圣剑|r
+Tip=
+Ubertip=
+Description=
+[I0A3]
+Name=暴雪弩炮|nBuriza-do Kyanon
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加81点攻击力|n|n|cff0033cc致命一击：|r|n攻击有30%的概率造成2.2倍伤害|n|n|c00838B8B俗称“大炮”，1.08（暗黑破坏神II）时已经非常出色，不过看来暴雪觉得还不够，因此，它现在更加厉害了|r
+Description=
+[I0A4]
+Name=暴雪弩炮|nBuriza-do Kyanon
+Tip=
+Ubertip=
+Description=
+[I0A5]
+Name=金箍棒(克敌机先 |cff00ff00激活|r)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加66点攻击力|n提升15的攻击速度|n|n|cff0042ff克敌机先：|r|n攻击不会落空（该技能与其他一些技能有冲突，如霜冻之箭，点击以切换开关状态）|n|n|cff0042ff猛击：|r|n攻击有35%的概率额外造成160点伤害，和0.01秒眩晕|r|n|n|c00838B8B孙悟空使用过的威力无比的短棍，据说是东海龙宫的镇宫之宝|r
+Description=
+[I0A6]
+Name=金箍棒|nMonkey King Bar
+Tip=
+Ubertip=
+Description=
+[I0A7]
+Name=辉耀|nRadiance
+Tip=
+Ubertip=
+Description=
+[I0A8]
+Name=辉耀(|cff00ff00开启|r)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加65点攻击力|n|n|cff0042ff辉耀：|r|n对附近的敌方单位造成50点/秒的伤害，攻击有17%的概率落空|n|n|cff99ccff作用范围：|r700|n|n|c00838B8B神圣的武器|r
+Description=
+[I0A9]
+Name=恐鳌之心|nHeart of Tarrasque
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加40点力量|n提高300点生命上限|n|n|cff0033cc治愈伤口：|r|n提升最大生命值*4.75%点/秒的生命恢复速率；受到来自玩家的攻击会失去恢复效果，持续7秒（近程英雄5秒）|n|n|c00838B8B已经绝种的怪物的心脏，能提升携带者的耐久力|r
+Description=
+[I0AA]
+Name=恐鳌之心|nHeart of Tarrasque
+Tip=
+Ubertip=
+Description=
+[I0AB]
+Name=撒旦之邪力|nSatanic
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加25%的吸血|n增加20点攻击力|n增加25点力量|n增加5点护甲|n|n|cffff8000不洁狂热：|r|n额外增加200%的吸血|n|cff99ccff持续时间：|r4.5|n|cff99ccff冷却时间：|r35|n|n|c00838B8B这件威力无穷的武器据说曾被达克苏尔随身携带|r
+Description=
+[I0AC]
+Name=撒旦之邪力|nSatanic
+Tip=
+Ubertip=
+Description=
+[I0AD]
+Name=斯嘉蒂之眼|nEye of Skadi
+Tip=
+Ubertip=
+Description=
+[I0AE]
+Name=斯嘉蒂之眼|nEye of Skadi
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加25点所有属性|n提高250点生命上限|n提高250点魔法上限|n|n|cff0033cc霜冻攻击：|r|n降低目标35/35%的攻击/移动速度，持续5/3（近程/远程）秒|n|n|cffff0303法球效果不能叠加（近程）|n|cff99ccff攻击特效不能叠加|r|r|n|n|c00838B8B谨防解冻！|r
+Description=
+[I0AF]
+Name=斯嘉蒂之眼（远程）|nEye of Skadi (Ranged)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加25点所有属性|n提高250点生命上限|n提高250点魔法上限|n|n|cff0033cc霜冻攻击：|r|n降低目标35/35%的攻击/移动速度，持续5/3（近程/远程）秒|n|n|cffff0303法球效果不能叠加（近程）|n|cff99ccff攻击特效不能叠加|r|r|n|n|c00838B8B谨防解冻！|r
+Description=
+[I0AG]
+Name=斯嘉蒂之眼（远程）|nEye of Skadi (Ranged)
+Tip=
+Ubertip=
+Description=
+[I0AH]
+Name=蝴蝶|nThe Butterfly
+Tip=
+Ubertip=
+Description=
+[I0AI]
+Name=蝴蝶|nThe Butterfly
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加30点攻击力|n增加30点敏捷|n提升30的攻击速度|n提升35%的闪避|n|n|cffff8000振翅：|r|n牺牲闪避效果来获得35%移动速度加成，持续4秒|r|n|cff99ccff冷却时间: |r25|n|n|c00838B8B蝴蝶是在法师之战中用魔法锻造而成却从未出鞘的宝剑，直到最近，它的能力才重新被唤醒|r
+Description=
+[I0AJ]
+Name=刷新球|nRefresher Orb
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加20点攻击力|n提升10点/秒的生命恢复速率|n提升250%的魔法恢复速率|n|n|cffff8000刷新：|r|n立刻刷新所有技能与物品（不包括刷新球本身）的冷却时间|n|cff99ccff冷却时间：|r195|n|n|cffff0303修补匠不能刷新此物品|r|n|n|c00838B8B大法师阿哈利姆的的杰作|r
+Description=
+[I0AK]
+Name=刷新球|nRefresher Orb
+Tip=
+Ubertip=
+Description=
+[I0AL]
+Name=Guinsoo的邪恶镰刀|nGuinsoo's Scythe of Vyse
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n增加25点智力|n提升150%的魔法恢复速率|n|n|cffff8000妖术：|r|n将一个敌方单位变成小羊|n|cff99ccff施法距离：|r800|n|cff99ccff持续时间：|r3.5|n|cff99ccff冷却时间：|r25|n|n|c00838B8B还有什么东西会比Guinsoo（5系列的作者）的邪恶镰刀更让人郁闷呢|r
+Description=
+[I0AM]
+Name=魔瓶|nEmpty Bottle
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r
+Description=
+[I0AN]
+Name=魔瓶 - 1/3|nMagical Bottle - 1/3
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r
+Description=
+[I0AO]
+Name=魔瓶 - 2/3|nMagical Bottle - 2/3
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r
+Description=
+[I0AP]
+Name=魔瓶 - 3/3|nMagical Bottle - 3/3
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r
+Description=
+[I0AS]
+Name=魔瓶 - 2/3|nMagical Bottle - 2/3
+Tip=
+Ubertip=
+Description=
+[I0AT]
+Name=魔瓶 - 3/3|nMagical Bottle - 3/3
+Tip=
+Ubertip=
+Description=
+[I0AU]
+Name=魔瓶 - 1/3|nMagical Bottle - 1/3
+Tip=
+Ubertip=
+Description=
+[I0AV]
+Name=空瓶子|nEmpty Bottle Store
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r
+Description=
+[I0AW]
+Name=不朽之守护|nAegis of the Immortal
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0042ff重生：|r|n英雄死亡后会在原地复活|n|n|c00838B8B据说，不朽的Roshan就是靠它来获得永生|r
+Description=
+[I0AX]
+Name=不朽之守护|nAegis of the Immortal
+Tip=
+Ubertip=
+Description=
+[I0AY]
+Name=阿哈利姆神杖（基础）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0AZ]
+Name=阿哈利姆神杖（先知）
+Tip=
+Ubertip=
+Description=
+[I0B0]
+Name=奶酪|nCheese
+Tip=
+Ubertip=
+Description=
+[I0B1]
+Name=奶酪|nCheese
+Tip=
+Ubertip=|cffffcc00属性：|r|n回复2500点生命和1000点魔法
+Description=
+[I000]
+Name=阿哈利姆神杖（水晶室女）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I001]
+Name=阿哈利姆神杖（死灵法师）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I002]
+Name=阿哈利姆神杖（月之骑士）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I003]
+Name=阿哈利姆神杖（末日使者）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I004]
+Name=阿哈利姆神杖（恶魔巫师）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I005]
+Name=阿哈利姆神杖（巫妖）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I009]
+Name=阿哈利姆神杖（受折磨的灵魂）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I00D]
+Name=阿哈利姆神杖（光之守卫）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I00G]
+Name=阿哈利姆神杖（秀逗魔导士）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I00H]
+Name=阿哈利姆神杖（湮灭法师）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I00I]
+Name=阿哈利姆神杖（食人魔魔法师）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I00O]
+Name=阿哈利姆神杖（众神之王）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I00P]
+Name=阿哈利姆神杖（痛苦女王）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I00U]
+Name=阿哈利姆神杖（暗影萨满）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I011]
+Name=阿哈利姆神杖（先知）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I016]
+Name=阿哈利姆神杖（剧毒术士）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I017]
+Name=阿哈利姆神杖（巫医）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I00F]
+Name=阿哈利姆神杖（光之守卫）
+Tip=
+Ubertip=
+Description=
+[I018]
+Name=阿哈利姆神杖（受折磨的灵魂）
+Tip=
+Ubertip=
+Description=
+[I019]
+Name=阿哈利姆神杖（巫妖）
+Tip=
+Ubertip=
+Description=
+[I01A]
+Name=阿哈利姆神杖（秀逗魔导士）
+Tip=
+Ubertip=
+Description=
+[I01B]
+Name=阿哈利姆神杖（恶魔巫师）
+Tip=
+Ubertip=
+Description=
+[I01H]
+Name=阿哈利姆神杖（末日使者）
+Tip=
+Ubertip=
+Description=
+[I01I]
+Name=阿哈利姆神杖（月之骑士）
+Tip=
+Ubertip=
+Description=
+[I02K]
+Name=阿哈利姆神杖（死灵法师）
+Tip=
+Ubertip=
+Description=
+[I02L]
+Name=阿哈利姆神杖（食人魔魔法师）
+Tip=
+Ubertip=
+Description=
+[I0B2]
+Name=阿哈利姆神杖（湮灭法师）
+Tip=
+Ubertip=
+Description=
+[I0B3]
+Name=阿哈利姆神杖（痛苦女王）
+Tip=
+Ubertip=
+Description=
+[I0B4]
+Name=阿哈利姆神杖（暗影萨满）
+Tip=
+Ubertip=
+Description=
+[I0B5]
+Name=阿哈利姆神杖（巫医）
+Tip=
+Ubertip=
+Description=
+[I0B6]
+Name=阿哈利姆神杖（剧毒术士）
+Tip=
+Ubertip=
+Description=
+[I0B7]
+Name=阿哈利姆神杖（水晶室女）
+Tip=
+Ubertip=
+Description=
+[I0B8]
+Name=阿哈利姆神杖（基础）
+Tip=
+Ubertip=
+Description=
+[I0B9]
+Name=阿哈利姆神杖（众神之王）
+Tip=
+Ubertip=
+Description=
+[I0BA]
+Name=先锋盾（近程）|nVanguard (melee)
+Tip=
+Ubertip=|cffffcc00属性：|r|n提高250点生命上限|n提升6点/秒的生命恢复速率|n受到普通攻击时有100%的概率抵挡32点伤害|r|n|n|c00838B8B古尔丹麾下的死亡骑士所遗留下的先锋盾，能轻松挡下任何具有威胁的攻击|r
+Description=
+[I0BB]
+Name=先锋盾|nVanguard
+Tip=
+Ubertip=
+Description=
+[I0BC]
+Name=秘法指环|nArcane Ring
+Tip=
+Ubertip=
+Description=
+[I0BD]
+Name=秘法指环|nArcane Ring
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加4点护甲|n提高300点魔法上限|n|n|cffff8000补充魔法：|r|n回复附近友方单位135点魔法|n|cff99ccff作用范围：|r600|n|cff99ccff冷却时间：|r30|n|n|cffff0303修补匠不能刷新此物品|r|n|n|c00838B8B散发着璀璨的魔法光华的宝石戒指|r
+Description=
+[I0BE]
+Name=雷神之锤|nMjollnir
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加24点攻击力|n提升80的攻击速度|n|n|cffff8000静电冲击：|r|n受伤害有20%的概率释放200点伤害的叉状闪电，间隔1秒|n|cff99ccff持续时间：|r15|n|cff99ccff冷却时间：|r35|n|n|cff0033cc连环闪电：|r|n攻击有25%的概率释放150点伤害的连环闪电|n|n|cffff0303法球效果不能叠加|r|n|n|c00838B8B矮人名匠布鲁克和伊特里为索尔打造的战锤|r
+Description=
+[I0BF]
+Name=雷神之锤|nMjollnir
+Tip=
+Ubertip=
+Description=
+[I0BG]
+Name=弗拉迪米尔的祭品|nVladmir's Offering
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加2点所有属性|n|n|cff0033cc攻击光环：|r|n增加900范围内的友方单位15%的基础攻击力|n|n|cff0033cc吸血光环：|r|n增加900范围内的近战/远程友方单位15%/10%的吸血|n|n|cff0033cc辉煌光环：|r|n提升900范围内的友方单位0.8点/秒的魔法恢复速率|n|n|cff0033cc虔诚光环：|r|n增加900范围内的友方单位5点护甲|n|n|cff0033cc恢复光环：|r|n提升900范围内的友方单位3点/秒的生命恢复速率|n|n|c00838B8B被死去的吸血鬼的怨念诅咒的面具|r
+Description=
+[I0BH]
+Name=弗拉迪米尔的祭品|nVladmir's Offering
+Tip=
+Ubertip=
+Description=
+[I0BI]
+Name=强袭装甲|nAssault Cuirass
+Tip=
+Ubertip=
+Description=
+[I0BJ]
+Name=强袭装甲|nAssault Cuirass
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点护甲|n提升35的攻击速度|n|n|cff0033cc虔诚光环：|r|n周围900范围内友方单位增加5点护甲|n|n|cff0033cc荒芜光环：|r|n周围900范围内敌方单位降低5点护甲|n|n|cff0033cc狂热光环：|r|n周围900范围内友方单位和建筑提升20的攻击速度|r|n|n|c00838B8B这件魔鬼般的板甲冶炼于冥河深处|r
+Description=
+[I0BK]
+Name=血精石|nBloodstone
+Tip=
+Ubertip=|cffffcc00属性：|r|n提高500点生命上限|n提高400点魔法上限|n提升9点/秒的生命恢复速率|n提升200%的魔法恢复速率|n每点能量额外提升1点/秒的魔法恢复速率|n|n|cff0033cc救赎：|r|n死亡时回复周围友方单位500+30*剩余点数的生命，减少复活时间|n自身死亡时失去1/3点数，周围有敌方英雄死亡时自动获得1点数|n|n|cffff0303可用于自杀|n|cff99ccff冷却时间：|r300|n|n|c00838B8B数世纪前血巫师Erythros的遗作|r
+Description=
+[I0BL]
+Name=血精石|nBloodstone
+Tip=
+Ubertip=
+Description=
+[I0BM]
+Name=挑战头巾|nHood of Defiance
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升9点/秒的生命恢复速率|n提升30%的魔法抗性|n|n|c00ff0303效果无法和流浪法师斗篷以及其他挑战头巾叠加|r|n|n|cffff8000绝缘：|r|n为指定友方单位制造法力护盾，可以使其抵挡325点敌方技能的伤害；英雄单位的抵挡效果在50秒之内无法叠加|n|cff99ccff施法距离：|r900|n|cff99ccff持续时间：|r12|n|cff99ccff冷却时间：|r60|n|n|c00838B8B这是一顶具有魔法抵抗力的皮质头巾，曾经被兽人萨满们穿着举行魔法仪式|r
+Description=
+[I0BN]
+Name=挑战头巾|nHood of Defiance
+Tip=
+Ubertip=
+Description=
+[I006]
+Name=|c00ff0303极速|r
+Tip=
+Hotkey=
+Ubertip=
+Description=|c00ffffff将使用者的移动速度提至极限（550），持续30秒，同时使用者的移动速度不会被减缓|r
+[I008]
+Name=|cff00ff00回复|r
+Hotkey=
+Tip=
+Ubertip=
+Description=|c00ffffff迅速为使用者回复生命与魔法，持续30秒，或直到使用者被攻击为止|r
+[I00J]
+Name=|cff99ccff隐形|r
+Hotkey=
+Tip=
+Ubertip=
+Description=|c00ffffff让使用者进入隐形状态，持续45秒，或直到使用者进行任何会导致显形的动作为止|r
+[I00K]
+Name=|c000042ff双倍伤害|r
+Hotkey=
+Tip=
+Ubertip=
+Description=|c00ffffff让使用者的物理攻击力翻倍，持续45秒，或直到被其他增加攻击力的光环覆盖为止|r
+[I00L]
+Name=魔瓶|nEmpty Bottle
+Tip=
+Ubertip=
+Description=
+[I00M]
+Name=莫尔迪基安的臂章|nArmlet of Mordiggian
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加40点攻击力|n提升25的攻击速度|n增加25点力量|n增加5点护甲|n每秒损失32点生命|n|n|c00838B8B远古食尸鬼因吞吃他们神的血肉受到诅咒，永远不死。现今英雄通过召唤食尸鬼的镇族之宝重新签下黑暗契约|r
+Description=
+[I00N]
+Name=莫尔迪基安的臂章（信使版）|nArmlet of Mordiggian (Courier Edition)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加40点攻击力|n提升25的攻击速度|n增加25点力量|n增加5点护甲|n每秒损失40点生命|n|n|c00838B8B远古食尸鬼因吞吃他们神的血肉受到诅咒，永远不死。现今英雄通过召唤食尸鬼的镇族之宝重新签下黑暗契约|r
+Description=
+[I00Q]
+Name=莫尔迪基安的臂章|nArmlet of Mordiggian
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加9点攻击力|n提升25的攻击速度|n增加5点护甲|n提升7点/秒的生命恢复速率|n|n|cffff8000邪恶之力：|r|n额外增加31点攻击力、25点力量，提升10的攻击速度，每秒损失40点生命|n|cff99ccff冷却时间：|r0|n|n|c00838B8B远古食尸鬼因吞吃他们神的血肉受到诅咒，永远不死。现今英雄通过召唤食尸鬼的镇族之宝重新签下黑暗契约|r
+Description=
+[I00R]
+Name=莫尔迪基安的臂章（信使版）|nArmlet of Mordiggian (Courier Edition)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加9点攻击力|n提升25的攻击速度|n增加5点护甲|n提升7点/秒的生命恢复速率|n|n|cffff8000邪恶之力：|r|n额外增加31点攻击力、25点力量，提升10的攻击速度，每秒损失40点生命|n|cff99ccff冷却时间：|r0|n|n|c00838B8B远古食尸鬼因吞吃他们神的血肉受到诅咒，永远不死。现今英雄通过召唤食尸鬼的镇族之宝重新签下黑暗契约|r
+Description=
+[I00S]
+Name=莫尔迪基安的臂章|nArmlet of Mordiggian
+Tip=
+Ubertip=
+Description=
+[I00T]
+Name=莫尔迪基安的臂章|nArmlet of Mordiggian
+Tip=
+Ubertip=
+Description=
+[I00V]
+Name=莫尔迪基安的臂章（信使版）|nArmlet of Mordiggian (Courier Edition)
+Tip=
+Ubertip=
+Description=
+[I00W]
+Name=莫尔迪基安的臂章（信使版）|nArmlet of Mordiggian (Courier Edition)
+Tip=
+Ubertip=
+Description=
+[I00X]
+Name=希瓦的守护|nShiva's Guard
+Tip=
+Ubertip=
+Description=
+[I00Y]
+Name=希瓦的守护 （信使版）|nShiva's Guard (Courier Edition)
+Tip=
+Ubertip=
+Description=
+[I00Z]
+Name=希瓦的守护|nShiva's Guard
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加30点智力|n增加15点护甲|n|n|cff0033cc寒霜光环：|r|n降低附近900范围内敌方单位45的攻击速度|n|n|cffff8000极寒冲击：|r|n最远波及900范围内的敌方单位，造成200点伤害，降低40%的移动速度，持续4秒|n|cff99ccff冷却时间：|r30|n|n|c00838B8B由冬泉谷的圣火锻铸而成，据说原本属于某位女神，至今仍留有当年的神力|r
+Description=
+[I010]
+Name=希瓦的守护 （信使版）|nShiva's Guard (Courier Edition)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加30点智力|n增加15点护甲|n|n|cff0033cc寒霜光环：|r|n降低附近900范围内敌方单位45的攻击速度|n|n|cffff8000极寒冲击：|r|n最远波及900范围内的敌方单位，造成200点伤害，降低40%的移动速度，持续4秒|n|cff99ccff冷却时间：|r30|n|n|c00838B8B由冬泉谷的圣火锻铸而成，据说原本属于某位女神，至今仍留有当年的神力|r
+Description=
+[I012]
+Name=紫怨|nOrchid Malevolence
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加30点攻击力|n增加25点智力|n提升150%的魔法恢复速率|n提升30的攻击速度|n|n|cffff8000灵魂燃烧：|r|n使目标沉默5秒，并在之后对其额外造成期间所受伤害总量30%的伤害|n|cff99ccff施法距离：|r800|n|cff99ccff冷却时间：|r18|n|n|c00838B8B由火焰恶魔的紫红色精华所凝结而成的法杖，拥有使敌人无法施法的能力|r
+Description=
+[I013]
+Name=紫怨|nOrchid Malevolence
+Tip=
+Ubertip=
+Description=
+[I014]
+Name=飞行信使|nFlying Courier
+Tip=
+Ubertip=
+Description=
+[I01D]
+Name=飞行信使|nFlying Courier
+Tip=
+Ubertip=创造一个可以快速运输物品往返于基地的飞行单位。该单位免疫魔法，并拥有生命值与护甲。可以施放爆发。
+Description=
+[I00A]
+Name=速度之鞋|nBoots of Speed
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I00B]
+Name=阿哈利姆神杖|nAghanim's Scepter
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I00C]
+Name=秘法指环|nArcane Ring
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01C]
+Name=莫尔迪基安的臂章（开启状态）|nArmlet of Mordiggian (On)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01E]
+Name=莫尔迪基安的臂章（关闭状态）|nArmlet of Mordiggian (Off)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01J]
+Name=坚韧球|nPerseverance
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点攻击力|n提升5点/秒的生命恢复速率|n提升125%的魔法恢复速率|n|n|c00838B8B一块能让佩戴者心体强健的宝石|r|n|n|cfffffc01这件物品不属于你，但是它可以被共享|r
+Description=
+[I01K]
+Name=恢复头巾|nHeaddress of Rejuvenation
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01L]
+Name=纳斯雷兹姆盾牌|nNathrezim Buckler
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01M]
+Name=王者之戒|nRing of Basilius
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01P]
+Name=远行鞋|nBoots of Travel
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01Q]
+Name=动力鞋（|cffff8000力量|r）|nPower Treads (Strength)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01R]
+Name=动力鞋（|cffff8000敏捷|r）|nPower Treads (Agility)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01S]
+Name=动力鞋（|cffff8000智力|r）|nPower Treads (Intelligence)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01T]
+Name=迈达斯之手|nHand of Midas
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01U]
+Name=空明杖|nOblivion Staff
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01V]
+Name=护腕|nBracer
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01W]
+Name=怨灵系带|nWraith Band
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01X]
+Name=空灵挂件|nNull Talisman
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01Y]
+Name=夜叉|nYasha
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01Z]
+Name=散华|nSange
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I020]
+Name=碎颅锤|nCranium Basher
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I021]
+Name=刃甲|nBlade Mail
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I022]
+Name=漩涡|nMaelstrom
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I023]
+Name=净魂之刃 等级1|nDiffusal Blade Level 1
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I024]
+Name=支配头盔|nHelm of the Dominator
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I025]
+Name=疯狂面具|nMask of Madness
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I026]
+Name=Eul的神圣法杖|nEul's Scepter of Divinity
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I027]
+Name=振魂石|nSoul Booster
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I028]
+Name=梅肯斯姆|nMekansm
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I029]
+Name=散夜对剑|nSange and Yasha
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I02A]
+Name=黯灭|nStygian Desolator
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I02B]
+Name=狂战斧|nBattle Fury
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I02C]
+Name=水晶剑|nCrystalys
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I02D]
+Name=黑皇杖（7）|nBlack King Bar (7)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I02E]
+Name=幻影斧|nManta Style
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I02F]
+Name=洛萨之锋|nLothar's Edge
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I02G]
+Name=达贡之神力 等级2|nDagon Level 2
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I02H]
+Name=死灵书 等级1|nNecronomicon Level 1
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I02I]
+Name=死灵书 等级2|nNecronomicon Level 2
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I02J]
+Name=死灵书 等级3|nNecronomicon Level 3
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0BO]
+Name=林克的法球|nLinkin's Sphere
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0BP]
+Name=圣剑|nDivine Rapier
+Tip=
+Ubertip=在法师之战中，圣剑由神亲自交予反叛军之手|n增加330点攻击力。|n|n|cffff0303英雄死亡后随之掉落|r|n|n|cfffffc01这件物品不属于你，但是它可以被共享。|r
+Description=
+[I0BQ]
+Name=暴雪弩炮|nBuriza-do Kyanon
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0BR]
+Name=金箍棒|nMonkey King Bar
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0BS]
+Name=辉耀|nRadiance
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0BT]
+Name=恐鳌之心|nHeart of Tarrasque
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0BU]
+Name=撒旦之邪力|nSatanic
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0BV]
+Name=斯嘉蒂之眼|nEye of Skadi
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0BW]
+Name=蝴蝶|nThe Butterfly
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0BX]
+Name=刷新球|nRefresher Orb
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0BY]
+Name=Guinsoo的邪恶镰刀|nGuinsoo's Scythe of Vyse
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0BZ]
+Name=先锋盾|nVanguard
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0C0]
+Name=雷神之锤|nMjollnir
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0C1]
+Name=弗拉迪米尔的祭品|nVladmir's Offering
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0C2]
+Name=强袭装甲|nAssault Cuirass
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0C3]
+Name=血精石|nBloodstone
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0C4]
+Name=挑战头巾|nHood of Defiance
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0C7]
+Name=凯伦的匕首|nKelen's Dagger
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0C9]
+Name=极限宝珠|nUltimate Orb
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CA]
+Name=急速手套|nGloves of Haste
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CB]
+Name=紫怨|nOrchid Malevolence
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CC]
+Name=圣者遗物|nSacred Relic
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CD]
+Name=死亡面具|nMask of Death
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CE]
+Name=流浪法师斗篷|nPlaneswalker's Cloak
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CF]
+Name=希瓦的守护|nShiva's Guard
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CG]
+Name=梅塞施密特的劫掠者|nMesserschmidt's Reaver
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CH]
+Name=鹰角弓|nEaglehorn
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CI]
+Name=恶魔刀锋|nDemon Edge
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0C5]
+Name=敏捷便鞋|nSlippers of Agility
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CJ]
+Name=力量护手|nGauntlets of Strength
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CK]
+Name=活力之球|nVitality Booster
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CL]
+Name=精气之球|nPoint Booster
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CM]
+Name=智力斗篷|nMantle of Intelligence
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CN]
+Name=神秘法杖|nMystic Staff
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CP]
+Name=法师长袍|nRobe of the Magi
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CQ]
+Name=振奋宝石|nHyperstone
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CR]
+Name=能量之球|nEnergy Booster
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CS]
+Name=精灵皮靴|nBoots of Elvenskin
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CU]
+Name=铁树枝干|nIronwood Branch
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CV]
+Name=巨人力量腰带|nBelt of Giant Strength
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CW]
+Name=守护指环|nRing of Protection
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CX]
+Name=大剑|nClaymore
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CY]
+Name=短棍|nQuarterstaff
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CZ]
+Name=阔剑|nBroadsword
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0D0]
+Name=秘银锤|nMithril Hammer
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0D1]
+Name=魔力法杖|nStaff of Wizardry
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0D2]
+Name=欢欣之刃|nBlade of Alacrity
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0D4]
+Name=贵族头环|nCirclet of Nobility
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0D5]
+Name=攻击之爪|nBlades of Attack
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0D6]
+Name=标枪|nJavelin
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0D7]
+Name=锁甲
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0D8]
+Name=食人魔之斧|nOgre Axe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0D9]
+Name=圆盾（近战）|nStout Shield (melee)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0DA]
+Name=铁意头盔|nHelm of Iron Will
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0DB]
+Name=板甲|nPlate Mail
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I04V]
+Name=再生之戒|nRing of Regeneration
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升2点/秒的生命恢复速率|n|n|c00838B8B侏儒们都迷信这戒指能带来好运气|r
+Description=
+[I0C6]
+Name=王者之戒（英雄）|nRing of Basilius (Heroes)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0C8]
+Name=碎颅锤（远程）|nCranium Basher (Ranged)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CO]
+Name=支配头盔（信使版）|nHelm of the Dominator (Courier)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01G]
+Name=达贡之神力 等级1|nDagon Level 1
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0D3]
+Name=达贡之神力 等级5|nDagon Level 5
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0DC]
+Name=达贡之神力 等级3|nDagon Level 3
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0DD]
+Name=达贡之神力 等级4|nDagon Level 4
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0CT]
+Name=斯嘉蒂之眼（远程）|nEye of Skadi (Ranged)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I01F]
+Name="莫尔迪基安的臂章（信使版，开启状态）|nArmlet of Mordiggian(On,Courier)"
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0DE]
+Name="莫尔迪基安的臂章（信使版，关闭状态）|nArmlet of Mordiggian (Off,Courier)"
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0DF]
+Name=希瓦的守护（信使版）|nShiva's Guard (Courier)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0DG]
+Name=真视宝石|nGem of True Sight
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc真视：|r|n显现附近的隐形单位|n|n|cffff0303死亡后掉落|n不可出售|r|n|n|c00838B8B一块有魔力的石头，能够让你看到视野之外的东西|r|n|n|cfffffc01这件物品不属于你，但是它可以被共享|r
+Description=
+[I0DH]
+Name=凯伦的匕首 - |cffff0303禁用|r
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0DI]
+Name=医疗指环|nRing of Health
+Tip=
+Ubertip=|cffffcc00属性：|r|n提高5点/秒的生命恢复速率|n|n|cff838B8B在半身人肥仔尸体下找到的发光戒指|r
+Description=
+[I0DJ]
+Name=再生之戒|nRing of Regeneration
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升2点/秒的生命恢复速率|n|n|c00838B8B侏儒们都迷信这戒指能带来好运气|r
+Description=
+[I0DK]
+Name=艺人面罩|nSobi Mask
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升50%的魔法恢复速率|n|n|c00838B8B法师和术士们在仪祭时使用的面具|r|n|n|cfffffc01这件物品不属于你，但是它可以被共享|r
+Description=
+[I0DL]
+Name=虚无宝石|nVoid Stone
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升100%的魔法恢复速率|n|n|c00838B8B一块看似拥有无穷的心灵能量的石头|r|n|n|cfffffc01这件物品不属于你，但是它可以被共享|r
+Description=
+[I0DM]
+Name=空瓶子|nEmpty Bottle Store
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|cfffffc01这件物品不属于你，但是它可以被共享|r
+Description=
+[I0DN]
+Name=魔瓶|nEmpty Bottle
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|cfffffc01这件物品不属于你，但是它可以被共享|r
+Description=
+[I0DO]
+Name=魔瓶 - 1/3|nMagical Bottle - 1/3
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r|n|n|cfffffc01这件物品不属于你，但是它可以被共享|r
+Description=
+[I0DP]
+Name=魔瓶 - 2/3|nMagical Bottle - 2/3
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r|n|n|cfffffc01这件物品不属于你，但是它可以被共享|r
+Description=
+[I0DQ]
+Name=魔瓶 - 3/3|nMagical Bottle - 3/3
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r|n|n|cfffffc01这件物品不属于你，但是它可以被共享|r
+Description=
+[I0DR]
+Name=魔瓶 - 回复|nMagical Bottle - Regeneration
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r|n|n|cfffffc01这件物品不属于你，但是它可以被共享|r
+Description=
+[I0DS]
+Name=恢复头巾卷轴|nHeaddress of Rejuvenation Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0DT]
+Name=纳斯雷兹姆盾牌卷轴|nNathrezim Buckler Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0DU]
+Name=远行鞋卷轴|nBoots of Travel Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0DV]
+Name=Power Treads Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0DW]
+Name=迈达斯之手卷轴|nHand of Midas Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0DX]
+Name=护腕卷轴|nBracer Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0DY]
+Name=怨灵系带卷轴|nWraith Band Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0DZ]
+Name=空灵挂件卷轴|nNull Talisman Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0E0]
+Name=夜叉卷轴|nYasha Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0E1]
+Name=散华卷轴|nSange Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0E2]
+Name=碎颅锤卷轴|nCranium Basher Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0E3]
+Name=Blade Mail Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0E4]
+Name=漩涡卷轴|nMaelstrom Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0E5]
+Name=净魂之刃卷轴|nDiffusal Blade Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0E6]
+Name=疯狂面具卷轴|nMask of Madness Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0E7]
+Name=Eul的神圣法杖卷轴|nEul's Scepter of Divinity Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0E8]
+Name=梅肯斯姆卷轴|nMekansm Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0E9]
+Name=Sange and Yasha Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EA]
+Name=黯灭卷轴|nStygian Desolator Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EB]
+Name=水晶剑卷轴|nCrystalys Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EC]
+Name=黑皇杖卷轴|nBlack King Bar Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0ED]
+Name=幻影斧卷轴|nManta Style Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EE]
+Name=Lothar's Edge Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EF]
+Name=达贡之神力卷轴|nDagon Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EG]
+Name=死灵书卷轴|nNecronomicon Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EH]
+Name=林克的法球卷轴|nken's Sphere Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EI]
+Name=暴雪弩炮卷轴|nBuriza-do Kyanon Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EJ]
+Name=辉耀卷轴|nRadiance Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EK]
+Name=恐鳌之心卷轴|nHeart of Tarrasque Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EL]
+Name=撒旦之邪力卷轴|nSatanic Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EM]
+Name=Eye of Skadi Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EN]
+Name=The Butterfly Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EO]
+Name=刷新球卷轴|nRefresher Orb Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EP]
+Name=秘法指环卷轴|nArcane Ring Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EQ]
+Name=飞行信使卷轴|nFlying Courier Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0ER]
+Name=弗拉迪米尔的祭品卷轴|nVladmir's Offering Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0ES]
+Name=强袭装甲卷轴|nAssault Cuirass Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0ET]
+Name=莫尔迪基安的臂章卷轴|nArmlet of Mordiggian Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EU]
+Name=希瓦的守护卷轴|nShiva's Guard Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EV]
+Name=净魂之刃 等级1（空）|nDiffusal Blade Level 1 (Empty)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加25点敏捷|n增加10点智力|n|n|cff0042ff反馈：|r|n攻击燃烧目标25点魔法并造成等量伤害（远程幻象无效）|n|n|cffff8000净化：|r|n消除目标身上的魔法效果，将敌方单位移动速度降低至1/5，持续4秒|n|cff99ccff施法距离：|r600|n|cff99ccff冷却时间：|r8|n能够升级|cffff03031|r次|n
+Description=
+[I0EW]
+Name=净魂之刃 等级1（空）|nDiffusal Blade Level 1 (Empty)
+Tip=
+Ubertip=
+Description=
+[I0EX]
+Name=净魂之刃（空）|nDiffusal Blade (Empty)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EY]
+Name=阿哈利姆神杖（先知）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0EZ]
+Name=阿哈利姆神杖（光之守卫）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0F0]
+Name=阿哈利姆神杖（受折磨的灵魂）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0F1]
+Name=阿哈利姆神杖（秀逗魔导士）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0F2]
+Name=阿哈利姆神杖（恶魔巫师）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0F3]
+Name=阿哈利姆神杖（末日使者）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0F4]
+Name=阿哈利姆神杖（死灵法师）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0F5]
+Name=阿哈利姆神杖（月之骑士）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0F6]
+Name=阿哈利姆神杖（巫妖）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0F7]
+Name=阿哈利姆神杖（暗影萨满）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0F8]
+Name=阿哈利姆神杖（众神之王）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0F9]
+Name=阿哈利姆神杖（湮灭法师）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0FA]
+Name=阿哈利姆神杖（痛苦女王）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0FB]
+Name=阿哈利姆神杖（巫医）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0FC]
+Name=阿哈利姆神杖（剧毒术士）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0FD]
+Name=阿哈利姆神杖（水晶室女）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0FE]
+Name=阿哈利姆神杖（食人魔魔法师）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0FF]
+Name=临时物品
+Tip=
+Ubertip=
+Description=
+[I0FG]
+Name=临时物品
+Tip=
+Ubertip=正常情况下你不应该看到这个物品，请致信 IceFrog@gmail.com 反馈此问题
+Description=
+[I0FH]
+Name=Lycan Damage - Hero - 2
+Tip=
+Ubertip=
+Description=
+[I0FI]
+Name=Lycan Damage - Hero - 4
+Tip=
+Ubertip=
+Description=
+[I0FJ]
+Name=Lycan Damage - Hero - 4 (negative)
+Tip=
+Ubertip=
+Description=
+[I0FK]
+Name=Lycan Damage - Hero - 1
+Tip=
+Ubertip=
+Description=
+[I0FL]
+Name=Lycan Damage - Hero - 3
+Tip=
+Ubertip=
+Description=
+[I0FM]
+Name=Lycan Damage - Hero - 1 (negative)
+Tip=
+Ubertip=
+Description=
+[I0FN]
+Name=Lycan Damage - Hero - 2 (negative)
+Tip=
+Ubertip=
+Description=
+[I0FO]
+Name=Lycan Damage - Hero - 3 (negative)
+Tip=
+Ubertip=
+Description=
+[I0FP]
+Name=Lycan Damage - Creep - 4 (negative)
+Tip=
+Ubertip=
+Description=
+[I0FQ]
+Name=Lycan Damage - Creep - 3
+Tip=
+Ubertip=
+Description=
+[I0FR]
+Name=Lycan Damage - Creep - 2 (negative)
+Tip=
+Ubertip=
+Description=
+[I0FT]
+Name=Lycan Damage - Creep - 3 (negative)
+Tip=
+Ubertip=
+Description=
+[I0FU]
+Name=Lycan Damage - Creep - 1 (negative)
+Tip=
+Ubertip=
+Description=
+[I0FV]
+Name=Lycan Damage - Creep - 4
+Tip=
+Ubertip=
+Description=
+[I0FW]
+Name=Lycan Damage - Creep - 1
+Tip=
+Ubertip=
+Description=
+[I0FX]
+Name=Lycan Damage - Creep - 2
+Tip=
+Ubertip=
+Description=
+[I0FS]
+Name=黑皇杖（7）|nBlack King Bar (7)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加24点攻击力|n增加10点力量|n|n|cffff8000天神下凡：|r|n魔法免疫|n|cff99ccff持续时间：|r7|n|cff99ccff冷却时间：|r65|n|n|c00838B8B凝结着巨人神力的权杖|r|n|n|cffff0303修补匠不能刷新此物品|r
+Description=
+[I0FY]
+Name=黑皇杖（8）|nBlack King Bar (8)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加24点攻击力|n增加10点力量|n|n|cffff8000天神下凡：|r|n魔法免疫|n|cff99ccff持续时间：|r8|n|cff99ccff冷却时间：|r70|n|n|c00838B8B凝结着巨人神力的权杖|r|n|n|cffff0303修补匠不能刷新此物品|r
+Description=
+[I0FZ]
+Name=黑皇杖（10）|nBlack King Bar (10)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加24点攻击力|n增加10点力量|n|n|cffff8000天神下凡：|r|n魔法免疫|n|cff99ccff持续时间：|r10|n|cff99ccff冷却时间：|r80|n|n|c00838B8B凝结着巨人神力的权杖|r
+Description=
+[I0G0]
+Name=黑皇杖（9）|nBlack King Bar (9)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加24点攻击力|n增加10点力量|n|n|cffff8000天神下凡：|r|n魔法免疫|n|cff99ccff持续时间：|r9|n|cff99ccff冷却时间：|r75|n|n|c00838B8B凝结着巨人神力的权杖|r|n|n|cffff0303修补匠不能刷新此物品|r
+Description=
+[I0G1]
+Name=黑皇杖（5）|nBlack King Bar (5)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加24点攻击力|n增加10点力量|n|n|cffff8000天神下凡：|r|n魔法免疫|n|cff99ccff持续时间：|r5|n|cff99ccff冷却时间：|r55|n|n|c00838B8B凝结着巨人神力的权杖|r|n|n|cffff0303修补匠不能刷新此物品|r
+Description=
+[I0G2]
+Name=黑皇杖（10）|nBlack King Bar (10)
+Tip=
+Ubertip=
+Description=
+[I0G3]
+Name=黑皇杖（6）|nBlack King Bar (6)
+Tip=
+Ubertip=
+Description=
+[I0G4]
+Name=黑皇杖（5）|nBlack King Bar (5)
+Tip=
+Ubertip=
+Description=
+[I0G5]
+Name=黑皇杖（7）|nBlack King Bar (7)
+Tip=
+Ubertip=
+Description=
+[I0G6]
+Name=黑皇杖（9）|nBlack King Bar (9)
+Tip=
+Ubertip=
+Description=
+[I0G7]
+Name=黑皇杖（8）|nBlack King Bar (8)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0G8]
+Name=黑皇杖（10）|nBlack King Bar (10)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0G9]
+Name=黑皇杖（9）|nBlack King Bar (9)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0GA]
+Name=黑皇杖（5）|nBlack King Bar (5)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0GB]
+Name=黑皇杖（6）|nBlack King Bar (6)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0GC]
+Name=魔棒|nMagic Stick
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000充能：|r|n使用后为你补充生命和魔法（补充效果取决于能量点数，每个能量点补充15点生命与魔法）；周围1200范围内，有处于战争迷雾之外的敌方单位施展技能时，会自动充能（上限10次）|n|cff99ccff冷却时间：|r17|n|n|c00838B8B一个简易但实用的魔杖，能够补充使用者的能量--巫师学徒和高级术士都喜欢！|r
+Description=
+[I0GD]
+Name=魔棒|nMagic Stick
+Tip=
+Ubertip=
+Description=
+[I0GE]
+Name=魔棒|nMagic Stick
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0GF]
+Name=Poison Powder
+Tip=
+Ubertip=Description |n|n|c00838B8BNEED FLAVOR TEXT
+Description=
+[I0GG]
+Name=Poison Powder
+Tip=
+Ubertip=
+Description=
+[I0GH]
+Name=显影之尘|nDust of Appearance
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000显影：|r|n立刻显示使用者周围的隐形单位，并使隐身单位减速20%|n|n可以使用|cffff03032|r次|n|cff99ccff作用范围：|r1050|n|cff99ccff持续时间：|r12|n|cff99ccff冷却时间：|r60|n|n|c00838B8B离开这里，前往幻想境界|r
+Description=
+[I0GI]
+Name=显影之尘|nDust of Appearance
+Tip=
+Ubertip=
+Description=
+[I0GJ]
+Name=相位鞋|nPhase Boots
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升45点移动速度|n增加24点攻击力|n|n|cffff8000相位移动：|r|n提升自身近战/远程24%/20%的移动速度，并且移动时碰撞体积为0；进行任何施法均会中断相位移动状态|n|n|cff99ccff持续时间：|r2.5|n|cff99ccff冷却时间：|r8|n|n|c00ff0303移动速度提升效果不与其他任何鞋子叠加|r|n|n|c00838B8B-noclip|r
+Description=
+[I0GK]
+Name=相位鞋|nPhase Boots
+Tip=
+Ubertip=
+Description=
+[I0GL]
+Name=相位鞋|nPhase Boots
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0GM]
+Name=Version Check
+Hotkey=C
+Tip=Purchase |cffffcc00C|rirclet of Nobility
+Ubertip="Increases the Strength, Agility and Intelligence of the Hero by 2 when worn."
+Description="Provides a +2 bonus to Strength, Agility and Intelligence."
+[I0GN]
+Name=Totem of Wind
+Tip=
+Ubertip=
+Description=
+[I0GO]
+Name=Totem of Fire
+Tip=
+Ubertip=
+Description=
+[I0GP]
+Name=Totem of Water
+Tip=
+Ubertip=
+Description=
+[I0GQ]
+Name=Totem of Earth
+Tip=
+Ubertip=
+Description=
+[I0GR]
+Name=Totem of Fire
+Tip=
+Ubertip=
+Description=
+[I0GS]
+Name=Totem of Earth
+Tip=
+Ubertip=
+Description=
+[I0GT]
+Name=Totem of Water
+Tip=
+Ubertip=
+Description=
+[I0GU]
+Name=Totem of Wind
+Tip=
+Ubertip=
+Description=
+[I0GX]
+Name=魔瓶 - 回复|nMagical Bottle - Regeneration
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r
+Description=
+[I0GY]
+Name=魔瓶 - 幻象|nMagical Bottle - Illusion
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r
+Description=
+[I0GZ]
+Name=魔瓶 - 隐形|nMagical Bottle - Invisibility
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r
+Description=
+[I0H0]
+Name=魔瓶 - 双倍伤害|nMagical Bottle - Double Damage
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r
+Description=
+[I0H1]
+Name=魔瓶 - 极速|nMagical Bottle - Haste
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r
+Description=
+[I0AQ]
+Name=魔瓶 - 隐形|nMagical Bottle - Invisibility
+Tip=
+Ubertip=
+Description=
+[I0AR]
+Name=魔瓶 - 双倍伤害|nMagical Bottle - Double Damage
+Tip=
+Ubertip=
+Description=
+[I0GV]
+Name=魔瓶 - 极速|nMagical Bottle - Haste
+Tip=
+Ubertip=
+Description=
+[I0GW]
+Name=魔瓶 - 幻象|nMagical Bottle - Illusion
+Tip=
+Ubertip=
+Description=
+[I0H2]
+Name=魔瓶 - 回复|nMagical Bottle - Regeneration
+Tip=
+Ubertip=
+Description=
+[I0H3]
+Name=魔瓶 - 幻象|nMagical Bottle - Illusion
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r|n|n|cfffffc01这件物品不属于你，但是它可以被共享|r
+Description=
+[I0H4]
+Name=魔瓶 - 极速|nMagical Bottle - Haste
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r|n|n|cfffffc01这件物品不属于你，但是它可以被共享|r
+Description=
+[I0H5]
+Name=魔瓶 - 隐形|nMagical Bottle - Invisibility
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r|n|n|cfffffc01这件物品不属于你，但是它可以被共享|r
+Description=
+[I0H6]
+Name=魔瓶 - 双倍伤害|nMagical Bottle - Double Damage
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r|n|n|cfffffc01这件物品不属于你，但是它可以被共享|r
+Description=
+[I0H7]
+Name=魔杖卷轴|nMagic Wand Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加3点所有属性|n|cffff8000充能|r（主动）|n|n|cffffcc00需要：|r|n魔棒|n三个铁树枝干
+Description=
+[I0H8]
+Name=魔杖卷轴|nMagic Wand Recipe
+Tip=
+Ubertip=
+Description=
+[I0H9]
+Name=魔杖卷轴|nMagic Wand Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0HA]
+Name=魔杖|nMagic Wand
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0HB]
+Name=魔杖|nMagic Wand
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加4点所有属性|n|n|cffff8000充能：|r|n使用后为你补充生命和魔法（补充效果取决于能量点数，每个能量点补充15点生命与魔法）；周围1200范围内，有处于战争迷雾之外的敌方单位施展技能时，会自动充能（上限17次））|n|cff99ccff冷却时间：|r17|n|n|c00838B8B一个简易但实用的魔杖，能够补充使用者的能量--巫师学徒和高级术士都喜欢！|r
+Description=
+[I0HC]
+Name=魔杖|nMagic Wand
+Tip=
+Ubertip=
+Description=
+[I0HD]
+Name=原力法杖卷轴|nForce Staff Recipe
+Tip=
+Ubertip=
+Description=
+[I0HE]
+Name=原力法杖卷轴|nForce Staff Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0HF]
+Name=原力法杖卷轴|nForce Staff Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点智力|n提升3/秒生命恢复速度|n|cffff8000弹射|r（主动）|n|n|cffffcc00需要：|r|n回复戒指|n魔力法杖
+Description=
+[I0HG]
+Name=原力法杖|nForce Staff
+Tip=
+Ubertip=
+Description=
+[I0HH]
+Name=原力法杖|nForce Staff
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0HI]
+Name=原力法杖|nForce Staff
+Tip=
+Ubertip=|cffffcc00属性：|r|n提供4/秒生命值回复|n增加10点智力|n|n|cffff8000弹射：|r|n可以将目标推向其面对方向600距离处。|n|cff99ccff冷却时间：|r20
+Description=
+[I0HJ]
+Name=林克的法球|nLinken's Sphere
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加15点所有属性|n增加15点攻击力|n提升6点/秒的生命恢复速率|n提升150%的魔法恢复速率|n|n|cff0033cc法术否定：|r|n抵挡一次指向性法术攻击|n|cff99ccff冷却时间：|r13|n|n|c00838B8B这颗充满魔力的法球曾经保护过历史上最著名英雄中的一位|r
+Description=
+[I0HK]
+Name=林克的法球|nLinken's Sphere
+Tip=
+Ubertip=
+Description=
+[I0HL]
+Name=林克的法球|nLinkin's Sphere
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0HM]
+Name=林克的法球|nLinken's Sphere
+Hotkey=
+Tip=
+Ubertip=
+Description=获得双倍攻击力，无法和其他攻击加成效果叠加。持续45秒
+[I0HN]
+Name=幽灵药剂|nGhost Potion
+Tip=
+Ubertip="Transforms you to Ethereal Form for 4 seconds. While in this form, you can neither attack nor be attacked and you take 40% bonus damage from spells. 2 Charges.  |n|n|cff99ccffCooldown: |r 60"
+Description=
+[I0HO]
+Name=幽灵药剂|nGhost Potion
+Tip=
+Ubertip=
+Description=
+[I0HP]
+Name=Quelling Blade (Ranged)
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc压制：|r|n对非英雄单位额外造成12%的伤害，可对侦察结界和岗哨结界造成100点伤害。|n|n|cffff8000伐木：|r|n砍掉一棵树|n|cff99ccff冷却时间：|r5|n|n|cffff0303该物品无法与很多法球效果相叠加|r|n|n|c00838B8B廉价的伐木斧，也可以用来对付野兽|r
+Description=
+[I0HQ]
+Name=The Leveler
+Tip=
+Ubertip="+22 Agility, +6 Intelligence, +6 Strength, +40% bonus damage to non-hero units and +60% bonus damage to structures. "
+Description=
+[I0HR]
+Name=压制之刃|nQuelling Blade
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc压制：|r|n对非英雄单位额外造成近战/远程32%/12%的伤害|n|n|cffff8000伐木：|r|n砍掉一棵树或者结界|n|cff99ccff冷却时间：|r5|n|n|c00838B8B廉价的伐木斧，也可以用来对付野兽|r
+Description=
+[I0HS]
+Name=The Leveler (Ranged)
+Tip=
+Ubertip="+22 Agility, +6 Intelligence, +6 Strength, +20% bonus damage to non-hero units and +30% bonus damage to structures. "
+Description=
+[I0HT]
+Name=压制之刃|nQuelling Blade
+Tip=
+Ubertip=
+Description=
+[I0HU]
+Name=压制之刃（远程）|nQuelling Blade (Ranged)
+Tip=
+Ubertip=
+Description=
+[I0HV]
+Name=压制之刃|nQuelling Blade
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0HW]
+Name=压制之刃（远程）|nQuelling Blade Ranged
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0HX]
+Name=卡德加的洞察烟斗|nKhadgar's Pipe of Insight
+Tip=
+Ubertip=
+Description=
+[I0HY]
+Name=卡德加的洞察烟斗|nKhadgar's Pipe of Insight
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0HZ]
+Name=卡德加的洞察烟斗卷轴|nKhadgar's Pipe of Insight Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升9点/秒的生命恢复速率|n增加30%的魔法抗性|n|cff0033cc恢复光环|r（被动）|n|cffff8000绝缘|r（主动）|n|n|cffffcc00需要：|r|n挑战头巾（保护领地）|n恢复头巾（支援法衣）
+Description=
+[I0I0]
+Name=卡德加的洞察烟斗|nKhadgar's Pipe of Insight
+Tip=
+Ubertip=
+Description=
+[I0I1]
+Name=The Leveler (Ranged)
+Tip=
+Ubertip=
+Description=
+[I0I2]
+Name=卡德加的洞察烟斗|nKhadgar's Pipe of Insight
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0I3]
+Name=The Leveler (Ranged)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0I4]
+Name=Aghanim's Scepter Recipe
+Tip=
+Ubertip=|cffffcc00Gives:|r |n+10 All Attributes |n+200 HP |n+150 Mana |nUltimate Upgrade (passive) |n|cffffcc00Requires:|r |n-Point Booster |n-Staff of Wizardry and Blade of Alacrity  |n  |c00fffc01or|r |n-Blade of Alacrity and Ogre Axe  |n  |c00fffc01or|r |n-Ogre Axe and Staff of Wizardry 
+Description=
+[I0I5]
+Name=Aghanim's Scepter Recipe
+Tip=
+Ubertip=|cffffcc00Gives:|r |n+10 All Attributes |n+200 HP |n+150 Mana |nUltimate Upgrade (passive) |n|cffffcc00Requires:|r |nPoint Booster |n|c00fffc01Any of the following:|r |n Staff of Wizardry and Blade of Alacrity |n Blade of Alacrity and Ogre Axe |n Ogre Axe and Staff of Wizardry
+Description=
+[I0I6]
+Name=阿哈利姆神杖（熊猫酒仙）
+Tip=
+Ubertip=
+Description=
+[I0I7]
+Name=阿哈利姆神杖（熊猫酒仙）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0I8]
+Name=阿哈利姆神杖（熊猫酒仙）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0I9]
+Name=阿哈利姆神杖（发条地精）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0IA]
+Name=阿哈利姆神杖（主宰）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0IB]
+Name=阿哈利姆神杖（祈求者）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0IC]
+Name=阿哈利姆神杖（神灵武士）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0ID]
+Name=阿哈利姆神杖（沙王）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0IE]
+Name=阿哈利姆神杖（双头龙）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0IF]
+Name=阿哈利姆神杖（暗夜魔王）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0IG]
+Name=阿哈利姆神杖（圣骑士）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0IH]
+Name=阿哈利姆神杖（混沌骑士）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0II]
+Name=阿哈利姆神杖（复仇之魂）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0IJ]
+Name=阿哈利姆神杖（矮人火枪手）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0IK]
+Name=阿哈利姆神杖（圣骑士）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0IL]
+Name=阿哈利姆神杖（暗夜魔王）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0IM]
+Name=阿哈利姆神杖（双头龙）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0IN]
+Name=阿哈利姆神杖（祈求者）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0IO]
+Name=阿哈利姆神杖（神灵武士）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0IP]
+Name=阿哈利姆神杖（沙王）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0IQ]
+Name=阿哈利姆神杖（混沌骑士）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0IR]
+Name=阿哈利姆神杖（主宰）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0IS]
+Name=阿哈利姆神杖（复仇之魂）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0IT]
+Name=阿哈利姆神杖（矮人火枪手）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0IU]
+Name=阿哈利姆神杖（发条地精）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0IV]
+Name=阿哈利姆神杖（发条地精）
+Tip=
+Ubertip=
+Description=
+[I0IW]
+Name=阿哈利姆神杖（复仇之魂）
+Tip=
+Ubertip=
+Description=
+[I0IX]
+Name=阿哈利姆神杖（主宰）
+Tip=
+Ubertip=
+Description=
+[I0IY]
+Name=阿哈利姆神杖（混沌骑士）
+Tip=
+Ubertip=
+Description=
+[I0IZ]
+Name=阿哈利姆神杖（圣骑士）
+Tip=
+Ubertip=
+Description=
+[I0J0]
+Name=阿哈利姆神杖（暗夜魔王）
+Tip=
+Ubertip=
+Description=
+[I0J1]
+Name=阿哈利姆神杖（双头龙）
+Tip=
+Ubertip=
+Description=
+[I0J2]
+Name=阿哈利姆神杖（沙王）
+Tip=
+Ubertip=
+Description=
+[I0J3]
+Name=阿哈利姆神杖（神灵武士）
+Tip=
+Ubertip=
+Description=
+[I0J4]
+Name=阿哈利姆神杖（祈求者）
+Tip=
+Ubertip=
+Description=
+[I0J5]
+Name=阿哈利姆神杖（矮人火枪手）
+Tip=
+Ubertip=
+Description=
+[I0J6]
+Name=闪避护符|nTalisman of Evasion
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升25%的闪避|n|n|c00838b8b你是摸不到它的！|r
+Description=
+[I0J7]
+Name=闪避护符|nTalisman of Evasion
+Tip=
+Ubertip=
+Description=
+[I0J8]
+Name=闪避护符|nTalisman of Evasion
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0J9]
+Name=净魂之刃 等级2|nDiffusal Blade Level 2
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加35点敏捷|n增加15点智力|n|n|cff0042ff反馈：|r|n攻击燃烧目标25点魔法并造成等量伤害（远程幻象无效）|n|n|cffff8000净化：|r|n消除目标身上的魔法效果，将敌方单位移动速度降低至1/5，持续4秒|n|cff99ccff施法距离：|r600|n|cff99ccff冷却时间：|r8
+Description=
+[I0JA]
+Name=净魂之刃 等级2（空）|nDiffusal Blade Level 2 (Empty)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加35点敏捷|n增加15点智力|n|n|cff0042ff反馈：|r|n攻击燃烧目标25点魔法并造成等量伤害（远程幻象无效）|n|n|cffff8000净化：|r|n消除目标身上的魔法效果，将敌方单位移动速度降低至1/5，持续4秒|n|cff99ccff施法距离：|r600|n|cff99ccff冷却时间：|r8
+Description=
+[I0JB]
+Name=净魂之刃 等级2|nDiffusal Blade Level 2
+Tip=
+Ubertip=
+Description=
+[I0JC]
+Name=净魂之刃 等级2（空）|nDiffusal Blade Level 2 (Empty)
+Tip=
+Ubertip=
+Description=
+[I0JD]
+Name=净魂之刃 等级2|nDiffusal Blade Level 2
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0JE]
+Name=净魂之刃 等级2（空）|nDiffusal Blade Level 2 (Empty)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0JF]
+Name=穷鬼盾（近程）|nPoor Man's Shield (melee)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加6点敏捷|n|n|cff0033cc伤害抵挡：|r|n受到普通攻击抵挡20点英雄伤害，同时有60%的概率抵挡20点非英雄伤害
+Description=
+[I0JG]
+Name=穷鬼盾（近程）|nPoor Man's Shield (melee)
+Tip=
+Ubertip=
+Description=
+[I0JH]
+Name=穷鬼盾（近程）|nPoor Man's Shield (melee)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0JI]
+Name=幽灵权杖|nGhost Scepter
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加5点所有属性|n|n|cffff8000幽灵形态：|r|n将自己转变为幽灵形态，既不能进行普通攻击也不会受到普通攻击的伤害；受到魔法攻击会额外承受40%的伤害|n|cff99ccff持续时间：|r4|n|cff99ccff冷却时间：|r30|n|n|c00838B8B赐予使用者幽灵般的姿态|r
+Description=
+[I0JJ]
+Name=幽灵权杖|nGhost Scepter
+Tip=
+Ubertip=
+Description=
+[I0JK]
+Name=幽灵权杖|nGhost Scepter
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0JL]
+Name=阿哈利姆神杖（风行者）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0JM]
+Name=阿哈利姆神杖（虚空假面）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0JN]
+Name=阿哈利姆神杖（裂魂人）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0JO]
+Name=阿哈利姆神杖（暗影牧师）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0JP]
+Name=阿哈利姆神杖（地狱领主）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0JQ]
+Name=阿哈利姆神杖（祸乱之源）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0JR]
+Name=阿哈利姆神杖（屠夫）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0JS]
+Name=阿哈利姆神杖（屠夫）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0JT]
+Name=阿哈利姆神杖（风行者）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0JU]
+Name=阿哈利姆神杖（虚空假面）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0JV]
+Name=阿哈利姆神杖（祸乱之源）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0JW]
+Name=阿哈利姆神杖（裂魂人）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0JY]
+Name=阿哈利姆神杖（地狱领主）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0JZ]
+Name=阿哈利姆神杖（屠夫）
+Tip=
+Ubertip=
+Description=
+[I0K0]
+Name=阿哈利姆神杖（风行者）
+Tip=
+Ubertip=
+Description=
+[I0K1]
+Name=阿哈利姆神杖（虚空假面）
+Tip=
+Ubertip=
+Description=
+[I0K2]
+Name=阿哈利姆神杖（裂魂人）
+Tip=
+Ubertip=
+Description=
+[I0K3]
+Name=阿哈利姆神杖（祸乱之源）
+Tip=
+Ubertip=
+Description=
+[I0K4]
+Name=阿哈利姆神杖（地狱领主）
+Tip=
+Ubertip=
+Description=
+[I0K5]
+Name=阿哈利姆神杖（暗影牧师）
+Tip=
+Ubertip=
+Description=
+[I0JX]
+Name=阿哈利姆神杖（暗影牧师）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0K6]
+Name=卡德加的洞察烟斗|nKhadgar's Pipe of Insight
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升9点/秒的生命恢复速率|n增加30%的魔法抗性|n|n|cff0033cc恢复光环：|r|n提升附近友方单位4点/秒的生命恢复速率|n|cff99ccff作用范围：|r900|n|n|cffff8000绝缘：|r|n为附近的友方单位制造法力护盾，可以使其抵挡400点敌方技能的伤害；英雄单位的抵挡效果在50秒之内无法叠加|n|cff99ccff作用范围：|r900|n|cff99ccff持续时间：|r12|n|cff99ccff冷却时间：|r60|n|n|c00838B8B一件强大的人工制品，它的起源是不解的谜，携带者通过这个烟斗，可以洞察并召唤虚无的能量|r
+Description=
+[I0K7]
+Name=金箍棒(克敌机先 |cffff0000未激活|r)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加66点攻击力|n提升15的攻击速度|n|cff0042ff猛击：|r|n攻击有35%的概率额外造成160点伤害，和0.01秒眩晕|r|n|n|c00838B8B孙悟空使用过的威力无比的短棍，据说是东海龙宫的镇宫之宝|r
+Description=
+[I0K8]
+Name=金箍棒|nMonkey King Bar
+Tip=
+Ubertip=
+Description=
+[I0K9]
+Name=金箍棒|nMonkey King Bar
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0KA]
+Name=圆盾（远程）|nStout Shield (ranged)
+Tip=
+Ubertip=|cffffcc00属性：|r|n受到普通攻击时有50%的概率抵挡8点伤害|n|n|c00838B8B这个小盾牌原先是某人的酒桶底子|r
+Description=
+[I0KB]
+Name=圆盾（远程）|nStout Shield (ranged)
+Tip=
+Ubertip=
+Description=
+[I0KC]
+Name=圆盾（远程）|nStout Shield (ranged)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0KD]
+Name=穷鬼盾（远程）|nPoor Man's Shield (ranged)
+Tip=
+Ubertip=
+Description=
+[I0KE]
+Name=穷鬼盾（远程）|nPoor Man's Shield (ranged)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0KF]
+Name=穷鬼盾（远程）|nPoor Man's Shield (ranged)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加6点敏捷|n|n|cff0033cc伤害抵挡：|r|n受到普通攻击抵挡10点英雄伤害，同时有60%的概率抵挡10点非英雄伤害
+Description=
+[I0KG]
+Name=Aghanim's Scepter Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0KH]
+Name=阿哈利姆神杖（地精工程师）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0KI]
+Name=阿哈利姆神杖（地精工程师）
+Tip=
+Ubertip=
+Description=
+[I0KJ]
+Name=阿哈利姆神杖（地精工程师）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0KK]
+Name=Aegis Check
+Hotkey=
+Tip=
+Ubertip=
+Description=
+[I0KL]
+Name=恐鳌之心 - |cffff0303禁用|r
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加40点力量|n提高300点生命上限|n|n|cff0033cc治愈伤口：|r|n提升最大生命值*4.75%点/秒的生命恢复速率；受到来自玩家的攻击会失去恢复效果，持续7秒（近程英雄5秒）|n|n|c00838B8B已经绝种的怪物的心脏，能提升携带者的耐久力|r
+Description=
+[I0KM]
+Name=恐鳌之心 - |cffff0303禁用|r
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0KN]
+Name=雷神之锤卷轴|nMjollnir Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加24点攻击力|n提升80的攻击速度|n|cff0033cc连环闪电|r（被动）|n|cffff8000静电冲击|r（主动）|n|n|cffffcc00需要：|r|n漩涡（附魔古物）|n振奋宝石|n|n|cffff0303法球效果不能叠加|r|n|n|cfffffc01可以拆分|r
+Description=
+[I0KO]
+Name=雷神之锤|nMjollnir
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0KP]
+Name=辉耀(|cffff0000关闭|r)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加65点攻击力|n|n|cff0042ff辉耀：|r|n对附近的敌方单位造成50点/秒的伤害，攻击有17%的概率落空|n|n|cff99ccff作用范围：|r700|n|n|c00838B8B神圣的武器|r
+Description=
+[I0KQ]
+Name=辉耀|nRadiance
+Tip=
+Ubertip=
+Description=
+[I0KR]
+Name=辉耀|nRadiance
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0KS]
+Name=幻象法杖
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000幻象：|r|n创建一个目标敌方英雄的幻象，幻象拥有本体40%的攻击力，承受200%的伤害|n|cff99ccff持续时间：|r25|n|cff99ccff冷却时间：|r30
+Description=
+[I0KT]
+Name=幻象法杖
+Tip=
+Ubertip=
+Description=
+[I0KU]
+Name=影之灵龛卷轴|nUrn of Shadows Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0KV]
+Name=影之灵龛卷轴|nUrn of Shadows Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加6点力量|n提升50%的魔法恢复速率|n|cffff8000灵魂释放|r（主动）|n|n|cffffcc00需要：|r|n艺人面罩|n力量护手x2
+Description=
+[I0KW]
+Name=影之灵龛卷轴|nUrn of Shadows Recipe
+Tip=
+Ubertip=
+Description=
+[I0KX]
+Name=影之灵龛|nUrn of Shadows
+Tip=
+Ubertip=
+Description=
+[I0KY]
+Name=影之灵龛|nUrn of Shadows
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加6点力量|n提升50%的魔法恢复速率|n|n|cffff8000灵魂释放：|r|n释放出一个储存的灵魂，在接下来8秒内回复/伤害一个友方单位/敌方英雄单位400/150点生命；附近1400范围内有敌方英雄死亡时自动充能；受到来自玩家或防御塔的攻击驱散回复效果|n|cff99ccff施法距离：|r950|n|cff99ccff冷却时间：|r7|n|c00ff0303每个死亡的英雄只能为唯一个灵龛充能|r
+Description=
+[I0KZ]
+Name=影之灵龛|nUrn of Shadows
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0L1]
+Name=阿哈利姆神杖（蝙蝠骑士）
+Tip=
+Ubertip=
+Description=
+[I0L2]
+Name=阿哈利姆神杖（撼地神牛）
+Tip=
+Ubertip=
+Description=
+[I0L3]
+Name=阿哈利姆神杖（斧王）
+Tip=
+Ubertip=
+Description=
+[I0L4]
+Name=阿哈利姆神杖（不朽尸王）
+Tip=
+Ubertip=
+Description=
+[I0L0]
+Name=阿哈利姆神杖（斧王）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0L5]
+Name=阿哈利姆神杖（不朽尸王）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0L6]
+Name=阿哈利姆神杖（蝙蝠骑士）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0L7]
+Name=阿哈利姆神杖（撼地神牛）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0L8]
+Name=阿哈利姆神杖（不朽尸王）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0L9]
+Name=阿哈利姆神杖（斧王）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0LA]
+Name=阿哈利姆神杖（撼地神牛）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0LB]
+Name=阿哈利姆神杖（蝙蝠骑士）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0LC]
+Name=先锋盾（远程）|nVanguard (ranged)
+Tip=
+Ubertip=|cffffcc00属性：|r|n提高250点生命上限|n提升6点/秒的生命恢复速率|n受到普通攻击时有100%的概率抵挡16点伤害|r|n|n|c00838B8B古尔丹麾下的死亡骑士所遗留下的先锋盾，能轻松挡下任何具有威胁的攻击|r
+Description=
+[I0LD]
+Name=先锋盾|nVanguard
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0LE]
+Name=先锋盾|nVanguard
+Tip=
+Ubertip=
+Description=
+[I0LF]
+Name=影之灵龛（空）|nUrn of Shadows (empty)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加6点力量|n提升50%的魔法恢复速率|n|n|cffff8000灵魂释放：|r|n释放出一个储存的灵魂，在接下来8秒内回复/伤害一个友方单位/敌方英雄单位400/150点生命；附近1400范围内有敌方英雄死亡时自动充能；受到来自玩家或防御塔的攻击驱散回复效果|n|cff99ccff施法距离：|r950|n|cff99ccff冷却时间：|r7|n|c00ff0303每个死亡的英雄只能为唯一个灵龛充能|r
+Description=
+[I0LG]
+Name=影之灵龛（空）|nUrn of Shadows (empty)
+Tip=
+Ubertip=
+Description=
+[I0LH]
+Name=影之灵龛（空）|nUrn of Shadows (empty)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0LI]
+Name=|cff999900圣剑|r
+Tip=
+Ubertip=
+Description=
+[I0LJ]
+Name=|cff999900圣剑|r
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加330点攻击力|n|n|cffff0303死亡后掉落|r|n|n|c00838B8B能力越大，责任就越大|r
+Description=
+[I0LK]
+Name=圣剑|nDivine Rapier
+Tip=
+Ubertip=在法师之战中，圣剑由神亲自交予反叛军之手|n增加330点攻击力。|n|n|cffff0303英雄死亡后随之掉落|r|n|n|cfffffc01这件物品不属于你，但是它可以被共享。|r
+Description=
+[I0LL]
+Name=灵魂之戒|nSoul Ring
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升3点/秒的生命恢复速率|n提升50%魔法恢复速率|n|n|cffff8000牺牲：|r|n牺牲自己150点生命换取150点魔法；无论是否用完，10秒后这些魔法都会消失|n|cff99ccff冷却时间：|r30|n|n|c00838B8B为了控制这枚戒指，上一位携带者牺牲了太多生命而暴毙|r
+Description=
+[I0LM]
+Name=灵魂之戒卷轴|nSoul Ring Recipe
+Tip=
+Ubertip=
+Description=
+[I0LN]
+Name=灵魂之戒卷轴|nSoul Ring Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升3点每秒的生命恢复速率|n提升50%的魔法恢复速率|n|cffff8000牺牲|r（主动）|n|n|cffffcc00需要：|r|n再生之戒|n艺人面罩
+Description=
+[I0LO]
+Name=灵魂之戒卷轴|nSoul Ring Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0LP]
+Name=灵魂之戒|nSoul Ring
+Tip=
+Ubertip=
+Description=
+[I0LQ]
+Name=灵魂之戒|nSoul Ring
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0LR]
+Name=虚灵之刃|nEthereal Blade
+Tip=
+Ubertip=
+Description=
+[I0LS]
+Name=虚灵之刃|nEthereal Blade
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0LT]
+Name=虚灵之刃|nEthereal Blade
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n增加30点敏捷|n|n|cffff8000虚化冲击：|r|n将你自身和一个目标转换为虚化状态（受到魔法攻击将承受40%的额外伤害），并对目标造成自身2倍主要属性+75的伤害；减缓该单位80%的移动速度，持续3秒（对自身或友方单位持续4秒）|n|cff99ccff施法距离：|r700|n|cff99ccff冷却时间：|r30
+Description=
+[I0LU]
+Name=阿哈利姆神杖（仙女龙）
+Tip=
+Ubertip=
+Description=
+[I0LV]
+Name=阿哈利姆神杖（仙女龙）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0LW]
+Name=阿哈利姆神杖（仙女龙）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0LX]
+Name=Ethereal Blade Recipe
+Tip=
+Ubertip=|cffffcc00Gives:|r |n +40 Agility |n +10 Strength |n +10 Intelligence |n Ether Blast (active) |n|n|cffffcc00Requires:|r |n Eaglehorn - 3300 |n Ghost Scepter - 1500 |n Wraith Band - 460 |n|n|c00838B8B Total Cost: 5260
+Description=
+[I0LY]
+Name=Ethereal Blade Recipe
+Tip=
+Ubertip=
+Description=
+[I0LZ]
+Name=Ethereal Blade Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0M0]
+Name=阿哈利姆神杖（术士）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0M1]
+Name=阿哈利姆神杖（术士）
+Tip=
+Ubertip=
+Description=
+[I0M2]
+Name=阿哈利姆神杖（术士）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0M3]
+Name=阿哈利姆神杖（闪电幽魂）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0M4]
+Name=阿哈利姆神杖（闪电幽魂）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0M5]
+Name=阿哈利姆神杖（闪电幽魂）
+Tip=
+Ubertip=
+Description=
+[I0M6]
+Name=阿哈利姆神杖（冥界亚龙）
+Tip=
+Ubertip=
+Description=
+[I0M7]
+Name=阿哈利姆神杖（冥界亚龙）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0M8]
+Name=阿哈利姆神杖（冥界亚龙）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0M9]
+Name=淬毒之珠|nOrb of Venom
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0042ff淬毒：|r|n在你的武器上附加毒素，对被攻击目标造成3点/秒的伤害，近战/远程英雄使用分别减缓敌人12%/4%的移动速度，持续4秒|n|n|c00838B8B给你的武器淬上蛇毒|r
+Description=
+[I0MA]
+Name=淬毒之珠|nOrb of Venom
+Tip=
+Ubertip=
+Description=
+[I0MB]
+Name=淬毒之珠|nOrb of Venom
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0MC]
+Name=Orb of Venom (ranged)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0MD]
+Name=Orb of Venom (ranged)
+Tip=
+Ubertip=
+Description=
+[I0ME]
+Name=Orb of Venom (ranged)
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0042ff淬毒：|r|n在你的武器上附加毒素，对被攻击目标造成3点/秒的伤害，并减缓其4%的移动速度，持续4秒|n|n|cff99ccff攻击特效不能叠加|r
+Description=
+[I0MF]
+Name=阿哈利姆神杖（山岭巨人）
+Tip=
+Ubertip=
+Description=
+[I0MG]
+Name=阿哈利姆神杖（山岭巨人）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0MH]
+Name=阿哈利姆神杖（山岭巨人）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0MI]
+Name=秘法鞋|nArcane Boots
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升50点移动速度|n提高250点魔法上限|n|n|cffff8000补充魔法：|r|n回复附近友方单位135点魔法|n|cff99ccff作用范围：|r900|n|cff99ccff冷却时间：|r55|n|n|c00ff0303移动速度提升效果不与其他任何鞋子叠加|r|n|n|cffff0303修补匠不能刷新此物品|r
+Description=
+[I0MJ]
+Name=秘法鞋|nArcane Boots
+Tip=
+Ubertip=
+Description=
+[I0MK]
+Name=秘法鞋|nArcane Boots
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0ML]
+Name=阿哈利姆神杖（黑曜毁灭者）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0MM]
+Name=阿哈利姆神杖（黑曜毁灭者）
+Tip=
+Ubertip=
+Description=
+[I0MN]
+Name=阿哈利姆神杖（黑曜毁灭者）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0MO]
+Name=阿哈利姆神杖（魅惑魔女）
+Tip=
+Ubertip=
+Description=
+[I0MP]
+Name=阿哈利姆神杖（魅惑魔女）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0MQ]
+Name=阿哈利姆神杖（魅惑魔女）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0MR]
+Name=真视宝石（信使版本）|nGem of True Sight (Courier Edition)
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc真视：|r|n显现附近的隐形单位|n|n|cffff0303死亡后掉落|n不可出售|r|n|n|c00838B8B一块有魔力的石头，能够让你看到视野之外的东西|r
+Description=
+[I0MS]
+Name=真视宝石（信使版本）|nGem of True Sight (Courier Edition)
+Tip=
+Ubertip=
+Description=
+[I0MT]
+Name=真视宝石（信使版本）|nGem of True Sight (Courier Edition)
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc真视：|r|n显现附近的隐形单位|n|n|cffff0303死亡后掉落|n不可出售|r|n|n|c00838B8B一块有魔力的石头，能够让你看到视野之外的东西|r|n|n|cfffffc01这件物品不属于你，但是它可以被共享|r
+Description=
+[I0MU]
+Name=幻影斧（远程）|nManta Style (ranged)
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升15的攻击速度|n增加10点所有属性|n增加16点敏捷|n提升10%的移动速度|n|n|cffff8000幻影：|r|n制造两个幻影，拥有本体28%的攻击力，承受400%的伤害|n|cff99ccff持续时间：|r20|n|cff99ccff冷却时间：|r45|n|n|cfffffc01可以拆分|r|n|n|c00838B8B一把花哨的斧子|r
+Description=
+[I0MV]
+Name=幻影斧（远程）|nManta Style (ranged)
+Tip=
+Ubertip=
+Description=
+[I0MW]
+Name=幻影斧（远程）|nManta Style (ranged)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0MX]
+Name=Ancient Medallion
+Tip=
+Ubertip=
+Description=
+[I0MY]
+Name=Ancient Medallion
+Tip=
+Ubertip=
+Description=
+[I0MZ]
+Name=Ancient Medallion
+Tip=
+Ubertip=
+Description=
+[I0N0]
+Name=勇气勋章|nMedallion of Courage
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加7点护甲|n提升50%的魔法恢复速率|n|n|cffff8000孤注一掷：|r|n以自身降低7点护甲为代价，削弱一个敌人7点护甲，或提升友军7点护甲|n|cff99ccff施法距离：|r800|n|cff99ccff持续时间：|r7|n|cff99ccff冷却时间：|r7|n|n|c00838b8b自杀倾向者专用|r
+Description=
+[I0N1]
+Name=勇气勋章|nMedallion of Courage
+Tip=
+Ubertip=
+Description=
+[I0N2]
+Name=勇气勋章|nMedallion of Courage
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0N3]
+Name=堕落者
+Tip=
+Ubertip=text
+Description=
+[I0N4]
+Name=堕落者
+Tip=
+Ubertip=
+Description=
+[I0N5]
+Name=堕落者
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0N6]
+Name=堕落者（远程）
+Tip=
+Ubertip=text
+Description=
+[I0N7]
+Name=Corruptor (ranged)
+Tip=
+Ubertip=
+Description=
+[I0N8]
+Name=Corruptor (ranged)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0N9]
+Name=远古坚韧杖鼓|nAncient Janggo of Endurance
+Tip=
+Ubertip=
+Description=
+[I0NA]
+Name=远古坚韧杖鼓卷轴|nAncient Janggo of Endurance Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加9点所有属性|n增加9点攻击力|n|cff0033cc坚韧光环|r（被动）|n|cffff8000战鼓|r（主动）|n|n|cffffcc00需要：|r|n护腕（圣物关口）|n法师长袍|n|n|c00fffc01再次购买卷轴可重新充能|r
+Description=
+[I0NB]
+Name=远古坚韧杖鼓卷轴|nAncient Janggo of Endurance Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0NC]
+Name=远古坚韧杖鼓|nAncient Janggo of Endurance
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0ND]
+Name=远古坚韧杖鼓|nAncient Janggo of Endurance
+Tip=
+Ubertip=
+Description=
+[I0NE]
+Name=远古坚韧杖鼓|nAncient Janggo of Endurance
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加9点所有属性|n增加3点攻击力|n|n|cff0033cc坚韧光环|r|n提升周围友方单位5/5%攻击/移动速度|n|cffff8000战鼓：|r|n提升周围友方玩家控制的单位20/13%的攻击/移动速度，持续6秒|n|cff99ccff冷却时间：|r30|n|n|c00fffc01再次购买卷轴可重新充能|r
+Description=
+[I0NF]
+Name=诡计之雾|nSmoke of Deceit
+Tip=
+Ubertip=
+Description=
+[I0NG]
+Name=诡计之雾|nSmoke of Deceit
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000诡计之雾：|r|n使你和周围1200范围内所有友方玩家控制的单位隐形（大地图和小地图），并提升15%的移动速度；进行攻击动作，或者附近950范围内有敌方英雄、防御塔时，均会失效|n|cff99ccff持续时间：|r35|n|cff99ccff冷却时间：|r90
+Description=
+[I0NH]
+Name=勇气勋章|nMedallion of Courage
+Tip=
+Ubertip=
+Description=
+[I0NI]
+Name=勇气勋章卷轴|nMedallion of Courage Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加7点护甲|n提升50%的魔法恢复速率|n|cffff8000孤注一掷|r（主动）|n|n|cffffcc00需要：|r|n锁甲|n艺人面罩|n|n|c00838b8b总价：1200|r
+Description=
+[I0NJ]
+Name=勇气勋章|nMedallion of Courage
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0NK]
+Name=远古坚韧杖鼓（空）|nAncient Janggo of Endurance
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加9点所有属性|n增加3点攻击力|n|n|cff0033cc坚韧光环|r|n提升周围友方单位5/5%攻击/移动速度|n|cffff8000战鼓：|r|n提升周围友方玩家控制的单位20/13%的攻击/移动速度，持续6秒|n|cff99ccff冷却时间：|r30|n|n|c00fffc01再次购买卷轴可重新充能|r
+Description=
+[I0NL]
+Name=远古坚韧杖鼓（空）|nAncient Janggo of Endurance
+Tip=
+Ubertip=
+Description=
+[I0NM]
+Name=远古坚韧杖鼓（空）|nAncient Janggo of Endurance
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0NN]
+Name=迈达斯之手（信使版本）
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升30的攻击速度|n|n|cffff8000炼金：|r|n瞬间将敌方非英雄、远古单位转化为190金钱|n|cff99ccff施法距离：|r600|n|cff99ccff冷却时间：|r100|n|n|cffff0303修补匠不能刷新此物品|r|n|n|c00838B8B通过使用一些未知的魔法进行保存，迈达斯之手仍然保留了大部分的力量|r
+Description=
+[I0NO]
+Name=迈达斯之手（信使版本）
+Tip=
+Ubertip=
+Description=
+[I0NP]
+Name=迈达斯之手（信使版本）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0NQ]
+Name=阿哈利姆神杖（黑暗贤者）
+Tip=
+Ubertip=
+Description=
+[I0NR]
+Name=阿哈利姆神杖（黑暗贤者）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0NS]
+Name=阿哈利姆神杖（黑暗贤者）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0NT]
+Name=阿哈利姆神杖（矮人直升机）
+Tip=
+Ubertip=
+Description=
+[I0NU]
+Name=阿哈利姆神杖（矮人直升机）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0NV]
+Name=阿哈利姆神杖（矮人直升机）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0NW]
+Name=阿哈利姆神杖（地卜师）
+Tip=
+Ubertip=
+Description=
+[I0NX]
+Name=阿哈利姆神杖（地卜师）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0NY]
+Name=阿哈利姆神杖（地卜师）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0NZ]
+Name=阿哈利姆神杖（兽王）
+Tip=
+Ubertip=
+Description=
+[I0O0]
+Name=阿哈利姆神杖（兽王）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0O1]
+Name=阿哈利姆神杖（兽王）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0O2]
+Name=纷争面纱|nVeil of Discord
+Tip=
+Ubertip=
+Description=
+[I0O3]
+Name=纷争面纱|nVeil of Discord
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加6点护甲|n增加18点智力|n增加6点力量|n增加6点敏捷|n增加6点攻击力|n提升6点/秒的生命恢复速率|n|n|cffff8000纷争：|r|n让一片区域内的敌人陷入纷争，削弱其25%的魔法抗性|n|n|cff99ccff作用范围：|r600|n|cff99ccff施法距离：|r1000|n|cff99ccff持续时间：|r16|n|cff99ccff冷却时间：|r20|n|n|c00838b8b非和谐之物|r
+Description=
+[I0O4]
+Name=纷争面纱|nVeil of Discord
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0O5]
+Name=Veil of Discord Recipe
+Tip=
+Ubertip=
+Description=
+[I0O6]
+Name=Veil of Discord Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加6点护甲|n增加6点智力|n增加6点力量|n增加6点敏捷|n增加6点攻击力|n提升6点/秒的生命恢复速率|n|cffff8000纷争|r（主动）|n|n|cffffcc00需要：|r|n铁意头盔|n空灵挂件
+Description=
+[I0O7]
+Name=Veil of Discord Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0O8]
+Name=报复
+Hotkey=
+Tip=
+Ubertip=
+Description=获得双倍攻击力，无法和其他攻击加成效果叠加。持续45秒
+[I0O9]
+Name=紫怨卷轴|nOrchid Malevolence Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0OA]
+Name=紫怨卷轴|nOrchid Malevolence Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加30点攻击力|n增加25点智力|n提升150%的魔法恢复速率|n提升30的攻击速度|n|cffff8000灵魂燃烧|r（主动）|n|n|cffffcc00需要：|r|n空明杖x2（圣物关口）
+Description=
+[I0OB]
+Name=紫怨卷轴|nOrchid Malevolence Recipe
+Tip=
+Ubertip=
+Description=
+[I0OC]
+Name=收割之刃
+Tip=
+Ubertip=
+Description=
+[I0OD]
+Name=收割之刃
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0OE]
+Name=收割之刃
+Tip=
+Ubertip=text
+Description=
+[I0OF]
+Name=静谧之鞋|nTranquil Boots
+Tip=
+Ubertip=
+Description=
+[I0OG]
+Name=静谧之鞋|nTranquil Boots
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加85点移动速度|n增加3点护甲|n提升12点/秒的生命恢复速率|n|n|cffff0303若主动发出攻击或受到攻击将会破损，失去25点移动速度加成以及生命恢复效果|r|n|n|c00ff0303移动速度提升效果不与其他任何鞋子叠加|r
+Description=
+[I0OH]
+Name=静谧之鞋|nTranquil Boots
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0OI]
+Name=破损的静谧之鞋|nBroken Tranquil Boots
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加60点移动速度|n增加3点护甲|n|n|c00ff0303移动速度提升效果不与其他任何鞋子叠加|r
+Description=
+[I0OJ]
+Name=静谧之鞋|nTranquil Boots Disabled
+Tip=
+Ubertip=
+Description=
+[I0OK]
+Name=静谧之鞋|nTranquil Boots Disabled
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0OL]
+Name=阿托斯之棍|nRod of Atos
+Tip=
+Ubertip=|cffffcc00属性：|r|n提高350点生命上限|n增加30点智力|n|n|cffff8000致残：|r|n将一个敌人的移动速度降低60%，降低60%的命中率，持续4秒|n|n|cff99ccff施法距离：|r1200|n|cff99ccff冷却时间：|r12
+Description=
+[I0OM]
+Name=阿托斯之棍|nRod of Atos
+Tip=
+Ubertip=
+Description=
+[I0ON]
+Name=阿托斯之棍|nRod of Atos
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0OO]
+Name=月之碎片|nMoon Shard
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升120的攻击速度|n|n|cff0033cc月夜之视：|r|n月之碎片提供250夜间视野范围（装备时生效，可反作用于暗夜魔王的黑暗时间）|n|n|cffff8000吞噬：|r|n可以吞噬月之碎片到自身体内，获得永久的60攻击速度加成（无法叠加），需要双击物品完成吞噬|n|n|c00838B8B相传这是月神艾露恩流下的一滴眼泪|r
+Description=
+[I0OP]
+Name=月之碎片|nMoon Shard
+Tip=
+Ubertip=
+Description=
+[I0OQ]
+Name=月之碎片|nMoon Shard
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0OR]
+Name=阿哈利姆神杖（死灵飞龙）
+Tip=
+Ubertip=
+Description=
+[I0OS]
+Name=阿哈利姆神杖（死灵飞龙）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0OT]
+Name=阿哈利姆神杖（死灵飞龙）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0OU]
+Name=天堂之戟|nHeaven's Halberd
+Tip=
+Ubertip=
+Description=
+[I0OV]
+Name=天堂之戟|nHeaven's Halberd
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加20点力量|n增加25点攻击力|n增加25%的闪避|n|n|cff0033cc残废：|r|n攻击有15%的概率使目标残废，降低20/20%的攻击/移动速度，持续4秒|n|n|cffff8000缴械：|r|n解除一个敌人的武装，使其在4.5秒内（近程单位3秒）无法攻击|n|n|cff99ccff施法距离：|r600|n|cff99ccff冷却时间: |r30|n|n|c00fffc01可以拆分|r
+Description=
+[I0OW]
+Name=天堂之戟|nHeaven's Halberd
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0OX]
+Name=深渊之刃|nAbyssal Blade
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加70点攻击力|n增加10点力量|n|n|cff0042ff重击：|r|n近程/远程英雄攻击有25%/10%的概率重击目标，额外造成120点伤害，晕眩1.4秒，击晕最小间隔2.3秒|n|n|cffff8000击溃：|r|n击晕一个目标，持续2秒|n|cffff0303无视魔法免疫|n|cff99ccff施法距离：|r140|n|cff99ccff冷却时间：|r60|n|n|cffff0303重击效果不与其他被动击晕技能叠加|r|n|n|c00fffc01可以拆分|r
+Description=
+[I0OY]
+Name=深渊之刃|nAbyssal Blade
+Tip=
+Ubertip=
+Description=
+[I0OZ]
+Name=深渊之刃|nAbyssal Blade
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0P0]
+Name=天鹰之戒|nRing of Aquila
+Tip=
+Ubertip=
+Description=
+[I0P1]
+Name=天鹰之戒(|cff00ff00普通|r)|nRing of Aquila (Normal)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加9点攻击力|n增加6点敏捷|n增加3点所有属性|n增加1点护甲|n|n|cff0033cc虔诚光环：|r|n增加900范围内的友方单位2点护甲|n|n|cff0033cc辉煌光环：|r|n提升900范围内的友方单位0.65点/秒的魔法恢复速率|n|n|cffffcc00点击转换虔诚光环为只对英雄有效|r|n|n|c00838B8B这个戒指在第二次大战里，常被当作奖赏赠予联盟中最强大的法师们|r
+Description=
+[I0P2]
+Name=天鹰之戒|nRing of Aquila
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0P3]
+Name=天鹰之戒（英雄）|nRing of Aquila (Heroes)
+Tip=
+Ubertip=
+Description=
+[I0P4]
+Name=天鹰之戒(|cff00ff00英雄|r)|nRing of Aquila (Heroes)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加9点攻击力|n增加6点敏捷|n增加3点所有属性|n增加1点护甲|n|n|cff0033cc虔诚光环：|r|n增加900范围内的友方单位2点护甲|n|n|cff0033cc辉煌光环：|r|n提升900范围内的友方单位0.65点/秒的魔法恢复速率|n|n|cffffcc00点击转换虔诚光环为对所有友军有效|r|n|n|c00838B8B这个戒指在第二次大战里，常被当作奖赏赠予联盟中最强大的法师们|r
+Description=
+[I0P5]
+Name=天鹰之戒（英雄）|nRing of Aquila (Heroes)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0P6]
+Name=黑皇杖（4）|nBlack King Bar (4)
+Tip=
+Ubertip=
+Description=
+[I0P7]
+Name=黑皇杖（4）|nBlack King Bar (4)
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0P8]
+Name=黑皇杖（4）|nBlack King Bar (4)
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加24点攻击力|n增加10点力量|n|n|cffff8000天神下凡：|r|n魔法免疫|n|cff99ccff持续时间：|r4|n|cff99ccff冷却时间：|r50|n|n|c00838B8B凝结着巨人神力的权杖|r|n|n|cffff0303修补匠不能刷新此物品|r
+Description=
+[I0P9]
+Name=暗影护符|nShadow Amulet
+Tip=
+Ubertip=
+Description=
+[I0PA]
+Name=暗影护符|nShadow Amulet
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0PB]
+Name=暗影护符|nShadow Amulet
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升30的攻击速度|n|n|cffff8000渐隐：|r|n使你在1.5秒后隐形，如果移动则取消隐身效果。|n|cff99ccff冷却时间：|r0|n|n|c00838B8B一件曾属于黑石塔之王奈法利安的小小的护符，握住了完全不动就能不被敌人感应|r
+Description=
+[I0PC]
+Name=Dummy Item Sentinel
+Hotkey=
+Tip=
+Ubertip=
+Description=
+[I0PD]
+Name=阿托斯之棍卷轴|nRod of Atos Recipe
+Tip=
+Ubertip=
+Description=
+[I0PE]
+Name=阿托斯之棍卷轴|nRod of Atos Recipe
+Tip=
+Ubertip=
+Description=
+[I0PF]
+Name=阿托斯之棍卷轴|nRod of Atos Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0PG]
+Name=阿哈利姆神杖（沉默术士）
+Tip=
+Ubertip=
+Description=
+[I0PH]
+Name=阿哈利姆神杖（沉默术士）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0PI]
+Name=阿哈利姆神杖（沉默术士）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0PJ]
+Name=阿哈利姆神杖（远古冰魄）
+Tip=
+Ubertip=
+Description=
+[I0PK]
+Name=阿哈利姆神杖（远古冰魄）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0PL]
+Name=阿哈利姆神杖（远古冰魄）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0PM]
+Name=微光披肩|nGlimmer Cape
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升30的攻击速度|n提升15%的魔法抗性|n|n|cffff8000微光：|r|n对友方单位使用，使其在0.4秒渐隐后隐身。在隐身时，该单位具有66%魔法抗性。在持续时间内单位攻击或施放技能将触发0.4秒的第二次渐隐。|n|cff99ccff持续时间：|r5|n|cff99ccff施法距离：|r900|n|cff99ccff冷却时间：|r16|n|n|c00838B8B一位幻术大师失窃的披肩|r
+Description=
+[I0PN]
+Name=微光披肩|nGlimmer Cape
+Tip=
+Ubertip=
+Description=
+[I0PO]
+Name=微光披肩|nGlimmer Cape
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0PP]
+Name=阿哈利姆神杖（全能骑士）
+Tip=
+Ubertip=
+Description=
+[I0PQ]
+Name=阿哈利姆神杖（全能骑士）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0PR]
+Name=阿哈利姆神杖（全能骑士）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0PS]
+Name=阿哈利姆神杖（天怒法师）
+Tip=
+Ubertip=
+Description=
+[I0PT]
+Name=阿哈利姆神杖（天怒法师）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0PU]
+Name=阿哈利姆神杖（天怒法师）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0PV]
+Name=阿哈利姆神杖（谜团）
+Tip=
+Ubertip=
+Description=
+[I0PW]
+Name=阿哈利姆神杖（谜团）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0PX]
+Name=阿哈利姆神杖（谜团）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0PY]
+Name=明澈药水（不可用）
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000魔法回复：|r|n在40秒内恢复150点魔法，受到攻击即失去效果|n|n|c00838B8B每瓶药水中都困着一个鲜活的小精灵|r
+Description=
+[I0PZ]
+Name=治疗药膏|nHealing Salve
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000生命回复：|r|n在10秒内恢复一个友方单位400点生命，受到攻击即失去效果|n|n|c00838B8B具有魔法功效的药膏，再深的伤口也能迅速治愈|r
+Description=
+[I0Q0]
+Name=阿哈利姆神杖（干扰者）
+Tip=
+Ubertip=
+Description=
+[I0Q1]
+Name=阿哈利姆神杖（大魔导师）
+Tip=
+Ubertip=
+Description=
+[I0Q2]
+Name=阿哈利姆神杖（干扰者）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0Q3]
+Name=阿哈利姆神杖（大魔导师）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0Q4]
+Name=阿哈利姆神杖（干扰者）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0Q5]
+Name=阿哈利姆神杖（大魔导师）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0Q6]
+Name=艾西菲的远古祭祀|nAncient Tango of Essifation
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000吃树：|r|n允许使用者吞食树木，16秒内恢复115点生命|n|n可以使用|cffff03031|r次|n|n|c00838B8B越用你就会越依赖它！|r
+Description=
+[I0Q7]
+Name=单个艾西菲的远古祭祀|nAncient Tango of Essifation
+Tip=
+Ubertip=
+Description=
+[I0Q8]
+Name=艾西菲的远古祭祀|nAncient Tango of Essifation
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000吃树：|r|n允许使用者吞食树木，16秒内恢复115点生命，对结界使用持续时间加倍|n|n可以使用|cffff03034|r次|n|n|c00838B8B越用你就会越依赖它！|r
+Description=
+[I0Q9]
+Name=艾西菲的远古祭祀|nAncient Tango of Essifation
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000吃树：|r|n允许使用者吞食树木，16秒内恢复115点生命，对结界使用持续时间加倍|n|n可以使用|cffff03031|r次|n|n|c00838B8B越用你就会越依赖它！|r
+Description=
+[I0QA]
+Name=吸血光环（远程1）
+Hotkey=
+Tip=
+Ubertip=
+Description=获得双倍攻击力，无法和其他攻击加成效果叠加。持续45秒
+[I0QB]
+Name=吸血光环（远程2）
+Hotkey=
+Tip=
+Ubertip=
+Description=获得双倍攻击力，无法和其他攻击加成效果叠加。持续45秒
+[I0QC]
+Name=吸血光环（远程3）
+Hotkey=
+Tip=
+Ubertip=
+Description=获得双倍攻击力，无法和其他攻击加成效果叠加。持续45秒
+[I0QD]
+Name=吸血光环（远程4）
+Hotkey=
+Tip=
+Ubertip=
+Description=获得双倍攻击力，无法和其他攻击加成效果叠加。持续45秒
+[I0QE]
+Name=普通蟠桃
+Tip=
+Ubertip=
+Description=
+[I0QF]
+Name=普通蟠桃
+Tip=
+Ubertip=美味的蟠桃
+Description=
+[I0QG]
+Name=巨型蟠桃
+Tip=
+Ubertip=
+Description=
+[I0QH]
+Name=巨型蟠桃
+Tip=
+Ubertip=美味的蟠桃
+Description=
+[I0QI]
+Name=|cff00ff00货真价实的金箍棒|r
+Tip=
+Ubertip=
+Description=
+[I0QJ]
+Name=|cff00ff00货真价实的金箍棒|r
+Tip=
+Ubertip=如假包换的金箍棒。只有孙悟空能够使用。提供：克敌机先，90%闪避几率，真实视域，同时会立刻将周围的幻象占为己有。+10000 攻击力。为你和你的盟友提供最大移动和攻击速度加成
+Description=
+[I0QK]
+Name=|cff00ff00货真价实的金箍棒|r
+Tip=
+Ubertip=如假包换的金箍棒。只有孙悟空能够使用。提供：克敌机先，90%闪避几率，真实视域，同时会立刻将周围的幻象占为己有。+10000 攻击力。为你和你的盟友提供最大移动和攻击速度加成
+Description=
+[I0QL]
+Name=阿哈利姆神杖（地精修补匠）
+Tip=
+Ubertip=
+Description=
+[I0QM]
+Name=阿哈利姆神杖（地精修补匠）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0QN]
+Name=阿哈利姆神杖（地精修补匠）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0QO]
+Name=阿哈利姆神杖（暗影恶魔）
+Tip=
+Ubertip=
+Description=
+[I0QP]
+Name=阿哈利姆神杖（暗影恶魔）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0QQ]
+Name=阿哈利姆神杖（暗影恶魔）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0QR]
+Name=血精石卷轴|nBloodStone Recipe
+Tip=
+Ubertip=
+Description=
+[I0QS]
+Name=血精石卷轴|nBloodStone Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n提高500点生命上限|n提高400点魔法上限|n提升9点/秒的生命恢复速率|n提升200%的魔法恢复速率|n|cff0033cc救赎|r（被动）|n|cffff0303可用于自杀|r|n|n|cffffcc00需要：|r|n振魂石（保护领地）|n灵魂之戒
+Description=
+[I0QT]
+Name=血精石卷轴|nBloodStone Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0QU]
+Name=赤红甲卷轴|nCrimson Guard Recipe
+Tip=
+Ubertip=
+Description=
+[I0QV]
+Name=赤红甲卷轴|nCrimson Guard Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加250点生命值|n增加2点所有属性|n增加5点护甲|n提升6点/秒的生命恢复速率|n|cffff8000坚盾|r（主动）|n|n|cffffcc00需要：|r|n先锋盾（保护领地）|n纳斯雷兹姆盾牌（支援法衣）|n
+Description=
+[I0QW]
+Name=赤红甲卷轴|nCrimson Guard Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0QX]
+Name=赤红甲|nCrimson Guard
+Tip=
+Ubertip=
+Description=
+[I0QY]
+Name=赤红甲|nCrimson Guard
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加250点生命值|n增加6点/秒的生命恢复速率|n增加2点全部属性|n增加5点护甲|n有100%的几率格挡32/16点伤害|n|n|cffff8000坚盾：|r|n为附近友军提供100%几率格挡55点伤害，提高2点护甲，持续10秒|n|cff99ccff作用范围：|r900|n|cff99ccff冷却时间：|r60|n|n|c00838B8B原为抵御可怕的年兽所打造的铠甲|r
+Description=
+[I0QZ]
+Name=赤红甲|nCrimson Guard
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0R0]
+Name=阿哈利姆神杖（地精撕裂者）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0R1]
+Name=阿哈利姆神杖（地精撕裂者）
+Tip=
+Ubertip=
+Description=
+[I0R2]
+Name=阿哈利姆神杖（地精撕裂者）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0R3]
+Name=阿哈利姆神杖（凤凰）
+Tip=
+Ubertip=
+Description=
+[I0R4]
+Name=阿哈利姆神杖（凤凰）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0R5]
+Name=阿哈利姆神杖（凤凰）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0R6]
+Name=阿哈利姆神杖（流浪剑客）
+Tip=
+Ubertip=
+Description=
+[I0R7]
+Name=阿哈利姆神杖（流浪剑客）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0R8]
+Name=阿哈利姆神杖（流浪剑客）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0R9]
+Name=阿哈利姆神杖（牛头人酋长）
+Tip=
+Ubertip=
+Description=
+[I0RA]
+Name=阿哈利姆神杖（牛头人酋长）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0RB]
+Name=阿哈利姆神杖（牛头人酋长）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0RC]
+Name=|c00FFD700赏金|r
+Hotkey=
+Tip=
+Ubertip=
+Description=|c00ffffff提供一定的经验值和金钱。|r
+[I0RD]
+Name=魔瓶 - 赏金|nMagical Bottle- Bounty
+Tip=
+Ubertip=
+Description=
+[I0RE]
+Name=魔瓶 - 赏金|nMagical Bottle- Bounty
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r
+Description=
+[I0RF]
+Name=魔瓶 - 赏金|nMagical Bottle- Bounty
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r|n|n|cfffffc01这件物品不属于你，但是它可以被共享|r
+Description=
+[I0RJ]
+Name=阿哈利姆神杖（树精卫士）
+Tip=
+Ubertip=
+Description=
+[I0RK]
+Name=阿哈利姆神杖（树精卫士）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0RL]
+Name=阿哈利姆神杖（树精卫士）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0RM]
+Name=阿哈利姆神杖（大地之灵）
+Tip=
+Ubertip=
+Description=
+[I0RN]
+Name=阿哈利姆神杖（大地之灵）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0RO]
+Name=阿哈利姆神杖（大地之灵）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0RU]
+Name=阿哈利姆神杖（半人马酋长）
+Tip=
+Ubertip=
+Description=
+[I0RV]
+Name=阿哈利姆神杖（半人马酋长）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0RW]
+Name=阿哈利姆神杖（半人马酋长）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0RX]
+Name=阿哈利姆神杖（军团指挥官）
+Tip=
+Ubertip=
+Description=
+[I0RY]
+Name=阿哈利姆神杖（军团指挥官）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0RZ]
+Name=阿哈利姆神杖（军团指挥官）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0S0]
+Name=阿哈利姆神杖（德鲁伊）
+Tip=
+Ubertip=
+Description=
+[I0S1]
+Name=阿哈利姆神杖（德鲁伊）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0S2]
+Name=阿哈利姆神杖（德鲁伊）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0S3]
+Name=阿哈利姆神杖（娜迦海妖）
+Tip=
+Ubertip=
+Description=
+[I0S4]
+Name=阿哈利姆神杖（娜迦海妖）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0S5]
+Name=阿哈利姆神杖（娜迦海妖）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0S6]
+Name=附魔芒果|nEnchanted Mango
+Tip=
+Ubertip=
+Description=
+[I0S7]
+Name=附魔芒果|nEnchanted Mango
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加1点/秒的生命恢复速率|n|n|cffff8000使用：|r|n喂食芒果，使目标回复150点魔法|n|n|c00838B8B达拉然水果商苹果树售卖的一种奇异水果|r
+Description=
+[I0S8]
+Name=附魔芒果|nEnchanted Mango
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0SC]
+Name=卫士胫甲|nGuardian Greaves
+Tip=
+Ubertip=
+Description=
+[I0SD]
+Name=卫士胫甲|nGuardian Greaves
+Ubertip=|cffffcc00属性：|r|n提升55点移动速度|n提高250点魔法上限|n增加5点所有属性|n增加5点护甲|n|n|cff0033cc守护光环：|r|n周围900范围内友方单位提高2点护甲，提升4点/秒的生命恢复速率；当生命值低于20%时，有额外加成|n|n|cffff8000修复：|r|n回复周围900范围内友方单位250点生命值和160点魔法值，并移除自身负面状态|n|n|cff99ccff冷却时间：|r40|n|n|c00ff0303移动速度提升效果不与其他任何鞋类物品叠加|r|n|n|c00838B8B众多泰坦造物中的一个|r
+Description=
+[I0SE]
+Name=卫士胫甲|nGuardian Greaves
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0SF]
+Name=卫士胫甲卷轴|nGuardian Greaves Recipe
+Tip=
+Ubertip=
+Description=
+[I0SG]
+Name=卫士胫甲卷轴|nGuardian Greaves Recipe
+Ubertip=|cffffcc00属性：|r|n提升55点移动速度|n提高250点魔法上限|n增加5点所有属性|n增加5点护甲|n|cff0033cc守护光环|r（被动）|n|cffff8000修复|r（主动）|n|n|cffffcc00需要：|r|n秘法鞋|n梅肯斯姆
+Description=
+[I0SH]
+Name=卫士胫甲卷轴|nGuardian Greaves Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0SI]
+Name=月之碎片卷轴|nMoon Shard Recipe
+Tip=
+Ubertip=
+Description=
+[I0SJ]
+Name=月之碎片卷轴|nMoon Shard Recipe
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升120点攻击速度|n|cff0033cc月夜之视|r（被动）|n|cffff8000吞噬|r（主动）|n|n|cffffcc00需要：|r|n两块振奋宝石|n|n|cfffffc01可以拆分|r
+Description=
+[I0SK]
+Name=月之碎片卷轴|nMoon Shard Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0SL]
+Name=白银之锋|nSilver Edge
+Tip=
+Ubertip=
+Description=
+[I0SM]
+Name=白银之锋|nSilver Edge
+Ubertip=|cffffcc00属性：|r|n增加32点攻击力|n提升30点攻击速度|n增加16点力量|n|n|cff0033cc残废：|r|n攻击有15%的概率使目标残废，降低20/20%的攻击/移动速度，持续4秒|n|n|cffff8000疾风步：|r|n进入隐形状态，提升20%移动速度，打破隐形状态的第一击额外造成225额外伤害，同时施加破坏效果并降低目标40%所有类型的伤害输出，持续5秒|n|cff99ccff持续时间：|r14|n|cff99ccff冷却时间：|r24|n|n|c00838B8B曾经是手刃不义之君的利器|r
+Description=
+[I0SN]
+Name=白银之锋|nSilver Edge
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0SO]
+Name=白银之锋卷轴|nSilver Edge Recipe
+Tip=
+Ubertip=
+Description=
+[I0SP]
+Name=白银之锋卷轴|nSilver Edge Recipe
+Ubertip=|cffffcc00属性：|r|n增加32点攻击力|n提升30点攻击速度|n增加16点力量|n|cff0033cc残废|r（被动）|n|cffff8000疾风步|r（主动）|n|n|cffffcc00需要：|r|n洛萨之锋|n散华
+Description=
+[I0SQ]
+Name=白银之锋卷轴|nSilver Edge Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0SR]
+Name=炎阳之冠|nSolar Crest
+Tip=
+Ubertip=
+Description=
+[I0SS]
+Name=炎阳之冠|nSolar Crest
+Ubertip=|cffffcc00属性：|r|n增加10点护甲|n提升75%的魔法恢复速率|n提升30%的闪避|n|n|cffff8000日耀：|r|n以失去护甲和闪避加成为代价，削弱一个敌人其10点护甲并使其攻击落空几率提高30%，或提升友军10点护甲|n|n|cff99ccff施法距离：|r800|n|cff99ccff冷却时间：|r7|n|n|c00838B8B为了纪念太阳之井所打造的王冠|r
+Description=
+[I0ST]
+Name=炎阳之冠|nSolar Crest
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0SU]
+Name=玲珑心|nOctarine Core
+[I0SV]
+Name=玲珑心|nOctarine Core
+Ubertip=|cffffcc00属性：|r|n增加25点智力|n增加450点生命值|n提高400点魔法上限|n增加4点/秒的生命恢复速率|n提升100%的魔法恢复速率|n|n|cff0033cc冷却减少：|r|n减少25%的技能冷却时间|n|n|cff0033cc技能回血：|r|n对非英雄/英雄单位施法能回复造成伤害的5%/25%|n|n|c00838B8B位于法术技艺核心的、是只有身负异能之人才能感知的光带|r
+Description=
+[I0SW]
+Name=玲珑心|nOctarine Core
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0SZ]
+Name=高级远行鞋|nUpgraded Boots of Travel
+Tip=
+Ubertip=
+Description=
+[I0T0]
+Name=高级远行鞋|nUpgraded Boots of Travel
+Tip=
+Ubertip=|cffffcc00属性：|r|n提升100点移动速度|n|n|cffff8000传送：|r|n将你传送至自有单位以外的任意友方单位或者建筑，包括英雄|n|cff99ccff施法时间：|r3|n|cff99ccff冷却时间：|r45|n|n已经升级至|c00ff0303最高|r等级|n|n|c00ff0303移动速度提升效果不与其他任何鞋类物品叠加|r|n|n|c00838B8B仙女附魔过的鞋子|r
+Description=
+[I0T1]
+Name=高级远行鞋|nUpgraded Boots of Travel
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0T2]
+Name=红莲宝珠卷轴|nLotus Orb Recipe
+[I0T3]
+Name=红莲宝珠卷轴|nLotus Orb Recipe
+Ubertip=|cffffcc00属性：|r|n增加5点/秒的生命恢复速率|n提升125%的魔法恢复速率|n增加10点攻击力|n增加10点护甲|n|cffff8000回音护盾|r（主动）|n|n|cffffcc00需要：|r|n坚韧球|n板甲
+[I0T4]
+Name=红莲宝珠卷轴|nLotus Orb Recipe
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0T5]
+Name=红莲宝珠|nLotus Orb
+[I0T6]
+Name=红莲宝珠|nLotus Orb
+Ubertip=|cffffcc00属性：|r|n增加5点/秒的生命恢复速率|n提升125%的魔法恢复速率|n增加10点攻击力|n增加10点护甲|n|n|cffff8000回音护盾：|r|n以友军单位为目标，净化其负面效果并对其施加回音护盾效果|n|cff99ccff施法距离：|r800|n|cff99ccff持续时间：|r6|n|cff99ccff冷却时间：|r15|n|n|cfffffc01可以拆分|r|n|n|c00838B8B中央的宝石依然可以反射出制造者苍白的景象|r
+[I0T7]
+Name=红莲宝珠|nLotus Orb
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0TA]
+Name=阿哈利姆神杖（地穴刺客）
+Tip=
+Ubertip=
+Description=
+[I0TB]
+Name=阿哈利姆神杖（地穴刺客）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0TC]
+Name=阿哈利姆神杖（地穴刺客）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0TD]
+Name=阿哈利姆神杖（骷髅王）
+Tip=
+Ubertip=
+Description=
+[I0TE]
+Name=阿哈利姆神杖（骷髅王）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0TF]
+Name=阿哈利姆神杖（骷髅王）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0TG]
+Name=阿哈利姆神杖（巨牙海民）
+Tip=
+Ubertip=
+Description=
+[I0TH]
+Name=阿哈利姆神杖（巨牙海民）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0TI]
+Name=阿哈利姆神杖（巨牙海民）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0TJ]
+Name=阿哈利姆神杖（地穴编织者）
+Tip=
+Ubertip=
+Description=
+[I0TK]
+Name=阿哈利姆神杖（地穴编织者）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0TL]
+Name=阿哈利姆神杖（地穴编织者）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0TM]
+Name=阿哈利姆神杖（噬魂鬼）
+Tip=
+Ubertip=
+Description=
+[I0TN]
+Name=阿哈利姆神杖（噬魂鬼）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0TO]
+Name=阿哈利姆神杖（噬魂鬼）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0TP]
+Name=阿哈利姆神杖（炼金术士）
+Tip=
+Ubertip=
+Description=
+[I0TQ]
+Name=阿哈利姆神杖（炼金术士）
+Tip=
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cffff8000奥义提升：|r|n提升某些英雄最终奥义的威力
+Description=
+[I0TR]
+Name=阿哈利姆神杖（炼金术士）
+Tip=
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+Description=
+[I0U8]
+Name=仙灵之火|nFaerie Fire
+[I0U9]
+Name=仙灵之火|nFaerie Fire
+Ubertip=|cffffcc00属性：|r|n增加2点攻击力|n|n|cffff8000吸食：|r|n吸食仙灵之火，回复75点生命值|n|cff99ccff冷却时间：|r5|n|n|c00838B8B有种飘飘欲仙的感觉，但绝不可过量吸食！|r
+[I0UA]
+Name=仙灵之火|nFaerie Fire
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+[I0UB]
+Name=魔龙枪|nDragon Lance
+[I0UC]
+Name=魔龙枪|nDragon Lance
+Ubertip=|cffffcc00属性：|r|n增加10点力量|n提升10点攻击速度|n增加10点攻击力|n|n|cff0033cc魔龙之能：|r|n提升130攻击距离（远程英雄有效）|n|n|c00ff0303被动效果不可叠加|r|n|n|cfffffc01可以拆分|r|n|n|c00838B8B龙喉氏族的驭风者用来驯化红龙的工具|r
+[I0UD]
+Name=魔龙枪|nDragon Lance
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+[I0UE]
+Name=以太透镜|nAether Lens
+[I0UF]
+Name=以太透镜|nAether Lens
+Ubertip=|cffffcc00属性：|r|n提高250点魔法上限|n增加8点/秒生命恢复速率|n增加8%的技能伤害|n|n|cff0033cc聚焦：|r|n增加持有者200施法距离|n|n|c00838B8B这件物品点缀着行将就木的法师留下的符文，被赠与他体弱多病的儿子|r
+[I0UG]
+Name=以太透镜|nAether Lens
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+[I0UH]
+Name=镔铁之爪|nIron Talon
+[I0UI]
+Name=镔铁之爪|nIron Talon
+Ubertip=|cffffcc00属性：|r|n增加2点护甲|n|n|cff0033cc压制：|r|n对非英雄敌方单位额外造成近战/远程32%/12%的伤害|n|n|cffff8000惩戒：|r|n对非玩家控制的敌方单位施放可以移除其40%的当前生命值.对树木使用时有4秒的冷却时间。|n|cff99ccff冷却时间：|r14|n|n|c00838B8B为挽回下滑业绩的锻造大师按照流行的新样式打造的作品，然而似乎也不怎么好用|r
+[I0UJ]
+Name=镔铁之爪|nIron Talon
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+[I0UK]
+Name=镔铁之爪卷轴|nIron Talon Recipe
+[I0UL]
+Name=镔铁之爪卷轴|nIron Talon Recipe
+Ubertip=|cffffcc00属性：|r|n增加2点护甲|n|n|cff0033cc压制|r（被动）|n|n|cffff8000惩戒|r（主动）|r|n|n|cffffcc00需要：|r|n压制之刃|n守护指环
+[I0UM]
+Name=镔铁之爪卷轴|nIron Talon Recipe
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+[I0UR]
+Name=阿哈利姆神杖（舰队统帅）
+[I0US]
+Name=阿哈利姆神杖（舰队统帅）
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+[I0UT]
+Name=阿哈利姆神杖（舰队统帅）
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+[I0UU]
+Name=阿哈利姆神杖（潮汐猎人）
+[I0UV]
+Name=阿哈利姆神杖（潮汐猎人）
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+[I0UW]
+Name=阿哈利姆神杖（潮汐猎人）
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+[I0UX]
+Name=阿哈利姆神杖（影魔）
+[I0UY]
+Name=阿哈利姆神杖（影魔）
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+[I0UZ]
+Name=阿哈利姆神杖（影魔）
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+[I0V0]
+Name=阿哈利姆神杖（熊战士）
+[I0V1]
+Name=阿哈利姆神杖（熊战士）
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+[I0V2]
+Name=阿哈利姆神杖（熊战士）
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+[I0V3]
+Name=以太透镜卷轴|nAether Lens Recipe
+[I0V4]
+Name=以太透镜卷轴|nAether Lens Recipe
+Ubertip=|cffffcc00属性：|r|n提高250点魔法上限|n增加8点/秒生命恢复速率|n增加8%的技能伤害|n|n|cff0033cc聚焦|r（被动）|n|n|cffffcc00需要：|r|n能量之球|n医疗指环|n流浪法师斗篷
+[I0V5]
+Name=以太透镜卷轴|nAether Lens Recipe
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+[I0V8]
+Name=|cffe100f0奥术|r
+Description=|c00ffffff让使用者技能减少40%的法力消耗和30%的冷却时间|r
+[I0VA]
+Name=魔瓶 - 奥术|nMagical Bottle - Arcane
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r
+[I0VB]
+Name=魔瓶 - 奥术|nMagical Bottle - Arcane
+[I0VC]
+Name=魔瓶 - 奥术|nMagical Bottle - Arcane
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r
+[I0WF]
+Name=阿哈利姆神杖（半人猛犸）
+[I0WG]
+Name=阿哈利姆神杖（半人猛犸）
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+[I0WH]
+Name=阿哈利姆神杖（半人猛犸）
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+[I0WL]
+Name=阿哈利姆神杖（卓尔游侠）
+[I0WM]
+Name=阿哈利姆神杖（卓尔游侠）
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|n|cff0033cc奥义提升：|r|n提升某些英雄最终奥义的威力
+[I0WN]
+Name=阿哈利姆神杖（卓尔游侠）
+Ubertip=|cffff0303这件物品不属于你，它失去了效果|r
+[PBMM]
+Name=城镇传送卷轴|nScroll of Town Portal
+Tip=
+Ubertip=
+Description=
+[PBMN]
+Name=城镇传送卷轴|nScroll of Town Portal
+Tip=
+Ubertip=|cffffcc00属性：|r|n|cffff8000传送：|r|n将AI传送至任意友方建筑|n|cff99ccff冷却时间：|r70
+Description=
+[Y001]	
+Name=推进
+[Y002]	
+Name=返回生命泉
+[Y003]	
+Name=撤退
+[Y004]	
+Name=前往中路(自动)
+[Y005]	
+Name=前往上路(自动)
+[Y006]	
+Name=前往到下路(自动)
+[Y007]	
+Name=前去Gank
+[Y008]	
+Name=取消伏击
+[Y009]	
+Name=正在Gank
+[Y010]	
+Name=正在Gank
+[Y011]	
+Name=Gank
+[Y012]	
+Name=准备攻击|c00ffcc00Roshan|r
+[Y013]	
+Name=请求启动|c00ffcc00防御符文|r
+[Y014]	
+Name=回防
+[Y015]	
+Name=改变防守区域
+[Y016]	
+Name=AI自动刷野功能已被
+[Y017]	
+Name=换线到下路
+[Y018]	
+Name=换线到上路
+[Y019]	
+Name=将使用远古祭祀替代治疗药剂进行恢复
+[Y020]	
+Name=将使用治疗药剂替代远古祭祀进行恢复
+[Y021]	
+Name=AI技能躲闪能力为弱
+[Y022]	
+Name=AI技能躲闪能力为强
+[Y023]	
+Name=正在恢复推进
+[Y024]	
+Name=正在防守基地
+[Y025]	
+Name=返回驻守基地
+[Y026]	
+Name=正在驻守基地
+[Y027]	
+Name=命令无效(|c00ffcc00肉山|r尚未刷新)
+[Y028]	
+Name=|cffffcc00命令无效(使用英雄已经死亡)|r
+[Y029]	
+Name=|cffffcc00命令无效 (生命过低)|r
+[Y030]	
+Name=|cffffcc00命令无效 (正在战斗)|r
+[Y031]	
+Name=|cffffcc00命令无效 (距离过远)|r
+[Y032]	
+Name=前往中路
+[Y033]	
+Name=已在该线
+[Y034]	
+Name=前往上路
+[Y035]	
+Name=前往下路
+[Y036]	
+Name=前往中路(上路太远了)
+[Y037]	
+Name=前往中路(下路太远了)
+[Y038]	
+Name=在
+[Y039]	
+Name=miss
+[Y040]	
+Name=返还
+[Y041]	
+Name=|r的 |c00ffcc00
+[Y042]	
+Name=|r 于能量圈中
+[Y043]	
+Name=AI 指令:
+[Y044]	
+Name=推进
+[Y045]	
+Name=回防
+[Y046]	
+Name=撤退
+[Y047]	
+Name=泉疗
+[Y048]	
+Name=换线
+[Y049]	
+Name=其他命令..
+[Y050]	
+Name=取消
+[Y051]	
+Name=请选择线路:
+[Y052]	
+Name=下路
+[Y053]	
+Name=上路
+[Y054]	
+Name=中路
+[Y055]	
+Name=随机选择路线
+[Y056]	
+Name=驻守基地
+[Y057]	
+Name=攻击肉山
+[Y058]
+Name=关闭自动刷野
+[Y059]
+Name=开启自动刷野
+[Y060]	
+Name=关闭自动换线功能
+[Y061]	
+Name=开启自动换线功能
+[Y062]	
+Name=所有友军AI
+[Y063]	
+Name=请选择命令发布对象:
+[Y064]	
+Name= |cffffcc00已被选为队长 阵营为: |r  
+[Y065]	
+Name=AI报告Miss功能已被自动|c00ff9090关闭|r. 
+[YA65]
+Name= 使用 
+[Y066]	
+Name= -aimsgmiss|r 命令以再启动  
+[Y067]	
+Name=自动换线功能已被
+[Y068]	
+Name=|cffffcc00加入了对敌方AI的控制命令: -osden, -oden, -oaen|r
+[Y069]	
+Name=|cffffcc00你可以使用特殊指令来指挥任何友方AI玩家 (详见地图信息F9).
+[Y070]	
+Name= AI 将会提醒玩家开启防御符文并不再自动使用.
+[Y071]	
+Name=所有的AI都会自由选择推进路线
+[Y072]	
+Name=指令: 
+[YA72]
+Name= 在下列参数之前输入(但不要在参数之前加入空格) "-o","-c" 或 " c": 
+[YBLA]
+Name=           
+[Y073]	
+Name=pn|r -让AI自行选择推进路线 
+[Y074]	
+Name=pl|r - 让所有 友军AI  从上路团推 
+[Y075]	
+Name=pr|r - 让所有 友军AI  从下路团推. 
+[Y076]	
+Name=pm|r - 让所有 友军AI  从中路团推.  示例:-cpl,而 -c pl则是非法的. 
+[Y077]	
+Name=友方AI将从上路推进
+[Y078]	
+Name=友方AI将从下路推进
+[Y079]	
+Name=友方AI将从中路推进
+[Y080]	
+Name=|cffffcc00目标无效
+[Y081]	
+Name=|cffffcc00目标已经死亡
+[Y082]	
+Name=|cffffcc00目标不可见
+[Y083]	
+Name=|cffffcc00目标不是敌方单位
+[Y084]
+Name=设置团推路线
+[Y085]	
+Name=|cffffcc00指定目标目标AI指令: -|r 
+[YA85]
+Name= 在以下参数字符前输入 "-o","-c" 或 " c". 
+[YB85]
+Name= 当有多个玩家参数时可用逗号 "",""分隔,""[]""内的是可选参数: 
+[Y086]	
+Name=t 命令玩家A的序号[,命令玩家B的序号] 目标玩家序号|r - 被命令玩家将gank目标玩家 
+[Y087]	
+Name=t a 目标玩家序号|r - 所有友军AI都将Gank目标玩家单位. 示例: "-ct 2,3 6"表示近卫绿色玩家和紫色玩家将Gank天灾的粉色玩家. 
+[Y088]	
+Name=|cffffcc00AI行军指令: -|r 
+[YA88]
+Name= 在以下指令前输入 "-o","-c" or " c". 
+[YB88]
+Name= 可使用逗号分隔多个玩家参数 ",":   
+[Y089]	
+Name=gl所选玩家序号 |r - 命令该玩家前往上路 
+[Y090]	
+Name=gr所选玩家序号 |r - 命令该玩家前往下路 
+[Y091]	
+Name=gm所选玩家序号 |r - 命令该玩家前往中路.  示例: "-cgl7" 表示让友方天灾的灰色玩家(7号)前往上路. 
+[Y092]
+Name=AI为玩家购买 |c00ffcc00动物信使|r 并置于能量圈中
+[Y093]
+Name=AI的动态金钱/动态经验信息面板被 
+[Y094]
+Name=AI信息面板被 
+[Y095]
+Name=AI自动防御符文系统已被 
+[Y096]
+Name=AI英雄定位系统(敌方位置)已被 
+[Y097]
+Name=AI消息系统已被 
+[Y098]
+Name=玩家可通过模式命令调整AI的经验/金钱获得率.|r 
+[Y099]
+Name=详情请参阅地图信息(按F9打开).|r
+[Y100]
+Name=可以使用以下命令为双方AI选择英雄(友/敌): 
+[Y101]
+Name=使用该命令为敌方AI选择英雄(当敌方不存在人类玩家时): 
+[Y102]
+Name=使用该命令为友方AI选择英雄: 
+[Y103]
+Name=关于AI
+[Y104]
+Name=AI经验/金钱模式
+[Y105]
+Name=|c00a0a0a0选择英雄|r
+[Y106]
+Name=|c00a0a0a0死亡|r
+[Y107]
+Name=|c00a0a0a0待命|r
+[Y108]
+Name=移动
+[Y109]
+Name=撤退
+[Y110]
+Name=逃离
+[Y111]
+Name=守塔
+[Y112]
+Name=推进
+[Y113]
+Name=泉疗
+[Y114]
+Name=回防
+[Y115]
+Name=驻守基地
+[Y116]
+Name=换线中
+[Y117]
+Name=伏击 
+[Y118]
+Name=打野
+[Y119]
+Name=>|c00ffcc00Roshan|r
+[Y120]
+Name=进攻 |c00ffcc00Roshan|r
+[Y121]
+Name=攻击 
+[Y122]
+Name=>
+[Y123]
+Name=|c00ffcc00- 队长 -|r
+[Y124]
+Name=  - AI状态|r
+[Y125]
+Name=经验.|r
+[Y126]
+Name=金钱|r
+[Y127]
+Name=可使用该命令重选AI英雄
+[Y128]
+Name=无法交换，你已经升级过技能了
+[Y129]
+Name=无法交换，因为太迟了
+[Y130]
+Name=无法交换，因为你已经开始买装备了
+[Y131]
+Name=无法交换，因为你已经装备了物品
+[Y132]
+Name=无法重新选择英雄
+[Y133]
+Name=已经太晚，无法重新选择英雄
+[Y134]
+Name=你不能命令我重新选择英雄
+[YLA1]
+Name=中路
+[YLA2]
+Name=上路
+[YLA3]
+Name=下路
+[YLA4]
+Name=世界之树
+[YLA5]
+Name=冰封王座
+[YLA6]
+Name=野外
+[Y1ON]
+Name=|c009090ff启用|r
+[YOOF]
+Name=|c009090ff禁用|r

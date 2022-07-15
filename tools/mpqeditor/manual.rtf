@@ -1,0 +1,357 @@
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033\deflangfe1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Arial;}{\f1\fnil\fprq2\fcharset0 Federation;}{\f2\froman\fprq2\fcharset0 Times New Roman;}{\f3\fswiss\fcharset0 Arial;}{\f4\fmodern\fprq1\fcharset0 Courier New;}{\f5\froman\fprq2\fcharset2 Symbol;}{\f6\fnil\fcharset2 Symbol;}}
+{\colortbl ;\red0\green0\blue0;\red0\green0\blue255;}
+{\stylesheet{ Normal;}{\s1 heading 1;}{\s2 heading 2;}}
+\viewkind4\uc1\pard\brdrb\brdrs\brdrw20 \f0\fs6\par
+\pard\keepn\s1\cf1\expndtw20\b\f1\fs24 Mo'PaQ 2000\par
+\pard\keepn\s2\cf0\expndtw0\f0\fs20 The official client of Andrey Lelikov\rquote s MPQ API Library DLL\par
+\pard\b0\fs18 By Quantam\par
+\fs24\par
+\pard\brdrb\brdrs\brdrw20\brsp20 \tx6300 User's Manual\tab Last Modified: \lang1024 11/30/2000\lang1033\fs20\par
+\pard\par
+Table of Contents\par
+\pard\fi-360\li630\f2 1.\tab\ul Version History\ulnone\par
+\pard\par
+\pard\fi-360\li630 2.\tab\ul Introduction\ulnone\par
+\pard\fi-480\li1110\tx1110 2.1\tab\ul What\rquote s an MPQ?\ulnone\par
+\pard\fi-480\li1110 2.2\tab\ul What\rquote s \lquote Storm\rquote ?\ulnone\par
+2.3\tab\ul What\rquote s the MPQ API Library DLL?\ulnone\par
+2.4\tab\ul What\rquote s Mo\rquote PaQ 2000?\ulnone\par
+2.5\tab\ul For More Information about MoPaQs - Inside MoPaQ\ulnone\par
+\pard\par
+\pard\fi-360\li630\tx630 3.\tab\ul Getting Started\ulnone\par
+\pard\fi-480\li1110\tx1110 3.1\tab\ul System Requirements\ulnone\par
+\pard\fi-480\li1110 3.2\tab\ul Setting Up Mo\rquote PaQ 2000\ulnone\par
+3.3\tab\ul For the Impatient\ulnone\par
+\pard\par
+\pard\fi-360\li630\tx630 4.\tab\ul Using Mo\rquote PaQ 2000\ulnone\par
+\pard\fi-480\li1110\tx1110 4.1\tab\ul Overview of Functionality\ulnone\par
+\pard\fi-480\li1110 4.2\tab\ul The Command-Line Interface\ulnone\par
+4.3\tab\ul Adding Files - the A Command\ulnone\par
+4.4\tab\ul Extracting Files - the E Command\ulnone\par
+4.5\tab\ul Renaming Files - the R Command\ulnone\par
+4.6\tab\ul Moving Files - the M Command\ulnone\par
+4.7\tab\ul Deleting Files - the D Command\ulnone\par
+4.8\tab\ul Flushing Out an Archive - the F Command\ulnone\par
+4.9\tab\ul Listing the Files in an Archive - the L Command\ulnone\par
+4.10\tab\ul Running Scripts - the S Command\ulnone\par
+\pard\par
+\pard\fi-360\li630\tx630 5.\tab\ul Writing Scripts\ulnone\par
+\pard\fi-480\li1110\tx1110 5.1\tab\ul Overview of Scripts\ulnone\par
+\pard\fi-480\li1110 5.2\tab\ul Differences Between the Command Line and Scripts\ulnone\par
+5.3\tab\ul Opening Archives - the O Commands\ulnone\par
+5.4\tab\ul Closing Archives - the C Commands\ulnone\par
+5.5\tab\ul Pausing Scripts - the P Command\ulnone\par
+5.6\tab\ul Script Comments - the Semicolon ;\ulnone\par
+\pard\par
+\pard\fi-360\li630\tx630 6.\tab\ul Technical Support\ulnone\par
+\pard\fi-480\li1110\tx1110 6.1\tab\ul Is It a Bug?\ulnone\par
+\pard\fi-480\li1110 6.2\tab\ul Tech. Support Checklist\ulnone\par
+6.3\tab\ul Getting the Latest Version of Mo\rquote PaQ 2000\ulnone\par
+6.4\tab\ul Getting the MPQ API Library DLL\ulnone\par
+\pard\par
+\pard\fi-360\li630\tx630 7.\tab\ul Credits\ulnone\par
+\pard\par
+\pard\fi-360\li630\tx630 8.\tab\ul Coming In Future Versions\ulnone\par
+\pard\par
+\pard\fi-360\li630\tx630 9.\tab\ul Legal Stuff\ulnone\par
+\pard\page\f0\par
+\pard\fi-360\li360\tx360\b 1.\tab Version History\par
+\pard\li360\b0 Build 2210 (v2.0 release)\par
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent360{\pntxtb\'B7}}\fi-360\li1080\tx1080 Added the WAV compression (/wav) option to the add command\par
+{\pntext\f6\'B7\tab}Added the rename file (r) command\par
+{\pntext\f6\'B7\tab}Added the move files (m) command\par
+{\pntext\f6\'B7\tab}Added flush archive (f) command\par
+{\pntext\f6\'B7\tab}Turbocharged the list command with a whole bunch of new functionality\par
+{\pntext\f6\'B7\tab}Awesome new error-handing tells you exactly what went wrong (most of the time, anyway)\par
+{\pntext\f6\'B7\tab}Bugfixes\'85 lots of em\'85\par
+{\pntext\f6\'B7\tab}Now REQUIRES Starcraft/Brood War 1.07 and won\rquote t work with anything less\par
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlcont\pnf6\pnindent0{\pntxtb\'B7}}\li360\par
+{\pntext\f6\'B7\tab}Version 2.0 Preview 2 (not publicly released)\par
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent360{\pntxtb\'B7}}\fi-360\li1080\tx1080 Added wildcard (*/?) filtering to the list function\par
+{\pntext\f6\'B7\tab}Added the listfile (/lf) option for writing listfiles rather than reports\par
+{\pntext\f6\'B7\tab}Added the recurse through subdirectories (/r) option to the add, extract, and delete commands\par
+{\pntext\f6\'B7\tab}Compressed internal listfiles\par
+{\pntext\f6\'B7\tab}Enhanced the error checking and messages\par
+{\pntext\f6\'B7\tab}Optimized code\par
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlcont\pnf6\pnindent0{\pntxtb\'B7}}\li360\par
+{\pntext\f6\'B7\tab}Version 2.0 Preview 1 (not publicly released)\par
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent360{\pntxtb\'B7}}\fi-360\li1080\tx1080 Added wildcard support to the \ul d\ulnone  command (delete file)\par
+{\pntext\f6\'B7\tab}Allowed the \ul l\ulnone  command to write the output to a file\par
+{\pntext\f6\'B7\tab}Redid the core of Mo\rquote PaQ 2000 for noticeably better performance and efficiency\par
+{\pntext\f6\'B7\tab}Redid the command parsing engine for more flexibility and ease of use\par
+{\pntext\f6\'B7\tab}Added the MiniHelp (\ul h\ulnone  command) which almost makes this file obsolete\par
+{\pntext\f6\'B7\tab}Moved the handling of listfiles internally\par
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlcont\pnf6\pnindent0{\pntxtb\'B7}}\li360\par
+{\pntext\f6\'B7\tab}Version 1.10\par
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent360{\pntxtb\'B7}}\fi-360\li1080\tx1080 Added the \ul d\ulnone  command (delete file)\par
+{\pntext\f6\'B7\tab}Added the \ul p\ulnone  command (pause) to scripts\par
+{\pntext\f6\'B7\tab}Added the ability to use wildcards for extracting files\par
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlcont\pnf6\pnindent0{\pntxtb\'B7}}\li360\par
+{\pntext\f6\'B7\tab}Version 1.02\par
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent360{\pntxtb\'B7}}\fi-360\li1080\tx1080 Fixed a mistake of mine that switched the \ul x\ulnone  and \ul e\ulnone  commands in scripts. \par
+{\pntext\f6\'B7\tab}Fixed several small potential bugs (and probably added a lot more). \par
+{\pntext\f6\'B7\tab}Wrote a more powerful and flexible implementation for the \lquote List Files\rquote  command. \par
+{\pntext\f6\'B7\tab}Added more robust error handling.\par
+\pard\li360\par
+\pard\fi-360\li360\tx360\b 2.\tab Introduction\par
+\pard\fi-405\li765\tx765\b0 2.1\tab What\rquote s an MPQ?\par
+\pard\fi720\li720 MPQ, or MoPaQ, is a proprietary archive format created by Mike O'Brien, the man hailed as Blizzard's multiplayer engine genius, back in 1996 as a general-purpose archive for use with Diablo, and named narcissistically for its creator - "Mike O'brien PaCK"; the copyrights to it, however, are held by Havas Interactive, Blizzard's parent company, and it may continue to be used now that Mike O'Brien has left Blizzard. MPQs apparently excelled in their role in Diablo, because Havas has turned back to them time and time again for Starcraft, Warcraft 2: BNE, Diablo 2, Lords of Magic (by Sierra, another company owned by Havas), and possibly others that I'm not aware of.\par
+\f3{\pict\wmetafile8\picw26\pich26\picwgoal15\pichgoal15 
+0100090000037400000000002800000000000400000003010800050000000b0200000000050000
+000c02010001000500000007010400000028000000430f8600ee00000001000100000000000100
+010000000000280000000100000001000000010001000000000004000000c40e0000c40e000002
+0000000200000000000000ffffff000003740028000000430fc600880000000100010000000000
+0100010000000000280000000100000001000000010001000000000008000000c40e0000c40e00
+00020000000200000000000000ffffff00ff00090005000000070101000000030000000000
+}\f0 An archive is a file that contains other files inside it, usually in a compressed state. Havas uses MPQs to hold all sorts of things ranging from files that are copied to the hard drive to game data. It is the game data that is particularly useful. Those MPQs contain everything including graphics, sounds, animations, levels, strings, numeric data, and storyline information.\par
+\par
+\pard\fi-405\li765\tx765 2.2\tab What\rquote s \lquote Storm\rquote ?\par
+\pard\fi720\li720 Blizzard uses a shared library called Storm (Storm.dll on PCs, Storm.bin on Macs) in all their modern games to store important functions like MPQ reading, Battle.net, and even some graphics routines. Like all shared libraries, Storm makes its functions available to any program that wants to use them, which is not very good for security. It is for this reason that Storm only contains MPQ reading functions. The MPQ writing functions are Blizzard's prized possessions, and they're not going to let just anyone use them.\par
+\par
+\pard\fi-405\li765\tx765 2.3\tab What\rquote s the MPQ API Library DLL?\par
+\pard\fi720\li720 Although Storm provides public functions for reading MoPaQs, for security reasons it does not contain any functions to \i edit\i0  MoPaQs. However, StarEdit \i does\i0 , since SCMs/SCXs are really MoPaQs. Unfortunately, these functions are under tight lock and key, so all but the most knowledgeable (and persistent) hackers will be unable to use them. Unfortunately for Blizzard, there does exist one such hacker, named Andrey Lelikov (aka Lelik). He has found a way to access these precious functions, and has encapsulated this complex process in LMPQAPI.DLL (Lelik\rquote s MPQ API Library DLL), which automatically cracks open StarEdit to reveal these functions to any programmer.\par
+\par
+\pard\fi-405\li765\tx765 2.4\tab What\rquote s Mo\rquote PaQ 2000?\par
+\pard\fi720\li720 I\rquote ve been with Lelik for a while now; since before he made his LMPQAPI.DLL. Back then, he had made a program called MPQ Archiver, the ancestor of Mo\rquote PaQ 2000. The source of this program was not public, but by some strange twist of fate, Lelik sent me the source in response to an e-mail I sent him (the e-mail didn\rquote t ask for the source). The code fascinated me. He had done many things I didn\rquote t even know you could do. I sat at my computer for 2 days straight, trying to figure out what his amazing code was doing (making ample use of my Win32 API help files, to be sure). Eventually, I figured it all out. That\rquote s when the real fun began. I asked Lelik for permission, and, after getting it, went about redoing most of MPQ. You see, even though Lelik ingeniously designed the kernel, his user interface left much to be desired. So, that was the part I worked on. I added many new features, ease of use, and a LOT of speed; and Mo\rquote PaQ 2000 is the result.\par
+\par
+\pard\fi-405\li765\tx765 2.5\tab For More Information about MoPaQs - Inside MoPaQ\par
+\pard\fi720\li720 Clearly, with MoPaQs being used in Diablo, Diablo 2, Starcraft, and others, the customization power is tremendous. So, I decided to share my considerable knowledge I gained about MoPaQ, and, after writing Mo\rquote PaQ 2000, to write Inside MoPaQ (at \cf2\ul <http://www.campaigncreations.com/starcraft/inside_mopaq/>\cf0\ulnone ), which has since become the definitive, all-in-one source of information about MPQs, Storm, StarEdit, and the MPQ API Library.\par
+\par
+\pard\fi-360\li360\tx360\b 3.\tab Getting Started\par
+\pard\fi-405\li765\tx765\b0 3.1\tab System Requirements\par
+\pard\fi720\li720 Mo\rquote PaQ 2000 is a modest program, without expensive tastes. However, there are a couple basic requirements for it to run.\par
+\pard\fi-360\li1440\tx1440 1.\tab A PC with Windows 98 of 2000, or Windows 95 or NT 4.0 with Internet Explorer 4.0\par
+\pard\fi-360\li1440 2.\tab Starcraft/Brood War must be properly installed and patched to version 1.07 on the computer OR the StarEdit.exe and Storm.dll files from a Starcraft/Brood War 1.07 installation must be in the same directory as Mo\rquote PaQ 2000\par
+\pard\fi720\li720\par
+\pard\fi-405\li765\tx765 3.2\tab Setting Up Mo\rquote PaQ 2000\par
+\pard\fi720\li720 Mo\rquote PaQ 2000 is very easy to set up. All you have to do is extract the mpq2k.exe, lmpqapi.dll and listfile.dat files into a single directory on the hard drive (you can even put them in your Starcraft directory, although this isn\rquote t recommended). If you do not own Starcraft or Brood War, you must obtain the StarEdit.exe and Storm.dll files from a friend (I can\rquote t distribute them for legal reasons) and place them in the same directory as mpq2k.exe.  From there, you should be \ldblquote checked up and good to go.\rdblquote\par
+\par
+\pard\fi-405\li765\tx765 3.3\tab For the Impatient\par
+\pard\fi720\li720 Those of you who are too lazy to be convinced to read the rather lengthy following section on using Mo\rquote PaQ 2000 may simply type\par
+\par
+\f4 MPQ2K\par
+\f0\par
+at the command-line to get a brief summary of Mo\rquote PaQ 2000\rquote s functionality, and then take your chances at figuring out what to do on your own.\par
+\par
+\par
+\pard\fi-360\li360\tx360\b 4.\tab Using Mo\rquote PaQ 2000\par
+\pard\fi-405\li765\tx765\b0 4.1\tab Overview of Functionality\par
+\pard\fi720\li720 Mo\rquote PaQ 2000 (from here on we\rquote ll call it MPQ2K for short) is a full featured, easy to use MoPaQ editor. It allows you to add new files, overwrite existing ones, extract files, rename files, delete files, compact an MPQ, and list the files in it. \par
+\par
+\pard\fi-405\li765\tx765 4.2\tab The Command-Line Interface\par
+\pard\fi720\li720 MPQ2K is a command line utility. It must be run from Windows 9x\rquote s MS-DOS Prompt or NT\rquote s Command Prompt (both in the Start Menu->Programs->Accessories menu). The general format for running MPQ2K is something like this:\par
+\par
+\f4 MPQ2K <Command> <MPQFile> [SourceFile] [DestinationFile]\par
+\f0\par
+Parameters in <> are required, ones in [] are optional for some commands. For the exact syntax and use of individual commands, see sections 4.3-4.10; but first, some preliminary information about the command-line interface.\par
+Commands and parameters are \i not\i0  case sensitive. The MPQ and filenames can be either short filenames such as \ldblquote blah.txt\rdblquote  or \ldblquote squish~1.txt\rdblquote  or long filenames such as \ldblquote squishy fat.txt\rdblquote . But, if the filename is a long filename or has spaces or other strange characters, you MUST enclose the entire filename in quotes (either \lquote  \rquote  or \ldblquote  \rdblquote ). Additionally, the quotes must be paired. For illustration, the following examples will work:\par
+\par
+\f4\ldblquote this file.txt\rdblquote\par
+\lquote that file.txt\rquote\par
+\ldblquote this.file-that.file.txt\rdblquote\par
+\f0\par
+But the following examples will NOT work:\par
+\par
+\f4 bad file.txt\par
+not.this-file.txt\par
+\ldblquote dont try this\rquote\par
+\lquote vice versa\rdblquote\par
+\ldblquote or this for that matter\par
+\f0\par
+Another important part of command-line syntax is the wildcard. Wildcard characters (* and ?) are used by many command-line programs to represent multiple files. MPQ2K uses them for all commands except those noted otherwise in this manual. Wildcards represent one or more unknown characters. The ? wildcard stands for a single unknown character, while * wildcards stand for any number of unknown characters. The following:\par
+ \par
+\f4 *.txt\par
+\f0\par
+would include such files as \lquote flub.txt\rquote , \lquote shootme.txt\rquote , and \lquote deadcat.txt\rquote , given, of course, that those files exist in the current directory. Or, the following:\par
+\par
+\f4 *ub.t?t\par
+\f0\par
+would include the files \lquote flub.txt\rquote , \lquote blub.txt\rquote , \lquote dub.txt\rquote , and \lquote nub.tnt\rquote . And finally, the following example:\par
+\par
+\f4 ??ub.t?t\par
+\par
+\f0 would only include \lquote flub.txt\rquote  and \lquote blub.txt\rquote .\par
+Lastly is the concept of recursion. For most of MPQ2K\rquote s commands (those that do not mention otherwise), there is a /r (recurse) option. This option can only work when wildcards are used, and specifies that all files in subdirectories should be included in the operation. For example, the following would include all files of *.txt in the current directory:\par
+\par
+\f4 *.txt\par
+\f0\par
+But the following example would include all files of *.txt in the current directory and all of its subdirectories:\par
+\par
+\f4 *.txt /r\par
+\f0\par
+\pard\fi-405\li765\tx765 4.3\tab Adding Files - the \ul A\ulnone  Command\par
+\pard\fi720\li720 Probably the most useful of all the commands of MPQ2K is the \lquote add files\rquote  command. As I said earlier, the files in a MoPaQ can be either compressed or uncompressed. What this means is that you can have some files in an archive that are compressed, while others not. You can decide which files are which; however, there are some file types that MUST NOT be compressed in a MoPaQ. So far, the only type I know of is Smacker animations (.SMK). If these are compressed in a MoPaQ, Starcraft will crash when it tries to read them. For this reason, there you can choose to add the files as either compressed or uncompressed. The syntax for adding files is:\par
+\par
+\f4 MPQ2K a <MPQFile> <SourceFile> [DestinationFile] [/c] [/wav] [/r]\par
+\f0\par
+Parameters in <> are required, ones in [] are optional. MPQFile is the MoPaQ to add the file(s) to. SourceFile is the file(s) to add to the MoPaQ. If there is only a single file being added (no wildcards are used), DestinationFile is the name that the file will be stored as in the MoPaQ. But, if there are multiple files to add (wildcards are used), DestinationFile is the \i directory\i0  to put the files in. /c tells MPQ2K to compress the file(s). /wav tells MPQ2K to add the file with WAV compression, which is recommended for .WAV files (if both /c and /wav are used, /c will be ignored and /wav used). /r tells MPQ2K to recurse through subdirectories when searching for files to add. If no DestinationFile is given, the file will be added with the same name as SourceFile. For example, the following would add the file \lquote blah.txt\rquote  to the MoPaQ \lquote whocares.mpq\rquote  as \lquote dumbfile.txt\rquote :\par
+\par
+\f4 MPQ2K a whocares.mpq blah.txt dumbfile.txt\par
+\f0\par
+You could also do this to add the file \lquote blah.txt\rquote  as just plain \lquote blah.txt\rquote :\par
+\par
+\f4 MPQ2K a whocares.mpq blah.txt\par
+\f0\par
+Wildcards may be used for adding files. But remember that the DestinationFile parameter changes. Thus, the following example would add the file \lquote flub.txt\rquote  as \lquote temp\\*.txt\\flub.txt\rquote , \i not\i0  \lquote temp\\flub.txt\rquote  as it is meant to:\par
+\par
+\f4 MPQ2K a *.txt temp\\*.txt\par
+\f0\par
+Don\rquote t do this. Do it this way instead:\par
+\par
+\f4 MPQ2K a *.txt temp\par
+\pard\f0\par
+\pard\fi-405\li765\tx765 4.4\tab Extracting Files - the \ul E\ulnone  Command\par
+\pard\fi720\li720 As well as the ability to put files into MoPaQs, MPQ2K also has the ability to get them out. That is where the extract command comes in. The general syntax for the extract command is:\par
+\f4 MPQ2K e <MPQFile> <SourceFile> [DestinationDirectory] [/fp] [/r]\par
+\f0\par
+The parameters in <> are required, ones in [] are optional. SourceFile is the FULL name of the file(s) to be extracted from the MoPaQ, and DestinationDirectory is the directory in which to put the extracted file(s). If DestinationDirectory is absent, the file will be placed in the current directory. The /r parameter tells MPQ2K to recurse through subdirectories when searching for files to extract. The /fp parameter specifies that MPQ2K should extract the files with the full path. Consider these two lines:\par
+\par
+\f4 MPQ2K e this.mpq flub\\temp.txt\par
+\f0\par
+and\par
+\par
+\f4 MPQ2K e this.mpq flub\\temp.txt /fp\par
+\f0\par
+The first would extract the file \lquote flub\\temp.txt\rquote  as \lquote temp.txt\rquote  in the current directory. The second would extract the file as \lquote temp.txt\rquote  in the \lquote flub\rquote  directory. Big difference.\par
+NOTE: The /r parameter ONLY works in combination with the /fp parameter.\par
+\par
+\pard\fi-405\li765\tx765 4.5\tab Renaming Files - the \ul R\ulnone  Command\par
+\pard\fi720\li720 On occasion it may be necessary to rename a file in a MoPaQ. That\rquote s what the rename command is for, the syntax of which is: \par
+\par
+\f4 MPQ2K r <MPQFile> <OldFileName> <NewFileName> \par
+\f0\par
+All parameters are required. OldFileName is the full filename of the file to be renamed, and NewFileName is the new name for the file. Wildcards may \i not\i0  by used with the rename command.\par
+\par
+\pard\fi-405\li765\tx765 4.6\tab Moving Files - the \ul M\ulnone  Command\par
+\pard\fi720\li720 Complimenting the rename command is the move command. While the rename command only renames a single file in a MoPaQ, the move command moves one or more files from one virtual directory (technically MoPaQs don\rquote t have directories like hard drives do) to another virtual directory. The syntax is as shown: \par
+\par
+\f4 MPQ2K m <MPQFile> <SourceFile> <DestinationDirectory> [/r]\par
+\f0\par
+The parameters in <> are required, ones in [] are optional. SourceFile is the file(s) to be moved (wildcards allowed), DestinationDirectory is the virtual directory the file(s) to be moved will be placed in, and /r is the usual recurse switch.\par
+\par
+\pard\fi-405\li765\tx765 4.7\tab Deleting Files - the \ul D\ulnone  Command\par
+\pard\fi720\li720 One of the other useful commands in MPQ2K\rquote s arsenal is the delete file command. The general syntax for which is:\par
+\par
+\f4 MPQ2K d <MPQFile> <FileToDelete> [/r]\par
+\f0\par
+The parameters in <> are required, ones in [] are optional. FileToDelete is just that, the file(s) to delete; and, as usual, /r tells MPQ2K to recurse through subdirectories.\par
+The first time you use the delete command, you might be rather surprised to find that a deleted file rarely takes up less space in a MoPaQ than a file that hasn\rquote t been deleted! This is due to the fact that the delete command only marks a file as deleted; it doesn\rquote t actually remove the file from the archive (to preempt the next question, no, you can\rquote t undelete a deleted file). To actually remove the file from the MoPaQ, you must use the flush command.\par
+\par
+\pard\fi-405\li765\tx765 4.8\tab Flushing Out an Archive - the \ul F\ulnone  Command\par
+\pard\fi720\li720 As mentioned above, the delete command does not actually remove a file, rather it only marks a file as deleted. Obviously, there must be some way to remove files from an archive, or else the delete command would be utterly useless. As a matter of fact, there is a way, and that is the flush command, using the following general syntax:\par
+\par
+\f4 MPQ2K f <MPQFile>\par
+\f0\par
+ All parameters are optional. MPQFile is the file to flush.\par
+The flush command searches through a MoPaQ and purges the space deleted files occupy, shrinking the MoPaQ\rquote s size if there are any deleted files in it.\par
+\par
+\pard\fi-405\li765\tx765 4.9\tab Listing the Files in an Archive - the \ul L\ulnone  Command\par
+\pard\fi720\li720 Often, it is necessary to view all the files in a MoPaQ. To do this, you must use the list files command, as shown here:\par
+\par
+\f4 MPQ2K l <MPQFile> [Filter] [Out_File] [/lf] [/p]\par
+\f0  \par
+The parameters in <> are required, ones in [] are optional. This will list all the files in the MoPaQ to the screen. The [Filter] parameter is a wildcard filter that specifies what files to display. The [Out_File] parameter tells MPQ2K to write the listing to a file, rather than to the screen. When the /lf parameter is used with [Out_File], it tells MPQ2K to generate a listfile (with only each file\rquote s name, useable as a listfile for MPQView or another MoPaQ utility), rather than a report file (which contains the name, size, and other information), like normal. And the /p parameter makes MPQ2K pause with each screen of files listed, and wait for a keypress.\par
+NOTE: The list command will display files matching the filter spec in ALL subdirectories just as if the /r option for other commands had been used.\par
+\par
+\pard\fi-405\li765\tx765 4.10\tab Running Scripts - the \ul S\ulnone  Command\par
+\pard\fi720\li720 Perhaps the biggest reason that MPQ2K is superior to its predecessors is its scripting ability. MPQ2K allows you to run many commands much quicker and easier through scripts. The writing of scripts will be discussed in detail in section four. But here is how you run a script once it is written:\par
+\par
+\f4 MPQ2K s <ScriptFile>\par
+\f0\par
+NOTE: You may not run multiple scripts using wildcards.\par
+\par
+\pard\fi-360\li360\tx360\b 5.\tab Writing Scripts\par
+\pard\fi-405\li765\tx765\b0 5.1\tab Overview of Scripts\par
+\pard\fi720\li720 A script is basically a file that contains a lot of command lines for MPQ2K to process. This allows you to compile one or more entire MoPaQs in a single execution of MPQ2K. This allows for much faster execution, as well as avoiding some of the quirks that occur when a MoPaQ is changed after it is created.\par
+\par
+\pard\fi-405\li765\tx765 5.2\tab Differences Between the Command Line and Scripts\par
+\pard\fi720\li720 For simplicity\rquote s sake, the command-line and script-line syntax are almost identical. There are a couple major points of difference, though.\par
+\par
+\pard{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent360\pnstart1\pndec{\pntxta.}}
+\fi-360\li1800\tx1800 MoPaQs must be explicitly opened and closed in scripts. See section 5.3-5.4 for info on this.\par
+{\pntext\f0 2.\tab}Because of this, you don\rquote t need to specify which MoPaQ you are working with on every single line, as you did on the command-line. For example, the following line is perfectly correct. It would add \lquote this.txt\rquote  to the current archive as \lquote that.txt\rquote . The \lquote current archive\rquote  is the one you have already opened.\par
+\pard\fi720\li720\par
+\pard\fi720\li1080\f4 a this.txt that.txt /c\par
+\pard\fi720\li720\f0\par
+\pard\fi-405\li765\tx765 5.3\tab Opening Archives - the \ul O\ulnone  Command\par
+\pard\fi720\li720 The very first thing you must do in scripts is to open the MoPaQ you want to work with. The general syntax for the \lquote open archive\rquote  command is:\par
+\par
+\f4 o <MPQFile> [FileLimit]\par
+\f0\par
+Parameters in <> are required, ones in [] are optional. MPQFile is the file to open. FileLimit only takes affect when the archive is being created from scratch. It is the maximum number of files that this archive can hold, and is 1024 by default. If the MoPaQ already exists, FileLimit will have no effect, but no warning will be indicated. The FileLimit parameter has a minimum value of 16, and a maximum value of 262144.\par
+NOTE: Each file that a MoPaQ can hold (the FileLimit) takes up 16 bytes in the MoPaQ, regardless of whether or not it is used. This can add up. For example, an empty MoPaQ with a file limit of 262144 would be 4 MB large!\par
+\par
+\pard\fi-405\li765\tx765 5.4\tab Closing Archives - the \ul C\ulnone  Command\par
+\pard\fi720\li720 Just like you must open a MoPaQ before using it, you must close the files after using them. Is it very simple to use the close command, as shown on the following line:\par
+\par
+\f4 c\par
+\f0\par
+That\rquote s all there is to it.\par
+\par
+\pard\fi-405\li765\tx765 5.5\tab Pausing Scripts - the \ul P\ulnone  Command\par
+\pard\fi720\li720 Occasionally, a script will behave different than you expected it to. And if the script is halfway large, it may scroll by too fast to see what went wrong. The solution to this common problem is the pause script command. The pause command is simple in function and usage, as shown here:\par
+\par
+\f4 p\par
+\f0\par
+When this command is executed, the following message will appear, and MPQ2K will pause until you hit a key on the keyboard.\par
+\par
+\f4 Pause - Press any key to continue...\par
+\par
+\pard\fi-405\li765\tx765\f0 5.6\tab Script Comments - the Semicolon \ul ;\ulnone\par
+\pard\fi720\li720 On some occasions you may want to put comments in a script file for one reason or another. To do this, simply put a semicolon(;) as the first character on a line, and the line will be ignored, and no error will be signaled.\par
+\par
+\pard\fi-360\li360\tx360\b 6.\tab Technical Support\par
+\pard\fi-405\li765\tx765\b0 6.1\tab Is It a Bug?\par
+\pard\fi720\li720 There are several known issues with Mo\rquote PaQ 2000. Some are bugs, some aren\rquote t. I will try to summarize all known issues and their solutions here.\par
+\par
+\pard\fi360\li720 Symptom: When I double-click the mpq2k.exe file, a black window pops up for about half a second, and then disappears!\par
+Problem: You haven\rquote t read the manual.\par
+Solution: Read section 4.2 of this manual.\par
+\par
+Symptom: I can add around 1000 files to a MoPaQ, but then I can\rquote t add any more!\par
+Problem: As part of the format, MoPaQs have a built in limit on how many files they can store. This number is designated when the MoPaQ is created for the first time. This number is, by default, 1024.\par
+Solution: Write a script to compile your MoPaQ. Count the total number of files you want to put in the MoPaQ, then set the number of files on the line to create the MoPaQ (read section 5.3). This MUST be done when the MoPaQ is first created. If the MoPaQ already exists, delete it. For example, the following line create the archive \lquote whatever.mpq\rquote  and set the file limit to 2000.\par
+\par
+\f4 O whatever.mpq 2000\par
+\f0\par
+Symptom: I add a 20 MB .WAV file to a MoPaQ using /c, but the MoPaQ\rquote s size increases almost 20 MB. Where\rquote s the compression?\par
+Problem: Due to the nature of WAV file, they cannot be reasonably compressed with MPQ2K\rquote s standard compression (about 5% compression with /c, on average).\par
+Solution: Add the file with /wav instead of /c. That will turn on MPQ2K\rquote s special WAV compression and compress the file an average of 66%.\par
+\par
+Symptom: I have this tiny archive with like 2k or stuff in it, but it\rquote s like 20k large? Where\rquote s the size coming from?\par
+Problem: Each file that a MoPaQ CAN contain (not DOES contain) gets one header entry of 16 bytes long. When you get into the thousands of files, those 16 bytes can add up.\par
+Solution: Try decreasing the number of files your archive can hold. See question above. \f5\'ad\f0\par
+\par
+Symptom: I\rquote ve added some Smackers (SMKs) to my Mo\rquote PaQ, but Starcraft crashes every time it tries to view them.\par
+Problem: Smackers MUST NOT be compressed in an archive.\par
+Solution: Do not specify the /c (compress) option when adding the Smackers.\par
+\pard\fi720\li720\par
+\pard\fi-405\li765\tx765 6.2\tab Technical Support Checklist\par
+\pard\fi720\li720 PLEASE don\rquote t go reporting to me every time something unexpected happens! If you do, I will simply squelch you. But, if you do have a problem, go through this checklist. \par
+\par
+\pard{\pntext\f0 1.\tab}{\*\pn\pnlvlbody\pnf0\pnindent360\pnstart1\pndec{\pntxta.}}
+\fi-360\li1800\tx1800\b Try looking through the FAQ in section 6.1.\b0  Most common problems and their solutions can be found by looking at the FAQ above.\par
+\b{\pntext\f0 2.\tab}Try looking through the whole manual.\b0  The solution to most problems not in the FAQ is in here somewhere. Read the WHOLE manual first. If you report something to me that the solution is in this manual, I won\rquote t be very happy about it, and you may or may not get a response.\par
+\b{\pntext\f0 3.\tab}Try getting the latest version of MPQ2K and LMPQAPI.\b0  See sections 6.3 and 6.4.\par
+\b{\pntext\f0 4.\tab}Make sure the problem can be reproduced.\b0  Is it just a fluke? Try doing the same thing again. If the problem occurs exactly the same way more than once and it isn\rquote t in the manual, it may possibly be a worthwhile error to report.\par
+\b{\pntext\f0 5.\tab}Finally, lastly, and leastly, try contacting me.\b0  I can be reached at \cf2\ul <quantam@campaigncreations.com>\cf0\ulnone  or at ICQ #10078230 (ICQ is preferred).\par
+\pard\b\par
+\pard\fi-405\li765\tx765\b0 6.3\tab Getting the Latest Version of Mo\rquote PaQ 2000\par
+\pard\fi720\li720\ri720 For the most up-to-date version of Mo\rquote PaQ 2000, go to the official Mo\rquote PaQ 2000 web site at <www.campaigncreations.com/starcraft/mpq2k/>\par
+\pard\fi720\li720\par
+\pard\fi-405\li765\tx765 6.4\tab Getting the MPQ API Library DLL\par
+\pard\fi720\li720 You can acquire the MPQ API Library DLL and documentation (for your own programs) at Lelik\rquote s site at \cf2\ul <http://www.chat.ru/~lelmpq/>\cf0\ulnone .\par
+\par
+\pard\fi-360\li360\tx360\b 7.\tab Credits\par
+\pard\fi720\li720\ri720\b0 This program (excluding the LMPQAPI.DLL) was written totally and completely by me, Justin Olbrantz(Quantam). I may be contacted at \cf2\ul <quantam@campaigncreations.com>\cf0\ulnone .\par
+The MPQ API Library DLL (LMPQAPI.DLL) was written mostly by my amazing friend Andrey Lelikov, who may be contacted at \cf2\ul <lelik@prologue.rustel-net.ru>\cf0\ulnone . Parts were written by myself.\par
+\par
+\pard\fi-360\li360\tx360\b 8.\tab Coming In Future Versions\par
+\pard{\pntext\f6\'B7\tab}{\*\pn\pnlvlblt\pnf6\pnindent360{\pntxtb\'B7}}\fi-360\li720\tx720\b0 GUI?\par
+{\pntext\f6\'B7\tab}Fixes to any bugs I can find\par
+{\pntext\f6\'B7\tab}Got any other ideas? Mail me!\par
+\pard\b\par
+\pard\fi-360\li360\tx360 9.\tab Legal Stuff\par
+\pard\fi720\li720\ri720\b0 This program is freeware, you can do anything you want with it, but IT IS DISTRIBUTED "AS IS".  NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED. YOU USE IT AT YOUR OWN RISK. THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF PROFITS, OR ANY OTHER KIND OF LOSS WHILE USING OR MISUSING THIS SOFTWARE.\par
+}
+ 

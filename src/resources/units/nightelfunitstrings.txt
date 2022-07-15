@@ -1,0 +1,445 @@
+[ebal]
+Name=投刃车
+Ubertip=远距离的攻城武器，对建筑造成显著伤害。|n|n|cffffcc00攻击地面单位|r
+[etrp]
+Name=Ancient Protector
+Ubertip="Defensive Ancient. When rooted in the ground, can hurl enormous rocks at nearby enemy units. |n|n|cffffcc00Attacks land and air units.|r"
+[edot]
+Name=猛禽德鲁伊
+Ubertip=近卫军团远程单位。
+[edtm]
+Name=猛禽德鲁伊
+Ubertip=近卫军团远程单位。
+[egol]
+Name=Entangled Gold Mine
+Tip=Entangle |cffffcc00G|rold Mine
+Ubertip=A cluster of roots that allows wisps to mine gold from goldmines.
+[ewsp]
+Name=精灵
+[Edem]
+Name=敌法师
+Tip=敌法师
+Ubertip=作为伟大先知的双胞胎儿子，灵魂守卫和敌法师从一出生开始就被赋予了神力：灵魂守卫获得了对生命力的非凡吸引力；敌法师则被赐予了对能量的操纵能力。敌法师对魔法的敏感度，能逐渐提高他的元素抗性，并给予他超光速移动的卓越能力。随着灵魂守卫的堕入邪道，现在的敌法师为了挽救他的哥哥，义无返顾地接受了近卫军团的召唤。他的攻击撼动着天灾群魔的根基，而他对敌人内部虚空力量的唤醒，则奏响了敌人崩塌的最终乐章。|n|n|cff0042ff力量|r - 22 + 1.2|n|cffff0303敏捷|r - 22 + 2.8|n|cff0042ff智力|r - 15 + 1.8|n|n可以学习 法力损毁、闪现、法术护盾和|cffff8000法力虚空|r。|n|n攻击距离 128（近程）|n移动速度 315
+Revivetip=复活 敌法师
+Awakentip=复活 敌法师
+Propernames=玛吉纳,玛吉纳,玛吉纳,|c00FFFF00BurNIng|r,玛吉纳,玛吉纳,玛吉纳
+[Ekee]
+Name=受折磨的灵魂
+Tip=受折磨的灵魂
+Ubertip=|n痛苦围绕着我|n痛苦寄身于我|n痛苦常伴我左右|n让我们征服我们的敌人吧！|n他们不理解我们所受的折磨|n你能理解？|n不|n你不能|n任何灵魂都不能|n正因为这样|n我们要让他们也感受一下这样的痛苦……|n这盘踞我们灵魂深处的|n痛苦|n|n|cff0042ff力量|r - 16 + 1.5|n|cff0042ff敏捷|r - 23 + 1.7|n|cffff0303智力|r - 26 + 3.0|n|n可以学习 撕裂大地、恶魔敕令、闪电风暴和|cffff8000脉冲新星|r。|n|n攻击距离 600（远程）|n移动速度 320
+Revivetip=复活 受折磨的灵魂
+Awakentip=复活 受折磨的灵魂
+Propernames=恶毒的拉席克
+[Emoo]
+Name=魅惑魔女
+Tip=魅惑魔女
+Ubertip=尽管所有的树妖都是塞纳留斯的女儿，魅惑魔女因是他第一个女儿的原因倍受疼爱。由于身份特殊，她从父亲那里借来了许多的能力。具体来说，可以操纵羞涩的精灵来治疗她的伙伴，还能用她的能力来让敌人屈从近卫军团的意志。与近距离肉搏相比，她更喜欢远距离的战斗，敌人距离越远，她的矛就有越强的穿透力。她的敏捷无人可比，任何试图杀死她的敌人都会发现她能轻而易举的在他们眼前跳开。|n|n|cff0042ff力量|r - 16 + 1.0|n|cff0042ff敏捷|r - 19 + 1.8|n|cffff0303智力|r - 16 + 2.8|n|n可以学习 不可侵犯、魅惑、自然之助和|cffff8000推进|r。|n|n攻击距离 550（远程）|n移动速度 335
+Revivetip=复活 魅惑魔女
+Awakentip=复活 魅惑魔女
+Propernames=爱由莎,爱由莎,爱由莎,爱由莎,爱由莎,爱由莎,爱由莎,斑比
+[Ewar]
+Name=幻影刺客
+Tip=幻影刺客
+Ubertip=同那个社会相抗争的幻影刺客，注定要成为亡灵的一员，而自那以后，她以屠杀她的精灵同胞为乐……|n在一次快速撤退中，她被丢弃在战场上，完全无助的面对亡灵的铁蹄。而她被扭曲的命运对她的精灵族同胞们来说仅仅是一个牺牲品，以她的生命来拖延凶猛敌人的追杀。然而，巫妖王看到了她内心的怨念和仇恨，赐予她一次机会，给她身体里注入一腔黑暗，来实施她的复仇。出于对巫妖王帮助的感激，心中对制裁极度渴望的幻影刺客不断的在阴影中猎杀她悲惨的暗夜精灵姐妹们。|n|n|cff0042ff力量|r - 20 + 1.85|n|cffff0303敏捷|r - 23 + 3.15|n|cff0042ff智力|r - 15 + 1.4|n|n可以学习 窒息之刃、幻影突袭、模糊和|cffff8000恩赐解脱|r。|n|n攻击距离 128（近程）|n移动速度 310
+Revivetip=复活 幻影刺客
+Awakentip=复活 幻影刺客
+Propernames=茉崔蒂
+[esen]
+Name=树人
+Ubertip=近卫军团近战单位。
+[edry]
+Name=猛禽德鲁伊
+Ubertip=近卫军团远程单位。
+[efon]
+Name=树人
+[efo2]
+Name=大树人
+[etol]
+Name=世界之树
+Ubertip=近卫军团的终极建筑。
+[etoa]
+Name=Tree of Ages
+Hotkey=U
+Tip=|cffffcc00U|rpgrade to Tree of Ages
+Ubertip=Upgrade to Tree of Ages to enable the production of additional types of structures and units. |n|n|cffffcc00Attacks land units.|r
+[etoe]
+Name=Tree of Eternity
+Hotkey=U
+Tip=|cffffcc00U|rpgrade to Tree of Eternity
+Ubertip=Upgrade to Tree of Eternity to enable the production of additional types of structures and units. |n|n|cffffcc00Attacks land units.|r
+[edob]
+Name=猎手大厅
+[eate]
+Name=Altar of Elders
+Hotkey=A
+Tip=Create |cffffcc00A|rltar of Elders
+Ubertip=Summons Heroes. Revives slain Heroes.
+[eden]
+Name=奇迹古树
+[eaoe]
+Name=知识古树
+Ubertip=近卫军团建筑之一。
+[eaom]
+Name=战争古树
+Ubertip=近卫军团建筑之一。
+[eaow]
+Name=风之古树
+Ubertip=近卫军团建筑之一。
+[edos]
+Name=Chimaera Roost
+Hotkey=C
+Tip=Create |cffffcc00C|rhimaera Roost
+Ubertip=Trains Chimaeras. |nAlso contains the Corrosive Breath upgrade.
+[emow]
+Name=月亮井
+[Aimp]
+Name=Vorpal Blades
+Tip=Vorpal Blades
+Ubertip=Permits the glaives launched by the Glaive Thrower to strike through initial ground targets and damage those behind. Also allows the Glaive Thrower to attack trees.
+[e011]
+Name=守护古树 - 等级 2
+Hotkey=P
+[e00K]
+Name=幻火
+[e017]
+Name=Nova Missile
+Tip=Train |cffffcc00W|risp
+Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
+[EC77]
+Name=冥界亚龙
+Tip=冥界亚龙
+Ubertip=巫妖王亲自驯化的一只危险的幼龙。冥界亚龙这只好斗的，吐酸液的野兽的速度和敏捷即使是最有经验的战士也觉得吃惊。蝮蛇通过诅咒自己的方式来进入疯狂的状态，在战场上完全不管自身的安危。他的唾液腺分泌出的刺痛毒药让他的敌人疼得打滚，严重的损伤他们的神经。面对这个强力的怪兽的时候一定要小心了……它的黑色轮廓可能是你死前看到的最后一样东西。|n|n|cff0042ff力量|r - 20 + 1.9|n|cffff0303敏捷|r - 21 + 2.9|n|cff0042ff智力|r - 15 + 1.8|n|n可以学习 毒性攻击、幽冥剧毒、腐蚀外表和|cffff8000蝮蛇突袭|r。|n|n攻击距离 575（远程）|n移动速度 285
+Revivetip=复活 冥界亚龙
+Awakentip=复活 冥界亚龙
+Propernames=蝮蛇
+Description=冥界亚龙
+[EC45]
+Name=虚空假面
+Tip=虚空假面
+Ubertip=据说虚空假面曾经是人类的一员，只是他的过去已经被黑暗所遮蔽，甚至连他自己都已无法忆起。我们只知道他曾被抛入时间的缝隙，在他回来的时候，他已经掌握了操纵时间的能力。他能够锁定敌人的时间，也能通过短暂地时间回溯来躲避攻击。他甚至可以将身边的时空结构撕裂，处于其中的所有人，不论敌我都无法动弹，而自己却能在里面来去自如。传言他可以瞬间穿越千军万马对任意一个敌人发动攻击，却没人看清他是怎样靠近的。|n|n|cff0042ff力量|r - 23 + 1.8|n|cffff0303敏捷|r - 23 + 2.65|n|cff0042ff智力|r - 15 + 1.5|n|n可以学习 时间漫游、时间膨胀、时间锁定和|cffff8000时间结界|r。|n|n攻击距离 128（近程）|n移动速度 300
+Revivetip=复活 虚空假面
+Awakentip=复活 虚空假面
+Propernames=|c00FFFF00Gorzerk|r,暗惧者,暗惧者,暗惧者,暗惧者,暗惧者,暗惧者,暗惧者
+Description=虚空假面
+[e00I]
+Name=幻火
+[E002]
+Name=闪电幽魂
+Tip=闪电幽魂
+Ubertip=闪电幽魂是闪电的化身。它疯狂地向自己周围的物体释放着无穷的电能。就这点而言，它勉强能被称做生物。能判断出它有感觉的唯一依据，就是它能够精准地控制它的电流不去伤害那些它称做朋友的人。和它的名字“剃刀”的含义一样，它的攻击能够快速并精准地切断敌人的骨头，甚至有时可以延续到下一个敌人。非自然的生命形式给予了它惊人的速度，以及对鲜血的渴望。它非常难对付，只有无所畏惧的强者才敢面对它。|n|n|cff0042ff力量|r - 21 + 2.3|n|cffff0303敏捷|r - 22 + 2.0|n|cff0042ff智力|r - 19 + 1.8|n|n可以学习 等离子场、不稳定电流、静电链接和|cffff8000风暴之眼|r。|n|n攻击距离 475（远程）|n移动速度 295
+Revivetip=复活 闪电幽魂
+Awakentip=复活 闪电幽魂
+Propernames=剃刀,剃刀,剃刀,剃刀,剃刀,剃刀,剃刀,吉列
+Description=闪电幽魂
+[e00E]
+Name=Spellcaster
+[e00F]
+Name=暗影烈焰
+[e001]
+Name=指令：AttackToUD
+[e009]
+Name=霜冻飞弹
+[e00N]
+Name=Liberated Soul
+[e00D]
+Name=指令：AttackToLeft
+[e00J]
+Name=ScatterDebrei
+[e00L]
+Name=幻火
+[E004]
+Name=骷髅射手
+Tip=骷髅射手
+Ubertip=这个堕落的精灵弓箭手脸上永远不灭的火焰，向旁人证明了他是一个纯正的亡灵。骷髅射手追求箭艺的完美，并且为了达到目的，从不介意牺牲自己的盟友。他随风而动，并时刻准备着用他那迅捷并且精确的箭术来刺杀敌军军官。他的箭能让目标感受到地狱的热度，并让敌人离危险越来越近。生前是精灵箭手，死后是敌人噩梦。|n|n|cff0042ff力量|r - 15 + 1.6|n|cffff0303敏捷|r - 22 + 3.3|n|cff0042ff智力|r - 16 + 1.55|n|n可以学习 扫射、灼热之箭、疾风步和|cffff8000死亡契约|r。|n|n攻击距离 630（远程）|n移动速度 300
+Revivetip=复活 骷髅射手
+Awakentip=复活 骷髅射手
+Propernames=克林克兹,克林克兹,克林克兹,克林克兹,克林克兹,克林克兹,克林克兹,克林克兹·伊斯特伍德
+[e00V]
+Name=树人
+Hotkey=H
+[e003]
+Name=烟幕
+[e006]
+Name=Dark Pillar
+[e00H]
+Name=Fissure Unit
+[e00W]
+Name=猛禽德鲁伊
+Hotkey=D
+[e00A]
+Name=指令：AttackToRight
+[e00B]
+Name=指令：AttackToMid
+[e00C]
+Name=Self Caster
+[e008]
+Name=指令：AttackToSent
+[e00O]
+Name=Liberated Soul
+[e00M]
+Name=Liberated Soul
+[e000]
+Name=闪电柱
+[e00Q]
+Name=沙尘暴
+[e00R]
+Name=守护古树 - 等级 1
+Hotkey=P
+[e00S]
+Name=守护古树 - 等级 3
+Hotkey=P
+[e00T]
+Name=Object Only Summon unit
+[e019]
+Name=守护古树 - 等级 4
+Hotkey=P
+[E01A]
+Name=巫医
+Tip=巫医
+Ubertip=所有和巫医打过交道的人都知道，他是个冒险家。作为一个巫毒牧师，在这冒险方面得有达到一定的等级。但糟糕的是，他从来没有了解到谨慎对自己的价值。他在丛林里在巫毒术的研究上取得了辉煌的成果，包括治愈伤口的能力、对能弹射数米远的麻痹性药剂的运用以及最惊人的，能够剥夺生命力的诅咒。得到如此强大的力量是不可能不引起注意的，在巫医的试验变得越来越不稳定、越来越具毁灭性时，巫妖王动手了。|n|n|cff0042ff力量|r - 16 + 1.8|n|cff0042ff敏捷|r - 13 + 1.4|n|cffff0303智力|r - 24 + 2.9|n|n可以学习 麻痹药剂、巫毒恢复术、诅咒和|cffff8000死亡守卫|r。|n|n攻击距离 600（远程）|n移动速度 305
+Revivetip=复活 巫医
+Awakentip=复活 巫医
+Propernames=沃金,沃金,沃金,沃金,沃金,沃金,沃金,沃金,沃金,|c00FFFF00Moose|r
+[E01B]
+Name=幽鬼
+Tip=幽鬼
+Ubertip=诞生于远古世界早期的黑暗，幽鬼代表着那些死去多时的灵魂的狂怒和怨恨。和死灵与恶灵一样，她神出鬼没，并以不寻常的热情纠缠那些还活着的生命，而且完全不受自然法则的约束。她还可以利用垂死友军的生命能量去摧毁天灾军团的敌人。一切都为了冰封王座的荣耀。|n|n|cff0042ff力量|r - 19 + 2.0|n|cffff0303敏捷|r - 23 + 2.2|n|cff0042ff智力|r - 16 + 1.9|n|n可以学习 幽鬼之刃、荒芜、折射和|cffff8000鬼影重重|r。|n|n攻击距离 128（近程）|n移动速度 295
+Revivetip=复活 幽鬼
+Awakentip=复活 幽鬼
+Propernames=墨丘利,墨丘利,墨丘利,墨丘利,墨丘利,墨丘利,墨丘利,墨丘利,墨丘利,墨丘利,墨丘利,|c00FFFF00qwerty-|r
+[e01Q]
+Name=Vengeance Death caster
+[e01R]
+Name=攻击特效
+[e01T]
+Name=野性之斧
+[E00P]
+Name=双头龙
+Tip=双头龙
+Ubertip=当人们在黑海岸的一个大洞里找到它时，这头巨兽还在咬着树根。而这头华丽的奇美拉的年龄，已经无从知晓。由于它的2个大脑袋和它那充满着攻击性和不确定性的行为，双头龙是只难以驯化的危险生物。不过现在它出于自身的原因，愿意效忠于近卫军团。它对冰元素和火元素的奇异的亲和力，来自于它奇异的神秘天性。它毁灭眼前的一切，并且能够将敌人困在一条线上。天灾军团最好对这条龙保持警惕，以免他们全被冻住并破碎，就像在他们眼前慢慢融化的冰封王座一样。|n|n|cff0042ff力量|r - 25 + 2.3|n|cff0042ff敏捷|r - 10 + 1.2 |n|cffff0303智力|r - 28 + 2.8|n|n可以学习 冰火交加、冰封路径、液态火和|cffff8000烈焰焚身|r。|n|n攻击距离 400（远程）|n移动速度 290
+Revivetip=复活 双头龙
+Awakentip=复活 双头龙
+Propernames=杰奇洛,杰奇洛,杰奇洛,杰奇洛,双截龙,杰奇洛
+[e01U]
+Name=Dummy Ice
+[e01W]
+Name=Preloader
+[e01F]
+Name=道具持有者
+[e00X]
+Name=施法者
+[e00Y]
+Name=Spellcaster #2
+[E01C]
+Name=术士
+Tip=术士
+Ubertip=他曾任黑日部落的大祭司，在燃烧军团踏上卡里姆多的大地之后，成为第一批被恶魔奴役的兽人——令人绝望的折磨随着时间流逝变得越来越强烈。玛诺洛斯的意外殒落，给了他研究研究恶魔学的机会。而因为失去了堕落的力量，他的身体又日渐衰落。为了获得重生，他和巫妖王立下契约。精通恶魔和毁灭专精，术士以折磨太阳底下的生物为乐，像熄灭蜡烛一样将他们全部消灭。|n|n|c000042ff力量|r - 22 + 2.5|n|c000042ff敏捷|r - 10 + 1.0|n|c00ff0303智力|r - 24 + 2.7|n|n可以学习 致命连接、暗言术、剧变和|c00ff8000混乱之雨|r。|n|n攻击距离 600（远程）|n移动速度 295
+Revivetip=复活 术士
+Awakentip=复活 术士
+Propernames=戴蒙·莱尼克
+[e01E]
+Name=Acid Spray Model
+[e01G]
+Name=Upheaval Model
+[e01H]
+Name=飞行信使
+Hotkey=T
+Tip=乌鸦
+Ubertip=召唤乌鸦为你运输物品。
+[e01I]
+Name=Liberated Soul
+[e01J]
+Name=幻火
+[e01N]
+Name=Caster with Truesight and for Following
+[e01S]
+Name=Invis Caster
+[E01Y]
+Name=圣堂刺客
+Tip=圣堂刺客
+Ubertip=圣堂刺客师从于一位来自星灵母星艾尔的传奇人物。她是一名使用精神力量的高手，并且在近卫军团中专门负责进行战略性质的刺杀行动。她的灵能技巧，能够让她随意的进入和脱离战斗，并且可以增强攻击时所造成的伤害，同时保护她不受敌人的袭击。或者在狩猎哪个不走运的路人之前给自己披上一件隐身衣。敌人在战场上发现这个圣堂武士时，往往也就是他们死亡并被埋葬之时，当他们的生命被终结后，她便再次潜入暗影，等待下一个猎物。En-Taro Adun!|n|n|cff0042ff力量|r - 18 + 2.1|n|cffff0303敏捷|r - 23 + 2.7|n|cff0042ff智力|r - 20 + 2.0|n|n可以学习 折光、隐匿、灵能之刃和|cffff8000灵能陷阱|r。|n|n攻击距离 140（远程）|n移动速度 305
+Revivetip=复活 圣堂刺客
+Awakentip=复活 圣堂刺客
+Propernames=拉娜娅
+[e020]
+Name=灵能陷阱
+[e022]
+Name=Spellcaster (vision)
+[e007]
+Name=Dummy
+[e00G]
+Name=OMG LION TEST
+[e00U]
+Name=棱光之牢
+[e00Z]
+Name=Soul Assumption Effect
+[e010]
+Name=消化
+[e012]
+Name=Joke_Extort_FX1
+[e013]
+Name=Joke_Wex_FX1
+[e014]
+Name=Joke_Quas_FX1
+[e016]
+Name=Joke_Extort_FX2
+[e018]
+Name=Joke_Quas_FX2
+[e01D]
+Name=Joke_Wex_FX2
+[e01K]
+Name=Meteor (Falling Down)
+Tip=Train |cffffcc00W|risp
+Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
+[e01L]
+Name=Meteor (Moving)
+Tip=Train |cffffcc00W|risp
+Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
+[e01M]
+Name=EMP Main
+Tip=Train |cffffcc00W|risp
+Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
+[e01O]
+Name=EMP FX
+Tip=Train |cffffcc00W|risp
+Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
+[e01V]
+Name=Spellcaster #3
+[e01X]
+Name=Test Caster
+[E01P]
+Name=Dummy: SlowTurn-Range
+Propernames=玛吉纳
+[E021]
+Name=Dummy: FastTurn-Melee
+Propernames=玛吉纳
+[E023]
+Name=Dummy: SlowTurn-Melee
+Propernames=玛吉纳
+[E024]
+Name=Dummy: FastTurn-Range
+Propernames=玛吉纳
+[e025]
+Name=奇迹古树
+[e026]
+Name=投刃车
+Hotkey=T
+Tip=制造 投刃车
+Ubertip=远距离的攻城武器，对建筑造成显著伤害。|n|n|cffffcc00攻击地面单位|r
+[e027]
+Name=A Sentinel Player
+[e028]
+Name=A Scourge Player
+[e029]
+Name=DotA Caster
+[e02A]
+Name=Spellcaster #4
+[e02B]
+Name=Ancestral Charge FX
+Tip=Train |cffffcc00W|risp
+Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
+[e02C]
+Name=Spellcaster Arc Lightning
+[e02D]
+Name=Charge Dummy Unit
+[e02E]
+Name=Goo Caster
+[E02F]
+Name=凤凰
+Tip=凤凰
+Ubertip=远古圣典提及光的七道神圣射气，在辐合时发生强烈的冲突。这些道射气的碰撞在凡人的国度创造出一个最纯净的火堆，并从中诞生出了神话般的凤凰。就像天赐之火显现的那样，伊卡洛斯既能发出死亡与毁灭之炎，又能用来治疗与重生。从他体内射出的高温光线，可以轻易焚化战场上的整支军队。为了征服他的敌人，伊卡洛斯甚至愿意释放全部的生命力，利用太阳能量创造出毁天灭地的大爆炸。|n|n|c00ff0303力量|r - 17 + 2.9|n|c000042ff敏捷|r - 12 + 1.3|n|c000042ff智力|r - 18 + 1.8|n|n可以学习 凤凰冲击、烈火精灵、烈日炙烤和|c00ff8000超新星|r。|n|n攻击距离 500（远程）|n移动速度 285
+Revivetip=复活 凤凰
+Awakentip=复活 凤凰
+Propernames=伊卡洛斯
+[E02G]
+Name=凤凰
+Tip=凤凰
+Revivetip=复活 凤凰
+Awakentip=复活 凤凰
+Propernames=伊卡洛斯
+[E02H]
+Name=暗影恶魔
+Tip=暗影恶魔
+Ubertip=远在近卫天灾开战之前，这个以族名命名的远古恶魔，就已经开始散播仇恨挑起战争。没有任何圣光勇士可以敌过他，但他却被他的部下背叛而遭到杀害。然而，他残存的一片灵魂复生了；经历数千年，艾瑞达恢复了他大部分的形态，力量也每天在增强，最后终于重拾了他原来的形态。艾瑞达现在的形态不适合与敌人正面冲突，但他知道如何运用各种诡计来招待他们——放逐、毒药、诅咒与邪恶魔法。|n|n|c000042ff力量|r - 17 + 1.9|n|c000042ff敏捷|r - 18 + 2.2|n|c00ff0303智力|r - 23 + 2.7|n|n可以学习 崩裂禁锢、灵魂猎手、暗影剧毒和|c00ff8000邪恶净化|r。|n|n攻击距离 500（远程）|n移动速度 295
+Revivetip=复活 暗影恶魔
+Awakentip=复活 暗影恶魔
+Propernames=艾瑞达,艾瑞达,艾瑞达,艾瑞达,艾瑞达,艾瑞达,艾瑞达,艾瑞达,吉比特
+[E02I]
+Name=巨牙海民
+Tip=巨牙海民
+Ubertip=伊米尔来自于北风苔原，是最聪明的海象人战士之一。他所居住的村庄在他青年时期不断遭受冰原巨魔和地穴蛛魔的劫掠，在长年的抵抗下他积累了众多战争经验，因此伊米尔自愿加入近卫军团的队列，以协助抵挡日益强大又臭名昭著的巫妖王。藉由冰元素专精的操控能力，伊米尔他可以用冰霜魔法出其不意地打击敌人。他的武器不止有沉重又迅速的大雪球、飞快投掷的锋利冰片，还有魔术般的大暴雪，极大削弱敌人的战斗能力——当然，轻视他那强健身躯所蕴含的爆发力，同样是愚蠢至极。|n|n|c00ff0303力量|r - 23 + 2.3|n|c000042ff敏捷|r - 23 + 2.1|n|c000042ff智力|r - 18 + 1.7|n|n可以学习 冰片、雪球、冰封魔印和|c00ff8000海象神拳|r。|n|n攻击距离 128（近程）|n移动速度 300
+Revivetip=复活 巨牙海民
+Awakentip=复活 巨牙海民
+Propernames=伊米尔
+[E02J]
+Name=干扰者
+Tip=干扰者
+Ubertip=作为被人类抚养长大的角斗士，萨尔拥有过人的胆识与战术，甚至强于那些年长的兽人统帅们。萨尔从人类的魔爪中逃走后遇到了格罗玛什·地狱咆哮，从他的口中得知自己是霜狼氏族酋长的遗孤。萨尔重新回到他祖先生活的村庄，在那里修炼并成为了一名伟大的兽人萨满。萨尔不仅能自由掌控闪电的力量，还可以运用特殊能力，将其转化为魔法之墙或是静态能量，他甚至可以将敌人的时间玩弄于股掌之间。|n|n|c000042ff力量|r - 19 + 1.9|n|c000042ff敏捷|r - 15 + 1.4|n|c00ff0303智力|r - 22 + 2.5|n|n可以学习 雷击、一闪、动能力场和|c00ff8000静态风暴|r。|n|n攻击距离 600（远程）|n移动速度 300
+Revivetip=复活 干扰者
+Awakentip=复活 干扰者
+Propernames=萨尔
+[E02K]
+Name=军团指挥官
+Tip=军团指挥官
+Ubertip=我叫特斯丁，在我的王国内部滋生着一个巨大的威胁。这个巨大的威胁就是那一大群肮脏不堪的非人类难民们，他们让我们的大道污秽不堪，他们那杂种语言四处可闻！正因为整个王国都看到我的土地被这样垃圾侵蚀，我才没能成为最为伟大的将军。然而，这一切在不久之后都会消失。因为我的巨斧已经向那些威胁到人类领土的黑暗部落砍下！我已经出发，去征服那些恐怖之物。谁，敢与我一决生死！我将让世界走上正轨，人类的正轨！|n|n|c00ff0303力量|r - 26 + 2.6|n|c000042ff敏捷|r - 18 + 1.7|n|c000042ff智力|r - 20 + 2.2|n|n可以学习 压倒性优势、强攻、勇气之霎以及|c00ff8000决斗|r。|n|n攻击距离 128（近程）|n移动速度 320
+Revivetip=复活 军团指挥官
+Awakentip=复活 军团指挥官
+Propernames=特斯丁
+[E02L]
+Name=Fire Panda
+Tip=敌法师
+Ubertip="Twin sons to the great Prophet, Terrorblade and Magina were blessed with divine powers: Terrorblade granted with an unnatural affinity with life forces; Magina gifted with energy manipulation. Magina's eventual overexposure to the magics gradually augmented his elemental resistances and bestowed him the unique ability to move faster than light itself. Now, broken by Terrorblade's fall to the dark side, Magina answers the Sentinel's call in a desperate bid to redeem his brother. Every bitter strike turns the Scourge's evil essences upon themselves, culminating in a finale that forces his enemy to awaken to the void within and spontaneously implode. |n|n|c000042ffStrength|r - 20 + 1.2|n|c00ff0303Agility|r - 22 + 2.8|n|c000042ffIntelligence|r - 15 + 1.8|n|nLearns Spell Shield, Mana Break, Blink, and |c00ff8000Mana Void|r.|n|nAttack range of 100 (melee). |nMovement speed of 320."
+Revivetip=复活 敌法师
+Awakentip=复活 敌法师
+Propernames=玛吉纳
+[E02M]
+Name=Fire Panda
+Tip=敌法师
+Ubertip="Twin sons to the great Prophet, Terrorblade and Magina were blessed with divine powers: Terrorblade granted with an unnatural affinity with life forces; Magina gifted with energy manipulation. Magina's eventual overexposure to the magics gradually augmented his elemental resistances and bestowed him the unique ability to move faster than light itself. Now, broken by Terrorblade's fall to the dark side, Magina answers the Sentinel's call in a desperate bid to redeem his brother. Every bitter strike turns the Scourge's evil essences upon themselves, culminating in a finale that forces his enemy to awaken to the void within and spontaneously implode. |n|n|c000042ffStrength|r - 20 + 1.2|n|c00ff0303Agility|r - 22 + 2.8|n|c000042ffIntelligence|r - 15 + 1.8|n|nLearns Spell Shield, Mana Break, Blink, and |c00ff8000Mana Void|r.|n|nAttack range of 100 (melee). |nMovement speed of 320."
+Revivetip=复活 敌法师
+Awakentip=复活 敌法师
+Propernames=玛吉纳
+[E02N]
+Name=矮人直升机
+Tip=矮人直升机
+Ubertip=奥雷尔，这个出生于采矿之家的矮人，对爆破有着与生俱来的兴趣与天赋。这种超乎常人的天赋在矮人矿工社会中确定了他极高的收入、头衔和声望。但是奥雷尔并像族人那样安分于爆破矿石，他运用自己的技能组合可控炸药与厚重金属，从发动机与飞弹，任何东西都可以轻易地制造出来。他最热衷的事情莫过于将他的发明带到战场上测试，从而使战场变得极度炫目。|n|n|c000042ff力量|r - 18 + 1.8|n|c00ff0303敏捷|r - 24 + 2.8|n|c000042ff智力|r - 23 + 2.1|n|n可以学习 火箭弹幕、追踪导弹、高射火炮和|c00ff8000召唤飞弹|r。|n|n攻击距离 365（远程）|n移动速度 315
+Revivetip=复活 矮人直升机
+Awakentip=复活 矮人直升机
+Propernames=奥雷尔·弗拉伊库
+[E02O]
+Name=矮人直升机
+Tip=矮人直升机
+Revivetip=复活 矮人直升机
+Awakentip=复活 矮人直升机
+Propernames=奥雷尔·弗拉伊库
+[e02P]
+Name=闪电柱2
+[e02Q]
+Name=Spellcaster Blink Dummy
+[e02Y]
+Name=旋风飞斧（近程）
+[e02Z]
+Name=旋风飞斧（远程）
+[E032]
+Name=地精撕裂者
+Tip=地精撕裂者
+Ubertip=在遗忘森林的深处有着众多宝藏。没有人知道这件事情，也没有人意识到地精发明家瑞兹拉克的小小身体有多么的危险。瑞兹拉克通过将重型武器和能轻易砍倒一大片森林的伐木机结合，创造出了一个既致命又挣钱的伐木机。有着可拆分的锯刃，锋利的刀沿，能勾住树木的锁链，瑞兹拉克消灭敌人就如同砍伐一棵小树苗那样简单。尽管瑞兹拉克谈不上高尚，但是近卫军团总是会付给他足够的金钱去完成任务，当然前提是他和他的伐木机得离生命古树远点！ |n|n|c00ff0303力量|r - 22 + 2.1|n|c000042ff敏捷|r - 16 + 1.3|n|c000042ff智力|r - 21 + 2.4|n|n可以学习 死亡旋风、伐木锯链、活性护甲以及|c00ff8000锯齿飞轮|r。|n|n攻击距离 128（近程）|n移动速度 290
+Revivetip=复活 地精撕裂者
+Awakentip=复活 地精撕裂者
+Propernames=瑞兹拉克,瑞兹拉克,瑞兹拉克,瑞兹拉克,瑞兹拉克,史莱德
+[e033]
+Name=Faerie
+[e034]
+Name=Faerie
+[e035]
+Name=Faerie
+[e036]
+Name=Faerie
+[e037]
+Name=Flamebreak
+[e038]
+Name=水晶新星施放者
+[e039]
+Name=闪电击雷神之怒
+[n90B]
+Name=新品商人 珊蒂斯

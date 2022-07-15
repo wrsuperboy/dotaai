@@ -1,0 +1,4 @@
+[Rgfo]
+Name=Glyph of Fortification,Glyph of Fortification,Glyph of Fortification
+[Rguv]
+Name=Glyph of Ultravision

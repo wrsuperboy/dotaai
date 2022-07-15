@@ -1,0 +1,345 @@
+[oang]
+Name=Ancestral Guardian
+[obar]
+Name=Barracks
+Hotkey=B
+Tip=Build |cffffcc00B|rarracks
+Ubertip="Primary troop production building. Trains Grunts, Headhunters and Demolishers. |nAlso contains the Berserker Strength, Berserker, Troll Regeneration, and Burning Oil upgrades."
+[obea]
+Name=Beastiary
+Hotkey=E
+Tip=Build B|cffffcc00e|rastiary
+Ubertip="Trains Raiders, Kodo Beasts, Troll Batriders, and Wind Riders. |nAlso contains the Ensnare, Envenomed Spears, Liquid Fire and War Drums upgrades."
+[Obla]
+Name=Blademaster
+Propernames=Tojara,Nikoro,Kajind,Mikasa,Samuro,Akinos,Mazuru,Yozshura,Daisho,Kigami,Arashicage,Moogul the Sly,Jubei
+Hotkey=B
+Tip=Summon |cffffcc00B|rlademaster
+Ubertip="Cunning Hero, adept at quickly killing individual units and creating confusion among enemies. Can learn Mirror Image, Wind Walk, Critical Strike and Bladestorm. |n|n|cffffcc00Attacks land units.|r"
+Revivetip=Revive |cffffcc00B|rlademaster
+Awakentip=Revive |cffffcc00B|rlademaster
+[ocat]
+Name=Demolisher
+Hotkey=D
+Tip=Train |cffffcc00D|remolisher
+Ubertip=Long-range siege weaponry. Effective against buildings but slow and vulnerable. Can learn the Burning Oil ability. |n|n|cffffcc00Attacks land units and trees.|r
+[odoc]
+Name=Troll Witch Doctor
+Hotkey=W
+Tip=Train Troll |cffffcc00W|ritch Doctor
+Ubertip="Supporting spellcaster. Can initially cast Sentry Ward, which summons an invisible detector. Can also learn Stasis Trap and Healing Ward. |n|n|cffffcc00Attacks land and air units.|r"
+Casterupgradename=Initiate, Adept, Master
+Casterupgradetip=- Sentry Ward,- Sentry Ward|n- Stasis Trap,- Sentry Ward|n- Stasis Trap|n- Healing Ward
+[otot]
+Name=麻痹陷阱
+[oeye]
+Name=岗哨结界
+[Ofar]
+Name=潮汐猎人
+Propernames=利维坦
+Tip=潮汐猎人
+Ubertip=利维坦曾经被古神视作宇宙的杰作，因为纵容古神的敌人泰坦而被封印在无尽深渊之中。尽管被巨锚深锁，并被海妖看管，潮汐猎人仍然在沉睡了千万年后，积攒了足够的力量，挣脱了束缚它永世的牢笼。潮汐猎人杀死了看守他的海妖，并将它的外壳作为自己的盾牌。击碎了束缚他的铁链，并将巨锚变作自己的武器。犹如大海般的冷酷，任何敢于与潮汐猎人作对的敌人都将会被它开膛剖心。是的，令人恐惧的潮汐猎人来了，任何试图阻止它的敌人都将被它所毁灭。|n|n|cffff0303力量|r - 22 + 3.0|n|cff0042ff敏捷|r - 15 + 1.5|n|cff0042ff智力|r - 16 + 1.7|n|n可以学习 巨浪、海妖外壳、锚击和|cffff8000毁灭|r。|n|n攻击距离 128（近程）|n移动速度 305
+Revivetip=复活 潮汐猎人
+Awakentip=复活 潮汐猎人
+[ofor]
+Name=War Mill
+Hotkey=M
+Tip=Build War |cffffcc00M|rill
+Ubertip="Serves as a drop-off point for harvested lumber. |nAlso contains upgrades for improved armor, melee weapons, ranged weapons, Reinforced Defenses, and Spiked Barricades."
+[ofrt]
+Name=Fortress
+Hotkey=U
+Tip=|cffffcc00U|rpgrade to Fortress
+Ubertip=Upgrade to Fortress to enable the production of additional types of structures and units.
+[ogre]
+Name=Great Hall
+Hotkey=H
+Tip=Build Great |cffffcc00H|rall
+Ubertip="Primary structure, used to train Peons and receive gathered resources. Can be upgraded to Stronghold and then Fortress to enable the production of additional types of structures and units."
+[ogru]
+Name=兽人步兵
+Hotkey=G
+Tip=Train |cffffcc00G|rrunt
+Ubertip=Brutish Orc warrior. Can learn Berserker Strength. |n|n|cffffcc00Attacks land units.|r
+[ohun]
+Name=Troll Headhunter
+Hotkey=T
+Tip=Train |cffffcc00T|rroll Headhunter
+Ubertip="Versatile spear-thrower, effective against air units. Can learn Troll Regeneration. Can be upgraded to Troll Berserker, which has the Berserk ability. |n|n|cffffcc00Attacks land and air units.|r "
+[otbk]
+Name=Troll Berserker
+Hotkey=T
+Tip=Train |cffffcc00T|rroll Berserker
+Ubertip="Versatile spear-thrower, effective against air units. Has the Berserk ability, which allows it to deal more damage, but take more damage when attacked. Can learn Troll Regeneration. |n|n|cffffcc00Attacks land and air units.|r "
+[ohwd]
+Name=治疗结界
+[osld]
+Name=Spirit Lodge
+Hotkey=S
+Tip=Build |cffffcc00S|rpirit Lodge
+Ubertip="Spellcaster production building. Trains Shaman, Witch Doctors, and Spirit Walkers. |nAlso contains spell upgrades for Shaman, Witch Doctors, and Spirit Walkers."
+[opeo]
+Name=Peon
+Hotkey=P
+Tip=Train |cffffcc00P|reon
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures, and Repair. Can also go inside Orc Burrows to give it an attack. |n|n|cffffcc00Attacks land units and trees.|r"
+[orai]
+Name=Raider
+Hotkey=R
+Tip=Train |cffffcc00R|raider
+Ubertip=Highly mobile wolf rider. Effective against buildings. Can learn the Ensnare ability. |n|n|cffffcc00Attacks land units.|r
+[oshm]
+Name=Shaman
+Hotkey=S
+Tip=Train |cffffcc00S|rhaman
+Ubertip="Primary spellcaster. Can initially cast Purge, which slows and dispels positive and negative buffs. Can also learn Lightning Shield and Bloodlust. |n|n|cffffcc00Attacks land and air units.|r"
+Casterupgradename=Initiate, Adept, Master
+Casterupgradetip=- Purge,- Purge|n- Lightning Shield,- Purge|n- Lightning Shield|n- Bloodlust
+[ostr]
+Name=Stronghold
+Hotkey=U
+Tip=|cffffcc00U|rpgrade to Stronghold
+Ubertip=Upgrade to Stronghold to enable the production of additional types of structures and units.
+[osw1]
+Name=精灵狼
+[osw2]
+Name=恐怖狼
+[osw3]
+Name=暗影狼
+[osp1]
+Name=毒蛇结界
+[osp2]
+Name=毒蛇结界
+[osp3]
+Name=毒蛇结界
+[otau]
+Name=Tauren
+Hotkey=T
+Tip=Train |cffffcc00T|rauren
+Ubertip=Mighty warrior. Can learn the Pulverize ability. |n|n|cffffcc00Attacks land units.|r
+[Oshd]
+Name=祸乱之源
+Propernames=阿特洛波斯
+Tip=祸乱之源
+Ubertip=祸乱之源是这个世界上噩梦元素和恐惧元素力量的化身。他在那些能够有希望遭受恐怖地方现身。能耗尽他仇敌的心灵以治疗自己。利用敌人的恐惧，他极大地削弱了他们的战斗力。他尽情享受着通过让敌人陷入恐惧沉睡来使丧失能力的快感。当需要时，他能够撕裂自己的灵魂并注入敌人体内，极其有效的让他们不能移动，同时给他们带来的还有绝望、还有痛苦。有一个词用来形容祸乱之源再恰当不过，这个词就是恐惧。|n|n|c000042ff力量|r - 22 + 2.1|n|c000042ff敏捷|r - 22 + 2.1|n|c00ff0303智力|r - 22 + 2.1|n|n可以学习 虚弱、蚀脑、噩梦和|c00ff8000恶魔的掌握|r。|n|n攻击距离 400（远程）|n移动速度 310
+Revivetip=复活 祸乱之源
+Awakentip=复活 祸乱之源
+[Otch]
+Name=撼地神牛
+Propernames=瑞格·石蹄
+Tip=撼地神牛
+Ubertip=在贫瘠之地，传说有群牛头人贤者，在此获取大地的精华。他们的思想与脚下的这片褐土地结合在一起。他们的精神力能引导土壤的流向。这些战士仅凭一时兴起就能制造出深深的沟壑，因此让人感到畏惧。他们的力量十分强大，以至于每次使用魔法时都会对大地造成强烈的震动。可悲的是这些贤者们却神秘地淡出了这块大陆。当世界之树被威胁之时，信使们找到了这个强大的种族的族人，但只找到一个。撼地神牛，这个技艺娴熟的年轻牛头人，寻求着战斗，以创造新的传奇。|n|n|cffff0303力量|r - 22 + 2.9|n|cff0042ff敏捷|r - 12 + 1.4|n|cff0042ff智力|r - 16 + 1.8|n|n可以学习 沟壑、强化图腾、余震和|cffff8000回音击|r。|n|n攻击距离 128（近程）|n移动速度 310
+Revivetip=复活 撼地神牛
+Awakentip=复活 撼地神牛
+[otrb]
+Name=Orc Burrow
+Hotkey=O
+Tip=Build |cffffcc00O|rrc Burrow
+Ubertip="Provides food, which increases the maximum number of units that can be trained. Peons can garrison inside to attack enemy units. Can learn the Reinforced Defenses upgrade. |n|n|cffffcc00Attacks land and air units.|r"
+[orbr]
+Name=Reinforced Orc Burrow
+Hotkey=O
+Tip=Build Reinforced |cffffcc00O|rrc Burrow
+Ubertip="Provides food, which increases the maximum number of units that can be trained. Peons can garrison inside to attack enemy units. |n|n|cffffcc00Attacks land and air units.|r"
+[otto]
+Name=Tauren Totem
+Hotkey=T
+Tip=Build |cffffcc00T|rauren Totem
+Ubertip=Trains Tauren. |nAlso contains the Pulverize upgrade.
+[ovln]
+Name=Voodoo Lounge
+Hotkey=V
+Tip=Build |cffffcc00V|roodoo Lounge
+Ubertip="Creates a shop with purchasable items. The items available depend upon what level of upgrade your Great Hall has (Great Hall, Stronghold, or Fortress) and which buildings you have."
+[owtw]
+Name=Watch Tower
+Hotkey=W
+Tip=Build |cffffcc00W|ratch Tower
+Ubertip=Defensive structure. Can learn the Reinforced Defenses upgrade. |n|n|cffffcc00Attacks land and air units.|r
+[ospw]
+DependencyOr=ospm
+Name=Spirit Walker
+Hotkey=T
+Tip=Train Spiri|cffffcc00t|r Walker
+Ubertip="Mystical Tauren caster. Has Ethereal Form, which allows him to avoid physical damage. Also has Spirit Link, which allows units to distribute incoming damage. Can learn Disenchant, and Ancestral Spirit. |n|n|cffffcc00Attacks land and air units.|r"
+Casterupgradename=Initiate, Adept, Master
+Casterupgradetip=- Ethereal Form|n- Spirit Link,- Ethereal Form|n- Spirit Link|n- Disenchant,- Ethereal Form|n- Spirit Link|n- Disenchant|n- Ancestral Spirit
+[ospm]
+Name=Spirit Walker
+Hotkey=T
+Tip=Train Spiri|cffffcc00t|r Walker
+Ubertip="Mystical Tauren caster. Has Ethereal Form, which allows him to avoid physical damage. Also has Spirit Link, which allows units to distribute incoming damage. Can learn Disenchant, and Ancestral Spirit. |n|n|cffffcc00Attacks land and air units.|r"
+Casterupgradename=Initiate, Adept, Master
+Casterupgradetip=- Ethereal Form|n- Spirit Link,- Ethereal Form|n- Spirit Link|n- Disenchant,- Ethereal Form|n- Spirit Link|n- Disenchant|n- Ancestral Spirit
+[o003]
+Name=蜘蛛网
+[o00F]
+Name=精灵狼
+[o007]
+Name=精灵狼
+[o00I]
+Name=Poison Nova Attack 1
+Hotkey=T
+Tip=Train |cffffcc00T|rroll Headhunter
+Ubertip="Versatile spear-thrower, effective against air units. Can learn Troll Regeneration. Can be upgraded to Troll Berserker, which has the Berserk ability. |n|n|cffffcc00Attacks land and air units.|r "
+[o005]
+Name=精灵狼
+[o004]
+Name=侦察结界
+[o018]
+Name=遥控炸弹
+[o00V]
+Name=瘟疫结界
+[o00R]
+Name=Fireball
+[o00T]
+Name=瘟疫结界
+[O00J]
+Name=裂魂人
+Propernames=巴拉森,巴拉森,巴拉森,巴拉森,巴拉森,小鸟哔哔,巴拉森,巴拉森
+Tip=裂魂人
+Ubertip=自从被灵蹄部落放逐以后，裂魂人带着羞愧藏身于以太位面。在那里，他以吞食游魂为生，就这样浑浑噩噩、孤独而又凄惨地游荡了好几个世纪。在被巫妖王发现并招至帐下以后，裂魂人不可思议的速度和幽魂般的力量得以在物质位面释放。他的灯笼能向对手投射虚空之力，将他们向后推送。借着瞬间靠近对手的能力，裂魂人对于任何人来说都是不容小看的对手。|n|n|cffff0303力量|r - 29 + 2.4|n|cff0042ff敏捷|r - 17 + 1.7|n|cff0042ff智力|r - 14 + 1.8|n|n可以学习 暗影冲刺、巨力重击、神行太保和|cffff8000幽冥一击|r。|n|n攻击距离 128（近战）|n移动速度 290
+Revivetip=复活 裂魂人
+Awakentip=复活 裂魂人
+[o002]
+Name=遥控炸弹
+[o006]
+Name=精灵狼
+[o00B]
+Name=遥控炸弹
+[o00M]
+Name=幽冥结界 等级1
+[o00W]
+Name=瘟疫结界
+[o00H]
+Name=Weaver Web
+[o00C]
+Name=治疗结界 - 等级1
+[o00U]
+Name=瘟疫结界
+[o00K]
+Name=Fireball
+[o00N]
+Name=幽冥结界 等级4
+[o00O]
+Name=幽冥结界 等级3
+[o00L]
+Name=幽冥结界 等级2
+[o00S]
+Name=Corrosive Skin Attacker
+Hotkey=T
+[o00Y]
+Name=狮吼效果
+[o00G]
+Name=Vision Dummy
+[o00D]
+Name=Vision Dummy
+[o00E]
+Name=Vision Dummy
+[o00Q]
+Name=Vision Dummy
+[o00Z]
+Name=Vision Dummy
+[o010]
+Name=球形闪电
+[o011]
+Name=Totem of Earth
+[o012]
+Name=Totem of Water
+[o013]
+Name=Totem of Fire
+[o014]
+Name=Totem of Wind
+[O015]
+Name=牛头人酋长
+Propernames=陶·雷角,卡兹·石诏,凯恩·血蹄,凯恩·血蹄,凯恩·血蹄,凯恩·血蹄,凯恩·血蹄,凯恩·血蹄,凯恩·血蹄,凯恩·血蹄,凯恩·血蹄,凯恩·血蹄
+Tip=牛头人酋长
+Ubertip=自古以来，牛头人部落长老们就有一个流传已久的预言，那就是一位力量甚比最强大战士、智慧超越最年老萨满的酋长将会到来。多年以来，漫游于部落人民居住的神圣之地，一直向先祖寻求智慧的酋长，终于有一天证明了——他，凯恩·血蹄，就是那位预言中的英雄。他的体内寄宿着最强大先祖的灵魂，现在，大地会因酋长和他先祖守护之魂的联合之力而颤抖。任何手段都不能削减先祖守护之魂那附魔之戟的破坏力。运用他无与伦比的力量，酋长甚至可以挥动战斧劈裂大地。天灾军团将很快感受到，为了失落家园而复仇的牛头人酋长的愤怒。|n|n|c00ff0303力量|r - 24 + 2.3|n|c000042ff敏捷|r - 14 + 1.5|n|c000042ff智力|r - 23 + 1.6|n|n可以学习 回音重踏、先祖之魂、自然秩序和|c00ff8000裂地者|r。|n|n攻击距离 150（近程）|n移动速度 315
+Revivetip=复活 牛头人酋长
+Awakentip=复活 牛头人酋长
+[O016]
+Name=蝙蝠骑士
+Propernames=金扎卡,金扎卡,金扎卡,金扎卡,金扎卡,金扎卡,金扎卡,金扎卡,金扎卡
+Tip=蝙蝠骑士
+Ubertip=曾经的肉体炸弹，金扎卡现在已经不再像其他蝙蝠骑士一样，仅仅是为了牺牲而存在，它创造了自己新的战斗方式：控制自己的能力，并精确打击自己的敌人，而不再是肆意毁灭周围的事物。多年的战斗经验可以使得它随心所欲运用火，并根据自己的需要创造出各种新的能力：他可以在敌人的头顶浇注黏稠的燃油，在他们逃离之前点燃他们，或者用炽焰将敌人炸飞，或者在他自己飞行的轨迹后面留下一道火焰来灼烧那些敢于跟随它的敌人。然而，它最致命能力是将某个不幸敌人关入烈焰制造的牢笼之中，并将他拖入己方阵营的深渊之中。|n|n|c000042ff力量|r - 23 + 2.4|n|c000042ff敏捷|r - 15 + 1.5|n|c00ff0303智力|r - 24 + 2.5|n|n可以学习 黏性燃油、烈焰破击、火焰飞行和|c00ff8000燃烧枷锁|r。|n|n攻击距离 375（远程）|n移动速度 290
+Revivetip=复活 蝙蝠骑士
+Awakentip=复活 蝙蝠骑士
+[O017]
+Name=蝙蝠骑士
+Propernames=金扎卡
+[o019]
+Name=Vision Ground
+[o01A]
+Name=Vision Dummy
+[o01B]
+Name=遥控炸弹
+[o01G]
+Name=治疗结界 - 等级2
+[o01H]
+Name=治疗结界 - 等级3
+[o01I]
+Name=治疗结界 - 等级4
+[o01J]
+Name=冰封魔印
+[o01K]
+Name=冰封魔印
+[o01L]
+Name=冰封魔印
+[o01M]
+Name=冰封魔印
+[o01N]
+Name=Vision Dummy (1200/1800)
+[o01O]
+Name=Vision Dummy (1800/1800)
+[o01P]
+Name=Vision Dummy (1800/800)
+[o01Q]
+Name=Reality Shift 3
+[o01R]
+Name=Reality Shift 1
+[o01S]
+Name=Reality Shift 2
+[o01T]
+Name=Reality Shift 4
+[o01U]
+Name=Frost Giant Vision Dummy
+[o01V]
+Name=炸弹炸弹
+[o01W]
+Name=视野傀儡迅速死亡
+[o01X]
+Name=巨石
+[o01Y]
+Name=Vision Dummy (1800/1200)
+[o01Z]
+Name=Vision Dummy Ground
+[o020]
+Name=石化巨石
+[o021]
+Name=Vision Dummy Ground
+[o022]
+Name=Game Vision Unit - 1800/800
+[o023]
+Name=Game Vision Unit - 1800/1400
+[o024]
+Name=Game Vision Unit - 1200/800
+[o025]
+Name=Game Vision Unit - 1800/1000
+[o026]
+Name=Game Vision Unit - 1800/1800
+[o027]
+Name=Game Vision Unit - 1200/1800
+[o028]
+Name=Game Vision Unit - 1600/1600
+[o029]
+Name=Game Vision Unit - 1900/800
+[o02A]
+Name=True Sight provider
+[o02B]
+Name=提供血之饥渴视野
+[o02C]
+Name=Thirst Instant Vision Unit
+[o02D]
+Name=Vision Dummy Ground
+[o02E]
+Name=丛林之眼视野

@@ -1,0 +1,90 @@
+[Resw]
+Name=Strength of the Wild,Improved Strength of the Wild,Advanced Strength of the Wild
+Tip=Upgrade to Strength of the |cffffcc00W|rild,Upgrade to Improved Strength of the |cffffcc00W|rild,Upgrade to Advanced Strength of the |cffffcc00W|rild
+Ubertip="Increases the damage of Druids of the Claw in Bear Form, Druids of the Talon in Storm Crow Form, Dryads, Mountain Giants, Faerie Dragons, Hippogryphs, and Chimaeras.","Further increases the damage of Druids of the Claw in Bear Form, Druids of the Talon in Storm Crow Form, Dryads, Mountain Giants, Faerie Dragons, Hippogryphs, and Chimaeras.","Further increases the damage of Druids of the Claw in Bear Form, Druids of the Talon in Storm Crow Form, Dryads, Mountain Giants, Faerie Dragons, Hippogryphs, and Chimaeras."
+Hotkey=W,W,W
+[Rerh]
+Name=Reinforced Hides,Improved Reinforced Hides,Advanced Reinforced Hides
+Tip=Upgrade to |cffffcc00R|reinforced Hides,Upgrade to Improved |cffffcc00R|reinforced Hides,Upgrade to Advanced |cffffcc00R|reinforced Hides
+Ubertip="Increases the armor of Druids of the Claw in Bear Form, Druids of the Talon in Storm Crow Form, Dryads, Mountain Giants, Faerie Dragons, Hippogryphs, and Chimaeras.","Further increases the armor of Druids of the Claw in Bear Form, Druids of the Talon in Storm Crow Form, Dryads, Mountain Giants, Faerie Dragons, Hippogryphs, and Chimaeras.","Further increases the armor of Druids of the Claw in Bear Form, Druids of the Talon in Storm Crow Form, Dryads, Mountain Giants, Faerie Dragons, Hippogryphs, and Chimaeras."
+Hotkey=R,R,R
+[Reuv]
+Name=Ultravision
+Tip=Upgrade to |cffffcc00U|rltravision
+Ubertip=Gives Night Elves the ability to see as far at night as they do during the day.
+Hotkey=U
+[Renb]
+Name=Nature's Blessing'
+Tip=Research |cffffcc00N|rature's Blessing'
+Ubertip=Upgrades all Ancients' and Treants' movement speed and armor.
+Hotkey=N
+[Remg]
+Name=Upgrade Moon Glaive
+Tip=Upgrade Moon |cffffcc00G|rlaive
+Ubertip=Gives the Huntress the ability to strike additional units with her bouncing glaive attacks.
+Hotkey=G
+[Redt]
+Name=Druid of the Talon Adept Training,Druid of the Talon Master Training
+Tip=Druid of the T|cffffcc00a|rlon Adept Training,Druid of the T|cffffcc00a|rlon Master Training
+Ubertip="Increases their Night Elf Form's mana capacity, mana regeneration rate, hit points, and gives them the ability Storm Crow Form.","Increases their Night Elf Form's mana capacity, mana regeneration rate, hit points, and gives them the ability to cast Cyclone."
+Hotkey=A,A
+[Recb]
+Name=腐蚀吐息
+Tip=Research Corrosive |cffffcc00B|rreath
+Ubertip=Gives Chimaeras the ability to hurl corrosive bile onto enemy buildings.
+Hotkey=B
+[Repb]
+Name=Psi Blades
+Tip=
+Ubertip=
+Hotkey=P
+[Reec]
+Name=Mark of the Talon
+Tip=Research |cffffcc00M|rark of the Talon
+Ubertip=Allows Druids of the Talon to cast Faerie Fire while in Storm Crow Form.
+Hotkey=M
+[Repm]
+Name=Backpack
+Tip=Research |cffffcc00B|rackpack
+Ubertip=Gives specific Night Elf ground units the ability to carry items.
+Hotkey=B
+[R002]
+Name=Holy Blade
+Tip=Research |cffffcc00I|rmproved Bows
+Ubertip=Increases the Archer's and Hippogryph Rider's attack range.
+Hotkey=I
+[R007]
+Name=Ranged Upgrade
+Tip=Upgrade to Strength of the |cffffcc00M|roon,Upgrade to Improved Strength of the |cffffcc00M|roon,Upgrade to Advanced Strength of the |cffffcc00M|roon
+Ubertip=All Sentinel creeps gain a bonus to attack damage and hit points.,All Sentinel creeps gain a bonus to attack damage and hit points.,All Sentinel creeps gain a bonus to attack damage and hit points.
+Hotkey=M,M,M
+[R008]
+Name=Melee Upgrade
+Tip=Upgrade to Strength of the |cffffcc00W|rild,Upgrade to Improved Strength of the |cffffcc00W|rild,Upgrade to Advanced Strength of the |cffffcc00W|rild
+Ubertip=All Sentinel creeps gain a bonus to attack damage and hit points.,All Sentinel creeps gain a bonus to attack damage and hit points.,All Sentinel creeps gain a bonus to attack damage and hit points.
+Hotkey=W,W,W
+[R00C]
+Name=Ranged Upgrade
+Tip=Upgrade to Strength of the |cffffcc00M|roon,Upgrade to Improved Strength of the |cffffcc00M|roon,Upgrade to Advanced Strength of the |cffffcc00M|roon
+Ubertip=All Sentinel creeps gain a bonus to attack damage and hit points.,All Sentinel creeps gain a bonus to attack damage and hit points.,All Sentinel creeps gain a bonus to attack damage and hit points.
+Hotkey=M,M,M
+[R00D]
+Name=Melee Upgrade
+Tip=Upgrade to Strength of the |cffffcc00W|rild,Upgrade to Improved Strength of the |cffffcc00W|rild,Upgrade to Advanced Strength of the |cffffcc00W|rild
+Ubertip=All Sentinel creeps gain a bonus to attack damage and hit points.,All Sentinel creeps gain a bonus to attack damage and hit points.,All Sentinel creeps gain a bonus to attack damage and hit points.
+Hotkey=W,W,W
+[R000]
+Name=Synergy
+Tip=Research |cffffcc00M|rark of the Claw
+Ubertip=Allows Druids of the Claw to cast Roar while in Bear Form.
+Hotkey=M
+[R001]
+Name=True Form
+Tip=Research |cffffcc00M|rark of the Claw
+Ubertip=Allows Druids of the Claw to cast Roar while in Bear Form.
+Hotkey=M
+[R00I]
+Name=Upgrade Lunar Blessing
+Tip=
+Ubertip=
+Hotkey=U

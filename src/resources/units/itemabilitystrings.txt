@@ -1,0 +1,3473 @@
+[AIbk]
+Name=Blink (Item Version)
+[AIam]
+Name=Item Agility Gain
+[AIsp]
+Name=Item Temporary Speed Bonus
+[AIat]
+Name=Item Damage Bonus
+[AIde]
+Name=Item Armor Bonus
+[AIhe]
+Name=Item Healing
+[AIha]
+Name=Item Area Healing
+[AIvi]
+Name=Item Temporary Invisibility
+[AIvu]
+Name=Item Temporary Invulnerability
+[AIvl]
+Name=Item Temporary Invulnerability
+[AIma]
+Name=Item Mana Regain
+[AImr]
+Name=Item Area Mana Regain
+[AIre]
+Name=Item Heal/Mana Regain
+[AIra]
+Name=Item Area Heal/Mana Regain
+[APra]
+Name=Rune Area Heal/Mana Regain
+[AIda]
+Name=Item Temporary Area Armor Bonus
+[AIdb]
+Name=Headdress Heal
+[Bdef]
+Bufftip=纳斯雷兹姆盾牌
+Buffubertip=该单位受到纳斯雷兹姆盾牌庇护，短时间内护甲上升
+[AIta]
+Name=Item Area Detection
+[AIrm]
+Name=Item Mana Regeneration
+[AIfi]
+Name=Item Firebolt
+[AIil]
+Name=Item Illusions
+[BIil]
+Bufftip=幻象
+Buffubertip=该单位是一个幻象，它在被攻击时受到额外的伤害
+[AIdi]
+Name=Item Dispel
+[AIds]
+Name=Item Dispel
+[AIfb]
+Name=Item Attack Fire Bonus
+[AIlp]
+Name=Item Purge
+[AIob]
+Name=Item Attack Frost Bonus
+[AIpb]
+Name=Item Attack Poison Bonus
+[AIcb]
+Name=Item Attack Corruption Bonus
+[BIcb]
+Bufftip=黯灭
+Buffubertip=该单位被黯灭击中，护甲暂时下降
+[AIsi]
+Name=Item Sight Range Bonus
+[AIrc]
+Name=Item Reincarnation
+[AItp]
+Name=Item Town Portal
+[AIfs]
+Name=Item Skeleton Summon
+[BFig]
+Bufftip=召唤生物
+Buffubertip=驱散类魔法会对召唤生物造成伤害
+[AIpm]
+Name=Item Place Goblin Land Mine
+[AIaa]
+Name=Item Attack Damage Gain
+[AImi]
+Name=Item Life Gain
+[AIva]
+Name=Item Life Steal
+[AIcf]
+Name=Item Immolation
+[BIcf]
+Bufftip=Cloak of Flames
+Buffubertip=This unit has a Cloak of Flames; nearby enemy ground units will take damage over time.
+[AIab]
+Name=Item Hero Stat Bonus
+[AIml]
+Name=Item Life Bonus
+[AIlz]
+Name=Item Life Bonus
+[Arel]
+Name=Item Life Regeneration
+[Aami]
+Name=Item Anti-Magic Shell
+[AImm]
+Name=Item Mana Bonus
+[AImz]
+Name=Item Mana Bonus (100)
+[AIas]
+Name=Item Attack Speed Bonus
+[AIsx]
+Name=Item Attack Speed Bonus
+[AIs2]
+Name=Item Attack Speed Bonus
+[AIan]
+Name=Item Animate Dead
+[AIms]
+Name=Item Move Speed Bonus
+[AIa3]
+Name=Item Hero Stat Bonus
+[AIa6]
+Name=Item Hero Stat Bonus
+[AIx5]
+Name=Item Hero Stat Bonus
+[AIx2]
+Name=Item Hero Stat Bonus
+[AIs3]
+Name=Item Hero Stat Bonus
+[AIs6]
+Name=Item Hero Stat Bonus
+[AIi3]
+Name=Item Hero Stat Bonus
+[AIi6]
+Name=Item Hero Stat Bonus
+[AIt6]
+Name=Item Damage Bonus
+[AIt9]
+Name=Item Damage Bonus
+[AItc]
+Name=Item Damage Bonus
+[AItf]
+Name=Item Damage Bonus
+[AIcy]
+Name=龙卷风
+Tip=龙卷风|n(Cyclone)
+Ubertip="将非机械目标单位抛向空中，使其不能移动，攻击和施放任何魔法或技能。其他单位在此期间不能攻击该目标。|n持续<AIcy,Dur1>秒。"
+Hotkey=C
+[AId1]
+Name=Item Armor Bonus
+[AId3]
+Name=Item Armor Bonus
+[AId4]
+Name=Item Armor Bonus
+[AId5]
+Name=Item Armor Bonus
+[AId0]
+Name=Item Armor Bonus
+[AIin]
+[AIl1]
+Name=Item Life Bonus
+[AIl2]
+Name=Item Life Bonus
+[AIh1]
+Name=Item Healing
+[AIsw]
+Name=岗哨结界
+Ubertip="Summons an invisible and immovable ward that provides vision in an area. |nCan see invisible units. |nLasts <AIsw,Dur1> seconds."
+[AIv1]
+Name=Item Temporary Invisibility
+[AIm1]
+Name=Item Mana Regain
+[AIrn]
+[AIad]
+[AIcd]
+Researchubertip=深渊领主的存在削弱周围所有敌方单位的攻击力。如果敌方普通单位/英雄在光环范围内死亡，你将暂时获得5/30点攻击力加成。|n|n|cff99ccff持续时间：|r30/35/40/45|n|n|cff99ccff作用范围：|r900|n|n|cffffcc00等级 1|r - 降低18%的攻击力|n|cffffcc00等级 2|r - 降低26%的攻击力|n|cffffcc00等级 3|r - 降低34%的攻击力|n|cffffcc00等级 4|r - 降低42%的攻击力
+Researchtip=学习 衰退光环 - [|cffffcc00等级 %d|r]|n(Atrophy Aura)
+Name=衰退光环
+Researchhotkey=R
+Ubertip=降低周围敌方单位18%的攻击力。如果敌方普通单位/英雄在光环范围内死亡，你将获得5/30点攻击力加成，持续30秒。|n|n|cff99ccff作用范围：|r900,降低周围敌方单位26%的攻击力。如果敌方普通单位/英雄在光环范围内死亡，你将获得5/30点攻击力加成，持续30秒。|n|n|cff99ccff作用范围：|r900,降低周围敌方单位34%的攻击力。如果敌方普通单位/英雄在光环范围内死亡，你将获得5/30点攻击力加成，持续40秒。|n|n|cff99ccff作用范围：|r900,降低周围敌方单位42%的攻击力。如果敌方普通单位/英雄在光环范围内死亡，你将获得5/30点攻击力加成，持续45秒。|n|n|cff99ccff作用范围：|r900
+Tip=衰退光环 - [|cffffcc00等级 1|r],衰退光环 - [|cffffcc00等级 2|r],衰退光环 - [|cffffcc00等级 3|r],衰退光环 - [|cffffcc00等级 4|r]
+[AIba]
+[AIae]
+Name=夜叉
+[AIau]
+Name=Headdress of Rejuvenation Aura
+[AIrr]
+Name=Roar
+Ubertip="Gives friendly nearby units a <AIrr,DataA1,%>% bonus to damage. |nLasts <AIrr,Dur1> seconds."
+[AIev]
+Name=闪避
+Ubertip="Gives a <AIev,DataA1,%>% chance to avoid an attack."
+[AImb]
+Name=Item Mana Bonus
+[AIbm]
+Name=Item Mana Bonus
+[AIa1]
+Name=Item Hero Stat Bonus
+[AIx1]
+Name=Item Hero Stat Bonus
+[AIs1]
+Name=Item Hero Stat Bonus
+[AIi1]
+Name=Item Hero Stat Bonus
+[AIfc]
+Name=Flying Carpet
+[AIrl]
+Name=治疗药膏
+[BIrl]
+Bufftip=恢复
+Buffubertip=该单位正在持续恢复生命
+[AIpr]
+Name=Sapphire Water
+[AIpl]
+Name=Lesser Clarity Potion
+[BIrm]
+Bufftip=明澈药水
+Buffubertip=该单位喝下了明澈药水，它将持续回复魔法
+[AIp2]
+Name=Generic Item-Rejuv Effect
+[AIsl]
+Name=Scroll of Regeneration
+[BIrg]
+Bufftip=回春
+Buffubertip=该单位正在持续恢复生命和魔法
+[AIgo]
+Name=Chest of Gold
+[Ablp]
+Name=Blight Placement
+[AIct]
+Name=Change Time of Day
+[AIpv]
+Name=Vampiric Potion
+[BIpv]
+Bufftip=Vampiric Potion
+Buffubertip=This Hero used a Vampiric Potion; the Hero has increased damage and a life-draining attack.
+[AIsr]
+Name=Spell Damage Reduction
+[AIbl]
+Name=Build Tiny Castle
+[AIbg]
+Name=Build Tiny Great Hall
+[AIbt]
+Name=Build Tiny Scout Tower
+[AImt]
+Name=Staff of Teleportation
+[ANpr]
+Name=Staff of Preservation
+[Amec]
+Name=机械生物
+[Bmec]
+Bufftip=机械生物
+Buffubertip=驱散魔法会给召唤单位造成伤害
+[ANss]
+Name=法术护盾
+[ANse]
+Name=法术护盾
+[BNss]
+Bufftip=法术护盾
+Buffubertip=可以抵挡魔法的盾牌
+[Aspb]
+Name=Spell Book
+[AIrd]
+Name=Raise Dead (Item)
+[ANsa]
+Name=Staff of Sanctuary
+[BNsa]
+Bufftip=Sanctuary
+Buffubertip="This unit is under the effects of a Staff of Sanctuary; its hit points will regenerate over time, but it cannot move, attack or cast spells."
+[AIsa]
+Name=Scroll of Haste
+[AItb]
+Name=显影之尘
+[Bdet]
+Bufftip=显影之尘
+Buffubertip=显影之尘使敌方玩家的隐身状态失效一段时间
+[AIsb]
+Name=Orb of Slow
+[AIll]
+Name=Orb of Lightning (new)
+[AIos]
+Name=Maim
+Tip=Slo|cffffcc00w|r
+Ubertip="Slows a target enemy unit's attack rate by <AIos,DataB1,%>% and movement speed by <AIos,DataA1,%>%. |nLasts <AIos,Dur1> seconds."
+[AIxs]
+Name=Item Anti-Magic Shell
+[AIpg]
+Name=Item Purge
+[AIti]
+Name=Item Damage Bonus
+[AItn]
+Name=Item Damage Bonus
+[AItx]
+Name=Item Damage Bonus
+[AIh3]
+Name=Least Healing
+[AIdd]
+Name=Passive Defense
+[AIsz]
+Name=减速毒药
+[AIft]
+Name=Melee Cold Damage Bonus
+[AIxk]
+Name=狂暴
+[Btrv]
+EditorName=Teleport Reveal
+[A04D]
+Name=Item Agility Bonus
+[A04F]
+Name=Item Int Bonus
+[A00I]
+Name=Item Strength Bonus
+[A00Z]
+Name=Item Damage Bonus (+55)
+[A018]
+Name=Item Life bonus
+[A01C]
+Name=Item Mana Bonus +300
+[A02D]
+Name=Item Mana Regen 125
+[A02I]
+Name=Item Hero Stat Bonus +25 all
+[A02P]
+Name=Item Life bonus (+200)
+[A02U]
+Name=Item Life Steal 10%
+[A05J]
+Name=Land Mines
+Researchhotkey=E
+Hotkey=E
+Researchtip=学习 埋布地雷 - [|cffffcc00等级 %d|r]|n(Land Mines)
+Researchubertip=埋布地雷，当有敌方单位靠近时会自动爆炸，对范围内的单位和建筑造成伤害。离爆心较远的单位受到的伤害也较少。|n启动延迟：|r0.5|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000法术攻击 普通伤害|r|n|n|cff99ccff施法距离：|r100|n|cff99ccff冷却时间：|r9.5/8/6.5/5|n|cff99ccff魔法消耗：|r60/75/85/100|n|n|cffffcc00等级 1|r - 在200/500范围内造成150/75点伤害|n|cffffcc00等级 2|r - 在200/500范围内造成187/93点伤害|n|cffffcc00等级 3|r - 在200/500范围内造成225/112点伤害|n|cffffcc00等级 4|r - 在200/500范围内造成262/131点伤害
+Tip=埋布地雷 - [|cffffcc00等级 1|r],埋布地雷 - [|cffffcc00等级 2|r],埋布地雷 - [|cffffcc00等级 3|r],埋布地雷 - [|cffffcc00等级 4|r]
+Ubertip=埋布地雷，当有敌方单位靠近时会自动爆炸，对200/500范围内的敌方单位造成150/75点伤害。|n启动延迟：|r0.5|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000法术攻击 普通伤害|r|n|n|cff99ccff施法距离：|r100|n|cff99ccff冷却时间：|r9.5,埋布地雷，当有敌方单位靠近时会自动爆炸，对200/500范围内的敌方单位造成187/93点伤害。|n启动延迟：|r0.5|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000法术攻击 普通伤害|r|n|n|cff99ccff施法距离：|r100|n|cff99ccff冷却时间：|r8,埋布地雷，当有敌方单位靠近时会自动爆炸，对200/500范围内的敌方单位造成225/112点伤害。|n启动延迟：|r0.5|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000法术攻击 普通伤害|r|n|n|cff99ccff施法距离：|r100|n|cff99ccff冷却时间：|r6.5,埋布地雷，当有敌方单位靠近时会自动爆炸，对200/500范围内的敌方单位造成262/131点伤害。|n启动延迟：|r0.5|n|n|cffff0303伤害无视魔法免疫|r|n|cffff0303对建筑有效|r|n|cffff8000法术攻击 普通伤害|r|n|n|cff99ccff施法距离：|r100|n|cff99ccff冷却时间：|r5
+[A00D]
+Name=Item Move faster
+[A00M]
+Name=Item Life Regeneration
+[A014]
+Name=Item Hero Stat Bonus
+[A015]
+Name=Item Strength Bonus
+[A016]
+Name=Item Agility Bonus
+[A01Q]
+Name=Item Int Bonus
+[A02B]
+Name=Item Damage Bonus (+35)
+[A04O]
+Name=Item Damage Bonus (+75)
+[A08Q]
+Name=Metamorph Image
+Researchhotkey=C
+Hotkey=C
+Researchtip=学习 魔法镜像 - [|cffffcc00等级 %d|r]|n(Conjure Image)
+Researchubertip=制造一个灵魂守卫的镜像，镜像受到300%的伤害。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16|n|cff99ccff魔法消耗：|r70/85/100/115|n|n|cffffcc00等级 1|r - 镜像拥有本体25%的攻击力|n|cffffcc00等级 2|r - 镜像拥有本体35%的攻击力|n|cffffcc00等级 3|r - 镜像拥有本体45%的攻击力|n|cffffcc00等级 4|r - 镜像拥有本体55%的攻击力
+Tip=魔法镜像 - [|cffffcc00等级 1|r],魔法镜像 - [|cffffcc00等级 2|r],魔法镜像 - [|cffffcc00等级 3|r],魔法镜像 - [|cffffcc00等级 4|r]
+Ubertip=制造一个灵魂守卫的镜像。镜像受到300%的伤害拥有本体25%的攻击力。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16,制造一个灵魂守卫的镜像。镜像受到300%的伤害拥有本体35%的攻击力。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16,制造一个灵魂守卫的镜像。镜像受到300%的伤害拥有本体45%的攻击力。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16,制造一个灵魂守卫的镜像。镜像受到300%的伤害拥有本体55%的攻击力。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16
+[A099]
+Name=Item Mana Regen 100%
+[A09B]
+Name=Crit 10%
+[A09G]
+Name=Item Agility Bonus
+[A09I]
+Name=Item Attack Speed 10%
+[A09L]
+Name=Item Attack Speed 55%
+[A09M]
+Name=Item Mana Bonus +400
+[A02W]
+Name=Item Cooldown Reset
+[A03T]
+Name=Item Hero Stat Bonus +10 all
+[A04K]
+Name=Item Mana Bonus +170
+[A08B]
+Name=Item Life Regeneration
+[A05A]
+Name=Item Mana Regen 150
+[A02Y]
+Name=Item Int Bonus
+[A06C]
+Name=Item Damage Bonus (+50)
+[A009]
+Name=Item Hero Stat Bonus +3 all
+[A023]
+Name=Bash 15%
+[A07O]
+Name=闪避
+Ubertip="Gives a <AIev,DataA1,%>% chance to avoid an attack."
+[A096]
+Name=Item Int Bonus
+[A097]
+Name=Item Int Bonus
+[A098]
+Name=Item Int Bonus
+[A09A]
+Name=Item Int Bonus
+[A09O]
+Name=Crit 25%
+[A09P]
+Name=Item Life Steal 15%
+[A09Q]
+Name=Item Strength Bonus
+[A09T]
+Name=Item Damage Bonus (+65)
+[A09X]
+Name=Item Attack Speed 25%
+[A09Y]
+Name=缠绕|n(Entangle)
+Tip=缠绕|n(Entangle),Entangle - [|cffffcc00Level 2|r],Entangle - [|cffffcc00Level 3|r],Entangle - [|cffffcc00Level 4|r]
+Ubertip=每次攻击有20%的概率缠绕一个敌人，使其不能移动，同时受到60点/秒的伤害，持续3秒。,Each attack has a 8% chance of Entangling an enemy.  It takes 40 damage per second and holds them immobile for 3 seconds.,Each attack has a 12% chance of Entangling an enemy.  It takes 40 damage per second and holds them immobile for 3 seconds.,Each attack has a 16% chance of Entangling an enemy.  It takes 40 damage per second and holds them immobile for 3 seconds.
+[A0BK]
+Name=麻痹之咬
+Researchtip=学习 麻痹之咬 - [|cffffcc00等级 %d|r]|n(Incapacitating Bite)
+Researchubertip=让育母蜘蛛的攻击中附带能大幅削弱目标能力的毒素，效果持续2（4）秒。|n|n|cffffcc00等级 1|r - 使目标有30%的概率攻击落空，降低10%的移动速度|n|cffffcc00等级 2|r - 使目标有40%的概率攻击落空，降低20%的移动速度|n|cffffcc00等级 3|r - 使目标有50%的概率攻击落空，降低30%的移动速度|n|cffffcc00等级 4|r - 使目标有60%的概率攻击落空，降低40%的移动速度|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r
+Researchhotkey=P
+[A0BP]
+Name=极度饥渴
+Hotkey=T
+Researchhotkey=T
+Researchtip=学习 极度饥渴 - [|cffffcc00等级 %d|r]|n(Insatiable Hunger)
+Researchubertip="The Broodmother develops a violent thirst for vital fluids. This lust greatly increases her attack damage and gives her a vampiric attack.|nLasts 20 seconds. |n|n|cffffcc00Level 1|r - 60 bonus damage, 40% life steal. |n|cffffcc00Level 2|r - 75 bonus damage, 50% life steal. |n|cffffcc00Level 3|r - 90 bonus damage, 60% life steal.|n|n|cff99ccffCooldown: |r 60 seconds."
+Tip=极度饥渴 - [|cffffcc00等级 1|r],极度饥渴 - [|cffffcc00等级 2|r],极度饥渴 - [|cffffcc00等级 3|r]
+Ubertip=Gives the Broodmother 60 bonus damage and 40% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds.,Gives the Broodmother 75 bonus damage and 60% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds.,Gives the Broodmother 90 bonus damage and 80% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds.
+[A04S]
+Name=Orb of Lightning (new)
+[A03K]
+Name=Darkness
+Researchtip=学习 夜幕降临 - [|cffffcc00等级 %d|r]|n(Darkness)
+Researchhotkey=R
+Hotkey=R
+Researchubertip=创造50秒黑暗的时间让暗夜魔王大行其道。减少敌军25%的视野。|n|n|cff99ccff冷却时间：|r120|n|cff99ccff魔法消耗：|r0|n|n|c00fffc01神杖升级：提供顺畅的视野|r
+Tip=夜幕降临 - [|cffffcc00等级 1|r],夜幕降临 - [|cffffcc00等级 2|r],夜幕降临 - [|cffffcc00等级 3|r]
+Ubertip=将白天变为夜晚，持续50秒。减少敌军25%的视野。|n|n|cff99ccff冷却时间：|r160|n|n|c00fffc01神杖升级：提供顺畅的视野|r,将白天变为夜晚，持续50秒。减少敌军25%的视野。|n|n|cff99ccff冷却时间：|r120|n|n|c00fffc01神杖升级：提供顺畅的视野|r,将白天变为夜晚，持续50秒。减少敌军25%的视野。|n|n|cff99ccff冷却时间：|r80|n|n|c00fffc01神杖升级：提供顺畅的视野|r
+[A03A]
+Name=Gargoyle Spell Damage Reduction
+[A00B]
+Name=Item Damage Bonus (+25)
+[A03L]
+Name=Item Damage Bonus (+40)
+[A02X]
+Name=侦察结界
+Ubertip="Summons an invisible and immovable ward that provides vision in an area. |nCan see invisible units. |nLasts <AIsw,Dur1> seconds."
+[A05U]
+Name=Item Move Power Treads
+[A05P]
+Name=Item Armor Bonus
+[A0C8]
+Name=Item Mana Bonus +9999
+[A0CB]
+Name=Item Mana Regen 10000
+[A0DC]
+Name=DoppelWalk Illusion
+[A0DD]
+Name=JuxtaposeIllusions - By Hero
+[A0BR]
+Name=支配死灵
+Researchhotkey=N
+Researchtip=学习 支配死灵 - [|cffffcc00等级 %d|r]|n(Necromastery)
+Researchubertip=每当影魔杀死一个生物，他就将这个可怜的灵魂储存在体内。每个灵魂会提供2点额外的攻击力。不过当影魔死亡时，有一半的灵魂会逃逸出去。|n|n|cffffcc00等级 1|r - 上限30点攻击力|n|cffffcc00等级 2|r - 上限44点攻击力|n|cffffcc00等级 3|r - 上限58点攻击力|n|cffffcc00等级 4|r - 上限72点攻击力
+[A0C2]
+Name=Grow! speed
+[A0DV]
+Name=BlindStrikeBonus
+[A0E4]
+Name=Item Attack Speed 5%
+[A0E5]
+Name=解脱
+Researchtip=Learn Disentang|cffffcc00l|re - [|cffffcc00Level %d|r]
+Researchubertip="By disassociating herself with this plane, Shandelzare avoids being hit by an offensive spell.  |n|n|cffffcc00Level 1|r - 220 second cooldown.|n|cffffcc00Level 2|r - 160 second cooldown.|n|cffffcc00Level 3|r - 100 second cooldown.|n|cffffcc00Level 4|r - 40 second cooldown."
+Tip=Disentangle - [|cffffcc00Level 1|r],Disentangle - [|cffffcc00Level 2|r],Disentangle - [|cffffcc00Level 3|r],Disentangle - [|cffffcc00Level 4|r]
+Researchhotkey=L
+Ubertip=Blocks an offensive spell cast on the Vengeful Spirit every 220 seconds.,Blocks an offensive spell cast on the Vengeful Spirit every 160 seconds.,Blocks an offensive spell cast on the Vengeful Spirit every 100 seconds.,Blocks an offensive spell cast on the Vengeful Spirit every 40 seconds.
+[A0EJ]
+Name=Item Damage Bonus (+22)
+[A043]
+Name=Item Agility Bonus
+[A0EM]
+Name=Item Attack Speed 80%
+[A0EN]
+Name=Item Hero Stat Bonus +20 all
+[A0EV]
+Name=Stoneform Armor
+[A0EW]
+Name=Roar
+Ubertip="Gives friendly nearby units a <AIrr,DataA1,%>% bonus to damage. |nLasts <AIrr,Dur1> seconds."
+[A0EX]
+Name=Item Life Regeneration
+[A0EK]
+Name=Maim
+[A0CG]
+Name=Geminate Attack
+Researchtip=学习 连击 - [|cffffcc00等级 %d|r]|n(Geminate Attack)
+Researchubertip=让编织者一次性吐出两只毒虫，攻击目标两次。|n|n|cffff0303必须手动攻击以激活技能|n法球效果|n对建筑物有效|r|n|n|cffffcc00等级 1|r - 冷却时间6秒|n|cffffcc00等级 2|r - 冷却时间5秒|n|cffffcc00等级 3|r - 冷却时间4秒|n|cffffcc00等级 4|r - 冷却时间3秒
+Researchhotkey=K
+[A0CU]
+Name=散夜对剑|nSange and Yasha
+[A0CV]
+Name=Sange and Yasha move
+[A0CW]
+Name=Item Hero Stat Bonus S & Y
+[A01G]
+Name=Sand Storm
+Researchtip=Learn Sand Stor|cffffcc00m|r - [|cffffcc00Level %d|r]
+Researchubertip="Gives the Sand King the ability to kick up dust in the face of his enemies, causing them to miss 35% of the time.  Also grants bonus damage.|nLasts 2 seconds. |n|n|cffffcc00Level 1|r - 10% chance, 8 bonus damage.|n|cffffcc00Level 2|r - 18% chance, 16 bonus damage.|n|cffffcc00Level 3|r - 25% chance, 24 bonus damage.|n|cffffcc00Level 4|r - 35% chance, 32 bonus damage.|n|n|c00ff0303Orb effect.|r"
+Researchhotkey=M
+[A05H]
+Name=Shadow Weave friendly
+[A05I]
+Name=Shadow Weave enemy
+[A07S]
+Name=Spell Damage Reduction
+[A051]
+Name=Item Hero Stat Bonus Manta
+[A0AX]
+Name=Item Life bonus (+250)
+[A0BS]
+Name=Scroll of Regeneration (Item)
+[A0BX]
+Name=Item Heal Area
+[A0CD]
+Name=Item Hero Stat Bonus +5 all
+[A0CK]
+Name=Mekansm Armor + Heal
+[A0CX]
+Name=Staff of Teleportation (item)
+[A0D0]
+Name=Item Hero Stat Bonus
+[A0D3]
+Name=Item Skeleton Summon lvl 2
+[A0DF]
+Name=Item Skeleton Summon lvl 3
+[A0F5]
+Name=Naix Lifesteal NEW
+Researchubertip=N'aix restores some of his life force by eating flesh. |n|n|cffffcc00Level 1|r - Regains 15% of attack damage. |n|cffffcc00Level 2|r - Regains 30% of attack damage.  |n|cffffcc00Level 3|r - Regains 40% of attack damage.  |n|cffffcc00Level 4|r - Regains 50% of attack damage. 
+Researchtip=学习 盛宴 - [|cffffcc00等级 %d|r]|n(Feast)
+Tip=盛宴 - [|cffffcc00等级 1|r],盛宴 - [|cffffcc00等级 2|r],盛宴 - [|cffffcc00等级 3|r],盛宴 - [|cffffcc00等级 4|r]
+Ubertip="N'aix regains part of his hit points with each attack, gaining 15% of his damage with each attack.",奈克斯每次攻击都能回复一定生命值，每次攻击回复造成伤害30%的生命值。,奈克斯每次攻击都能回复一定生命值，每次攻击回复造成伤害40%的生命值。,"N'aix regains part of his hit points with each attack, gaining 50% of his damage with each attack."
+[A0F9]
+Name=盛宴
+Researchtip=学习 盛宴 - [|cffffcc00等级 %d|r]|n(Feast)
+Researchhotkey=F
+Researchubertip=N'aix restores some of his life force by eating flesh. |n|n|cffffcc00Level 1|r - Regains 15% of attack damage. |n|cffffcc00Level 2|r - Regains 30% of attack damage.  |n|cffffcc00Level 3|r - Regains 40% of attack damage.  |n|cffffcc00Level 4|r - Regains 50% of attack damage. |n|n|c00ff0303Orb effect.|r
+Tip=盛宴 - [|cffffcc00等级 1|r],盛宴 - [|cffffcc00等级 2|r],盛宴 - [|cffffcc00等级 3|r],盛宴 - [|cffffcc00等级 4|r]
+Ubertip="N'aix regains part of his hit points with each attack, gaining 15% of his damage with each attack.|n|n|c00ff0303Orb effect.|r","N'aix regains part of his hit points with each attack, gaining 30% of his damage with each attack.|n|n|c00ff0303Orb effect.|r","N'aix regains part of his hit points with each attack, gaining 40% of his damage with each attack.|n|n|c00ff0303Orb effect.|r","N'aix regains part of his hit points with each attack, gaining 50% of his damage with each attack.|n|n|c00ff0303Orb effect.|r"
+[A0FJ]
+Name=漩涡|nMaelstrom
+[A0FP]
+Name=linken sphere
+Researchtip=Learn Disentang|cffffcc00l|re - [|cffffcc00Level %d|r]
+Researchubertip="By disassociating herself with this plane, Shandelzare avoids being hit by an offensive spell.  |n|n|cffffcc00Level 1|r - 220 second cooldown.|n|cffffcc00Level 2|r - 160 second cooldown.|n|cffffcc00Level 3|r - 100 second cooldown.|n|cffffcc00Level 4|r - 40 second cooldown."
+Tip=Disentangle - [|cffffcc00Level 1|r],Disentangle - [|cffffcc00Level 2|r],Disentangle - [|cffffcc00Level 3|r],Disentangle - [|cffffcc00Level 4|r]
+Researchhotkey=L
+Ubertip=Blocks an offensive spell cast on the Vengeful Spirit every 220 seconds.,Blocks an offensive spell cast on the Vengeful Spirit every 160 seconds.,Blocks an offensive spell cast on the Vengeful Spirit every 100 seconds.,Blocks an offensive spell cast on the Vengeful Spirit every 40 seconds.
+[A0FQ]
+Name=Disentangle (item2)
+Researchtip=Learn Disentang|cffffcc00l|re - [|cffffcc00Level %d|r]
+Researchubertip="By disassociating herself with this plane, Shandelzare avoids being hit by an offensive spell.  |n|n|cffffcc00Level 1|r - 220 second cooldown.|n|cffffcc00Level 2|r - 160 second cooldown.|n|cffffcc00Level 3|r - 100 second cooldown.|n|cffffcc00Level 4|r - 40 second cooldown."
+Tip=Disentangle - [|cffffcc00Level 1|r],Disentangle - [|cffffcc00Level 2|r],Disentangle - [|cffffcc00Level 3|r],Disentangle - [|cffffcc00Level 4|r]
+Researchhotkey=L
+Ubertip=Blocks an offensive spell cast on the Vengeful Spirit every 220 seconds.,Blocks an offensive spell cast on the Vengeful Spirit every 160 seconds.,Blocks an offensive spell cast on the Vengeful Spirit every 100 seconds.,Blocks an offensive spell cast on the Vengeful Spirit every 40 seconds.
+[A0FR]
+Name=75% spell
+[A0FT]
+Name=Spell Damage Reduction Greater
+[A0GM]
+Name=Item Int Bonus
+[A0GO]
+Name=Armor (item)
+Ubertip="Gives friendly nearby units a <AIrr,DataA1,%>% bonus to damage. |nLasts <AIrr,Dur1> seconds."
+[A0GQ]
+Name=Holy Light
+[A0GR]
+Name=Illusions
+[A0H2]
+Name=Necronomicon Spell Damage Reduction
+[A0HB]
+Name=Item Skeleton Summon lvl 1
+[A0HP]
+Name=Item Hero Stat Bonus +15 all
+[A0IO]
+Name=Item Life Regeneration
+[A0IP]
+Name=Item Mana Regeneration 150%
+[A0IR]
+Name=Item Cooldown Reset 0 cooldown
+[A0JO]
+Name=Item Move Roshan's
+[A0KB]
+Name=Roshan's Item Damage Bonus (+500)
+[A0KO]
+Name=Faith Effect
+[A0KP]
+Name=Faith Effect
+[A0KQ]
+Name=Faith Effect
+[A0KR]
+Name=Faith Effect
+[A0KS]
+Name=Item Hero Stat Bonus
+[A0L1]
+Name=Item Attack Speed 3%
+[A0L4]
+Name=Mute
+Researchtip=Learn Mu|cffffcc00t|re - [|cffffcc00Level %d|r]
+Researchubertip=Nortrom is able to mute most spell targeting him from having any effect.  |n|n|cffffcc00Level 1|r - 120 second cooldown. |n|cffffcc00Level 2|r - 60 second cooldown.|n|cffffcc00Level 3|r - 30 second cooldown.|n|cffffcc00Level 4|r - 15 second cooldown.
+Tip=Mute - [|cffffcc00Level 1|r],Mute - [|cffffcc00Level 2|r],Mute - [|cffffcc00Level 3|r],Mute - [|cffffcc00Level 4|r]
+Researchhotkey=T
+Ubertip=Mutes an offensive spell cast on Nortrom every 120 seconds.,Mutes an offensive spell cast on Nortrom every 60 seconds.,Mutes an offensive spell cast on Nortrom every 30 seconds.,Mutes an offensive spell cast on Nortrom every 15 seconds.
+[A0L5]
+Name=法术护盾
+[A0L9]
+Name=Faith Effect
+[A0LU]
+Name=Chen Spell Damage Reduction
+[A0LX]
+Name=Chen - Staff of Persv on Hero
+[A0LY]
+Name=Chen - Staff of Persv on Units
+[A0M6]
+Name=Item Agility Bonus
+[A0M7]
+Name=Item Strength Bonus
+[A0MB]
+Name=暗里藏刀
+Ubertip=隐形刺客在不攻击的情况下会一直保持隐身的状态，施法和使用物品不会使隐形刺客脱离隐身状态，进入隐身时间6秒。当隐形刺客从背后攻击敌人时，会附加0.5*[敏捷]的额外伤害。,隐形刺客在不攻击的情况下会一直保持隐身的状态，施法和使用物品不会使隐形刺客脱离隐身状态，进入隐身时间5秒。当隐形刺客从背后攻击敌人时，会附加0.75*[敏捷]的额外伤害。,隐形刺客在不攻击的情况下会一直保持隐身的状态，施法和使用物品不会使隐形刺客脱离隐身状态，进入隐身时间4秒。当隐形刺客从背后攻击敌人时，会附加1.0*[敏捷]的额外伤害。,隐形刺客在不攻击的情况下会一直保持隐身的状态，施法和使用物品不会使隐形刺客脱离隐身状态，进入隐身时间3秒。当隐形刺客从背后攻击敌人时，会附加1.25*[敏捷]的额外伤害。
+Tip=暗里藏刀 - [|cffffcc00等级 1|r],暗里藏刀 - [|cffffcc00等级 2|r],暗里藏刀 - [|cffffcc00等级 3|r],暗里藏刀 - [|cffffcc00等级 4|r]
+[A0MK]
+Name=Borrowed Time
+Ubertip=Whenever your hitpoints drop below 400 you will no longer lose hitpoints for the next 3 seconds. This ability can only happen once every minute maximum.,Whenever your hitpoints drop below 400 you will no longer lose hitpoints for the next 4 qeconds. This ability can only happen once every minute maximum.,Whenever your hitpoints drop below 400 you will no longer lose hitpoints for the next 5 seconds. This ability can only happen once every minute maximum.
+Researchtip=学习 回光返照 - [|cffffcc00等级 %d|r]|n(Borrowed Time)
+Tip=Borrowed Time - [|cffffcc00Level 1|r],Borrowed Time - [|cffffcc00Level 2|r],Borrowed Time - [|cffffcc00Level 3|r]
+Researchubertip=Whenever you take damage and your hitpoints drop below 400 you will no longer lose hitpoints. This ability will only go off once every minute max. |n|n|cffffcc00Level 1|r - Lasts 3 seconds.  |n|cffffcc00Level 2|r - Lasts 4 seconds.  |n|cffffcc00Level 3|r - Lasts 5 seconds. 
+Researchhotkey=B
+[A0MR]
+Name=Mekansm Aura
+[A0MZ]
+Name=Chest of Gold
+[A0N2]
+Name=Item Int Bonus
+[A0N3]
+Name=Item Int Bonus
+[A0N4]
+Name=Item Int Bonus
+[A0N5]
+Name=Static Field
+Ubertip=每次施法时打击1200范围内的敌人，对其造成5%当前生命值的伤害。,每次施法时打击1200范围内的敌人，对其造成7%当前生命值的伤害。,每次施法时打击1200范围内的敌人，对其造成9%当前生命值的伤害。,每次施法时打击1200范围内的敌人，对其造成11%当前生命值的伤害。
+Researchtip=学习 静电场 - [|cffffcc00等级 %d|r]|n(Static Field)
+Researchubertip=每次宙斯使用任何技能，他都能通过瞬间的电击减少周围1200范围内，所有敌方单位当前生命值一定百分比的生命。|n|n|cffffcc00等级 1|r - 减少5%当前生命值的生命|n|cffffcc00等级 2|r - 减少7%当前生命值的生命|n|cffffcc00等级 3|r - 减少9%当前生命值的生命|n|cffffcc00等级 4|r - 减少11%当前生命值的生命
+Tip=静电场 - [|cffffcc00等级 1|r],静电场 - [|cffffcc00等级 2|r],静电场 - [|cffffcc00等级 3|r],静电场 - [|cffffcc00等级 4|r]
+Researchhotkey=F
+[A0N9]
+Name=Haunt Helper
+[A0NA]
+Name=Dispersion
+Ubertip=幽鬼所受伤害降低10%，并将这些伤害折射给周围的敌方单位。|n折射伤害的分摊量取决于敌方英雄与你的距离。伤害反弹作用于伤害减免之前，并且反弹的伤害类型与受到伤害类型一致。|n|n|cff99ccff作用范围：|r1000,幽鬼所受伤害降低14%，并将这些伤害折射给周围的敌方单位。|n折射伤害的分摊量取决于敌方英雄与你的距离。伤害反弹作用于伤害减免之前，并且反弹的伤害类型与受到伤害类型一致。|n|n|cff99ccff作用范围：|r1000,幽鬼所受伤害降低18%，并将这些伤害折射给周围的敌方单位。|n折射伤害的分摊量取决于敌方英雄与你的距离。伤害反弹作用于伤害减免之前，并且反弹的伤害类型与受到伤害类型一致。|n|n|cff99ccff作用范围：|r1000,幽鬼所受伤害降低22%，并将这些伤害折射给周围的敌方单位。|n折射伤害的分摊量取决于敌方英雄与你的距离。伤害反弹作用于伤害减免之前，并且反弹的伤害类型与受到伤害类型一致。|n|n|cff99ccff作用范围：|r1000
+Researchhotkey=I
+Researchtip=学习 折射 - [|cffffcc00等级 %d|r]|n(Dispersion)
+Researchubertip=降低幽鬼所受到的伤害，并将伤害折射给周围的敌方单位。|n折射伤害的分摊量取决于敌方英雄与你的距离。伤害反弹作用于伤害减免之前，并且反弹的伤害类型与受到伤害类型一致。|n|n|cff99ccff作用范围：|r1000|n|n|cffffcc00等级 1|r - 折射10%的伤害|n|cffffcc00等级 2|r - 折射14%的伤害|n|cffffcc00等级 3|r - 折射18%的伤害|n|cffffcc00等级 4|r - 折射22%的伤害
+Tip=折射 - [|cffffcc00等级 1|r],折射 - [|cffffcc00等级 2|r],折射 - [|cffffcc00等级 3|r],折射 - [|cffffcc00等级 4|r]
+[A0NZ]
+Name=Beast Rage
+[A0OH]
+Name=精气光环
+[A0OL]
+Name=精气光环
+[A0OM]
+Name=精气光环
+[A0ON]
+Name=精气光环
+[A06G]
+Name=Creep next waypoint
+[A0G8]
+Name=复制
+Researchtip=学习 复制 - [|cffffcc00等级 %d|r]|n(Replicate)
+Researchubertip=变体精灵近乎完美地复制一个友方或者敌方的英雄。镜像拥有本体50%的攻击力，受到100%的伤害。变体精灵可以瞬间将镜像替换为自己。|n|n|cffff0303无视魔法免疫|r|n|n|cff99ccff施法距离：|r700/1100/1500|n|cff99ccff冷却时间：|r80|n|cff99ccff魔法消耗：|r25|n|n|cffffcc00等级 1|r - 镜像持续30秒|n|cffffcc00等级 2|r - 镜像持续45秒|n|cffffcc00等级 3|r - 镜像持续60秒
+Tip=复制 - [|cffffcc00等级 1|r],复制 - [|cffffcc00等级 2|r],复制 - [|cffffcc00等级 3|r]
+Ubertip=变体精灵近乎完美地复制一个友方或者敌方的英雄。镜像拥有本体50%的攻击力，受到100%的伤害。|n|n|cffff0303无视魔法免疫|r|n|n|cff99ccff施法距离：|r700|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r80,变体精灵近乎完美地复制一个友方或者敌方的英雄。镜像拥有本体50%的攻击力，受到100%的伤害。|n|n|cffff0303无视魔法免疫|r|n|n|cff99ccff施法距离：|r1100|n|cff99ccff持续时间：|r45|n|cff99ccff冷却时间：|r80,变体精灵近乎完美地复制一个友方或者敌方的英雄。镜像拥有本体50%的攻击力，受到100%的伤害。|n|n|cffff0303无视魔法免疫|r|n|n|cff99ccff施法距离：|r1500|n|cff99ccff持续时间：|r60|n|cff99ccff冷却时间：|r80
+Hotkey=R
+Researchhotkey=R
+[A0FC]
+Name=Crit 15%
+[A0GN]
+Name=变体精灵BUG修复
+[A079]
+Name=Gold Rune
+[A0FO]
+Name=Bottle Regen
+[A0G3]
+Name=Item Life bonus
+[A0H5]
+Name=Item Mana Bonus +500
+[A0HD]
+Name=Item Attack Speed 
+[A0I8]
+Name=嗜血渴望
+Ubertip=若有敌方英雄生命值低于25%，嗜血狂魔将能看见该英雄，并且获得10%的移动速度加成和10点攻击力加成，敌方英雄血量越低加成越高。效果可叠加，激活时移除移动速度上限。,若有敌方英雄生命值低于25%，嗜血狂魔将能看见该英雄，并且获得20%的移动速度加成和20点攻击力加成，敌方英雄血量越低加成越高。效果可叠加，激活时移除移动速度上限。,若有敌方英雄生命值低于25%，嗜血狂魔将能看见该英雄，并且获得30%的移动速度加成和30点攻击力加成，敌方英雄血量越低加成越高。效果可叠加，激活时移除移动速度上限。,若有敌方英雄生命值低于25%，嗜血狂魔将能看见该英雄，并且获得40%的移动速度加成和40点攻击力加成，敌方英雄血量越低加成越高。效果可叠加，激活时移除移动速度上限。
+Researchhotkey=T
+Researchtip=学习 嗜血渴望 - [|cffffcc00等级 %d|r]|n(Strygwyr's Thirst)
+Researchubertip=嗜血狂魔能凭本能察觉血液的流动，当全地图范围内内有低生命值的敌方英雄出现时，他能看见该英雄并提升移动速度，同时获得攻击力加成。效果可叠加，敌方英雄血量越低加成越高，激活时移除移动速度上限。|n|n|cffffcc00等级 1|r - 生命临界值25%，提升10%的移动速度，10点攻击力|n|cffffcc00等级 2|r - 生命临界值25%，提升20%的移动速度，20点攻击力|n|cffffcc00等级 3|r - 生命临界值25%，提升30%的移动速度，30点攻击力|n|cffffcc00等级 4|r - 生命临界值25%，提升40%的移动速度，40点攻击力|n|n|cff99ccff作用范围：|r全地图
+Tip=嗜血渴望 - [|cffffcc00等级 1|r],嗜血渴望 - [|cffffcc00等级 2|r],嗜血渴望 - [|cffffcc00等级 3|r],嗜血渴望 - [|cffffcc00等级 4|r]
+[A0IA]
+Name=Item Mana Regeneration
+[A0IE]
+Name=Orchid Intel Stat Bonus
+[A0IG]
+Name=Ares' Resistance
+[A06S]
+[A0JG]
+Name=Item Agility Bonus
+[A0JH]
+Name=雷神之锤|nMjollnir
+[A0JR]
+Name=Heart Booster
+[A0K0]
+Name=奶酪|nCheese
+[A0K1]
+Name=Item Life bonus (+300)
+[A0K7]
+Name=秘法指环|nArcane Ring
+[A0K8]
+Name=流浪法师斗篷|nPlaneswalker's Cloak
+[A0KC]
+Name=Vladmir's Offering (mana)
+[A0KN]
+Name=Vladmir's Offering (armor)
+[A0NU]
+Name=NEWABILITY
+[A0NW]
+Name=NEWABILITY
+[A0P7]
+Name=Scepter (QOP)
+[A0P8]
+Name=Scepter (Rhasta)
+[A0P9]
+Name=Scepter (Ogre Magi)
+[A0PA]
+Name=Scepter (Lion)
+[A0PB]
+Name=Scepter (Pugna)
+[A0PC]
+Name=Scepter (Lina)
+[A0PD]
+Name=Scepter (KOTL)
+[A0PE]
+Name=Scepter (Lich)
+[A0PF]
+Name=Scepter (Zeus)
+[A0PH]
+Name=撒旦之邪力|nSatanic
+Hotkey=T
+Researchhotkey=T
+Researchtip=学习 极度饥渴 - [|cffffcc00等级 %d|r]|n(Insatiable Hunger)
+Researchubertip="The Broodmother develops a violent thirst for vital fluids. This lust greatly increases her attack damage and gives her a vampiric attack.|nLasts 20 seconds. |n|n|cffffcc00Level 1|r - 60 bonus damage, 40% life steal. |n|cffffcc00Level 2|r - 75 bonus damage, 50% life steal. |n|cffffcc00Level 3|r - 90 bonus damage, 60% life steal.|n|n|cff99ccffCooldown: |r 60 seconds."
+Tip=极度饥渴 - [|cffffcc00等级 1|r],极度饥渴 - [|cffffcc00等级 2|r],极度饥渴 - [|cffffcc00等级 3|r]
+Ubertip=Gives the Broodmother 60 bonus damage and 40% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds.,Gives the Broodmother 75 bonus damage and 50% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds.,Gives the Broodmother 90 bonus damage and 60% life steal for 20 seconds.|n|n|cff99ccffCooldown: |r 60 seconds.
+[A0PI]
+Name=Item Agility Bonus
+[A0PJ]
+Name=Item Attack Speed 30%
+[A0PK]
+Name=Item Damage Bonus (+30)
+[A0PM]
+Name=Hero Glow
+[A0PO]
+Name=Magebane Trident
+[A0PP]
+Name=Item Hero Stat Bonus +10 agi/int
+[A0PQ]
+Name=Crit
+[A0PR]
+Name=Item Mana Regen 110%
+[A0PS]
+Name=Item Life Regeneration
+[A0PT]
+Name=Spell Damage Reduction
+[A0PU]
+Name=Item Life Regeneration
+[A0PW]
+Name=Spell Damage Reduction
+[A0PX]
+Name=虔诚光环
+[A0Q0]
+Name=Vladmir Damage
+[A0Q3]
+Name=Item Attack Speed 40%
+[A0Q5]
+Name=强袭装甲|nAssault Cuirass
+[A0Q8]
+Name=Scepter (CM1)
+[A0Q9]
+Name=Scepter (CM2)
+[A0QA]
+Name=Scepter (CM3)
+[A0QC]
+Name=Scepter (Lucifer1)
+[A0QI]
+Name=Surge Buff
+[A0QL]
+Name=Wall of Replicate Image
+Researchhotkey=C
+Hotkey=C
+[A0QZ]
+Name=Item Attack Speed Bonus
+[A0RC]
+Name=Insta
+[A0RF]
+Name=Refraction Damage Bonus
+[A0RR]
+Name=Berserker's Blood Damage Bonus
+[A0RS]
+Name=Berserker's Blood Attack Speed
+[A0S4]
+Name=Maim
+Tip=Slo|cffffcc00w|r
+Ubertip="Slows a target enemy unit's attack rate by <AIos,DataB1,%>% and movement speed by <AIos,DataA1,%>%. |nLasts <AIos,Dur1> seconds."
+[A0FY]
+Name=Magic Immunity Container
+[A0I5]
+Name=Berserker's Call Armor Bonus
+[A0SH]
+Name=Item Hero Stat Bonus
+[A0SL]
+Name=Item Life Regeneration
+[A0SO]
+Name=BIGHAND1
+[A0SR]
+Name=Rage Attack Speed
+[A0ST]
+Name=Magic Immunity Container
+[A0SZ]
+Name=Item Armor Bonus
+[A0T1]
+Name=Item Attack Speed Bonus
+[A0T2]
+Name=Rage
+Researchhotkey=R
+Hotkey=R
+Researchtip=学习 狂暴 - [|cffffcc00等级 %d|r]|n(Rage)
+Researchubertip=噬魂鬼变得无可遏制地狂暴，免疫魔法并获得攻击速度的提升。|n|n|cff99ccff冷却时间：|r19|n|cff99ccff魔法消耗：|r75|n|n|cffffcc00等级 1|r - |n提升30%的攻击速度，持续3秒|n|cffffcc00等级 2|r - |n提升45%的攻击速度，持续4秒|n|cffffcc00等级 3|r - |n提升60%的攻击速度，持续5秒|n|cffffcc00等级 4|r - |n提升80%的攻击速度，持续6秒
+Tip=狂暴 - [|cffffcc00等级 1|r],狂暴 - [|cffffcc00等级 2|r],狂暴 - [|cffffcc00等级 3|r],狂暴 - [|cffffcc00等级 4|r]
+Ubertip=噬魂鬼变得无可遏制地狂暴，免疫魔法并提升30%的攻击速度，持续3秒。|n|n|cff99ccff冷却时间：|r19,噬魂鬼变得无可遏制地狂暴，免疫魔法并提升45%的攻击速度，持续4秒。|n|n|cff99ccff冷却时间：|r19,噬魂鬼变得无可遏制地狂暴，免疫魔法并提升60%的攻击速度，持续5秒。|n|n|cff99ccff冷却时间：|r19,噬魂鬼变得无可遏制地狂暴，免疫魔法并提升80%的攻击速度，持续6秒。|n|n|cff99ccff冷却时间：|r19
+[A0T3]
+Name=Item Attack Speed Bonus
+[A0T4]
+Name=ICEARMORNEW
+[A0T5]
+Name=BIGHAND1New
+[A0T6]
+Name=BIGHAND2New
+[A0T7]
+Name=BIGHAND1New
+[A0T8]
+Name=BIGHAND2New
+[A0T9]
+Name=ICEARMORNEW (NEW)
+[A0TA]
+Name=Item Damage Bonus (+33)
+[A0TC]
+Name=Item Attack Speed Bonus
+[A0TE]
+Name=Orchid Spell Book
+[A0TF]
+Name=Item Hero Stat Bonus
+[A0TG]
+Name=Item Hero Stat Bonus
+[A0TJ]
+Name=BIGHAND2
+[A0TK]
+Name=Aghanims Spell Book
+[A0TN]
+Name=阿哈利姆神杖（光之守卫）
+[A0TP]
+Name=阿哈利姆神杖（秀逗魔导士）
+[A0TR]
+Name=阿哈利姆神杖（恶魔巫师）
+[A0TS]
+Name=阿哈利姆神杖（食人魔魔法师）
+[A0TV]
+Name=阿哈利姆神杖（遗忘法师）
+[A0TX]
+Name=阿哈利姆神杖（痛苦女王）
+[A0TZ]
+Name=阿哈利姆神杖（暗影萨满）
+[A0U1]
+Name=阿哈利姆神杖（众神之王）
+[A0U3]
+Name=阿哈利姆神杖（水晶室女）
+[A0U5]
+Name=阿哈利姆神杖（巫妖）
+[A0U7]
+Name=阿哈利姆神杖（受折磨的灵魂）
+[A0U9]
+Name=阿哈利姆神杖（先知）
+[A0UB]
+Name=阿哈利姆神杖（剧毒术士）
+[A0UD]
+Name=阿哈利姆神杖（死灵法师）
+[A0UF]
+Name=阿哈利姆神杖（月之骑士）
+[A0UH]
+Name=阿哈利姆神杖（巫医）
+[A0UJ]
+Name=阿哈利姆神杖（末日使者）
+[A0UK]
+Name=Armlet Effect
+[A0UT]
+Name=FrogSphere
+[A0UU]
+Name=Invoker Sphere
+Researchtip=Learn Disentang|cffffcc00l|re - [|cffffcc00Level %d|r]
+Researchubertip="By disassociating herself with this plane, Shandelzare avoids being hit by an offensive spell.  |n|n|cffffcc00Level 1|r - 220 second cooldown.|n|cffffcc00Level 2|r - 160 second cooldown.|n|cffffcc00Level 3|r - 100 second cooldown.|n|cffffcc00Level 4|r - 40 second cooldown."
+Tip=,Disentangle - [|cffffcc00Level 2|r],Disentangle - [|cffffcc00Level 3|r],Disentangle - [|cffffcc00Level 4|r]
+Researchhotkey=L
+Ubertip=,Blocks an offensive spell cast on the Vengeful Spirit every 160 seconds.,Blocks an offensive spell cast on the Vengeful Spirit every 100 seconds.,Blocks an offensive spell cast on the Vengeful Spirit every 40 seconds.
+[A0UV]
+Name=Crit 100%
+[A0UW]
+Name=Item Move faster (max)
+[A0UX]
+Name=Item Mana Regen 200
+[A0UY]
+Name=Item Mana Regen 75
+[A0V0]
+Name=Euls movement
+[A0V1]
+Name=Item Int Bonus
+[A0V2]
+Name=Item Mana Regen 250
+[A0V3]
+Name=Item Mana Regen 225
+[A0V6]
+Name=Quas - 13
+[A0V7]
+Name=Exort - Effect
+[A0VE]
+Name=Wex - AS
+[A0WD]
+Name=Wex - MS Book
+[A0WO]
+Name=God's Strength Container
+[A0WR]
+Name=Insatiable Hunger Container
+[A0WS]
+Name=Insatiable Hunger - Damage Level 3
+[A0WT]
+Name=Insatiable Hunger - Damage Level 2
+[A0WU]
+Name=Insatiable Hunger - Damage Level 1
+[A0X0]
+Name=Item Damage Bonus
+[A0X1]
+Name=Item Agility Bonus
+[A0X2]
+Name=Quilbeast Spell Damage Reduction
+[A0X8]
+Name=Item Hero Stat Bonus
+[A0X9]
+Name=Guinsoo Stat Bonus
+[A0XC]
+Name=Item Life Steal 40%
+[A0XE]
+Name=Rampage Container
+[A0XJ]
+Name=Rampage Effect
+[A0XK]
+Name=Invoke Tornado Cyclone
+Tip=龙卷风|n(Cyclone)
+Ubertip="将非机械目标单位抛向空中，使其不能移动，攻击和施放任何魔法或技能。其他单位在此期间不能攻击该目标。|n持续<AIcy,Dur1>秒。"
+Hotkey=C
+[A0XO]
+Name=Quas - Regen Book
+[A0XP]
+Name=Quas - 21
+[A0XQ]
+Name=Quas - 4
+[A0XR]
+Name=Quas - 20
+[A0XS]
+Name=Quas - 8
+[A0XT]
+Name=Quas - 7
+[A0XU]
+Name=Quas - 10
+[A0XV]
+Name=Quas - 15
+[A0XW]
+Name=Quas - 17
+[A0XX]
+Name=Quas - 16
+[A0XY]
+Name=Quas - 2
+[A0XZ]
+Name=Quas - 5
+[A0Y0]
+Name=Quas - 6
+[A0Y1]
+Name=Quas - 12
+[A0Y2]
+Name=Quas - 18
+[A0Y3]
+Name=Quas - 11
+[A0Y4]
+Name=Quas - 9
+[A0Y5]
+Name=Quas - 19
+[A0Y6]
+Name=Quas - 3
+[A0Y7]
+Name=Quas - 14
+[A0Y8]
+Name=Quas - 1
+[A0VJ]
+Name=Invoke 1
+[A0VU]
+Name=Item Mana Bonus (400)
+[A0VW]
+Name=Melting Strike - Armor Reduction
+[A0VX]
+Name=守墓人的斗篷
+Ubertip=死灵飞龙用死灵的魔法力量环绕自身，为自己提供额外的护甲和魔法抗性。然而，每受到一次来自玩家的攻击，防护力量就会被削弱一层。|n魔法防护力一共有4层，每层提供1点护甲和3%的魔法抗性；6秒后会自动恢复一层防护力。,死灵飞龙用死灵的魔法力量环绕自身，为自己提供额外的护甲和魔法抗性。然而，每受到一次来自玩家的攻击，防护力量就会被削弱一层。|n魔法防护力一共有4层，每层提供2点护甲和6%的魔法抗性；6秒后会自动恢复一层防护力。,死灵飞龙用死灵的魔法力量环绕自身，为自己提供额外的护甲和魔法抗性。然而，每受到一次来自玩家的攻击，防护力量就会被削弱一层。|n魔法防护力一共有4层，每层提供4点护甲和12%的魔法抗性；6秒后会自动恢复一层防护力。,死灵飞龙用死灵的魔法力量环绕自身，为自己提供额外的护甲和魔法抗性。然而，每受到一次来自玩家的攻击，防护力量就会被削弱一层。|n魔法防护力一共有4层，每层提供5点护甲和16%的魔法抗性；6秒后会自动恢复一层防护力。
+Researchhotkey=V
+Researchtip=学习 守墓人的斗篷 - [|cffffcc00等级 %d|r]|n(Gravekeeper's Cloak)
+Researchubertip=死灵飞龙用死灵的魔法力量环绕自身，为自己提供额外的护甲和魔法抗性。然而，每受到一次来自玩家的攻击，防护力量就会被削弱一层。|n魔法防护力一共有4 层；6秒后会自动恢复一层防护力。|n|n|cffffcc00等级 1|r - 每层提供1点护甲和3%的魔法抗性|n|cffffcc00等级 2|r - 每层提供2点护甲和6%的魔法抗性|n|cffffcc00等级 3|r - 每层提供4点护甲和12%的魔法抗性|n|cffffcc00等级 4|r - 每层提供5点护甲和16%的魔法抗性
+Tip=守墓人的斗篷 - [|cffffcc00等级 1|r],守墓人的斗篷 - [|cffffcc00等级 2|r],守墓人的斗篷 - [|cffffcc00等级 3|r],守墓人的斗篷 - [|cffffcc00等级 4|r]
+[A0XM]
+Name=Soul Assumption - Effect
+[A0YN]
+Name=Item Attack Speed Bonus
+[A0LR]
+Name=Soul Assumption FX Level 1
+[A0MD]
+Name=Soul Assumption FX Level 6
+[A0NF]
+Name=Soul Assumption FX Level 5
+[A0OG]
+Name=Soul Assumption FX Level 3
+[A0YO]
+Name=Soul Assumption FX Level 4
+[A0YP]
+Name=Soul Assumption FX Level 2
+[A0YS]
+Name=Item Agility Bonus
+[A0ZE]
+Name=Feral Heart Damage Container
+[A0ZK]
+Name=Lycan Damage - Hero - 3
+[A0ZL]
+Name=Lycan Damage - Hero - 1
+[A0ZM]
+Name=Lycan Damage - Hero - 2
+[A0ZN]
+Name=Lycan Damage - Hero - 4
+[A0ZO]
+Name=Lycan Damage - Hero - 2 (negative)
+[A0ZP]
+Name=Lycan Damage - Hero - 3 (negative)
+[A0ZQ]
+Name=Lycan Damage - Hero - 1 (negative)
+[A0ZR]
+Name=Lycan Damage - Hero - 4 (negative)
+[A0ZT]
+Name=Lycan Damage - Creep - 1
+[A0ZU]
+Name=Lycan Damage - Creep - 2
+[A0ZV]
+Name=Lycan Damage - Creep - 3
+[A0ZW]
+Name=Lycan Damage - Creep - 4
+[A0ZX]
+Name=Lycan Damage - Creep - 4 (negative)
+[A0ZY]
+Name=Lycan Damage - Creep - 3 (negative)
+[A0ZZ]
+Name=Lycan Damage - Creep - 1 (negative)
+[A100]
+Name=Lycan Damage - Creep - 2 (negative)
+[A109]
+Name=Alacrity Damage Bonus
+[A10F]
+Name=Spirit Lance Image lvl 4
+[A10G]
+Name=Spirit Lance Image lvl 2
+[A10H]
+Name=Spirit Lance Image lvl 1
+[A10I]
+Name=Spirit Lance Image lvl 3
+[A116]
+Name=Night Stalker FX 1
+[A117]
+Name=Night Stalker FX 2
+[A11I]
+Name=Undead Crown
+[A11P]
+Name=Ghost Ship FX 1
+[A11Q]
+Name=Ghost Ship FX 2
+[A11R]
+Name=Water Sword FX
+[A125]
+Name=Captain CoCo's Rum FX
+[A126]
+Name=Captain CoCo's Rum Container
+[A129]
+Name=Fear of the Dark - Vision
+[A12C]
+Name=Fear of the Dark Container
+[A12E]
+Name=Item Mana Bonus (50)
+[A12H]
+Name=Item Strength Bonus
+[A12L]
+Name=Windrunner Cyclone
+Tip=龙卷风|n(Cyclone)
+Ubertip="将非机械目标单位抛向空中，使其不能移动，攻击和施放任何魔法或技能。其他单位在此期间不能攻击该目标。|n持续<AIcy,Dur1>秒。"
+Hotkey=C
+[A12O]
+Name=Windrunner Container - 2
+[A12R]
+Name=Focus Fire Container
+[A12S]
+Name=Focus Fire FX
+[A12T]
+Name=Windrunner FX
+[A12U]
+Name=Wind Arrow FX
+[A12V]
+Name=Phase Boots Speed Bonus
+[A12X]
+Name=Item Armor Bonus
+[A12Y]
+Name=Item Damage Bonus (+14)
+[A134]
+Name=Windrunner Container - 3
+[A135]
+Name=Windrunner Container - 1
+[A139]
+Name=Windrunner Container - 4
+[A13B]
+Name=Item Armor Bonus
+[A13C]
+Name=Item Damage Bonus (+16)
+[A13J]
+Name=Magic Stick (old)
+[A13K]
+Name=Power Treads Click Old
+[A13L]
+Name=Item Life Regeneration
+[A13M]
+Name=Item Damage Bonus (+31)
+[A13N]
+Name=Maim
+[A13O]
+Name=散夜对剑|nSange and Yasha
+[A13V]
+Name=龙卷风
+Tip=龙卷风|n(Cyclone)
+Ubertip="将非机械目标单位抛向空中，使其不能移动，攻击和施放任何魔法或技能。其他单位在此期间不能攻击该目标。|n持续<AIcy,Dur1>秒。"
+Hotkey=C
+[A13W]
+Name=洪流
+Tip=龙卷风|n(Cyclone)
+Ubertip="将非机械目标单位抛向空中，使其不能移动，攻击和施放任何魔法或技能。其他单位在此期间不能攻击该目标。|n持续<AIcy,Dur1>秒。"
+Hotkey=C
+[A13Y]
+Name=Gargoyle Spell Damage Reduction Greater
+[A143]
+Name=Item Damage Bonus
+[A14V]
+Name=Death Stench Slow
+[A15I]
+Name=Living Dead Spell Damage Reduction
+[A15N]
+Name=Undying Aura HP Buff
+[A15M]
+Name=Undying Aura HP Buff
+[A15O]
+Name=Undying Aura HP Buff
+[A15P]
+Name=Undying Aura HP Buff
+[A15Q]
+Name=Undying Aura HP Buff
+[A15R]
+Name=Undying Aura HP Buff
+[A15U]
+Name=Death Stench Slow
+[A160]
+Name=Flesh Golem HP - 1
+[A161]
+Name=Flesh Golem HP - 13
+[A162]
+Name=Flesh Golem HP - 6
+[A163]
+Name=Flesh Golem HP - 2
+[A164]
+Name=Flesh Golem HP - 20
+[A165]
+Name=Flesh Golem HP - 23
+[A166]
+Name=Flesh Golem HP - 12
+[A167]
+Name=Flesh Golem HP - 1
+[A168]
+Name=Flesh Golem HP - 1
+[A169]
+Name=Flesh Golem HP - 1
+[A16A]
+Name=Flesh Golem HP - 21
+[A16B]
+Name=Flesh Golem HP - 1
+[A16C]
+Name=Flesh Golem HP - 1
+[A16D]
+Name=Flesh Golem HP - 1
+[A16E]
+Name=Flesh Golem HP - 1
+[A16F]
+Name=Flesh Golem HP - 25
+[A16G]
+Name=Flesh Golem HP - 16
+[A16H]
+Name=Flesh Golem HP - 3
+[A16I]
+Name=Flesh Golem HP - 8
+[A16J]
+Name=Flesh Golem HP - 9
+[A16K]
+Name=Flesh Golem HP - 10
+[A16L]
+Name=Flesh Golem HP - 19
+[A16M]
+Name=Flesh Golem HP - 14
+[A16N]
+Name=Flesh Golem HP - 11
+[A16O]
+Name=Flesh Golem HP - 1
+[A16P]
+Name=Flesh Golem HP - 1
+[A16Q]
+Name=Flesh Golem HP - 5
+[A16R]
+Name=Flesh Golem HP - 7
+[A16S]
+Name=Flesh Golem HP - 1
+[A16T]
+Name=Flesh Golem HP - 15
+[A16U]
+Name=Flesh Golem HP - 17
+[A16V]
+Name=Flesh Golem HP - 18
+[A16W]
+Name=Flesh Golem HP - 22
+[A16X]
+Name=Flesh Golem HP - 24
+[A16Y]
+Name=Flesh Golem HP - 4
+[A16Z]
+Name=Flesh Golem HP - 1
+[A171]
+Name=Item Damage Bonus (+80)
+[A172]
+Name=Item Damage Bonus (+75)
+[A174]
+Name=Cranium Basher Container
+[A175]
+Name=碎颅锤|nCranium Basher
+[A17A]
+Name=Plague Aura Container
+[A17C]
+Name=Damage Bonus System - 8
+[A17D]
+Name=Damage Bonus System - 16
+[A17E]
+Name=Damage Bonus System - 32
+[A17F]
+Name=Damage Bonus System - 1
+[A17G]
+Name=Damage Bonus System - 2
+[A17H]
+Name=Damage Bonus System - 4
+[A17I]
+Name=Damage Bonus System - 128
+[A17J]
+Name=Damage Bonus System - 64
+[A17L]
+Name=Damage Bonus System - 256
+[A17Q]
+Name=Item Agility Bonus
+[A17R]
+Name=Fortification Armor Bonus
+[A186]
+Name=法术护盾
+[A187]
+Name=Item Strength Bonus
+[A18P]
+Name=Unholy Fervor Container
+[A1A2]
+Name=法术护盾
+[A1AG]
+Name=Item Hero Stat Bonus Leveler
+[A1AL]
+Name=Spell Damage Reduction Lightning Sentry
+[A1AM]
+Name=Lightning Sentry Container
+[A1AR]
+Name=Scepter CM
+[A1B0]
+Name=Darkness upgrade
+Researchtip=学习 夜幕降临 - [|cffffcc00等级 %d|r]|n(Darkness)
+Researchhotkey=R
+Hotkey=R
+Researchubertip=创造50秒黑暗的时间让暗夜魔王大行其道。减少敌军25%的视野。在夜晚提供顺畅的视野。|n|n|cff99ccff冷却时间：|r120|n|cff99ccff魔法消耗：|r0
+Tip=夜幕降临 - [|cffffcc00等级 1|r],夜幕降临 - [|cffffcc00等级 2|r],夜幕降临 - [|cffffcc00等级 3|r]
+Ubertip=将白天变为夜晚，持续50秒。减少敌军25%的视野，同时在夜间提供顺畅的视野。|n|n|cff99ccff冷却时间：|r160,将白天变为夜晚，持续50秒。减少敌军25%的视野，同时在夜间提供顺畅的视野。|n|n|cff99ccff冷却时间：|r120,将白天变为夜晚，持续50秒。减少敌军25%的视野，同时在夜间提供顺畅的视野。|n|n|cff99ccff冷却时间：|r80
+[A1B8]
+Name=阿哈利姆神杖（矮人火枪手）
+[A1B9]
+Name=阿哈利姆神杖（发条地精）
+[A1BA]
+Name=阿哈利姆神杖（复仇之魂）
+[A1BB]
+Name=阿哈利姆神杖（主宰）
+[A1BC]
+Name=阿哈利姆神杖（沙王）
+[A1BD]
+Name=阿哈利姆神杖（祈求者）
+[A1BE]
+Name=阿哈利姆神杖（熊猫酒仙）
+[A1BF]
+Name=阿哈利姆神杖（骷髅王）
+[A1BG]
+Name=阿哈利姆神杖（暗夜魔王）
+[A1BH]
+Name=阿哈利姆神杖（混沌骑士）
+[A1BI]
+Name=阿哈利姆神杖（神灵武士）
+[A1BJ]
+Name=阿哈利姆神杖（双头龙）
+[A1BW]
+Name=Item Damage Bonus (+20)
+[A1BZ]
+Name=闪避
+Ubertip="Gives a <AIev,DataA1,%>% chance to avoid an attack."
+[A1C1]
+Name=Item Damage Bonus (+24)
+[A1C2]
+Name=Natural Order - Spell 3
+[A1C6]
+Name=Natural Order - Spell 1
+[A1C7]
+Name=Natural Order - Spell 2
+[A1C8]
+Name=Natural Order - Spell 4
+[A1C9]
+Name=Natural Order 2
+[A1CA]
+Name=Natural Order 1
+[A1CB]
+Name=Natural Order 3
+[A1CC]
+Name=Natural Order 4
+[A1CF]
+Name=Negative Armor System -4
+[A1CG]
+Name=Negative Armor System -16
+[A1CH]
+Name=Negative Armor System -32
+[A1CI]
+Name=Negative Armor System -8
+[A1CK]
+Name=Negative Armor System -2
+[A1CM]
+Name=Negative Armor System -1
+[A1CJ]
+Name=Item Agility Bonus
+[A1CN]
+Name=Item Life Steal 200%
+[A1CO]
+Name=Phantom Strike
+[A1CU]
+Name=阿哈利姆神杖（圣骑士）
+[A1CY]
+Name=阿哈利姆神杖（屠夫）
+[A1CZ]
+Name=阿哈利姆神杖（SB）
+[A1D0]
+Name=阿哈利姆神杖（痛苦之源）
+[A1D1]
+Name=阿哈利姆神杖（虚空假面）
+[A1D2]
+Name=阿哈利姆神杖（风行者）
+[A1D3]
+Name=阿哈利姆神杖（地狱领主）
+[A1D4]
+Name=阿哈利姆神杖（暗影牧师）
+[A1DK]
+Name=Eye Of The Storm Negative Armor System -1
+[A1DL]
+Name=Eye Of The Storm Negative Armor System -2
+[A1DM]
+Name=Eye Of The Storm Negative Armor System -8
+[A1DN]
+Name=Eye Of The Storm Negative Armor System -4
+[A1DO]
+Name=Eye Of The Storm Negative Armor System -16
+[A1DQ]
+Name=Static Link Damage Positive 2
+[A1DR]
+Name=Static Link Damage Positive 4
+[A1DS]
+Name=Static Link Damage Positive 8
+[A1DT]
+Name=Static Link Damage Positive 16
+[A1DU]
+Name=Static Link Damage Positive 32
+[A1DV]
+Name=Static Link Damage Positive 1
+[A1DW]
+Name=Static Link Damage Positive 64
+[A1DX]
+Name=Static Link Damage Positive 128
+[A1DY]
+Name=Static Link Damage Negative 128
+[A1DZ]
+Name=Static Link Damage Negative 64
+[A1E0]
+Name=Static Link Damage Negative 16
+[A1E1]
+Name=Static Link Damage Negative 8
+[A1E2]
+Name=Static Link Damage Negative 4
+[A1E3]
+Name=Static Link Damage Negative 2
+[A1E4]
+Name=Static Link Damage Negative 1
+[A1E5]
+Name=Static Link Damage Negative 32
+[A1EB]
+Name=Autofire
+Researchtip=学习 连击 - [|cffffcc00等级 %d|r]|n(Geminate Attack)
+Researchubertip="Occasionally the Nerubian Weaver will send out two swarms, attacking an opponent twice. You must do an ordered attack to activate this. |n|n|cffffcc00Level 1|r - 6 second cooldown.|n|cffffcc00Level 2|r - 5 second cooldown|n|cffffcc00Level 3|r - 4 second cooldown|n|cffffcc00Level 4|r - 2.5 second cooldown|n|n|c00ff0303Orb effect.|r"
+Researchhotkey=K
+[A1F3]
+Name=Warcry Container - Level 3
+[A1F5]
+Name=Warcry Container - Level 4
+[A1F6]
+Name=Warcry Container - Level 1
+[A1F7]
+Name=Warcry Container - Level 2
+[A1FC]
+Name=Autofire FX
+[A1FE]
+Name=Warcry FX
+[A1FF]
+Name=Liquid Fire Container - 1
+[A1FG]
+Name=Liquid Fire Container - 2
+[A1FH]
+Name=Liquid Fire Container - 4
+[A1FI]
+Name=Liquid Fire Container - 3
+[A1FQ]
+Name=MKB Spell Book
+[A1FR]
+Name=Item Armor Bonus
+[A1FS]
+Name=Item Armor Bonus
+[A1FX]
+Name=Item Hero Stat Bonus
+[A1G1]
+Name=阿哈利姆神杖（地精工程师）
+[A1G2]
+Name=Item Attack Speed Bonus
+[A1G3]
+Name=Liquid Fire Slow 2
+[A1G4]
+Name=Liquid Fire Slow 4
+[A1G5]
+Name=Liquid Fire Slow 1
+[A1G6]
+Name=Liquid Fire Slow 3
+[A1GI]
+Name=Bonus Attack Speed - 128
+[A1GJ]
+Name=Bonus Attack Speed - 4
+[A1GK]
+Name=Bonus Attack Speed - 1
+[A1GL]
+Name=Bonus Attack Speed - 2
+[A1GM]
+Name=Bonus Attack Speed - 16
+[A1GN]
+Name=Bonus Attack Speed - 32
+[A1GO]
+Name=Bonus Attack Speed - 64
+[A1GP]
+Name=Bonus Attack Speed - 8
+[A1GQ]
+Name=Bonus Attack Speed - 256
+[A1GW]
+Name=Item Life Regeneration
+[A1GX]
+Name=Item Attack Speed Bonus
+[A1GY]
+Name=Item Damage Bonus (+10)
+[A1H2]
+Name=Item Hero Stat Bonus
+[A1H3]
+Name=Item Hero Stat Bonus
+[A1H4]
+Name=Item Hero Stat Bonus
+[A1H6]
+Name=Item Hero Stat Bonus
+[A1H7]
+Name=Item Hero Stat Bonus
+[A1H8]
+Name=Item Hero Stat Bonus
+[A1H9]
+Name=Item Hero Stat Bonus
+[A1HA]
+Name=Item Hero Stat Bonus
+[A1HB]
+Name=Item Damage Bonus (+12)
+[A1HC]
+Name=Item Damage Bonus (+46)
+[A1HD]
+[A1HE]
+Name=Item Attack Speed Bonus
+[A1HF]
+Name=Item Hero Stat Bonus
+[A1HG]
+Name=Item Damage Bonus (+26)
+[A1HI]
+Name=Item Damage Bonus (+45)
+[A1HJ]
+Name=Item Strength Bonus
+[A1HK]
+Name=Item Strength Bonus
+[A1HZ]
+Name=Ice Vortex 1
+[A1I0]
+Name=Ice Vortex - Spell 3
+[A1I1]
+Name=Ice Vortex - Spell 2
+[A1I2]
+Name=Ice Vortex - Spell 1
+[A1I3]
+Name=Ice Vortex 3
+[A1I4]
+Name=Ice Vortex 2
+[A1I5]
+Name=Ice Vortex - Spell 4
+[A1I6]
+Name=Ice Vortex 4
+[A1I7]
+Name=Nightcrawler FX
+[A1IE]
+Name=Nightcrawler Container - 1
+[A1IF]
+Name=Nightcrawler Container - 2
+[A1IG]
+Name=Nightcrawler Container - 3
+[A1IR]
+Name=Jinada Damage
+[A1IS]
+Name=Jinada FX
+[A1IU]
+Name=Jinada Container - 4
+[A1IW]
+Name=Jinada Maim
+[A1IY]
+Name=PhantasmStrike Helper
+[A1J3]
+Name=Jinada Container - 2
+[A1J4]
+Name=Jinada Container - 1
+[A1J5]
+Name=Jinada Container - 3
+[A1J6]
+Name=Pounce FX
+[A1JC]
+Name="IceShell - 1,4"
+[A1JD]
+Name="IceShell - 1,5"
+[A1JE]
+Name="IceShell - 1,6"
+[A1JF]
+Name="IceShell - 2,1"
+[A1JG]
+Name="IceShell - 2,2"
+[A1JH]
+Name="IceShell - 2,3"
+[A1JI]
+Name="IceShell - 2,4"
+[A1JJ]
+Name="IceShell - 3,1"
+[A1JK]
+Name="IceShell - 2,6"
+[A1JL]
+Name="IceShell - 3,2"
+[A1JM]
+Name="IceShell - 3,3"
+[A1JN]
+Name="IceShell - 3,4"
+[A1JO]
+Name="IceShell - 3,5"
+[A1JP]
+Name="IceShell - 3,6"
+[A1JQ]
+Name="IceShell - 4,1"
+[A1JR]
+Name="IceShell - 4,2"
+[A1JS]
+Name="IceShell - 4,6"
+[A1JT]
+Name="IceShell - 1,1"
+[A1JU]
+Name="IceShell - 1,2"
+[A1JV]
+Name="IceShell - 1,3"
+[A1JW]
+Name="IceShell - 2,5"
+[A1JX]
+Name="IceShell - 4,3"
+[A1JY]
+Name="IceShell - 4,4"
+[A1JZ]
+Name="IceShell - 4,5"
+[A1K1]
+Name="IceShell Book - 2,1"
+[A1KP]
+Name="IceShell Book - 1,4"
+[A1KQ]
+Name="IceShell Book - 1,3"
+[A1KR]
+Name="IceShell Book - 1,1"
+[A1KS]
+Name="IceShell Book - 1,2"
+[A1KT]
+Name="IceShell Book - 2,6"
+[A1KU]
+Name="IceShell Book - 1,5"
+[A1KV]
+Name="IceShell Book - 1,6"
+[A1KW]
+Name="IceShell Book - 2,2"
+[A1KX]
+Name="IceShell Book - 2,3"
+[A1KY]
+Name="IceShell Book - 2,4"
+[A1KZ]
+Name="IceShell Book - 2,5"
+[A1L0]
+Name="IceShell Book - 3,5"
+[A1L1]
+Name="IceShell Book - 3,4"
+[A1L2]
+Name="IceShell Book - 3,3"
+[A1L3]
+Name="IceShell Book - 3,2"
+[A1L4]
+Name="IceShell Book - 3,1"
+[A1L5]
+Name="IceShell Book - 3,6"
+[A1L6]
+Name="IceShell Book - 4,6"
+[A1L7]
+Name="IceShell Book - 4,2"
+[A1L8]
+Name="IceShell Book - 4,1"
+[A1L9]
+Name="IceShell Book - 4,3"
+[A1LA]
+Name="IceShell Book - 4,5"
+[A1LB]
+Name="IceShell Book - 4,4"
+[A1LD]
+Name=Gust Container
+[A1LE]
+Name=Ice Blast FX
+[A1LG]
+Name="IceShell - 4,7"
+[A1LH]
+Name="IceShell Book - 4,7"
+[A1LI]
+Name=IceShellEnemy - Armor 1
+[A1LJ]
+Name=IceShellEnemy - Armor 2
+[A1LK]
+Name=IceShellEnemy - Armor 3
+[A1LL]
+Name=IceShellEnemy - Armor 6
+[A1LM]
+Name=IceShellEnemy - Armor 8
+[A1LN]
+Name=IceShellEnemy - Armor 10
+[A1LO]
+Name=IceShellEnemy - Armor 4
+[A1LP]
+Name=IceShellEnemy - Armor 5
+[A1LQ]
+Name=IceShellEnemy - Armor 9
+[A1LR]
+Name=IceShellEnemy - Armor 7
+[A1LS]
+Name=IceShellEnemy - Armor 1
+[A1M3]
+Name=IceShellEnemy Book - 1
+[A1M4]
+Name=IceShellEnemy Book - 2
+[A1M5]
+Name=IceShellEnemy Book - 8
+[A1M6]
+Name=IceShellEnemy Book - 10
+[A1M7]
+Name=IceShellEnemy Book - 4
+[A1M8]
+Name=IceShellEnemy Book - 5
+[A1M9]
+Name=IceShellEnemy Book - 6
+[A1MA]
+Name=IceShellEnemy Book - 7
+[A1MB]
+Name=IceShellEnemy Book - 9
+[A1MC]
+Name=IceShellEnemy Book - 3
+[A1LT]
+Name=IceShellEnemy - Magic 1
+[A1LU]
+Name=IceShellEnemy - Magic 2
+[A1LV]
+Name=IceShellEnemy - Magic 3
+[A1LW]
+Name=IceShellEnemy - Magic 5
+[A1LX]
+Name=IceShellEnemy - Magic 6
+[A1LY]
+Name=IceShellEnemy - Magic 9
+[A1LZ]
+Name=IceShellEnemy - Magic 8
+[A1M0]
+Name=IceShellEnemy - Magic 7
+[A1M1]
+Name=IceShellEnemy - Magic 4
+[A1M2]
+Name=IceShellEnemy - Magic 10
+[A1ML]
+Name=幻象法杖
+[A1MM]
+Name=Staff of Healing
+[A1MT]
+Name=阿哈利姆神杖（斧王）
+[A1MU]
+Name=Aghanim's Scepter (Nevermore)
+[A1MX]
+Name=Aghanim's Scepter (Batrider)
+[A1N0]
+Name=阿哈利姆神杖（撼地神牛）
+[A1N3]
+Name=超强力量
+[A1N5]
+Name=Overpower FX
+[A1N6]
+Name=Overpower Container
+[A1NJ]
+Name=Soul Assumption FX Level Final
+[A1NP]
+Name=Spirit Echo
+Ubertip=text.,text.,text.,text.
+Researchhotkey=I
+Researchtip=Learn Sp|cffffcc00i|rrit Echo - [|cffffcc00Level %d|r]
+Researchubertip=text. |n|n|cffffcc00Level 1|r - text. |n|cffffcc00Level 2|r - text. |n|cffffcc00Level 3|r - text. |n|cffffcc00Level 4|r - text. 
+Tip=Sp|cffffcc00i|rrit Echo - [|cffffcc00Level 1|r],Sp|cffffcc00i|rrit Echo - [|cffffcc00Level 2|r],Sp|cffffcc00i|rrit Echo - [|cffffcc00Level 3|r],Sp|cffffcc00i|rrit Echo - [|cffffcc00Level 4|r]
+[A1IP]
+Name=极寒之触
+[A1J8]
+Name=Spell Damage Reduction Greater 50%
+[A1NQ]
+Name=Scepter (Luna)
+[A1NR]
+Name=Scepter (Vengeful Spirit)
+[A1NS]
+Name=Scepter (Huskar)
+[A1NV]
+Name=Spell Damage Reduction FULL
+[A1NW]
+Name=Scepter (Leshrac)
+[A1NX]
+Name=Scepter (Sandking)
+[A1N9]
+Name=灵魂超度
+Ubertip=能量点：3,Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE.
+Researchhotkey=T
+Researchtip=学习 灵魂超度 - [|cffffcc00等级 %d|r]|n(Soul Assumption)
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip=灵魂超度,Soul Assumption - [|cffffcc00Level 2|r],Soul Assumption - [|cffffcc00Level 3|r],Soul Assumption - [|cffffcc00Level 4|r]
+[A1NY]
+Name=灵魂超度
+Ubertip=能量点：4,Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE.
+Researchhotkey=T
+Researchtip=学习 灵魂超度 - [|cffffcc00等级 %d|r]|n(Soul Assumption)
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip=灵魂超度,Soul Assumption - [|cffffcc00Level 2|r],Soul Assumption - [|cffffcc00Level 3|r],Soul Assumption - [|cffffcc00Level 4|r]
+[A1NZ]
+Name=灵魂超度
+Ubertip=能量点：2,Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE.
+Researchhotkey=T
+Researchtip=学习 灵魂超度 - [|cffffcc00等级 %d|r]|n(Soul Assumption)
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip=灵魂超度,Soul Assumption - [|cffffcc00Level 2|r],Soul Assumption - [|cffffcc00Level 3|r],Soul Assumption - [|cffffcc00Level 4|r]
+[A1O0]
+Name=灵魂超度
+Ubertip=能量点：5,Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE.
+Researchhotkey=T
+Researchtip=学习 灵魂超度 - [|cffffcc00等级 %d|r]|n(Soul Assumption)
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip=灵魂超度,Soul Assumption - [|cffffcc00Level 2|r],Soul Assumption - [|cffffcc00Level 3|r],Soul Assumption - [|cffffcc00Level 4|r]
+[A1O1]
+Name=灵魂超度
+Ubertip=能量点：0,Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE.
+Researchhotkey=T
+Researchtip=学习 灵魂超度 - [|cffffcc00等级 %d|r]|n(Soul Assumption)
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip=灵魂超度,Soul Assumption - [|cffffcc00Level 2|r],Soul Assumption - [|cffffcc00Level 3|r],Soul Assumption - [|cffffcc00Level 4|r]
+[A1O2]
+Name=灵魂超度
+Ubertip=能量点：1,Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE.
+Researchhotkey=T
+Researchtip=学习 灵魂超度 - [|cffffcc00等级 %d|r]|n(Soul Assumption)
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip=灵魂超度,Soul Assumption - [|cffffcc00Level 2|r],Soul Assumption - [|cffffcc00Level 3|r],Soul Assumption - [|cffffcc00Level 4|r]
+[A1O3]
+Name=灵魂超度
+Ubertip=能量点：6,Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE.
+Researchhotkey=T
+Researchtip=学习 灵魂超度 - [|cffffcc00等级 %d|r]|n(Soul Assumption)
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip=灵魂超度,Soul Assumption - [|cffffcc00Level 2|r],Soul Assumption - [|cffffcc00Level 3|r],Soul Assumption - [|cffffcc00Level 4|r]
+[A1O6]
+Name=灵魂超度
+Ubertip=能量点：3,Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE.
+Researchhotkey=T
+Researchtip=学习 灵魂超度 - [|cffffcc00等级 %d|r]|n(Soul Assumption)
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip=灵魂超度,Soul Assumption - [|cffffcc00Level 2|r],Soul Assumption - [|cffffcc00Level 3|r],Soul Assumption - [|cffffcc00Level 4|r]
+[A1O7]
+Name=灵魂超度
+Ubertip=能量点：3,Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE.
+Researchhotkey=T
+Researchtip=学习 灵魂超度 - [|cffffcc00等级 %d|r]|n(Soul Assumption)
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip=灵魂超度,Soul Assumption - [|cffffcc00Level 2|r],Soul Assumption - [|cffffcc00Level 3|r],Soul Assumption - [|cffffcc00Level 4|r]
+[A1O8]
+Name=灵魂超度
+Ubertip=能量点：3,Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE.
+Researchhotkey=T
+Researchtip=学习 灵魂超度 - [|cffffcc00等级 %d|r]|n(Soul Assumption)
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip=灵魂超度,Soul Assumption - [|cffffcc00Level 2|r],Soul Assumption - [|cffffcc00Level 3|r],Soul Assumption - [|cffffcc00Level 4|r]
+[A1O9]
+Name=Spell Damage Reduction almost FULL
+[A1OC]
+Name=Scepter (Earthshaker)
+[A1OL]
+Name=Scorched Earth Container - 1
+[A1OM]
+Name=Scorched Earth Container - 4
+[A1ON]
+Name=Scorched Earth Container - 2
+[A1OO]
+Name=Scorched Earth Container - 3
+[A1P7]
+Name=Frost Attack (Lucy)
+[A1PA]
+Name=霜冻攻击
+Ubertip=霜冻攻击减缓敌人的移动速度，每次攻击减缓20/20%的攻击/移动速度，持续2秒。|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r|n|cffff0303无视魔法免疫|r
+Tip=霜冻攻击
+[A1PV]
+Name=Capture Point - Ability HP 3a
+[A1PB]
+Name=Capture Point - Ability HP 3a - Creeps
+[A1PD]
+Name=Capture Point - Ability HP 3b
+[A1PW]
+Name=Capture Point - Ability HP 3b - Creeps
+[A1Q0]
+Name=Empower Cleave Container 1
+[A1Q1]
+Name=Empower Cleave Container 2
+[A1Q2]
+Name=Empower Cleave Container 3
+[A1Q3]
+Name=Empower Cleave Container 4
+[A1QA]
+Name=Ethereal Blade Stats
+[A1QC]
+Name=Etherblast Container
+[A1QE]
+Name=HP Bonus System - 1
+[A1QF]
+Name=HP Bonus System - 2
+[A1QG]
+Name=HP Bonus System - 512
+[A1QH]
+Name=HP Bonus System - 32
+[A1QI]
+Name=HP Bonus System - 4
+[A1QJ]
+Name=HP Bonus System - 16
+[A1QK]
+Name=HP Bonus System - 8
+[A1QM]
+Name=HP Bonus System - 256
+[A1QN]
+Name=HP Bonus System - 128
+[A1QO]
+Name=HP Bonus System - 64
+[A1QQ]
+Name=HP Bonus System - 1024
+[A1QL]
+Name=Scepter (Jugg)
+[A1QS]
+Name=阿哈利姆神杖（仙女龙）
+[A1QT]
+Name=Jinada Container - Main
+[A1QZ]
+Name=Swarm - Armor Reduction
+[A1R1]
+Name=Scepter (VS)
+[A1R2]
+Name=Scepter (Invoker)
+[A1R3]
+Name=Scepter (Void)
+[A1R6]
+Name=风行者
+[A1R7]
+Name=地精工程师
+[A1R8]
+Name=祸乱之源
+[A1R9]
+Name=死灵法师
+[A1RG]
+Name=Puck Effect
+[A1RH]
+Name=Puck Effect
+[A1RL]
+Name=Phoenix Cyclone
+Tip=龙卷风|n(Cyclone)
+Ubertip="将非机械目标单位抛向空中，使其不能移动，攻击和施放任何魔法或技能。其他单位在此期间不能攻击该目标。|n持续<AIcy,Dur1>秒。"
+Hotkey=C
+[A1RV]
+Name=Phoenix Smash 4
+[A1RW]
+Name=Phoenix Smash 2
+[A1RX]
+Name=Phoenix Smash 1
+[A1RY]
+Name=Phoenix Smash 3
+[A1S5]
+Name=崩裂禁锢幻像
+[A1SD]
+Name=Burst 1
+[A1SL]
+Name=Snowball 3
+[A1SS]
+Name=CallDown Container 1
+[A1T4]
+Name=CallDown Container 2
+[A1T6]
+Name=Eclipse Time Of Day
+[A1TC]
+Name=Overcharge Bonus Damage - 1
+[A1TD]
+Name=Overcharge Bonus Damage - 4
+[A1TE]
+Name=Overcharge Bonus Damage - 3
+[A1TF]
+Name=Overcharge Bonus Damage - 2
+[A1TG]
+Name=Tether Container - Level 3
+[A1TH]
+Name=Tether Container - Level 1
+[A1TI]
+Name=Tether Container - Level 2
+[A1TJ]
+Name=Tether Container - Level 4
+[A1TP]
+Name=Overcharge Container - 4
+[A1TQ]
+Name=Overcharge FX
+[A1TR]
+Name=Overcharge Container - 2
+[A1TS]
+Name=Overcharge Container - 1
+[A1TT]
+Name=Overcharge Container - 3
+[A1U9]
+Name=Frost Sword FX
+[A1UA]
+Name=Freeze Sword Container 2
+[A1UB]
+Name=Freeze Sword Container 1
+[A1UC]
+Name=Freeze Sword Container 3
+[A1UD]
+Name=Freeze Sword Bash - 3
+[A1UE]
+Name=Freeze Sword Bash - 2
+[A1UF]
+Name=Freeze Sword Bash - 1
+[A1UH]
+Name=Walrus Punch Container - 1
+[A1UI]
+Name=Walrus Punch Container - 2
+[A1UJ]
+Name=Walrus Punch Container - 3
+[A1UR]
+Name=Item Life bonus (+275)
+[A1UT]
+Name=阿哈利姆神杖（术士）
+[A1UU]
+Name=阿哈利姆神杖（闪电幽魂）
+[A1UX]
+Name=Scepter (Razor)
+[A1UY]
+Name=Scepter (Warlock)
+[A1V1]
+Name=阿哈利姆神杖（冥界亚龙）
+[A1V2]
+Name=Item Damage Bonus (+81)
+[A1V3]
+Name=Scepter (VS)
+[A1V4]
+Name=Blink (Test Version)
+[A1V5]
+Name=Scepter (Witch Doctor)
+[A1VJ]
+Name=阿哈利姆神杖（山岭巨人）
+[A1VK]
+Name=Overcharge Attack Speed - 4
+[A1VL]
+Name=Overcharge Attack Speed - 3
+[A1VM]
+Name=Overcharge Attack Speed - 1
+[A1VN]
+Name=Overcharge Attack Speed - 2
+[A1VP]
+Name=Item Attack Speed 35%
+[A1VQ]
+Name=Item Mana Bonus +250
+[A1VR]
+Name=Arcane Boots Speed Bonus
+[A1VS]
+Name=Hellfire Blast Container 1
+[A1VY]
+Name=阿哈利姆神杖（黑曜毁灭者）
+[A1VZ]
+Name=Scepter (Destroyer)
+[A1W1]
+Name=Warclub Cleave Container
+[A1W3]
+Name=Battle Hunger Container 1
+[A1W6]
+Name=Poison Nova FX
+[A1W7]
+Name=Poison Nova Container
+[A1WA]
+Name=Sapphire Water Temp
+[A1WD]
+Name=阿哈利姆神杖（魅惑魔女）
+[A1WJ]
+Name=Item Hero Stat Bonus
+[A1WK]
+Name=Item Hero Stat Bonus
+[A1WL]
+Name=Item Hero Stat Bonus
+[A1WM]
+Name=Item Hero Stat Bonus
+[A1WN]
+Name=Item Hero Stat Bonus
+[A1WO]
+Name=Ring of Basilius Container
+[A1WP]
+Name=Captain CoCo's Rum Container
+[A1WW]
+Name=Spirit Bear Spell Damage Reduction - 1
+[A1WX]
+Name=Spirit Bear Spell Damage Reduction - 4
+[A1WY]
+Name=Spirit Bear Spell Damage Reduction - 2
+[A1WZ]
+Name=Spirit Bear Spell Damage Reduction - 3
+[A1X1]
+Name=Scepter (Enchantress 1)
+[A1X2]
+Name=Scepter (Enchantress 2)
+[A1X3]
+Name=Item Damage Bonus (+88)
+[A1YB]
+Name=Item Int Bonus
+[A1YC]
+Name=Item Int Bonus
+[A1YD]
+Name=Item Int Bonus
+[A1YE]
+Name=Item Int Bonus
+[A1YG]
+Name=Item Phoenix Bonus
+[A1YJ]
+Name=Item Hero Stat Bonus Phoenix
+[A1YK]
+Name=Crit 75%
+[A1YL]
+Name=Bash Phoenix
+[A1Z0]
+Name=Walrus Punch Container - 4
+[A1Z4]
+Name=Sun Ray Maim - 1
+[A1Z9]
+Name=Sun Ray Maim - 4
+[A1ZA]
+Name=Sun Ray Maim - 2
+[A1ZB]
+Name=Sun Ray Maim - 3
+[A1ZH]
+Name=Medallion of Courage Container
+[A1ZJ]
+Name=Item Armor Bonus
+[A1ZK]
+Name=Item Armor Bonus
+[A1ZQ]
+Name=Item Hero Stat Bonus
+[A1ZR]
+Name=Item Hero Stat Bonus
+[A1ZU]
+Name=Item Hero Stat Bonus +9 all
+[A1ZV]
+Name=Item Damage Bonus (+9)
+[A1ZW]
+Name=Ancient Jangoo
+[A1ZX]
+Name=Ancient Jangoo Container
+[A1ZZ]
+Name=Ancient Jangoo FX
+[A204]
+Name=海象神拳
+[A206]
+Name=诡计之雾
+[A207]
+Name=Crit 20%
+[A20D]
+Name=Snowball 4
+[A20E]
+Name=Snowball 2
+[A20F]
+Name=Snowball 1
+[A20H]
+Name=Snowstorm Container 1
+[A20I]
+Name=Snowstorm Container 3
+[A20J]
+Name=Snowstorm Container 2
+[A20K]
+Name=Snowstorm Container 4
+[A20P]
+Name=Smoke of Deceit Container
+[A20S]
+Name=Smoke of Deceit Container
+[A20V]
+Name=Scepter (Chen)
+[A210]
+Name=Thirst Book 1
+[A211]
+Name=Thirst Book 2
+[A212]
+Name=Thirst Book 3
+[A213]
+Name=Thirst Book 4
+[A214]
+Name=Thirst FX
+[A219]
+Name=Blur Container 3
+[A21A]
+Name=Blur Container 4
+[A21B]
+Name=Blur Container 2
+[A21C]
+Name=Blur Container 1
+[A21S]
+Name=阿哈利姆神杖（黑暗贤者）
+[A21T]
+Name=Sunray Spell Amp
+[A21Z]
+Name=Scepter (Dark Seer)
+[A220]
+Name=Scepter (Clockwerk)
+[A221]
+Name=Enfeeble Damage 1
+[A222]
+Name=Enfeeble Damage 4
+[A223]
+Name=Enfeeble Damage 2
+[A224]
+Name=Enfeeble Damage 3
+[A228]
+Name=Anchor Smash Container - Level 1
+[A22M]
+Name=Icy Path Slow Book 7
+[A22N]
+Name=Icy Path Slow Book 6
+[A22O]
+Name=Icy Path Slow Book 4
+[A22P]
+Name=Icy Path Slow Book 3
+[A22Q]
+Name=Icy Path Slow Book 2
+[A22R]
+Name=Icy Path Slow Book 1
+[A22S]
+Name=Icy Path Slow Book 5
+[A237]
+Name=阿哈利姆神杖（矮人直升机）
+[A23E]
+Name=Scepter (Gyrocopter)
+[A23F]
+Name=Split Shot Spell Book - Level 2
+[A23H]
+Name=Wither Armor - 1
+[A23I]
+Name=Wither Armor - 16
+[A23J]
+Name=Wither Armor - 8
+[A23K]
+Name=Wither Armor - 2
+[A23L]
+Name=Wither Armor - 4
+[A23M]
+Name=Wither Armor - 32
+[A23O]
+Name=Nature's Guise Spell Book
+[A23T]
+Name=Corrosive Skin FX
+[A23U]
+Name=Corrosive Skin Container - Level 2
+[A23V]
+Name=Corrosive Skin Container - Level 3
+[A23W]
+Name=Corrosive Skin Container - Level 1
+[A23X]
+Name=Corrosive Skin Container - Level 4
+[A23Z]
+Name=Water Spray FX
+[A240]
+Name=Water Spray Armor - 1
+[A241]
+Name=Water Spray Armor - 2
+[A242]
+Name=Water Spray Armor - 3
+[A243]
+Name=Water Spray Armor - 4
+[A244]
+Name=Water Spray - Level 1
+[A245]
+Name=Water Spray - Level 2
+[A246]
+Name=Water Spray - Level 3
+[A247]
+Name=Water Spray - Level 4
+[A249]
+Name=Spiritbash Helper
+[A24F]
+Name=Fortify Spell Damage Reduction
+[A24H]
+Name=Spiritbash Container
+[A24K]
+Name=Reflection Image
+Researchhotkey=C
+Hotkey=C
+Researchtip=学习 魔法镜像 - [|cffffcc00等级 %d|r]|n(Conjure Image)
+Researchubertip=制造一个灵魂守卫的镜像，镜像受到300%的伤害。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16|n|cff99ccff魔法消耗：|r70/85/100/115|n|n|cffffcc00等级 1|r - 镜像拥有本体25%的攻击力|n|cffffcc00等级 2|r - 镜像拥有本体35%的攻击力|n|cffffcc00等级 3|r - 镜像拥有本体45%的攻击力|n|cffffcc00等级 4|r - 镜像拥有本体55%的攻击力
+Tip=魔法镜像 - [|cffffcc00等级 1|r],魔法镜像 - [|cffffcc00等级 2|r],魔法镜像 - [|cffffcc00等级 3|r],魔法镜像 - [|cffffcc00等级 4|r]
+Ubertip=制造一个灵魂守卫的镜像。镜像受到300%的伤害拥有本体25%的攻击力。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16,制造一个灵魂守卫的镜像。镜像受到300%的伤害拥有本体35%的攻击力。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16,制造一个灵魂守卫的镜像。镜像受到300%的伤害拥有本体45%的攻击力。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16,制造一个灵魂守卫的镜像。镜像受到300%的伤害拥有本体55%的攻击力。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16
+[A24P]
+Name=Sentinel Container
+[A24X]
+Name=Demonic Clutch Container 3
+[A24Y]
+Name=Demonic Clutch Container 5
+[A24Z]
+Name=Demonic Clutch Container 1
+[A250]
+Name=Demonic Clutch Container 2
+[A251]
+Name=Demonic Clutch Container 4
+[A257]
+Name=Corpse Collector - Regen 5
+[A258]
+Name=Corpse Collector - Regen 4
+[A259]
+Name=Corpse Collector - Regen 7
+[A25A]
+Name=Corpse Collector - Regen 3
+[A25B]
+Name=Corpse Collector - Regen 10
+[A25C]
+Name=Corpse Collector - Regen 9
+[A25D]
+Name=Corpse Collector - Regen 2
+[A25E]
+Name=Corpse Collector - Regen 1
+[A25F]
+Name=Corpse Collector - Regen 6
+[A25G]
+Name=Corpse Collector - Regen 8
+[A25H]
+Name=Corpse Collector - Armor 7
+[A25I]
+Name=Corpse Collector - Armor 2
+[A25J]
+Name=Corpse Collector - Armor 3
+[A25K]
+Name=Corpse Collector - Armor 8
+[A25L]
+Name=Corpse Collector - Armor 10
+[A25M]
+Name=Corpse Collector - Armor 1
+[A25N]
+Name=Corpse Collector - Armor 9
+[A25O]
+Name=Corpse Collector - Armor 4
+[A25P]
+Name=Corpse Collector - Armor 6
+[A25Q]
+Name=Corpse Collector - Armor 5
+[A25R]
+Name=Corpse Collector Container 8
+[A25S]
+Name=Corpse Collector Container 7
+[A25T]
+Name=Corpse Collector Container 4
+[A25U]
+Name=Corpse Collector Container 6
+[A25V]
+Name=Corpse Collector Container 5
+[A25W]
+Name=Corpse Collector Container 9
+[A25X]
+Name=Corpse Collector Container 1
+[A25Y]
+Name=Corpse Collector Container 2
+[A25Z]
+Name=Corpse Collector Container 3
+[A260]
+Name=Corpse Collector Container 10
+[A265]
+Name=Sange and Yasha Slow Container
+[A266]
+Name=Sange Slow Container
+[A26A]
+Name=Gem Visual Real
+[A26B]
+Name=Gem Visual Fake
+[A26C]
+Name=Sange Visual Effect
+[A26U]
+Name=Soul Steal FX
+[A26V]
+Name=Soulsteal Container - Level 2
+[A26W]
+Name=Soulsteal Container - Level 4
+[A26X]
+Name=Soulsteal Container - Level 1
+[A26Y]
+Name=Soulsteal Container - Level 3
+[A270]
+Name=Crippling Wave Container
+[A273]
+Name=Leech Seed Container
+[A276]
+Name=Zeal Regen - 1
+[A277]
+Name=Zeal Regen - 3
+[A278]
+Name=Zeal Regen - 4
+[A279]
+Name=Zeal Regen - 2
+[A27E]
+Name=阿哈利姆神杖（地卜师）
+[A27Q]
+Name=Null Field Spellbook - 2
+[A27R]
+Name=Null Field Spellbook - 3
+[A27S]
+Name=Null Field Spellbook - 1
+[A27T]
+Name=Null Field Spellbook - 4
+[A27W]
+Name=Fade Bolt Damage - 1 
+[A285]
+Name=Fade Bolt Damage - 3 
+[A286]
+Name=Fade Bolt Damage - 2 
+[A287]
+Name=Fade Bolt Damage - 4
+[A28B]
+Name=阿哈利姆神杖（兽王）
+[A28C]
+Name=Item Hero Stat Bonus
+[A28F]
+Name=Veil of Discord Spellbook
+[A28H]
+Name=Veil of Discord FX
+[A28U]
+Name=Overcharge Damage - 1
+[A28V]
+Name=Overcharge Damage - 2
+[A28W]
+Name=Overcharge Damage - 3
+[A28X]
+Name=Overcharge Damage - 4
+[A28Z]
+Name=Fade Bolt Damage Creeps - 2
+[A290]
+Name=Fade Bolt Damage Creeps - 4
+[A291]
+Name=Fade Bolt Damage Creeps - 1 
+[A292]
+Name=Fade Bolt Damage Creeps - 3
+[A293]
+Name=Living Armor FX
+[A298]
+Name=Timewalk Container - 4
+[A299]
+Name=Timewalk Container - 2
+[A29A]
+Name=Timewalk Container - 1
+[A29B]
+Name=Timewalk Container - 3
+[A29E]
+Name=Beastmaster Aghanim Effect
+[A29F]
+Name=Vladmir Spell Book
+[A29J]
+Name=Requiem of Souls
+Researchhotkey=R
+Hotkey=R
+Researchtip=学习 魂之挽歌 - [|cffffcc00等级 %d|r]|n(Requiem of Souls)
+Researchubertip=召唤恶灵以均匀的角度向周围发射，越近的单位受到越多恶灵的打击。同时降低700范围内敌方单位的移动速度和攻击力，持续5秒。发射出的恶灵数目为储存的灵魂数目的一半。|n|n|cff99ccff施法时间：|r1|n|cff99ccff冷却时间：|r120/110/100|n|cff99ccff魔法消耗：|r150/175/200|n|n|cffffcc00等级 1|r - 每个恶灵对一条直线上的敌方单位造成80点伤害，降低敌方单位20%的移动速度和50%的攻击力|n|cffffcc00等级 2|r - 每个恶灵对一条直线上的敌方单位造成120点伤害，降低敌方单位20%的移动速度和50%的攻击力|n|cffffcc00等级 3|r - 每个恶灵对一条直线上的敌方单位造成160点伤害，降低敌方单位20%的移动速度和50%的攻击力
+Tip=魂之挽歌 - [|cffffcc00等级 1|r],魂之挽歌 - [|cffffcc00等级 2|r],魂之挽歌 - [|cffffcc00等级 3|r]
+Ubertip=召唤恶灵以均匀的角度向周围发射，每个恶灵对一条直线上的敌方单位造成80点伤害，同时降低700范围内的敌方单位20%的移动速度和50%的攻击力，持续5秒。|n|n|cff99ccff施法时间：|r1|n|cff99ccff冷却时间：|r120,召唤恶灵以均匀的角度向周围发射，每个恶灵对一条直线上的敌方单位造成120点伤害，同时降低700范围内的敌方单位20%的移动速度和50%的攻击力，持续5秒。|n|n|cff99ccff施法时间：|r1|n|cff99ccff冷却时间：|r110,召唤恶灵以均匀的角度向周围发射，每个恶灵对一条直线上的敌方单位造成160点伤害，同时降低700范围内的敌方单位20%的移动速度和50%的攻击力，持续5秒。|n|n|cff99ccff施法时间：|r1|n|cff99ccff冷却时间：|r100
+[A29N]
+Name=Courier Reincarnation Container
+[A29T]
+Name=Leap Smash Container Main
+[A29U]
+Name=Leap Smash Container Secondary
+[A29X]
+Name=Spell Shield Retaliation
+[A29Z]
+Name=Rend Passive - 2
+[A2A0]
+Name=Rend Passive - 1
+[A2A1]
+Name=Rend Passive - 3
+[A2A2]
+Name=Rend Active - 1
+[A2A3]
+Name=Rend Active - 2
+[A2A4]
+Name=Rend Active - 3
+[A2A5]
+Name=Rend Lifesteal
+[A2AC]
+Name=Rend Passive FX
+[A2AD]
+Name=Rend Active FX
+[A2AP]
+Name=Battle Hunger MS Boost Container - 6
+[A2AQ]
+Name=Battle Hunger MS Boost Container - 5
+[A2AR]
+Name=Battle Hunger MS Boost Container - 1
+[A2AS]
+Name=Battle Hunger MS Boost Container - 2
+[A2AT]
+Name=Battle Hunger MS Boost Container - 4
+[A2AU]
+Name=Battle Hunger MS Boost Container - 3
+[A2B0]
+Name=Wraith Magic Container 2
+[A2B1]
+Name=Wraith Magic Container 3
+[A2B2]
+Name=Wraith Magic Container 4
+[A2B3]
+Name=Wraith Magic Container 1
+[A2B7]
+Name=Miasma Reveal
+[A2BN]
+Name=Amp Damage Container - 2
+[A2BO]
+Name=Amp Damage Container - 3
+[A2BP]
+Name=Amp Damage Container - 4
+[A2BQ]
+Name=Amp Damage Container - 6
+[A2BR]
+Name=Amp Damage Container - 1
+[A2BS]
+Name=Amp Damage Container - 5
+[A2BY]
+Name=Gallop Container - Speed 3
+[A2BZ]
+Name=Gallop Container - Slow
+[A2C2]
+Name=Brotherhood Bonus Damage - 2
+[A2C3]
+Name=Brotherhood Bonus Damage - 1
+[A2C4]
+Name=Brotherhood Bonus Damage - 8
+[A2C5]
+Name=Brotherhood Bonus Damage - 16
+[A2C6]
+Name=Brotherhood Bonus Damage - 128
+[A2C7]
+Name=Brotherhood Bonus Damage - 4
+[A2C8]
+Name=Brotherhood Bonus Damage - 32
+[A2C9]
+Name=Brotherhood Bonus Damage - 64
+[A2CA]
+Name=Brotherhood Bonus Attack Speed - 8
+[A2CB]
+Name=Brotherhood Bonus Attack Speed - 4
+[A2CC]
+Name=Brotherhood Bonus Attack Speed - 64
+[A2CD]
+Name=Brotherhood Bonus Attack Speed - 2
+[A2CE]
+Name=Brotherhood Bonus Attack Speed - 1
+[A2CF]
+Name=Brotherhood Bonus Attack Speed - 16
+[A2CG]
+Name=Brotherhood Bonus Attack Speed - 32
+[A2CH]
+Name=Brotherhood Bonus Attack Speed - 128
+[A2CJ]
+Name=Reactive Armor Bonus - 15
+[A2CK]
+Name=Reactive Armor Bonus - 13
+[A2CL]
+Name=Reactive Armor Bonus - 7
+[A2CM]
+Name=Reactive Armor Bonus - 12
+[A2CN]
+Name=Reactive Armor Bonus - 14
+[A2CO]
+Name=Reactive Armor Bonus - 11
+[A2CP]
+Name=Reactive Armor Bonus - 10
+[A2CQ]
+Name=Reactive Armor Bonus - 5
+[A2CR]
+Name=Reactive Armor Bonus - 6
+[A2CS]
+Name=Reactive Armor Bonus - 8
+[A2CT]
+Name=Reactive Armor Bonus - 16
+[A2CU]
+Name=Reactive Armor Bonus - 9
+[A2CV]
+Name=Reactive Armor Bonus - 3
+[A2CW]
+Name=Reactive Armor Bonus - 1
+[A2CX]
+Name=Reactive Armor Bonus - 2
+[A2CY]
+Name=Reactive Armor Bonus - 4
+[A2CZ]
+Name=Reactive Regeneration Bonus - 6
+[A2D0]
+Name=Reactive Regeneration Bonus - 4
+[A2D1]
+Name=Reactive Regeneration Bonus - 3
+[A2D2]
+Name=Reactive Regeneration Bonus - 13
+[A2D3]
+Name=Reactive Regeneration Bonus - 5
+[A2D4]
+Name=Reactive Regeneration Bonus - 10
+[A2D5]
+Name=Reactive Regeneration Bonus - 15
+[A2D6]
+Name=Reactive Regeneration Bonus - 16
+[A2D7]
+Name=Reactive Regeneration Bonus - 9
+[A2D8]
+Name=Reactive Regeneration Bonus - 2
+[A2D9]
+Name=Reactive Regeneration Bonus - 8
+[A2DA]
+Name=Reactive Regeneration Bonus - 12
+[A2DB]
+Name=Reactive Regeneration Bonus - 11
+[A2DC]
+Name=Reactive Regeneration Bonus - 1
+[A2DD]
+Name=Reactive Regeneration Bonus - 7
+[A2DE]
+Name=Reactive Regeneration Bonus - 14
+[A2DF]
+Name=Reactive Armor Container - 2
+[A2DG]
+Name=Reactive Armor Container - 1
+[A2DH]
+Name=Reactive Armor Container - 9
+[A2DI]
+Name=Reactive Armor Container - 6
+[A2DJ]
+Name=Reactive Armor Container - 5
+[A2DK]
+Name=Reactive Armor Container - 16
+[A2DL]
+Name=Reactive Armor Container - 3
+[A2DM]
+Name=Reactive Armor Container - 4
+[A2DN]
+Name=Reactive Armor Container - 7
+[A2DO]
+Name=Reactive Armor Container - 8
+[A2DP]
+Name=Reactive Armor Container - 11
+[A2DQ]
+Name=Reactive Armor Container - 12
+[A2DR]
+Name=Reactive Armor Container - 13
+[A2DS]
+Name=Reactive Armor Container - 14
+[A2DT]
+Name=Reactive Armor Container - 15
+[A2DU]
+Name=Reactive Armor Container - 10
+[A2E7]
+Name=Blade of the Reaper 
+Researchhotkey=C
+Hotkey=C
+Tip=,魔法镜像 - [|cffffcc00等级 2|r],魔法镜像 - [|cffffcc00等级 3|r],魔法镜像 - [|cffffcc00等级 4|r]
+Ubertip=,制造一个灵魂守卫的镜像。镜像受到300%的伤害拥有本体35%的攻击力。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16,制造一个灵魂守卫的镜像。镜像受到300%的伤害拥有本体45%的攻击力。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16,制造一个灵魂守卫的镜像。镜像受到300%的伤害拥有本体55%的攻击力。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16
+[A2E8]
+Name=Iron Boots Container
+[A2E9]
+Name=Item Damage Bonus (+100)
+[A2EC]
+Name=Crippling Staff Container
+[A2ED]
+Name=Crippling Staff FX
+[A2EJ]
+Name=Breeze Container 3
+[A2EK]
+Name=Breeze Container 2
+[A2EL]
+Name=Breeze Container 1
+[A2EM]
+Name=Breeze Container 4
+[A2EQ]
+Name=Frost Skin Mana Regen 3
+[A2ER]
+Name=Frost Skin Mana Regen 2
+[A2ES]
+Name=Frost Skin Mana Regen 1
+[A2ET]
+Name=Frost Skin Mana Regen 4
+[A2F2]
+Name=Wind Barrier Container
+[A2F3]
+Name=Wind Blast Armor Reduction
+[A2FC]
+Name=Prevailing Winds Container Slow 2
+[A2FD]
+Name=Prevailing Winds Container Slow 1
+[A2FE]
+Name=Prevailing Winds Container Slow 3
+[A2FF]
+Name=Prevailing Winds Container Haste 2
+[A2FG]
+Name=Prevailing Winds Container Haste 1
+[A2FH]
+Name=Prevailing Winds Container Haste 3
+[A2FI]
+Name=Prevailing Winds Cyclone
+Tip=龙卷风|n(Cyclone)
+Ubertip="将非机械目标单位抛向空中，使其不能移动，攻击和施放任何魔法或技能。其他单位在此期间不能攻击该目标。|n持续<AIcy,Dur1>秒。"
+Hotkey=C
+[A2FJ]
+Name=Item Attack Speed 120%
+[A2FN]
+Name=Focus Container
+[A2FO]
+Name=Focus FX
+[A2FP]
+Name=Focus Bonus Damage
+[A2FY]
+Name=New Brotherhood Damage - 1
+[A2FZ]
+Name=New Brotherhood Damage - 4
+[A2G0]
+Name=New Brotherhood Damage - 2
+[A2G1]
+Name=New Brotherhood Damage - 3
+[A2G4]
+Name=Reactive Armor FX
+[A2GC]
+Name=Moment of Courage Container - 4
+[A2GD]
+Name=Moment of Courage Container - 1
+[A2GE]
+Name=Moment of Courage Container - 2
+[A2GF]
+Name=Moment of Courage Container - 3
+[A2GG]
+Name=Moment of Courage FX
+[A2GH]
+Name=Duel Damage Bonus System - 8
+[A2GI]
+Name=Duel Damage Bonus System - 4
+[A2GJ]
+Name=Duel Damage Bonus System - 2
+[A2GK]
+Name=Duel Damage Bonus System - 1
+[A2GL]
+Name=Duel Damage Bonus System - 128
+[A2GM]
+Name=Duel Damage Bonus System - 64
+[A2GN]
+Name=Duel Damage Bonus System - 16
+[A2GO]
+Name=Duel Damage Bonus System - 32
+[A2GP]
+Name=Duel Damage Bonus System - 256
+[A2GW]
+Name=Slight of Fist Container - 4
+[A2GX]
+Name=Slight of Fist Container - 1
+[A2GY]
+Name=Slight of Fist Container - 2
+[A2GZ]
+Name=Slight of Fist Container - 3
+[A2H7]
+Name=Fire Barrier Container
+[A2H9]
+Name=Slight of Fist Container - AS
+[A2HP]
+Name=Item Attack Speed 180%
+[A2HR]
+Name=Tranquil Boots Speed Bonus
+[A2HX]
+Name=Arcane Silence Container - 1
+[A2HY]
+Name=Arcane Silence Container - 3
+[A2HZ]
+Name=Arcane Silence Container - 4
+[A2I0]
+Name=Arcane Silence Container - 2
+[A2I5]
+Name=Amp SLOW Container - 2
+[A2I6]
+Name=Amp SLOW Container - 1
+[A2I7]
+Name=Amp SLOW Container - 3
+[A2I8]
+Name=Amp SLOW Container - 4
+[A2I9]
+Name=Tranquil Boots Speed Bonus Broken
+[A2IA]
+Name=Smiting Bolt FX
+[A2IC]
+Name=Culling Blade Container
+[A2IL]
+Name=Gallop Container - Speed 1
+[A2IM]
+Name=Gallop Container - Speed 2
+[A2IN]
+Name=Gallop Container - Speed 4
+[A2IO]
+Name=Brotherhood FX
+[A2IP]
+Name=Item Attack Speed 130%
+[A2IV]
+Name=Fire Barrier - Damage 3
+[A2IW]
+Name=Fire Barrier - Damage 2
+[A2IX]
+Name=Fire Barrier - Damage 1
+[A2IY]
+Name=Fire Barrier - Damage 4
+[A2J3]
+Name=Press The Attack - Speed 3
+[A2J4]
+Name=Press The Attack - Speed 1
+[A2J5]
+Name=Press The Attack - Speed 2
+[A2J6]
+Name=Press The Attack - Speed 4
+[A2J7]
+Name=Press The Attack Container - 4
+[A2J8]
+Name=Press The Attack Container - 3
+[A2J9]
+Name=Press The Attack Container - 1
+[A2JA]
+Name=Press The Attack Container - 2
+[A2JG]
+Name=Slight of Fist Hero Damage Bonus - 2
+[A2JH]
+Name=Slight of Fist Hero Damage Bonus - 1
+[A2JI]
+Name=Slight of Fist Hero Damage Bonus - 4
+[A2JJ]
+Name=Slight of Fist Hero Damage Bonus - 3
+[A2JN]
+Name=Conjure Image
+Researchhotkey=C
+Hotkey=C
+Researchtip=学习 魔法镜像 - [|cffffcc00等级 %d|r]|n(Conjure Image)
+Researchubertip=制造一个灵魂守卫的镜像，镜像受到300%的伤害。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16|n|cff99ccff魔法消耗：|r70/85/100/115|n|n|cffffcc00等级 1|r - 镜像拥有本体25%的攻击力|n|cffffcc00等级 2|r - 镜像拥有本体35%的攻击力|n|cffffcc00等级 3|r - 镜像拥有本体45%的攻击力|n|cffffcc00等级 4|r - 镜像拥有本体55%的攻击力
+Tip=魔法镜像 - [|cffffcc00等级 1|r],魔法镜像 - [|cffffcc00等级 2|r],魔法镜像 - [|cffffcc00等级 3|r],魔法镜像 - [|cffffcc00等级 4|r]
+Ubertip=制造一个灵魂守卫的镜像。镜像受到300%的伤害拥有本体25%的攻击力。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16,制造一个灵魂守卫的镜像。镜像受到300%的伤害拥有本体35%的攻击力。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16,制造一个灵魂守卫的镜像。镜像受到300%的伤害拥有本体45%的攻击力。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16,制造一个灵魂守卫的镜像。镜像受到300%的伤害拥有本体55%的攻击力。|n|n|cff99ccff持续时间：|r30|n|cff99ccff冷却时间：|r16
+[A2JW]
+Name=Fire Barrier FX
+[A2JX]
+Name=Fire Barrier Container - 4
+[A2JY]
+Name=Fire Barrier Container - 1
+[A2JZ]
+Name=Fire Barrier Container - 3
+[A2K0]
+Name=Fire Barrier Container - 2
+[A2K1]
+Name=静谧之鞋|nTranquil Boots
+[A2K6]
+Name=Prudence Evasion
+Ubertip="Gives a <AIev,DataA1,%>% chance to avoid an attack."
+[A2K8]
+Name=Item Strength Bonus
+[A2K9]
+Name=Linken Sphere Stat Bonus Container
+[A2KD]
+Name=Culling Blade Haste FX
+[A2KE]
+Name=Ring of Aquila Container
+[A2KF]
+Name=Aquila Stat Bonus
+[A2KH]
+Name=Refresher Container
+[A2KI]
+Name=Item Int Bonus
+[A2KJ]
+Name=Santa Hat FIXED for heroes
+[A2KK]
+Name=Tiny Aghanim Container
+[A2KL]
+Name=Item Life Regeneration
+[A2KT]
+Name=Aghanim's Scepter (Ogre Magi)
+[A2KV]
+Name=Eye of Skadi Container
+[A2KW]
+Name=Eye of Skadi Bonus Damage + 25
+[A2L2]
+Name=Treant Spell Damage Reduction
+[A2L7]
+Name=Overheat Attack Speed - Level 1
+[A2L8]
+Name=Overheat Container - Level 3
+[A2LD]
+Name=Frostwyrm Shield Armor
+[A2LE]
+Name=Trap Container 1
+[A2LN]
+Name=Magnetic Field Container 3
+[A2LP]
+Name=Nural Shock Slow Container 5
+[A2LV]
+Name=Nural Shock Slow Container 4
+[A2LW]
+Name=Nural Shock Slow Container 1
+[A2LX]
+Name=Nural Shock Slow Container 3
+[A2LY]
+Name=Nural Shock Slow Container 2
+[A2M4]
+Name=Magnetic Field Attack Speed 1
+[A2M5]
+Name=Magnetic Field Attack Speed 2
+[A2M6]
+Name=Magnetic Field Attack Speed 3
+[A2M7]
+Name=Magnetic Field Attack Speed 4
+[A2M8]
+Name=Magnetic Field Container 4
+[A2M9]
+Name=Magnetic Field Container 1
+[A2MA]
+Name=Magnetic Field Container 2
+[A2ME]
+Name=Ether Essence FX
+[A2MF]
+Name=Warcry Armor - 1
+[A2MG]
+Name=Warcry Armor - 3
+[A2MH]
+Name=Warcry Armor - 2
+[A2MI]
+Name=Warcry Armor - 4
+[A2MK]
+Name=Frost Wyrm Split - Slow Container
+[A2MQ]
+Name=Living Armor Regen 1
+[A2MR]
+Name=Living Armor Regen 2
+[A2MS]
+Name=Living Armor Regen 4
+[A2MT]
+Name=Living Armor Regen 3
+[A2MU]
+Name=Living Armor Target FX
+[A2MV]
+Name=Living Armor Container - 4
+[A2MW]
+Name=Living Armor Container - 3
+[A2MX]
+Name=Living Armor Container - 1
+[A2MY]
+Name=Living Armor Container - 2
+[A2N0]
+Name=Item Attack Speed 20%
+[A2N2]
+Name=Frostwyrm Touch FX
+[A2N6]
+Name=Arctic Siege Slow Container 2
+[A2NB]
+Name=Arctic Siege Slow Container 1
+[A2NC]
+Name=Arctic Siege Slow Container 3
+[A2ND]
+Name=Arctic Siege Slow Container 4
+[A2NH]
+Name=Item Life bonus (+325)
+[A2NK]
+Name=Frost Wyrm Split FX
+[A2NL]
+Name=Magnetic Field Attack Speed 2 - Nonhero
+[A2NM]
+Name=Magnetic Field Attack Speed 1 - Nonhero
+[A2NN]
+Name=Magnetic Field Attack Speed 3 - Nonhero
+[A2NO]
+Name=Magnetic Field Attack Speed 4 - Nonhero
+[A2NP]
+Name=Magnetic Field Container 1 - Nonhero
+[A2NQ]
+Name=Magnetic Field Container 4 - Nonhero
+[A2NR]
+Name=Magnetic Field Container 3 - Nonhero
+[A2NS]
+Name=Magnetic Field Container 2 - Nonhero
+[A2NU]
+Name=Last Word Container
+[A2O0]
+Name=Item Agility Bonus
+[A2O5]
+Name=Stampede MS Container
+[A2OA]
+Name=Enfeeble Container - 2
+[A2OF]
+Name=Enfeeble Container - 3
+[A2OG]
+Name=Enfeeble Container - 1
+[A2OH]
+Name=Enfeeble Container - 4
+[A2OJ]
+Name=Enfeeble FX
+[A2OK]
+Name=Stampede Slow Container
+[A2OM]
+Name=Santa Hat FIXED for heroes FEEDER
+[A2OO]
+Name=Reactive Armor Bonus - 19
+[A2OP]
+Name=Reactive Armor Bonus - 18
+[A2OQ]
+Name=Reactive Armor Bonus - 17
+[A2OR]
+Name=Reactive Armor Bonus - 20
+[A2OS]
+Name=Reactive Armor Container - 18
+[A2OT]
+Name=Reactive Armor Container - 17
+[A2OU]
+Name=Reactive Armor Container - 19
+[A2OV]
+Name=Reactive Armor Container - 20
+[A2PH]
+Name=Berserker's Blood Magic Container - 13
+[A2PI]
+Name=Berserker's Blood Magic Container - 8
+[A2PJ]
+Name=Berserker's Blood Magic Container - 6
+[A2PK]
+Name=Berserker's Blood Magic Container - 20
+[A2PL]
+Name=Berserker's Blood Magic Container - 9
+[A2PM]
+Name=Berserker's Blood Magic Container - 1
+[A2PN]
+Name=Berserker's Blood Magic Container - 2
+[A2PO]
+Name=Berserker's Blood Magic Container - 3
+[A2PP]
+Name=Berserker's Blood Magic Container - 4
+[A2PQ]
+Name=Berserker's Blood Magic Container - 5
+[A2PR]
+Name=Berserker's Blood Magic Container - 7
+[A2PS]
+Name=Berserker's Blood Magic Container - 21
+[A2PT]
+Name=Berserker's Blood Magic Container - 10
+[A2PU]
+Name=Berserker's Blood Magic Container - 12
+[A2PV]
+Name=Berserker's Blood Magic Container - 14
+[A2PW]
+Name=Berserker's Blood Magic Container - 15
+[A2PX]
+Name=Berserker's Blood Magic Container - 16
+[A2PY]
+Name=Berserker's Blood Magic Container - 17
+[A2PZ]
+Name=Berserker's Blood Magic Container - 18
+[A2Q0]
+Name=Berserker's Blood Magic Container - 19
+[A2Q1]
+Name=Berserker's Blood Magic Container - 11
+[A2Q2]
+Name=Reactive Regeneration Bonus - 18
+[A2Q3]
+Name=Reactive Regeneration Bonus - 17
+[A2Q4]
+Name=Reactive Regeneration Bonus - 19
+[A2Q5]
+Name=Reactive Regeneration Bonus - 20
+[A2Q7]
+Name=Nature's Guise Spell Book Icon
+[A2QA]
+Name=Meepo Spell Resistance Spell Book
+[A2QD]
+Name=Item Life Regeneration
+[A2QL]
+Name=Rolling Boulder MS Container
+[A2QO]
+Name=Boulder Smash Container
+[A2QP]
+Name=血精石|nBloodstone
+[A2R3]
+Name=微光披肩
+[A2RG]
+Name=Entropy MS Slow Container - 9
+[A2RH]
+Name=Entropy MS Slow Container - 8
+[A2RI]
+Name=Entropy MS Slow Container - 2
+[A2RJ]
+Name=Entropy MS Slow Container - 4
+[A2RK]
+Name=Entropy MS Slow Container - 12
+[A2RL]
+Name=Entropy MS Slow Container - 10
+[A2RM]
+Name=Entropy MS Slow Container - 7
+[A2RN]
+Name=Entropy MS Slow Container - 6
+[A2RO]
+Name=Entropy MS Slow Container - 3
+[A2RP]
+Name=Entropy MS Slow Container - 1
+[A2RQ]
+Name=Entropy MS Slow Container - 11
+[A2RR]
+Name=Entropy MS Slow Container - 5
+[A2RS]
+Name=Entropy Attack Speed
+[A2RT]
+Name=Soul Fragment Illusion
+[A2RZ]
+Name=Skeleton King Critical Strike Container
+[A2S1]
+Name=Magic Immunity Container
+[A2SA]
+Name=巨石
+Ubertip=能量点：2,Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE.
+Researchhotkey=T
+Researchtip=学习 灵魂超度 - [|cffffcc00等级 %d|r]|n(Soul Assumption)
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip=Stone Remnant,Soul Assumption - [|cffffcc00Level 2|r],Soul Assumption - [|cffffcc00Level 3|r],Soul Assumption - [|cffffcc00Level 4|r]
+[A2SB]
+Name=巨石
+Ubertip=能量点：1,Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE.
+Researchhotkey=T
+Researchtip=学习 灵魂超度 - [|cffffcc00等级 %d|r]|n(Soul Assumption)
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip=Stone Remnant,Soul Assumption - [|cffffcc00Level 2|r],Soul Assumption - [|cffffcc00Level 3|r],Soul Assumption - [|cffffcc00Level 4|r]
+[A2SC]
+Name=巨石
+Ubertip=能量点：4,Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE.
+Researchhotkey=T
+Researchtip=学习 灵魂超度 - [|cffffcc00等级 %d|r]|n(Soul Assumption)
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip=Stone Remnant,Soul Assumption - [|cffffcc00Level 2|r],Soul Assumption - [|cffffcc00Level 3|r],Soul Assumption - [|cffffcc00Level 4|r]
+[A2SD]
+Name=巨石
+Ubertip=能量点：3,Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE.
+Researchhotkey=T
+Researchtip=学习 灵魂超度 - [|cffffcc00等级 %d|r]|n(Soul Assumption)
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip=Stone Remnant,Soul Assumption - [|cffffcc00Level 2|r],Soul Assumption - [|cffffcc00Level 3|r],Soul Assumption - [|cffffcc00Level 4|r]
+[A2SE]
+Name=巨石
+Ubertip=能量点：5,Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE.
+Researchhotkey=T
+Researchtip=学习 灵魂超度 - [|cffffcc00等级 %d|r]|n(Soul Assumption)
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip=Stone Remnant,Soul Assumption - [|cffffcc00Level 2|r],Soul Assumption - [|cffffcc00Level 3|r],Soul Assumption - [|cffffcc00Level 4|r]
+[A2SF]
+Name=巨石
+Ubertip=能量点：0,Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE.
+Researchhotkey=T
+Researchtip=学习 灵魂超度 - [|cffffcc00等级 %d|r]|n(Soul Assumption)
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip=Stone Remnant,Soul Assumption - [|cffffcc00Level 2|r],Soul Assumption - [|cffffcc00Level 3|r],Soul Assumption - [|cffffcc00Level 4|r]
+[A2SK]
+Name=Thirst Armor - 4
+[A2SL]
+Name=Thirst Armor - 3
+[A2SM]
+Name=Thirst Armor - 2
+[A2SN]
+Name=Thirst Armor - 1
+[A2T3]
+Name=Magic Immunity Container
+[A2TA]
+Name=Berserker's Blood Magic Container - 22
+[A2TB]
+Name=Berserker's Blood Magic Container - 23
+[A2TC]
+Name=Berserker's Blood Magic Container - 24
+[A2TE]
+Name=巨石
+Ubertip=能量点：6,Units that die near Visage regenerate him for 8 HP and give him 6 bonus damage with a max of 4 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 12 HP and give him 6 bonus damage with a max of 6 units. Lasts 30 seconds. 625 AoE.,Units that die near Visage regenerate him for 16 HP and give him 6 bonus damage with a max of 16 units. Lasts 30 seconds. 625 AoE.
+Researchhotkey=T
+Researchtip=学习 灵魂超度 - [|cffffcc00等级 %d|r]|n(Soul Assumption)
+Researchubertip="Units that die near Visage regenerate him and give him 6 bonus damage. Enemies denies don't count. Lasts 30 seconds. |n|n|cffffcc00Level 1|r - 4 HP Regen, 2 unit max. |n|cffffcc00Level 2|r - 8 HP Regen, 4 unit max. |n|cffffcc00Level 3|r - 12 HP Regen, 6 unit max. |n|cffffcc00Level 4|r - 16 HP Regen, 16 unit max. "
+Tip=Stone Remnant,Soul Assumption - [|cffffcc00Level 2|r],Soul Assumption - [|cffffcc00Level 3|r],Soul Assumption - [|cffffcc00Level 4|r]
+[A2TN]
+Name=Purge - Bloodrage
+[A2TO]
+Name=Lycan Wolves Spell Damage Reduction
+[A2TQ]
+Name=Tether Slow Container
+[A2TS]
+Name=Visage Spell Resistance Spell Book
+[A2TW]
+Name=Aghanim's Scepter (Skywrath)
+[A2TZ]
+Name=阿哈利姆神杖（谜团）
+[A2U0]
+Name=Frost Armor - Armor
+[A2U4]
+Name=Frost Armor Slow FX
+[A2UQ]
+Name=吸血光环
+[A2UZ]
+Name=Amplify Damage Armor
+[A2V2]
+Name=Evasion container
+[A2V3]
+Name=闪避
+Ubertip="Gives a <AIev,DataA1,%>% chance to avoid an attack."
+[A2VC]
+Name=阿哈利姆神杖（干扰者）
+[A2VD]
+Name=阿哈利姆神杖（大魔导师）
+[A2VH]
+Name=Vampiric Aura 1
+[A2VI]
+Name=Vampiric Aura 2
+[A2VJ]
+Name=Vampiric Aura 3
+[A2VK]
+Name=Vampiric Aura 4
+[A2VM]
+Name=Veil of Discord Stat Bonus
+[A2VN]
+Name=Veil of Discord Container
+[A2VP]
+Name=Armlet Strength System
+[A2VQ]
+Name=Armlet Strength System
+[A2VR]
+Name=Armlet Strength System
+[A2VS]
+Name=Armlet Strength System
+[A2VT]
+Name=Armlet Strength System
+[A2VW]
+Name=Thirst Reveal
+[A2VZ]
+Name=Genuine MKB Spell Book
+[A2W0]
+Name=Roshan's Item Damage Bonus (+10000)
+[A2W1]
+Name=金箍棒|nMonkey King Bar
+[A2W2]
+Name=Item Life bonus (+350)
+[A2W3]
+Name=Item Life Regeneration
+[A2W4]
+Name=Overheat Attack Speed - Level 3
+[A2W5]
+Name=Overheat Attack Speed - Level 2
+[A2W6]
+Name=Overheat Attack Speed - Level 4
+[A2W7]
+Name=Overheat Container - Level 1
+[A2W8]
+Name=Overheat Container - Level 4
+[A2W9]
+Name=Overheat Container - Level 2
+[A2WD]
+Name=阿哈利姆神杖（地精修补匠）
+[A2WJ]
+Name=Split Shot Spell Book - Level 4
+[A2WK]
+Name=Split Shot Spell Book - Level 3
+[A2WL]
+Name=Split Shot Spell Book - Level 1
+[A2WV]
+Name=Command Aura Negative Container - 1
+[A2WW]
+Name=Command Aura Negative Container - 3
+[A2WX]
+Name=Command Aura Negative Container - 4
+[A2WY]
+Name=Command Aura Negative Container - 2
+[A2X0]
+Name=Lightning Storm Slow Container
+[A2X1]
+Name=Pipe Regen Aura
+[A2X7]
+Name=幻象
+[A2XG]
+Name=阿哈利姆神杖（暗影恶魔）
+[A2XM]
+Name=Courier Reincarnation Container
+[A2XN]
+Name=Illusions
+[A2XO]
+Name=Lesser Clarity Potion
+[A2XS]
+Name=Drunken Brawler Container - 1
+[A2XU]
+Name=Drunken Brawler FX
+[A2XV]
+Name=Damage Bonus System 2 - 8
+[A2XW]
+Name=Damage Bonus System 2 - 4
+[A2XX]
+Name=Damage Bonus System 2 - 2
+[A2XY]
+Name=Damage Bonus System 2 - 1
+[A2XZ]
+Name=Damage Bonus System 2 - 128
+[A2Y0]
+Name=Damage Bonus System 2 - 32
+[A2Y1]
+Name=Damage Bonus System 2 - 64
+[A2Y2]
+Name=Damage Bonus System 2 - 16
+[A2Y3]
+Name=Damage Bonus System 2 - 256
+[A33W]
+Name=Damage Bonus System 2 - 512
+[A33X]
+Name=Damage Bonus System 2 - 1024
+[A2Y5]
+Name=Anchor Smash Container - Level 4
+[A2Y6]
+Name=Anchor Smash Container - Level 3
+[A2Y7]
+Name=Anchor Smash Container - Level 2
+[A2YB]
+Name=Item Int Bonus
+[A2YC]
+Name=Item Agility Bonus
+[A2YD]
+Name=Helm of the Dominator HP
+[A2YJ]
+Name=Crimson Guard Active Armor Bonus
+[A2YK]
+Name=Headshot Slow Container
+[A2YM]
+Name=Headshot Visual Effect
+[A2YQ]
+Name=阿哈利姆神杖（地精撕裂者）
+[A2YT]
+Name=阿哈利姆神杖（凤凰）
+[A2Z3]
+Name=阿哈利姆神杖（流浪剑客）
+[A2Z7]
+Name=God's Strength Container - Level 1
+[A2Z8]
+Name=God's Strength Container - Level 3
+[A2Z9]
+Name=God's Strength Container - Level 2
+[A2ZG]
+Name=Aghanim's Scepter (Elder Titan)
+[A302]
+Name=Spin Web Double Bonus - Container 4
+[A303]
+Name=Spin Web Double Bonus - Container 3
+[A304]
+Name=Spin Web Double Bonus - Container 1
+[A305]
+Name=Spin Web Double Bonus - Container 2
+[A308]
+Name=Medallion Negative Target Armor 
+[A309]
+Name=Medallion Positive Target Armor 
+[A30B]
+Name=JuxtaposeIllusions - By Illusion
+[A30D]
+Name=Doppelganger - Strong
+[A30E]
+Name=Doppelganger - Weak
+[A30H]
+Name=Empowering Haste Container - Strong
+[A30P]
+Name=Empowering Haste Container - Weak
+[A30R]
+Name=Butterfly Spell Book
+[A30W]
+Name=Empowering Haste Container - Normal
+[A30Y]
+Name=Butterfly Flutter Container
+[A314]
+Name=Aghanim's Scepter (Treant)
+[A317]
+Name=Crimson Guard Active Armor Bonus Container
+[A318]
+Name=Crimson Guard Active Passive Bonus Container
+[A319]
+Name=Crimson Guard Armor
+[A31A]
+Name=Crimson Guard Active Block Bonus Container
+[A31E]
+Name=God's Strength Container Scepter
+[A31N]
+Name=阿哈利姆神杖（大地之灵）
+[A31O]
+Name=God's Strength Container - Level 1 (Self-Scepter)
+[A31P]
+Name=God's Strength Container - Level 2 (Self-Scepter)
+[A31Q]
+Name=God's Strength Container - Level 2 (Self-Scepter)
+[A31U]
+Name=God's Strength Scepter Self Container - Level 2
+[A31V]
+Name=God's Strength Scepter Self Container - Level 1
+[A31W]
+Name=God's Strength Scepter Self Container - Level 3
+[A38O]
+Name=Scepter (Legion Commander)
+[A3O0]
+Name=仙灵之火
+[A3R4]
+Name=Arcane Rune
+[B01E]
+Bufftip=极度饥渴
+Buffubertip=在极度饥渴的驱使下，该单位在依靠攻击敌人来恢复生命
+EditorName=极度饥渴
+[B02Z]
+Bufftip=治疗药膏
+Buffubertip=该单位正在恢复生命
+[B03A]
+Bufftip=幻象
+Buffubertip=该单位是一个幻象，它在被攻击时受到额外的伤害
+EditorName=幻象
+[B04F]
+Bufftip=Headdress of regen
+Buffubertip=This unit is being healed.
+EditorName=Headdress of regen
+[B04H]
+Bufftip=Unstable Power
+Buffubertip=This unit is affected by unstable power; it will deal increased damage, but lose life over time.
+EditorName=Unstable Power
+[B06B]
+Bufftip=梅肯斯姆
+Buffubertip=在梅肯斯姆的守护下，该单位的护甲得到了短暂地提升
+[B06G]
+Bufftip=召唤生物
+Buffubertip=驱散类魔法会对召唤生物造成伤害
+EditorName=死灵书
+[B06L]
+Bufftip=幻象
+Buffubertip=该单位是一个幻象，它在被攻击时受到额外的伤害
+EditorName=Haunt Illusion
+[B030]
+Bufftip=复制
+Buffubertip=该单位是复制品
+[B04A]
+Bufftip=瓶子
+Buffubertip=该单位正在恢复生命和魔法
+EditorName=瓶子
+[B07K]
+Bufftip=邪恶狂热
+Buffubertip=该单位获得额外的攻击力，并且可以吸血
+[B07Z]
+Bufftip=复制之墙
+Buffubertip=复制之墙所产生的镜像，拥有本体35%的攻击力并受到200%的额外伤害
+[B098]
+Bufftip=幻象
+Buffubertip=该单位是一个幻象，它在被攻击时受到额外的伤害
+EditorName=Spirit Lance Illusion
+[B0AS]
+Bufftip=Totem
+Buffubertip=
+[B0CB]
+Bufftip=幻象
+Buffubertip=该单位是一个幻象，它在被攻击时受到额外的伤害
+EditorName=Phantasm Illusion
+[B0CG]
+Bufftip=影之灵龛
+Buffubertip=该单位正在恢复生命
+[B0DA]
+Bufftip=崩裂禁锢幻像
+Buffubertip=该单位是一个幻象，它在被攻击时受到额外的伤害
+EditorName=崩裂禁锢幻像
+[B0EB]
+Bufftip=Spiritbash Illusion
+Buffubertip=该单位是一个幻象，它在被攻击时受到额外的伤害
+[B0EI]
+Bufftip=幻象
+Buffubertip=该单位是一个幻象，它在被攻击时受到额外的伤害
+EditorName=conjue
+[B0EN]
+Bufftip=幻象
+Buffubertip=该单位是一个幻象，它在被攻击时受到额外的伤害
+EditorName=conjue
+[B0FK]
+Bufftip=勇气之霎
+Buffubertip=迅捷回击
+EditorName=勇气之霎
+[B0FX]
+Bufftip=火焰屏障
+Buffubertip=text
+EditorName=火焰屏障
+[B0GI]
+Bufftip=空瓶子减速
+Buffubertip=该信使移动速度较慢
+EditorName=空瓶子减速
+[B0GO]
+Bufftip=灵魂碎片
+Buffubertip=该单位是一个幻象，它在被攻击时受到额外的伤害
+EditorName=灵魂碎片
+[B3R4]
+Bufftip=|cffe100f0奥术|r

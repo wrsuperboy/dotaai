@@ -1,0 +1,85 @@
+[Rusp]
+Name=Destroyer Form
+Tip=Research Des|cffffcc00t|rroyer Form
+Ubertip="Allows the Obsidian Statue to transform into a Destroyer, a large flying unit that must devour magic to sustain its mana. The Destroyer has Spell Immunity, Devour Magic, Absorb Mana, and Orb of Annihilation. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=T
+[Rume]
+Name=Unholy Strength,Improved Unholy Strength,Advanced Unholy Strength
+Tip=Upgrade to Unholy |cffffcc00S|rtrength,Upgrade to Improved Unholy |cffffcc00S|rtrength,Upgrade to Advanced Unholy |cffffcc00S|rtrength
+Ubertip="Increases the attack damage of Ghouls, Meat Wagons, Abominations, Skeleton Warriors, and Skeletal Mages.","Further increases the attack damage of Ghouls, Meat Wagons, Abominations, Skeleton Warriors, and Skeletal Mages.","Further increases the attack damage of Ghouls, Meat Wagons, Abominations, Skeleton Warriors, and Skeletal Mages."
+Hotkey=S,S,S
+[Rura]
+Name=Creature Attack,Improved Creature Attack,Advanced Creature Attack
+Tip=Upgrade to Creature |cffffcc00A|rttack,Upgrade to Improved Creature |cffffcc00A|rttack,Upgrade to Advanced Creature |cffffcc00A|rttack
+Ubertip="Increases the attack damage of Crypt Fiends, Gargoyles, Destroyers, and Frost Wyrms.","Further increases the attack damage of Crypt Fiends, Gargoyles, Destroyers, and Frost Wyrms.","Further increases the attack damage of Crypt Fiends, Gargoyles, Destroyers, and Frost Wyrms."
+Hotkey=A,A,A
+[Ruar]
+Name=Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor
+Tip=Upgrade to |cffffcc00U|rnholy Armor,Upgrade to Improved |cffffcc00U|rnholy Armor,Upgrade to Advanced |cffffcc00U|rnholy Armor
+Ubertip="Increases the armor of Ghouls, Abominations, Skeleton Warriors, and Skeletal Mages.","Further increases the armor of Ghouls, Abominations, Skeleton Warriors, and Skeletal Mages.","Further increases the armor of Ghouls, Abominations, Skeleton Warriors, and Skeletal Mages."
+Hotkey=U,U,U
+[Rucr]
+Name=Creature Carapace,Improved Creature Carapace,Advanced Creature Carapace
+Tip=Upgrade to Creature |cffffcc00C|rarapace,Upgrade to Improved Creature |cffffcc00C|rarapace,Upgrade to Advanced Creature |cffffcc00C|rarapace
+Ubertip="Increases the armor of Crypt Fiends, Gargoyles, Destroyers, and Frost Wyrms.","Further increases the armor of Crypt Fiends, Gargoyles, Destroyers, and Frost Wyrms.","Further increases the armor of the Crypt Fiends, Gargoyles, Destroyers, and Frost Wyrms."
+Hotkey=C,C,C
+[Ruac]
+Name=Cannibalize
+Tip=Research |cffffcc00C|rannibalize
+Ubertip=Enables Ghouls and Abominations to use the Cannibalize ability. Cannibalize consumes a nearby corpse to restore health.
+Hotkey=C
+[Rusf]
+Name=石像形态
+Tip=Research |cffffcc00S|rtone Form
+Ubertip="Enables the ability for Gargoyles to assume Stone Form. Stone Form transforms the Gargoyle into a statue with high armor, spell immunity, and regeneration. The Gargoyle cannot attack in this form."
+Hotkey=S
+[Rusl]
+Name=Skeletal Longevity
+Tip=Research |cffffcc00S|rkeletal Longevity
+Ubertip="Increases the duration of raised Skeleton Warriors and Skeletal Mages by <Rusl,base1> seconds."
+Hotkey=S
+[Rupc]
+Name=Disease Cloud
+Tip=Research |cffffcc00D|risease Cloud
+Ubertip="Gives Abominations a Disease Cloud aura that deals <Aap1,DataB1> damage per second for <Aap1,DataA1> seconds to nearby enemy units. Meat Wagons will cause Disease Clouds wherever they attack that deal <Aap2,DataB1> damage per second for <Aap2,DataA1> seconds to nearby enemy units. |nUndead are immune to Disease Cloud."
+Hotkey=D
+[Ruex]
+Name=Exhume Corpses
+Tip=Research |cffffcc00E|rxhume Corpses
+Ubertip=Gives Meat Wagons the ability to generate corpses.
+Hotkey=E
+[Rupm]
+Name=Backpack
+Tip=Research |cffffcc00B|rackpack
+Ubertip=Gives specific Undead ground units the ability to carry items.
+Hotkey=B
+[R009]
+Name=长大
+Tip=Melee Upgrade,Melee Upgrade,Melee Upgrade,Melee Upgrade,Melee Upgrade,Melee Upgrade,Melee Upgrade,Melee Upgrade,Melee Upgrade,Melee Upgrade,Melee Upgrade,Melee Upgrade,Melee Upgrade,Melee Upgrade,Melee Upgrade,Melee Upgrade,Melee Upgrade,Melee Upgrade,Melee Upgrade,Melee Upgrade
+Ubertip="Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps.","Improves the damage, hit points, and armor of all melee Scourge creeps."
+Hotkey=S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S
+[R00A]
+Name=Ranged Upgrade
+Tip=Upgrade to Creature |cffffcc00A|rttack,Upgrade to Improved Creature |cffffcc00A|rttack,Upgrade to Advanced Creature |cffffcc00A|rttack
+Ubertip=All Scourge creeps gain a damage and hit point bonus.,All Scourge creeps gain a damage and hit point bonus.,All Scourge creeps gain a damage and hit point bonus.
+Hotkey=A,A,A
+[R003]
+Name=Melee Upgrade
+Tip=Upgrade to Creature |cffffcc00A|rttack,Upgrade to Improved Creature |cffffcc00A|rttack,Upgrade to Advanced Creature |cffffcc00A|rttack
+Ubertip=All Scourge creeps gain a damage and hit point bonus.,All Scourge creeps gain a damage and hit point bonus.,All Scourge creeps gain a damage and hit point bonus.
+Hotkey=A,A,A
+[R00B]
+Name=Ranged Upgrade
+Tip=Upgrade to Creature |cffffcc00A|rttack,Upgrade to Improved Creature |cffffcc00A|rttack,Upgrade to Advanced Creature |cffffcc00A|rttack
+Ubertip=All Scourge creeps gain a damage and hit point bonus.,All Scourge creeps gain a damage and hit point bonus.,All Scourge creeps gain a damage and hit point bonus.
+Hotkey=A,A,A
+[R004]
+Name=Melee Upgrade
+Tip=Upgrade to Creature |cffffcc00A|rttack,Upgrade to Improved Creature |cffffcc00A|rttack,Upgrade to Advanced Creature |cffffcc00A|rttack
+Ubertip=All towers are now easier to destroy.,All Scourge creeps gain a damage and hit point bonus.,All Scourge creeps gain a damage and hit point bonus.
+Hotkey=A,A,A
+[R00E]
+Name=Melee Upgrade
+Tip=
+Ubertip=
+Hotkey=A,A,A

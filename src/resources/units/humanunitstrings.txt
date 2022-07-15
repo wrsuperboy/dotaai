@@ -1,0 +1,1953 @@
+[Hblm]
+Name=光之守卫
+Propernames=伊扎洛,伊扎洛,伊扎洛,伊扎洛,伊扎洛,伊扎洛,甘道夫,伊扎洛
+Tip=光之守卫
+Ubertip=控制光与魔法的大师光之守卫，曾经是一位倍受尊敬的学者。但是在法师战争中，他背叛并出卖了他的同盟，因此被判流放到暗影界，永世不得回来。当近卫军团了解到他的强大能力后，给予他一个存活于凡间的肉身，但做为交换，他必须改变他的立场，加入近卫军团来反击天灾军团的冲击。伊扎洛负责给予同伴以无限能量的支持，而之前的背叛现在已经几乎没有人记得它了。|n|n|cff0042ff力量|r - 14 + 1.8|n|cff0042ff敏捷|r - 15 + 1.6|n|cffff0303智力|r - 22 + 2.8|n|n可以学习 启明、法力流失、查克拉魔法和|cffff8000灵魂形态|r。|n|n攻击距离 600（远程）|n移动速度 315
+Revivetip=复活 光之守卫
+Awakentip=复活 光之守卫
+[Hamg]
+Name=树精卫士
+Propernames=鲁夫特伦
+Tip=树精卫士
+Ubertip=在燃烧军团入侵的时候，树精卫士还只是棵幼小的树苗，而如今，他已成为经历了无穷岁月的树人智者。经过数千年的成长，现在他正在为近卫军团贡献他的力量。借助伟大的森林，树精卫士可以驾驭森林之力隐藏他的盟友，他也可以制造藤蔓护甲给予己方以充分的保护，他还可以用枝蔓缠绕住对手，然后挥舞他沉重的树干将对手置于死地。|n|n|cffff0303力量|r - 25 + 3.3|n|cff0042ff敏捷|r - 15 + 2.0|n|cff0042ff智力|r - 17 + 1.8|n|n可以学习 大自然的掩护、寄生种子、活体护甲和|cffff8000过度生长|r。|n|n攻击距离 128（近程）|n移动速度 300
+Revivetip=复活 树精卫士
+Awakentip=复活 树精卫士
+[Hmkg]
+Name=食人魔魔法师
+Propernames=阿格隆·碎石者
+Tip=食人魔魔法师
+UberTip=食人魔是一个盛产战士的种族，对魔法这门学问没有什么经验。而食人魔法师则是其中的一个异类，他出生时即与魔法有着密切的关系，没有人引导而无师自通。他利用固有的力量来制造元素火焰和爆炸以毁掉他的敌人。作为一个自然展示，他用把他内心深处的侵略性来刺激他的盟友对战场的欲望。他野蛮但尚未开发的魔法潜能很有可能会狂野的迸发出来，这大大加强了他的魔法能力。他是一个力量与魔法俱佳的的杰出战斗力，被他的人民所尊敬，而让他的敌人所惧怕。|n|n|cff0042ff力量|r - 23 + 3.2|n|cff0042ff敏捷|r - 14 + 1.55|n|cffff0303智力|r - 17 + 2.4|n|n可以学习 火焰爆轰、引燃、嗜血术和|cffff8000多重施法|r。|n|n攻击距离 128（近程）|n移动速度 295, adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt, Thunder Clap, Bash and Avatar. |n|n|cffffcc00Attacks land units.|r
+Revivetip=复活 食人魔法师
+Awakentip=复活 食人魔法师
+[hwat]
+Name=弱精神体
+[hwt2]
+Name=精神体
+[hwt3]
+Name=巨型精神体
+[hC95]
+Name=奎尔萨拉密室
+[H00E]
+Name=龙骑士
+Propernames=雅克·洪尼斯特
+Tip=龙骑士
+Ubertip=龙骑士变成了强大的红龙。|n|n|cffff0303力量|r - 19 + 2.8|n|cff0042ff敏捷|r - 19 + 2.2|n|cff0042ff智力|r - 15 + 1.7|n|n可以学习 火焰气息、神龙摆尾、龙族血统和|cffff8000真龙形态|r。|n|n攻击距离 500（远程）
+Revivetip=复活 龙骑士
+Awakentip=复活 龙骑士
+Description=龙骑士
+[H00G]
+Name=龙骑士
+Propernames=雅克·洪尼斯特
+Tip=龙骑士
+Ubertip=龙骑士变成了强大的蓝龙。|n|n|cffff0303力量|r - 19 + 2.8|n|cff0042ff敏捷|r - 19 + 2.2|n|cff0042ff智力|r - 15 + 1.7|n|n可以学习 火焰气息、神龙摆尾、龙族血统和|cffff8000真龙形态|r。|n|n攻击距离 500（远程）
+Revivetip=复活 龙骑士
+Awakentip=复活 龙骑士
+Description=龙骑士
+[h006]
+Name=恐怖精神体
+[H00F]
+Name=龙骑士
+Propernames=雅克·洪尼斯特
+Tip=龙骑士
+Ubertip=龙骑士变成了强大的绿龙。|n|n|cffff0303力量|r - 19 + 2.8|n|cff0042ff敏捷|r - 19 + 2.2|n|cff0042ff智力|r - 15 + 1.7|n|n可以学习 火焰气息、神龙摆尾、龙族血统和|cffff8000真龙形态|r。|n|n攻击距离 500（远程）
+Revivetip=复活 龙骑士
+Awakentip=复活 龙骑士
+Description=龙骑士
+[H008]
+Name=刚背兽
+Propernames=瑞格沃
+Tip=刚背兽
+Ubertip=野猪人对其他种族之间的战斗是丝毫没有兴趣的，只有一个人知道，如果不遏制天灾军团的话，终有一天天灾将染指他们的土地。为了保护部族的安危，刚背兽带着原始的战斗本能加入近卫军团。每次他挥出一蓬鬃毛或者甩出一滴鼻涕以后，他就变得更为狂热。当他陷入危险时，他坚硬的后背能帮助他抵挡伤害。刚背兽完美地展示了那些不起眼的生物所能爆发的力量。|n|n|cffff0303力量|r - 22 + 2.2|n|cff0042ff敏捷|r - 17 + 1.8|n|cff0042ff智力|r - 14 + 2.8|n|n可以学习 刚毛后背、刺针扫射、粘稠鼻液和|cffff8000战意|r。|n|n攻击距离 128（近程）|n移动速度 290
+Revivetip=复活 刚背兽
+Awakentip=复活 刚背兽
+[h002]
+Name=暗影之径
+Hotkey=P
+[h003]
+Name=暗影匕首
+Hotkey=P
+[h005]
+Name=月神之箭
+Hotkey=P
+[h009]
+Name=DummyNet
+Hotkey=P
+[h00C]
+Name=Net Projectile
+Hotkey=P
+[H00I]
+Name=地卜师
+Propernames=米波,米波,米波,米波,米波,米波,米波,|c00FFFF00MeePwn|r,|c00FFFF00MeePwn|r,|c00FFFF00MeePwn|r
+Tip=地卜师
+Ubertip=生活在黑色森林中，最初被赫尔马尼的异族所崇拜的神地卜师，是个淘气的小土灵。他特别喜欢将他的敌人活生生地困在岩石的裂缝中，然后用他沉重的铲子将他们钉死在绝望之中。地卜师最让敌人头大的本事就是能够分出另外的自己，并且每个分身都跟原本的真身一样。所以谁不幸地惹到了他，就可能遇到4倍于平时的麻烦。|n|n|cff0042ff力量|r - 17 + 1.3|n|cffff0303敏捷|r - 23 + 1.9|n|cff0042ff智力|r - 20 + 1.6|n|n可以学习 地之束缚、忽悠、地之突袭和|cffff8000分则能成|r。|n|n攻击距离 100（近程）|n移动速度 315
+Revivetip=复活 地卜师
+Awakentip=复活 地卜师
+Description=地卜师
+[H00J]
+Name=地卜师
+Propernames=米波,米波,米波,米波,米波,米波,米波,|c00FFFF00MeePwn|r,|c00FFFF00MeePwn|r,|c00FFFF00MeePwn|r
+Tip=地卜师
+Ubertip=生活在黑色森林中，最初被赫尔马尼的异族所崇拜的神地卜师，是个淘气的小土灵。他特别喜欢将他的敌人活生生地困在岩石的裂缝中，然后用他沉重的铲子将他们钉死在绝望之中。地卜师最让敌人头大的本事就是能够分出另外的自己，并且每个分身都跟原本的真身一样。所以谁不幸地惹到了他，就可能遇到4倍于平时的麻烦。|n|n|cff0042ff力量|r - 23 + 1.6|n|cffff0303敏捷|r - 23 + 1.9|n|cff0042ff智力|r - 20 + 1.6|n|n可以学习 地之束缚、忽悠、地之突袭和|cffff8000分则能成|r。|n|n攻击距离 100（近程）|n移动速度 305
+Revivetip=复活 地卜师
+Awakentip=复活 地卜师
+Description=地卜师
+[h00L]
+Name=Shallow Grave
+Hotkey=P
+[H00M]
+Name=Bloodrune
+Propernames=米波
+Tip=地卜师
+Ubertip=生活在黑色森林中，最初被赫尔马尼的异族所崇拜的神地卜师，是个淘气的小土灵。他特别喜欢将他的敌人活生生地困在岩石的裂缝中，然后用他沉重的铲子将他们钉死在绝望之中。地卜师最让敌人头大的本事就是能够分出另外的自己，并且每个分身都跟原本的真身一样。所以谁不幸地惹到了他，就可能遇到4倍于平时的麻烦。|n|n|cff0042ff力量|r - 17 + 1.3|n|cffff0303敏捷|r - 23 + 1.9|n|cff0042ff智力|r - 20 + 1.6|n|n可以学习 地之束缚、忽悠、地之突袭和|cffff8000分则能成|r。|n|n攻击距离 100（近程）|n移动速度 300
+Revivetip=复活 地卜师
+Awakentip=复活 地卜师
+Description=地卜师
+[H00N]
+Name=黑暗贤者
+Propernames=依什卡菲尔
+Tip=黑暗贤者
+UberTip=被族人所流放的黑暗贤者是天灾军团里最会算计和耍诈的英雄。他同时也是最最神秘的，除了巫妖王不同任何人说话。他另类的才能极为特殊和灵活，在战斗中能同时提供进攻型和防御型的法术。甚至往往在一场战斗开始之前，已经将局势扭转。|n|n|cff0042ff力量|r - 22 + 2.3|n|cff0042ff敏捷|r - 12 + 1.2|n|cffff0303智力|r - 25 + 2.7|n|n可以学习 真空、离子外壳、奔腾和|cffff8000复制之墙|r。|n|n攻击距离 128（近程）|n移动速度 300
+Revivetip=复活 黑暗贤者
+Awakentip=复活 黑暗贤者
+[h00O]
+Name=复制之墙
+Hotkey=P
+[h00P]
+Name=复制之墙侦测
+Hotkey=P
+[H00Q]
+Name=神灵武士
+Propernames=哈斯卡
+Tip=神灵武士
+Ubertip=暗矛部落的巨魔们在很久以前就被从荆棘谷的原住地流放出来，他们是大多数人眼中最野蛮的种族，与他们相比，甚至连战场都显得优雅起来。这个“美誉”，更因他们在近卫军团的代表，那个为了将敌人烧成碎片而不惜燃烧自己生命的神灵武士而名声大噪。在他的族人眼里，身为神灵武士的他，是被洛阿神祝福的烈士，从来不会畏惧死亡，情愿地（有时是绝望地）向死亡冲去，只是为了一个目标，将天灾拖入坟墓。|n |n|n|cffff0303力量|r - 21 + 2.4|n|cff0042ff敏捷|r - 15 + 1.4|n|cff0042ff智力|r - 18 + 1.5|n|n可以学习 活血术、沸血之矛、狂战士之血和|cffff8000牺牲|r。|n|n攻击距离 400（远程）|n移动速度 300
+Revivetip=复活 神灵武士
+Awakentip=复活 神灵武士
+[H00R]
+Name=不朽尸王
+Propernames=挽歌
+Tip=不朽尸王
+UberTip=任何见到不朽尸王的人，无一例外将他当作一具丑陋和恶心的标本，包括他的僵尸随从们。他曾在荒野上游荡，最终选择侍奉巫妖王，是因为他憧憬着有个能够承认和接纳他的地方。虽然他仍然被天灾军团的其他人所厌恶，但他那可怕的能力：包括召唤难缠而且致命的小僵尸，以及在敌军中快速的散播瘟疫，其强大的威力都是无可非议的，并且随时有可能成为天灾军团的一把利器，来使他们的邪恶远征，达到一击必杀的效果。|n|n|cffff0303力量|r - 22 + 2.1|n|cff0042ff敏捷|r - 10 + 0.8|n|cff0042ff智力|r - 27 + 2.5|n|n可以学习 腐朽、噬魂、墓碑和|cffff8000血肉傀儡|r。|n|n攻击距离 128（近程）|n移动速度 310
+Revivetip=复活 不朽尸王
+Awakentip=复活 不朽尸王
+[h00W]
+Name=死灵抛掷体
+Hotkey=P
+[h007]
+Name=编织
+[h00B]
+Name=IceArmor Caster
+Hotkey=P
+[H00U]
+Name=祈求者
+Propernames=凯尔萨斯,凯尔萨斯,凯尔,凯尔,凯尔,凯尔,凯尔,卡尔,卡尔-艾尔,卡尔
+Tip=祈求者
+Ubertip=冰，霜雪的核心；|n雷，风暴的精华；|n火，凤凰的灵魂。|n|n在他的王国被瓦解，子民们四散分布到世界各个角落之后，留给凯尔只有往昔恢宏帝国仅存的遗迹。出于对复仇的极度渴望，他把自己的灵魂出卖给了基尔加丹，换来了几乎无穷的力量。披着已陈旧泛白的血法师披风的祈求者在复仇的战斗中唯一能够依靠的是受他掌控的元素的力量。他的致命咒语将元素融合在一起，发出的怒火甚至能将天空撕成碎片。他的天赋没有止境，近卫的人们将会领略到祈求者愤怒的力量。|n|n|cff0042ff力量|r - 17 + 1.7|n|cff0042ff敏捷|r - 14 + 1.9|n|cffff0303智力|r - 22 + 4.0|n|n可以学习 冰、雷、火和|cffff8000元素祈唤|r。|n|n攻击距离 600（远程）|n移动速度 280
+Revivetip=复活 祈求者
+Awakentip=复活 祈求者
+[h00X]
+Name=AH
+Hotkey=F
+[H00Y]
+Name=预载英雄
+Hotkey=G
+[h010]
+Name=Stifling Dagger Projectile
+Hotkey=P
+[h011]
+Name=速度之鞋|nBoots of Speed
+Hotkey=S
+Tip=速度之鞋|nBoots of Speed
+Ubertip=|cffffcc00属性：|r|n提升45点移动速度|n|n|c00ff0303移动速度提升效果不与其他任何鞋类物品叠加|r|n|n|c00838B8B穿双鞋子，跑得更快|r
+[h012]
+Name=急速手套|nGloves of Haste
+Hotkey=G
+Tip=急速手套|nGloves of Haste
+Ubertip=|cffffcc00属性：|r|n提升20的攻击速度|n|n|c00838B8B这双神奇的手套，似乎可以使武器变轻|r
+[h013]
+Name=精灵皮靴|nBoots of Elvenskin
+Hotkey=E
+Tip=精灵皮靴|nBoots of Elvenskin
+Ubertip=|cffffcc00属性：|r|n增加6点敏捷|n|n|cff838B8B这双鞋子常用来表演太空步|r
+[h014]
+Name=动力鞋|nPower Treads
+Tip=动力鞋|nPower Treads
+Ubertip=|cffffcc00属性：|r|n提升45点移动速度|n提升25点攻击速度|n增加9点所选属性|n|n|cffffcc00需要：|r|n速度之鞋 - 400|n急速手套 - 500|n精灵皮靴 |cfffffc01或|r 法师长袍 |cfffffc01或|r 巨人力量腰带 - 450|n|n|c00838B8B总价：1350|r|n|n|cffff0303移动速度提升效果不与其他任何鞋类物品叠加|r|n|n|cffff0303装备唯一|r
+[h015]
+Name=贵族头环|nCirclet of Nobility
+Hotkey=C
+Tip=贵族头环|nCirclet of Nobility
+Ubertip=|cffffcc00属性：|r|n增加2点所有属性|n|n|c00838B8B为人类公主们设计的雅致头环|r
+[h016]
+Name=巨人力量腰带|nBelt of Giant Strength
+Hotkey=B
+Tip=巨人力量腰带|nBelt of Giant Strength
+Ubertip=|cffffcc00属性：|r|n增加6点力量|n|n|cff838B8B儿童及孕妇慎用|r
+[h017]
+Name=欢欣之刃|nBlade of Alacrity
+Hotkey=Y
+Tip=欢欣之刃|nBlade of Alacrity
+Ubertip=|cffffcc00属性：|r|n增加10点敏捷|n|n|cff838B8B充盈着时光魔法的长剑|r
+[h018]
+Name=攻击之爪|nBlades of Attack
+Hotkey=A
+Tip=攻击之爪|nBlades of Attack
+Ubertip=|cffffcc00属性：|r|n增加9点攻击力|n|n|cff838B8B虐待狂们的可选武器之一|r
+[h019]
+Name=阔剑|nBroadsword
+Hotkey=B
+Tip=阔剑|nBroadsword
+Ubertip=|cffffcc00属性：|r|n增加18点攻击力|n|n|cff838B8B想做个称职的骑士的话，就该买上一把|r
+[h01A]
+Name=锁甲|nChainmail
+Hotkey=L
+Tip=锁甲|nChainmail
+Ubertip=|cffffcc00属性：|r|n增加5点护甲|n|n|c00838B8B金属锁链制成的编织甲|r
+[h01B]
+Name=大剑|nClaymore
+Hotkey=C
+Tip=大剑|nClaymore
+Ubertip=|cffffcc00属性：|r|n增加21点攻击力|n|n|c00838B8B大至盔甲，小到番茄，无所不切|r
+[h01C]
+Name=恶魔刀锋|nDemon Edge
+Hotkey=D
+Tip=恶魔刀锋|nDemon Edge
+Ubertip=|cffffcc00属性：|r|n增加46点攻击力|n|n|c00838B8B恶魔军团的堕落统领所使用的武器，充满着邪恶的力量|r
+[h01D]
+Name=鹰角弓|nEaglehorn
+Hotkey=G
+Tip=鹰角弓|nEaglehorn
+Ubertip=|cffffcc00属性：|r|n增加25点敏捷|n|n|cff838B8B用这把轻巧的弓进行攻击是如此的精准，就好像它自己会瞄准目标一样|r
+[h01E]
+Name=能量之球|nEnergy Booster
+Hotkey=E
+Tip=能量之球|nEnergy Booster
+Ubertip=|cffffcc00属性：|r|n提高250点魔法上限|n|n|c00838B8BEnie|r
+[h01F]
+Name=力量护手|nGauntlets of Strength
+Hotkey=S
+Tip=力量护手|nGauntlets of Strength
+Ubertip=|cffffcc00属性：|r|n增加3点力量|n|n|c00838B8B指节铜套——豪华版！|r
+[h01G]
+Name=真视宝石|nGem of True Sight
+Hotkey=I
+Tip=真视宝石|nGem of True Sight
+Ubertip=|cffffcc00属性：|r|n|cff0033cc真视：|r|n显现附近的隐形单位|n|n|cffff0303死亡后掉落|n不可出售|r|n|n|cff99ccff商店刷新时间：|r10分钟|n|n|c00838B8B一块有魔力的石头，能够让你看到视野之外的东西|r
+[h01H]
+Name=铁意头盔|nHelm of Iron Will
+Hotkey=H
+Tip=铁意头盔|nHelm of Iron Will
+Ubertip=|cffffcc00属性：|r|n增加5点护甲|n提升3点/秒的生命恢复速率|n|n|c00838B8B一位战死沙场的传奇般的武士穿戴过的头盔|r
+[h01I]
+Name=振奋宝石|nHyperstone
+Hotkey=Y
+Tip=振奋宝石|nHyperstone
+Ubertip=|cffffcc00属性：|r|n提升55的攻击速度|n|n|c00838B8B一块刻有神秘纹路的石头，能够提升携带者的激情|r
+[h01J]
+Name=铁树枝干|nIronwood Branch
+Hotkey=N
+Tip=铁树枝干|nIronwood Branch
+Ubertip=|cffffcc00属性：|r|n增加1点所有属性|n|cffff8000种树|r（主动）|n|n|cff838B8B带上它来确保一场好的开局（Good Game）|r
+[h01K]
+Name=凯伦的匕首|nKelen's Dagger
+Hotkey=D
+Tip=凯伦的匕首|nKelen's Dagger
+Ubertip=|cffffcc00属性：|r|n|cffff8000瞬间移动：|r|n瞬间移动到目标地点；受到来自英雄的伤害后3秒之内无法使用|n|n|cff99ccff施法距离：|r1200|n|cff99ccff冷却时间：|r12|n|n|c00838B8B艾泽拉斯传说中来去如风的刺客凯伦所使用的匕首|r
+[h01L]
+Name=智力斗篷|nMantle of Intelligence
+Hotkey=I
+Tip=智力斗篷|nMantle of Intelligence
+Ubertip=|cffffcc00属性：|r|n增加3点智力|n|n|c00838B8B穿上去像花花公子的蓝色斗篷；这个季节非常流行|r
+[h01M]
+Name=死亡面具|nMask of Death
+Hotkey=M
+Tip=死亡面具|nMask of Death
+Ubertip=|cffffcc00属性：|r|n增加15%的吸血|n|n|cff838B8B再没比这个更拉风的了|r
+[h01N]
+Name=梅塞施密特的劫掠者|nMesserschmidt's Reaver
+Hotkey=R
+Tip=梅塞施密特的劫掠者|nMesserschmidt's Reaver
+Ubertip=|cffffcc00属性：|r|n增加25点力量|n|n|cff838B8B这把巨斧能够劈开一整条山脉|r
+[h01O]
+Name=秘银锤|nMithril Hammer
+Hotkey=M
+Tip=秘银锤|nMithril Hammer
+Ubertip=|cffffcc00属性：|r|n增加24点的攻击力|n|n|cff838B8B由纯粹的秘银打造而成的锤子，It's Hammer Time！|r
+[h01P]
+Name=神秘法杖|nMystic Staff
+Hotkey=M
+Tip=神秘法杖|nMystic Staff
+Ubertip=|cffffcc00属性：|r|n增加25点智力|n|n|cff838B8B这根谜一般的法杖是由最贵重的水晶做成的|r
+[h01Q]
+Name=食人魔之斧|nOgre Axe
+Hotkey=X
+Tip=食人魔之斧|nOgre Axe
+Ubertip=|cffffcc00属性：|r|n增加10点力量|n|n|cff838B8B只是握着它就感觉自己变得更加强壮|r
+[h01R]
+Name=流浪法师斗篷|nPlaneswalker's Cloak
+Hotkey=W
+Tip=流浪法师斗篷|nPlaneswalker's Cloak
+Ubertip=|cffffcc00属性：|r|n提升15%的魔法抗性|n|n|cff838B8B以魔法材质制作的斗篷可以抵御法术攻击|r
+[h01S]
+Name=板甲|nPlate Mail
+Hotkey=P
+Tip=板甲|nPlate Mail
+Ubertip=|cffffcc00属性：|r|n增加10点护甲|n|n|cff838B8B厚重的金属板甲可以保护你的上身，但要小心掉下来砸到脚|r
+[h01T]
+Name=精气之球|nPoint Booster
+Hotkey=P
+Tip=精气之球|nPoint Booster
+Ubertip=|cffffcc00属性：|r|n提高200点生命上限|n提高150点魔法上限|n|n|cff838B8BMeenie|r
+[h01U]
+Name=短棍|nQuarterstaff
+Hotkey=Q
+Tip=短棍|nQuarterstaff
+Ubertip=|cffffcc00属性：|r|n增加10点攻击力|n提升10的攻击速度|n|n|c00838B8B要四根短棍才能组成一根普通的棍子，晕！|r
+[h01V]
+Name=医疗指环|nRing of Health
+Hotkey=I
+Tip=医疗指环|nRing of Health
+Ubertip=|cffffcc00属性：|r|n提高5点/秒的生命恢复速率|n|n|cff838B8B在半身人肥仔尸体下找到的发光戒指|r
+[h01W]
+Name=守护指环|nRing of Protection
+Hotkey=R
+Tip=守护指环|nRing of Protection
+Ubertip=|cffffcc00属性：|r|n增加2点护甲|n|n|cff838B8B也许是它尺寸太小的缘故，大多数人想戴上它的话会有点困难|r
+[h01X]
+Name=再生之戒|nRing of Regeneration
+Hotkey=R
+Tip=再生之戒|nRing of Regeneration
+Ubertip=|cffffcc00属性：|r|n提升2点/秒的生命恢复速率|n|n|c00838B8B侏儒们都迷信这戒指能带来好运气|r
+[h01Y]
+Name=法师长袍|nRobe of the Magi
+Hotkey=R
+Tip=法师长袍|nRobe of the Magi
+Ubertip=|cffffcc00属性：|r|n增加6点智力|n|n|cff838B8B这件长袍会腐蚀使用者的灵魂，但作为回报，增加携带者的智力|r
+[h01Z]
+Name=圣者遗物|nSacred Relic
+Hotkey=S
+Tip=圣者遗物|nSacred Relic
+Ubertip=|cffffcc00属性：|r|n增加60点攻击力|n|n|cff838B8B一把年代久远的武器。很难说出圣者遗物到底是什么，有传言称这是一把有着无限能量的宝剑。kao！|r
+[h020]
+Name=敏捷便鞋|nSlippers of Agility
+Hotkey=A
+Tip=敏捷便鞋|nSlippers of Agility
+Ubertip=|cffffcc00属性：|r|n增加3点敏捷|n|n|cff838B8B用蜘蛛皮做的皮靴，能使你感到些许刺痛|r
+[h021]
+Name=艺人面罩|nSobi Mask
+Hotkey=B
+Tip=艺人面罩|nSobi Mask
+Ubertip=|cffffcc00属性：|r|n提高50%的魔法恢复速率|n|n|cff838B8B法师和术士们在仪祭时使用的面具|r
+[h022]
+Name=魔力法杖|nStaff of Wizardry
+Hotkey=W
+Tip=魔力法杖|nStaff of Wizardry
+Ubertip=|cffffcc00属性：|r|n增加10点智力|n|n|c00838B8B禁止通行！！|r
+[h023]
+Name=圆盾|nStout Shield
+Hotkey=S
+Tip=圆盾|nStout Shield
+Ubertip=|cffffcc00属性：|r|n近程/远程英雄受到普通攻击时有50%的概率抵挡16/8点伤害|n|n|c00838B8B这个小盾牌原先是某人的酒桶底子|r
+[h024]
+Name=极限宝珠|nUltimate Orb
+Hotkey=O
+Tip=极限宝珠|nUltimate Orb
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n|n|cff838B8B一个包含着生命本质的神秘球体|r
+[h025]
+Name=活力之球|nVitality Booster
+Hotkey=B
+Tip=活力之球|nVitality Booster
+Ubertip=|cffffcc00属性：|r|n提高250点生命上限|n|n|c00838B8BMinie|r
+[h026]
+Name=虚无宝石|nVoid Stone
+Hotkey=V
+Tip=虚无宝石|nVoid Stone
+Ubertip=|cffffcc00属性：|r|n提高100%的魔法恢复速率|n|n|cff838B8B这块宝石看起来蕴藏着无穷的能量|r
+[h027]
+Name=标枪|nJavelin
+Hotkey=J
+Tip=标枪|nJavelin
+Ubertip=|cffffcc00属性：|r|n增加10点攻击力|n攻击有25%的概率造成85点额外伤害|n|n|c00838B8B与其说是标枪，倒更加像标准的长矛，用来攻击的时候能够穿透敌人的铠甲|r
+[h028]
+Name=明澈药水|nClarity Potion
+Hotkey=C
+Tip=明澈药水|nClarity Potion
+Ubertip=|cffffcc00属性：|r|n|cffff8000魔法回复：|r|n在50秒内恢复190点魔法，受到攻击即失去效果|n|n|c00838B8B每瓶药水中都困着一个鲜活的小精灵|r
+[h029]
+Name=治疗药膏|nHealing Salve
+Hotkey=V
+Tip=治疗药膏|nHealing Salve
+Ubertip=|cffffcc00属性：|r|n|cffff8000生命回复：|r|n在8秒内恢复一个友方单位400点生命，受到攻击即失去效果|n|n|c00838B8B具有魔法功效的药膏，再深的伤口也能迅速治愈|r
+[h02A]
+Name=艾西菲的远古祭祀|nAncient Tango of Essifation
+Hotkey=S
+Tip=艾西菲的远古祭祀|nAncient Tango of Essifation
+Ubertip=|cffffcc00属性：|r|n|cffff8000吃树：|r|n允许使用者吞食树木，16秒内恢复115点生命，对结界使用持续时间加倍|n|n可以使用|cffff03034|r次|n|n|c00838B8B越用你就会越依赖它！|r
+[h02B]
+Name=魔瓶|nEmpty Bottle
+Hotkey=B
+Tip=魔瓶|nEmpty Bottle
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r
+[h02C]
+Name=侦察结界
+Hotkey=O
+Tip=侦察结界|nObserver Ward
+Ubertip=|cffffcc00属性：|r|n|cffff8000侦察结界：|r|n放置一个侦察结界来监视一片的区域，侦查结界不具有真视能力|n|n可以使用|cffff03031|r次|n商店最大存储量：4|n|cff99ccff持续时间：|r7分钟|n|cff99ccff再生时间：|r3分钟
+[h02D]
+Name=岗哨结界
+Hotkey=W
+Tip=岗哨结界|nSentry Ward
+Ubertip=|cffffcc00属性：|r|n|cffff8000岗哨结界：|r|n放置一个具有真视能力的岗哨结界，能侦测周围的隐形单位；它本身的视野非常之小|n|n可以使用|cffff03032|r次|n|n|cff99ccff持续时间：|r4分钟
+[h02E]
+Name=城镇传送卷轴|nScroll of Town Portal
+Hotkey=T
+Tip=城镇传送卷轴|nScroll of Town Portal
+Ubertip=|cffffcc00属性：|r|n|cffff8000传送：|r|n将你传送至任意友方建筑|n|cff99ccff冷却时间：|r70
+[h02F]
+Name=动物信使|nAnimal Courier
+Hotkey=R
+Tip=动物信使|nAnimal Courier
+Ubertip=|cffffcc00属性：|r|n|cffff8000召唤信使：|r|n制造一个小巧而又快速的单位，能携带物品往返于基地。
+[h02G]
+Name=坚韧球|nPerseverance
+Tip=坚韧球|nPerseverance
+Ubertip=|cffffcc00属性：|r|n增加10点攻击力|n提高5点/秒的生命恢复速率|n提高125%的魔法恢复速率|n|n|cffffcc00需要：|r|n医疗指环 - 850|n虚无宝石 - 850|n|n|c00838B8B总价：1700|r 
+[h02H]
+Name=恢复头巾|nHeaddress of Rejuvenation
+Hotkey=E
+Tip=恢复头巾|nHeaddress of Rejuvenation
+Ubertip=|cffffcc00属性：|r|n增加2点所有属性|n|cff0033cc恢复光环|r（被动）|n|n|cffffcc00需要：|r|n再生之戒 - 350|n铁树枝干 - 50|n卷轴 - 200|n|n|c00838B8B总价：600|r
+[h02I]
+Name=纳斯雷兹姆盾牌|nNathrezim Buckler
+Hotkey=B
+Tip=纳斯雷兹姆盾牌|nNathrezim Buckler
+Ubertip=|cffffcc00属性：|r|n增加2点所有属性|n增加5点护甲|n|cffff8000防御提升|r（主动）|n|n|cffffcc00需要：|r|n锁甲 - 550|n铁树枝干 - 50|n卷轴 - 200|n|n|c00838B8B总价：800|r
+[h02J]
+Name=王者之戒|nRing of Basilius
+Tip=王者之戒|nRing of Basilius
+Ubertip=|cffffcc00属性：|r|n增加6点攻击力|n增加1点护甲|n|cff0033cc虔诚光环|r（被动）|n|cff0033cc辉煌光环|r（被动）|n|n|cffffcc00需要：|r|n艺人面罩 - 325|n守护指环 - 175|n|n|c00838B8B总价：500|r|n|n|cfffffc01可以拆分|r
+[h02K]
+Name=远行鞋|nBoots of Travel
+Hotkey=T
+Tip=远行鞋|nBoots of Travel
+Ubertip=|cffffcc00属性：|r|n提升100点移动速度|n|cffff8000传送|r（主动）|n|n|cffffcc00需要：|r|n速度之鞋 - 400|n卷轴 - 2000|n|n|c00838b8b总价：2450/4450|r|n|n|c00fffc01可以使用卷轴升级（共2等级）|r|n|n|c00ff0303移动速度提升效果不与其他任何鞋类物品叠加|r
+[h02L]
+Name=迈达斯之手|nHand of Midas
+Hotkey=D
+Tip=迈达斯之手|nHand of Midas
+Ubertip=|cffffcc00属性：|r|n提升30的攻击速度|n|cffff8000炼金|r（主动）|n|n|cffffcc00需要：|r|n急速手套 - 500|n卷轴 - 1550|n|n|c00838B8B总价：2050|r|n|n|cffff0303修补匠不能刷新此物品|r
+[h02M]
+Name=空明杖|nOblivion Staff
+Tip=空明杖|nOblivion Staff
+Ubertip=|cffffcc00属性：|r|n增加15点攻击力|n增加6点智力|n提高75%的魔法恢复速率|n提升10的攻击速度|n|n|cffffcc00需要：|r|n短棍 - 875|n法师长袍 - 450|n艺人面罩 - 325|n|n|c00838B8B总价：1650|r
+[h02N]
+Name=护腕|nBracer
+Hotkey=B
+Tip=护腕|nBracer
+Ubertip=|cffffcc00属性：|r|n增加3点所有属性|n增加3点力量|n增加3点攻击力|n|n|cffffcc00需要：|r|n贵族头环 - 165|n力量护手 - 150|n卷轴 - 210|n|n|c00838b8b总价：525|r
+[h02O]
+Name=怨灵系带|nWraith Band
+Hotkey=W
+Tip=怨灵系带|nWraith Band
+Ubertip=|cffffcc00属性：|r|n增加3点所有属性|n增加3点敏捷|n增加3点攻击力|n|n|cffffcc00需要：|r|n贵族头环 - 165|n敏捷便鞋 - 150|n卷轴 - 170|n|n|c00838B8B总价：485|r
+[h02P]
+Name=空灵挂件|nNull Talisman
+Hotkey=N
+Tip=空灵挂件|nNull Talisman
+Ubertip=|cffffcc00属性：|r|n增加3点所有属性|n增加3点智力|n增加3点攻击力|n|n|cffffcc00需要：|r|n贵族头环 - 165|n智力斗篷 - 150|n卷轴 - 155|n|n|c00838B8B总价：470|r
+[h02Q]
+Name=夜叉|nYasha
+Hotkey=Y
+Tip=夜叉|nYasha
+Ubertip=|cffffcc00属性：|r|n增加16点敏捷|n提升15的攻击速度|n提升8%的移动速度|n|n|cffffcc00需要：|r|n欢欣之刃 - 1000|n精灵皮靴 - 450|n卷轴 - 600|n|n|c00838b8b总价：2050|r|n|n|cffff0303夜叉的移动速度提升效果不能和夜叉、幻影斧以及散夜对剑相叠加|r
+[h02R]
+Name=散华|nSange
+Hotkey=S
+Tip=散华|nSange
+Ubertip=|cffffcc00属性：|r|n增加10点攻击力|n增加16点力量|n|cff0033cc残废|r（被动）|n|n|cffffcc00需要：|r|n食人魔之斧 - 1000|n巨人力量腰带 - 450|n卷轴 - 600|n|n|c00838B8B总价：2050|r
+[h02S]
+Name=碎颅锤|nCranium Basher
+Hotkey=S
+Tip=碎颅锤|nCranium Basher
+Ubertip=|cffffcc00属性：|r|n增加10点攻击力|n增加10点力量|n|cff0033cc重击|r（被动）|n|n|cffffcc00需要：|r|n标枪 - 1500|n巨人力量腰带 - 450|n卷轴 - 1000|n|n|c00838B8B总价：2950|r|n|n|cffff0303重击效果不与其他被动击晕技能叠加|r
+[h02T]
+Name=刃甲|nBlade Mail
+Tip=刃甲|nBlade Mail
+Ubertip=|cffffcc00属性：|r|n增加22点攻击力|n增加10点智力|n增加6点护甲|n|cffff8000尖刺|r（主动）|n|n|cffffcc00需要：|r|n阔剑 - 1200|n锁甲 - 550|n法师长袍 - 450|n|n|c00838B8B总价：2200|r
+[h02U]
+Name=漩涡|nMaelstrom
+Hotkey=M
+Tip=漩涡|nMaelstrom
+Ubertip=|cffffcc00属性：|r|n增加24点攻击力|n提升25的攻击速度|n|cff0042ff连环闪电|r（被动）|n|n|cffffcc00需要：|r|n秘银锤 - 1600|n急速手套 - 500|n卷轴 - 700|n|n|c00838B8B总价：2800|r|n|n|cffff0303法球效果不能叠加|r
+[h02V]
+Name=净魂之刃|nDiffusal Blade
+Hotkey=D
+Tip=净魂之刃|nDiffusal Blade
+Ubertip=|cffffcc00属性：|r|n增25点敏捷|n增加10点智力|n|cff0033cc反馈|r（被动）|n|cffff8000净化|r（主动）|n|n|cffffcc00需要：|r|n欢欣之刃x2 - 2000|n法师长袍 - 450|n卷轴 - 700|n|n|c00838B8B总价：3150/3850|r|n|n|c00fffc01可以使用卷轴升级（共2等级）|r
+[h02W]
+Name=支配头盔|nHelm of the Dominator
+Tip=支配头盔|nHelm of the Dominator
+Ubertip=|cffffcc00属性：|r|n增加20点攻击力|n增加5点护甲|n增加3/秒生命恢复|n增加15%的吸血|n|cffff8000支配|r（主动）|n|n|cffffcc00需要：|r|n铁意头盔 - 900|n死亡面具 - 900|n|n|c00838B8B总价：1800|r|n|n|cffff0303修补匠不能刷新此物品|r|n|n|c00fffc01可以拆分|r
+[h02X]
+Name=疯狂面具|nMask of Madness
+Hotkey=A
+Tip=疯狂面具|nMask of Madness
+Ubertip=|cffffcc00属性：|r|n增加20%的吸血|n|cffff8000狂热|r（主动）|n|n|cffffcc00需要：|r|n死亡面具 - 900|n卷轴 - 900|n|n|c00838B8B总价：1800|r
+[h02Y]
+Name=Eul的神圣法杖|nEul's Scepter of Divinity
+Hotkey=T
+Tip=Eul的神圣法杖|nEul's Scepter of Divinity
+Ubertip=|cffffcc00属性：|r|n增加10点智力|n提升150%的魔法恢复速率|n提升40点移动速度|n|cffff8000龙卷风|r（主动）|n|n|cffffcc00需要：|r|n魔力法杖 - 1000|n艺人面罩 - 325|n虚无宝石 - 850|n卷轴 - 650|n|n|c00838b8b总价：2825|r
+[h02Z]
+Name=振魂石|nSoul Booster
+Tip=振魂石|nSoul Booster
+Ubertip=|cffffcc00属性：|r|n提高450点生命上限|n提高400点魔法上限|n提升4点/秒的生命恢复速率|n提升100%的魔法恢复速率|n|n|cffffcc00需要：|r|n活力之球 - 1100|n能量之球 - 900|n精气之球 - 1200|n|n|c00838b8b总价：3200|r
+[h030]
+Name=梅肯斯姆|nMekansm
+Hotkey=M
+Tip=梅肯斯姆|nMekansm
+Ubertip=|cffffcc00属性：|r|n增加5点所有属性|n增加5点护甲|n|cff0033cc回复光环|r（被动）|n|cffff8000活力|r（主动）|n|n|cffffcc00需要：|r|n恢复头巾 - 600（支援法衣）|n纳斯雷兹姆盾牌 - 800（支援法衣）|n卷轴 - 900|n|n|c00838b8b总价：2300|r
+[h031]
+Name=散夜对剑|nSange and Yasha
+Tip=散夜对剑|nSange and Yasha
+Ubertip=|cffffcc00属性：|r|n增加16点攻击力|n增加16点力量|n增加16点敏捷|n提升16%的移动速度|n提升16的攻击速度|n|cff0033cc残废|r（被动）|n|n|cffffcc00需要：|r|n散华 - 2050（附魔古物）|n夜叉 - 2050（附魔古物）|n|n|c00838b8b总价：4100|r |n|n|c00fffc01可以拆分|r
+[h032]
+Name=黯灭|nStygian Desolator
+Hotkey=R
+Tip=黯灭|nStygian Desolator
+Ubertip=|cffffcc00属性：|r|n增加50点攻击力|n|cff0033cc腐蚀攻击|r（被动）|n|n|cffffcc00需要：|r|n两把秘银锤 - 3200|n卷轴 - 300|n|n|c00838b8b总价：3500|r|n|n|cffff0303法球效果不能叠加|r|n|cff99ccff攻击特效不能叠加|r
+[h033]
+Name=狂战斧|nBattle Fury
+Tip=狂战斧|nBattle Fury
+Ubertip=|cffffcc00属性：|r|n增加55点攻击力|n提升6点/秒的生命恢复速率|n提升150%的魔法恢复速率|n|cffff8000伐木|r（主动）|n|cff0033cc压制|r（被动）|n|cff0033cc分裂攻击|r（被动）|n|n|cffffcc00需要：|r|n压制之刃 - 225|n阔剑 - 1200|n大剑 - 1400|n坚韧球 - 1700（圣物关口）|n|n|c00838b8b总价：4525|r
+[h034]
+Name=水晶剑|nCrystalys
+Hotkey=C
+Tip=水晶剑|nCrystalys
+Ubertip=|cffffcc00属性：|r|n增加30点攻击力|n|cff0033cc致命一击|r（被动）|n|n|cffffcc00需要：|r|n阔剑 - 1200|n攻击之爪 - 420|n卷轴 - 500|n|n|c00838b8b总价：2120|r
+[h035]
+Name=黑皇杖|nBlack King Bar
+Hotkey=B
+Tip=黑皇杖|nBlack King Bar
+Ubertip=|cffffcc00属性：|r|n增加24点攻击力|n增加10点力量|n|cffff8000天神下凡|r（主动）|n|n|cffffcc00需要：|r|n食人魔之斧 - 1000|n秘银锤 - 1600|n卷轴 - 1375|n|n|c00838b8b总价：3975|r|n|n|cffff0303修补匠不能刷新此物品|r
+[h036]
+Name=幻影斧|nManta Style
+Hotkey=M
+Tip=幻影斧|nManta Style
+Ubertip=|cffffcc00属性：|r|n提升15的攻击速度|n增加10点所有属性|n增加16点敏捷|n提升10%的移动速度|n|cffff8000幻影|r（主动）|n|n|cffffcc00需要：|r|n夜叉 - 2050（魅惑遗物）|n极限宝珠 - 2100|n卷轴 - 800|n|n|c00838b8b总价：4950|r|n|n|cfffffc01可以拆分|r
+[h037]
+Name=洛萨之锋|nLothar's Edge
+Tip=洛萨之锋|nLothar's Edge
+Ubertip=|cffffcc00属性：|r|n增加22点攻击力|n提升30的攻击速度|n|cffff8000疾风步|r（主动）|n|n|cffffcc00需要：|r|n大剑 - 1400|n暗影护符 - 1400|n|n|c00838b8b总价：2800|r
+[h038]
+Name=达贡之神力|nDagon
+Hotkey=D
+Tip=达贡之神力|nDagon
+Ubertip=|cffffcc00属性：|r|n增加9点攻击力|n增加3点所有属性|n增加13点智力|n|cffff8000能量冲击|r（主动）|n|n|cffffcc00需要：|r|n魔力法杖 - 1000|n空灵挂件 - 470（圣物关口）|n卷轴 - 1250|n|n|c00838b8b总价：2720/3970/5220/6470/7720|r|n|n|c00fffc01可以使用卷轴升级（共5等级）|r
+[h039]
+Name=死灵书|nNecronomicon
+Hotkey=N
+Tip=死灵书 |nNecronomicon
+Ubertip=|cffffcc00属性：|r|n增加8点力量|n增加15点智力|n|cffff8000召唤死灵|r（主动）|n|n|cffffcc00需要：|r|n魔力法杖 - 1000|n巨人力量腰带 - 450|n卷轴 - 1250|n|n|c00838b8b总价：2650/3900/5150|r|n|n|c00fffc01可以使用卷轴升级（共3等级）|r|n|n|cffff0303修补匠不能刷新此物品|r
+[h03A]
+Name=林克的法球|nLinken's Sphere
+Hotkey=R
+Tip=林克的法球|nLinken's Sphere
+Ubertip=|cffffcc00属性：|r|n增加15点所有属性|n增加10点攻击力|n提升6点/秒的生命恢复速率|n提升150%的魔法恢复速率|n|cff0033cc法术否定|r（被动/主动）|n|n|cffffcc00需要：|r|n坚韧球 - 1700（圣物关口）|n极限宝珠 - 2100|n卷轴 - 1325|n|n|c00838B8B总价：5125
+[h03B]
+Name=不朽之守护|nAegis of the Immortal
+Tip=不朽之守护|nAegis of the Immortal
+Ubertip="|cffffcc00Gives:|r |nReincarnation (1 charge, passive) |n|n|cffffcc00Requires:|r |nDrops from Roshan"
+[h03C]
+Name=圣剑|nDivine Rapier
+Tip=圣剑|nDivine Rapier
+Ubertip=|cffffcc00属性：|r|n增加330点攻击力|n|n|cffffcc00需要：|r|n圣者遗物 - 3800|n恶魔刀锋 - 2400|n|n|c00838b8b总价：6200|r|n|n|cffff0303死亡后掉落|n不可出售|r
+[h03D]
+Name=暴雪弩炮|nBuriza-do Kyanon
+Hotkey=B
+Tip=暴雪弩炮|nBuriza-do Kyanon
+Ubertip=|cffffcc00属性：|r|n增加81点攻击力|n|cff0033cc致命一击|r（被动）|n|n|cffffcc00需要：|r|n恶魔刀锋 - 2400|n水晶剑 - 2120（远古兵器）|n卷轴 - 1000|r|n|n|c00838b8b总价：5520|r
+[h03E]
+Name=金箍棒|nMonkey King Bar
+Tip=金箍棒|nMonkey King Bar
+Ubertip=|cffffcc00属性：|r|n增加66点攻击力|n提升15的攻击速度|n|cff0033cc猛击|r（被动）|n|cff0033cc克敌机先|r（被动）|n|n|cffffcc00需要：|r|n标枪x2 - 3000|n恶魔刀锋 - 2400|n|n|c00838b8b总价：5400|r
+[h03F]
+Name=辉耀|nRadiance
+Hotkey=R
+Tip=辉耀|nRadiance
+Ubertip=|cffffcc00属性：|r|n增加65点攻击力|n|cff0033cc辉耀|r（被动）|n|n|cffffcc00需要：|r|n圣者遗物 - 3800|n卷轴 - 1350|n|n|c00838b8b总价：5150|r
+[h03G]
+Name=恐鳌之心|nHeart of Tarrasque
+Hotkey=A
+Tip=恐鳌之心|nHeart of Tarrasque
+Ubertip=|cffffcc00属性：|r|n增加40点力量|n提高300点生命上限|n|cff0033cc治愈伤口|r（被动）|n|n|cffffcc00需要：|r|n梅塞施密特的掠夺 - 3000|n活力之球 - 1100|n卷轴 - 1400|n|n|c00838b8b总价：5500|r
+[h03H]
+Name=撒旦之邪力|nSatanic
+Hotkey=N
+Tip=撒旦之邪力|nSatanic
+Ubertip=|cffffcc00属性：|r|n增加25%的吸血|n增加20点攻击力|n增加25点力量|n增加5点护甲|n|cffff8000不洁狂热|r（主动）|n|n|cffffcc00需要：|r|n支配头盔 - 1800（附魔古物）|n梅塞施密特的掠夺 - 3000|n卷轴 - 1100|n|n|c00838b8b总价：5900|r
+[h03I]
+Name=斯嘉蒂之眼|nEye of Skadi
+Tip=斯嘉蒂之眼|nEye of Skadi
+Ubertip=|cffffcc00属性：|r|n增加25点所有属性|n提高250点生命上限|n提高250点魔法上限|n|cff0033cc霜冻攻击|r（被动）|n|n|cffffcc00需要：|r|n两个极限宝珠 - 4200|n精气之球 - 1200|n淬毒之珠 - 275|n|n|c00838b8b总价：5675|n|n|cffff0303法球效果不能叠加（近程）|r|n|cff99ccff攻击特效不能叠加|r
+[h03J]
+Name=蝴蝶|nThe Butterfly
+Tip=蝴蝶|nThe Butterfly
+Ubertip=|cffffcc00属性：|r|n增加30点敏捷 |n增加30点攻击力|n提升30点攻击速度|n提升35%的闪避|n|cffff8000振翅|r（主动）|n|n|cffffcc00需要：|r|n鹰角弓- 3200|n闪避护符 - 1800|n短棍 - 875|n|n|c00838B8B总价：5875|r
+[h03K]
+Name=阿哈利姆神杖|nAghanim's Scepter
+Tip=阿哈利姆神杖|nAghanim's Scepter
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n提高200点生命上限|n提高150点魔法上限|n|cff0033cc奥义提升|r（被动）|n|n|cffffcc00需要：|r|n精气之球 - 1200|n魔力法杖 - 1000|n欢欣之刃 - 1000|n食人魔之斧 - 1000|n|n|c00838b8b总价：4200|r
+[h03L]
+Name=刷新球|nRefresher Orb
+Hotkey=R
+Tip=刷新球|nRefresher Orb
+Ubertip=|cffffcc00属性：|r|n增加20点攻击力|n提升10点/秒的生命恢复速率|n提升250%的魔法恢复速率|n|cffff8000刷新|r（主动）|n|n|cffffcc00需要：|r|n坚韧球 - 1700（圣物关口）|n坚韧球 - 1700（圣物关口）|n卷轴 - 1800|n|n|c00838b8b总价：5200|r|n|n|cffff0303修补匠不能刷新此物品|r
+[h03M]
+Name=Guinsoo的邪恶镰刀|nGuinsoo's Scythe of Vyse
+Tip=Guinsoo的邪恶镰刀|nGuinsoo's Scythe of Vyse
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n增加25点智力|n提升150%的魔法恢复速率|n|cffff8000妖术|r（主动）|n|n|cffffcc00需要：|r|n神秘法杖 - 2700|n极限宝珠 - 2100|n虚无宝石 - 850|n|n|c00838b8b总价：5650|r
+[h03N]
+Name=先锋盾|nVanguard
+Tip=先锋盾|nVanguard
+Ubertip=|cffffcc00属性：|r|n提高250点生命上限|n提升6点/秒的生命恢复速率|n受到普通攻击时有75%的概率抵挡40（远程英雄20）点伤害|n|n|cffffcc00需要：|r|n医疗指环 - 850|n活力之球 - 1100|n圆盾 - 200|n|n|c00838b8b总价：2150|r
+[h03O]
+Name=秘法指环|nArcane Ring
+Hotkey=A
+Tip=秘法指环|nArcane Ring
+Ubertip=|cffffcc00属性：|r|n增加4点护甲|n提高300点魔法上限|n|cffff8000补充魔法|r（主动）|n|n|cffffcc00需要：|r|n能量之球 - 1000|n守护指环 - 175|n卷轴 - 525|n|n|c00838b8b总价：1700|r|n|n|cffff0303修补匠不能刷新此物品|r
+[h03P]
+Name=雷神之锤|nMjollnir
+Hotkey=J
+Tip=雷神之锤|nMjollnir
+Ubertip=|cffffcc00属性：|r|n增加24点攻击力|n提升80的攻击速度|n|cff0033cc连环闪电|r（被动）|n|cffff8000静电冲击|r（主动）|n|n|cffffcc00需要：|r|n漩涡 - 2800（附魔古物）|n振奋宝石 - 2000|n卷轴 - 900|n|n|c00838b8b总价：5700|r|n|n|cffff0303法球效果不能叠加|r|n|n|cfffffc01可以拆分|r
+[h03Q]
+Name=飞行信使|nFlying Courier
+Hotkey=F
+Tip=飞行信使|nFlying Courier
+Ubertip=|cffffcc00属性：|r|n强力飞行信使|n|n|cffffcc00需要：|r|n动物信使 - 100|n卷轴 - 200|n|n|c00838b8b总价: 300|r
+[h03R]
+Name=弗拉迪米尔的祭品|nVladmir's Offering
+Hotkey=V
+Tip=弗拉迪米尔的祭品|nVladmir's Offering
+Ubertip=|cffffcc00属性：|r|n增加2点所有属性|n|cff0033cc攻击光环|r（被动）|n|cff0033cc吸血光环|r（被动）|n|cff0033cc辉煌光环|r（被动）|n|cff0033cc虔诚光环|r（被动）|n|cff0033cc恢复光环|r（被动）|n|n|cffffcc00需要：|r|n王者之戒 - 500（支援法衣）|n死亡面具 - 900|n恢复头巾 - 600|n卷轴 - 300|n|n|c00838b8b总价：2300|r
+[h03S]
+Name=强袭装甲|nAssault Cuirass
+Hotkey=C
+Tip=强袭装甲|nAssault Cuirass
+Ubertip=|cffffcc00属性：|r|n增加10点护甲|n提升35的攻击速度|n|cff0033cc虔诚光环|r（被动）|n|cff0033cc荒芜光环|r（被动）|n|cff0033cc狂热光环|r（被动）|n|n|cffffcc00需要：|r|n板甲 - 1400|n锁甲 - 550|n振奋宝石 - 2000|n卷轴 - 1300|n|n|c00838B8B总价：5250|r
+[h03T]
+Name=血精石|nBloodstone
+Hotkey=L
+Tip=血精石|nBloodstone
+Ubertip=|cffffcc00属性：|r|n提高500点生命上限|n提高400点魔法上限|n提升9点/秒的生命恢复速率|n提升200%的魔法恢复速率|n|cff0033cc救赎|r（被动）|n|cffff0303可用于自杀|r|n|n|cffffcc00需要：|r|n振魂石 - 3200（保护领地）|n灵魂之戒 - 800|n卷轴 - 900|n|n|c00838b8b总价：4900|r
+[h03U]
+Name=挑战头巾|nHood of Defiance
+Tip=挑战头巾|nHood of Defiance
+Ubertip=|cffffcc00属性：|r|n提升9点/秒的生命恢复速率|n提升30%的魔法抗性|n|cffff8000绝缘|r（主动）|n|n|cffffcc00需要：|r|n流浪法师斗篷 - 550|n再生之戒x2 - 700|n医疗指环x1 - 850|n|n|c00838b8b总价：2100|r|n|n|c00ff0303效果无法和流浪法师斗篷以及其他挑战头巾叠加|r
+[h03V]
+Name=莫尔迪基安的臂章|nArmlet of Mordiggian
+Hotkey=A
+Tip=莫尔迪基安的臂章|nArmlet of Mordiggian
+Ubertip=|cffffcc00属性：|r|n增加9点攻击力|n增加5点护甲|n提升25的攻击速度|n提升7点/秒的生命恢复速率|n|cffff8000邪恶之力|r（主动）|n|n|cffffcc00需要：|r|n铁意头盔 - 900|n急速手套 - 500|n攻击之爪 - 420|n卷轴 - 500|n|n|c00838b8b总价：2320|r|n|n|cffff0303装备唯一|r
+[h03W]
+Name=希瓦的守护|nShiva's Guard
+Hotkey=S
+Tip=希瓦的守护|nShiva's Guard
+Ubertip=|cffffcc00属性：|r|n增加30点智力|n增加15点护甲|n|cff0033cc霜冷光环|r（被动）|n|cffff8000极寒冲击|r（主动）|n|n|cffffcc00需要：|r|n板甲 - 1400|n神秘法杖 - 2700|n卷轴 - 600|n|n|c00838b8b总价：4700|r|n|n|cfffffc01可以拆分|r
+[h03X]
+Name=紫怨|nOrchid Malevolence
+Hotkey=C
+Tip=紫怨|nOrchid Malevolence
+Ubertip=|cffffcc00属性：|r|n增加30点攻击力|n增加25点智力|n提升150%的魔法恢复速率|n提升30的攻击速度|n|cffff8000灵魂燃烧|r（主动）|n|n|cffffcc00需要：|r|n空明杖x2 - 3300（圣物关口）|n卷轴 - 775|n|n|c00838B8B总价：4075|r
+[h00Z]
+Name=Battery Assault
+Hotkey=P
+[h03Y]
+Name=照明火箭
+Hotkey=P
+[h03Z]
+Name=复仇之魂
+[h040]
+Name=宙斯
+[h041]
+Name=魅惑魔女
+[h042]
+Name=变体精灵
+[h043]
+Name=水晶室女
+[h044]
+Name=斯文
+[h045]
+Name=司里希丝
+[h046]
+Name=撼地神牛
+[h047]
+Name=力丸
+[h048]
+Name=悉拉贝尔
+[h049]
+Name=秀逗魔导士
+[h04A]
+Name=尤涅若
+[h04B]
+Name=诺崇
+[h04C]
+Name=鲁夫特伦
+[h04D]
+Name=谜团
+[h04E]
+Name=伊扎洛
+[h04F]
+Name=熊战士
+[h04G]
+Name=食人魔魔法师
+[h04H]
+Name=地精修补匠
+[h04I]
+Name=先知
+[h04J]
+Name=幻影长矛手
+[h04K]
+Name=小小
+[h04L]
+Name=地精工程师
+[h04M]
+Name=陈
+[h04N]
+Name=月之骑士
+[h04O]
+Name=矮人狙击手
+[h04P]
+Name=巨魔战将
+[h04Q]
+Name=风暴之灵
+[h04R]
+Name=杰奇洛
+[h04S]
+Name=雷克萨
+[h04T]
+Name=玛吉纳
+[h04U]
+Name=刚背兽
+[h04V]
+Name=达维安爵士
+[h04W]
+Name=月之女祭司
+[h04X]
+Name=半人马酋长
+[h04Y]
+Name=哈斯卡
+[h04Z]
+Name=全能骑士
+[h050]
+Name=帕克
+[h051]
+Name=发条地精
+[h052]
+Name=刚铎
+[h053]
+Name=熊猫酒仙
+[h054]
+Name=炼金术士
+[h055]
+Name=崔希丝
+[h057]
+Name=罗斯塔
+[h058]
+Name=拉娜娅
+[h056]
+Name=恐怖利刃
+[h059]
+Name=受折磨的灵魂
+[h05A]
+Name=巫妖
+[h05B]
+Name=克萝贝露丝
+[h05C]
+Name=莱恩
+[h05D]
+Name=剧毒术士
+[h05E]
+Name=马格纳斯
+[h05F]
+Name=维萨吉
+[h05G]
+Name=涅沙
+[h05H]
+Name=狼人
+[h05I]
+Name=育母蜘蛛
+[h05J]
+Name=茉崔蒂
+[h05K]
+Name=美杜莎
+[h05L]
+Name=巴拉那
+[h05M]
+Name=骷髅王
+[h05N]
+Name=路西法
+[h05O]
+Name=地穴刺客
+[h05P]
+Name=斯拉达
+[h05Q]
+Name=阿卡莎
+[h05R]
+Name=克林克兹
+[h05S]
+Name=虚空假面
+[h05T]
+Name=蝮蛇
+[h05U]
+Name=剃刀
+[h05V]
+Name=奈克斯
+[h05W]
+Name=帕格纳
+[h05X]
+Name=潮汐猎人
+[h05Y]
+Name=阿特洛波斯
+[h05Z]
+Name=死灵法师
+[h060]
+Name=胖子
+[h061]
+Name=巴拉森
+[h062]
+Name=地穴编织者
+[h063]
+Name=奈文魔尔
+[h064]
+Name=克里瑟历斯
+[h065]
+Name=斧王
+[h066]
+Name=史德利古尔
+[h067]
+Name=亚巴顿
+[h068]
+Name=幽鬼
+[h069]
+Name=巫医
+[h06A]
+Name=黑曜毁灭者
+[h06B]
+Name=祈求者
+[h06C]
+Name=术士
+[h06D]
+Name=地卜师
+[h06E]
+Name=戴泽
+[h06F]
+Name=深渊领主
+[h06G]
+Name=不朽尸王
+[h06H]
+Name=黑暗贤者
+[h06I]
+Name=阴影单位
+Hotkey=P
+[h06J]
+Name=BlinkStrike CK
+[h06K]
+Name=Magina Dummy
+[h06L]
+Name=灵魂之矛
+Hotkey=P
+[h06M]
+Name=Illuminate Vision
+Hotkey=P
+[h06N]
+Name=选择英雄
+Hotkey=E
+Tip=选择英雄
+Ubertip=点击选择英雄
+[h06O]
+Name=幻像法球
+[h06P]
+Name=致盲之光
+[h06Q]
+Name=Black Hole FX
+[h06R]
+Name=Blackhole Shadow
+Hotkey=P
+[h06T]
+Name=昆卡
+[h06U]
+Name=幽灵船
+Hotkey=P
+[h06V]
+Name=Ghost Ship Trail
+Hotkey=P
+[H06W]
+Name=光之守卫
+Propernames=伊扎洛
+[H06X]
+Name=光之守卫
+Propernames=伊扎洛
+[H06Y]
+Name=光之守卫
+Propernames=伊扎洛
+[h06Z]
+Name=Ezalor Dummy
+[h070]
+Name=Coco's Rum
+[h072]
+Name=斯拉克
+[h073]
+Name=Nightcrawler Shadow
+Hotkey=P
+[h074]
+Name=魔棒|nMagic Stick
+Hotkey=C
+Tip=魔棒|nMagic Stick
+Ubertip=|cffffcc00属性：|r|n|cffff8000充能：|r|n使用后为你补充生命和魔法（补充效果取决于能量点数，每个能量点补充15点生命与魔法）；附近1200范围有敌方英雄单位施展技能时会自动充能（上限10次）|n|cff99ccff冷却时间：|r17|n|n|c00838B8B一个简易但实用的魔棒，能够补充使用者的能量--巫师学徒和高级术士都喜欢！|r
+[h075]
+Name=Poison Powder
+Hotkey=P
+Tip=Purchase |cffffcc00P|roison Powder - 100
+Ubertip=Description |n|n|c00838B8BNEED FLAVOR TEXT
+[h076]
+Name=显影之尘|nDust of Appearance
+Hotkey=D
+Tip=显影之尘|nDust of Appearance
+Ubertip=|cffffcc00属性：|r|n|cffff8000显影：|r|n立刻显示使用者周围的隐形单位；可在物品栏里叠加|n|n可以使用|cffff03032|r次|n|cff99ccff作用范围：|r1050|n|cff99ccff持续时间：|r12|n|cff99ccff冷却时间：|r60|n|n|c00838B8B离开这里，前往幻想境界|r
+[h077]
+Name=Shackleshot Arrow
+Hotkey=P
+[h078]
+Name=Power Shot Arrow
+Hotkey=P
+[h079]
+Name=相位鞋|nPhase Boots
+Tip=相位鞋|nPhase Boots
+Ubertip=|cffffcc00属性：|r|n提升45点移动速度|n增加24点攻击力|n|cffff8000相位移动|r（主动）|n|n|cffffcc00需要：|r|n速度之鞋 - 400|n两个攻击之爪 - 840|n|n|c00838b8b总价：1240|r|n|n|c00ff0303移动速度提升效果不和其他任何鞋类物品叠加|r
+[h07A]
+Name=风行者
+[h07B]
+Name=Fight in the Shade Shadow
+Hotkey=P
+[h07C]
+Name=Glyph of Fortification
+Hotkey=F
+Tip=激活防御符文
+Ubertip=Gives a massive armor bonus to all your structures for 5 seconds. |n|cff99ccffReplenish Time: |r 5 Minutes  
+[h07D]
+Name=Ghost Ship Death
+Hotkey=P
+[h07E]
+Name=Glyph of Fortification
+Hotkey=F
+Tip=激活防御符文
+Ubertip=Gives a massive armor bonus to all your structures for 5 seconds. |n|cff99ccffReplenish Time: |r 5 Minutes  
+[h07F]
+Name=残影
+Hotkey=P
+[H07G]
+Name=风暴之灵
+Propernames=雷神·风暴烈酒
+[h07H]
+Name=墓碑侍僧
+Hotkey=P
+[H07I]
+Name=血肉傀儡
+Propernames=挽歌
+Tip=不朽尸王
+UberTip=, adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt, Thunder Clap, Bash and Avatar. |n|n|cffffcc00Attacks land units.|r
+Revivetip=复活 不朽尸王
+Awakentip=复活 不朽尸王
+[h07J]
+Name=Decay Visual
+[h07K]
+Name=Shadowstrike Model
+Hotkey=P
+[h07L]
+Name=Version Check
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip=Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r
+[h07M]
+Name=Venomous Gale FX1
+Hotkey=P
+[h07N]
+Name=Venomous Gale FX2
+Hotkey=P
+[h07O]
+Name=Venomous Gale FX3
+Hotkey=P
+[h07P]
+Name=牛头人酋长
+[h07Q]
+Name=风暴之锤
+Hotkey=P
+[h07R]
+Name=蝙蝠骑士
+[h07S]
+Name=魔杖|nMagic Wand
+Hotkey=M
+Tip=魔杖|nMagic Wand
+Ubertip=|cffffcc00属性：|r|n增加3点所有属性|n|cffff8000充能|r（主动）|n|n|cffffcc00需要：|r|n魔棒 - 200|n两个铁树枝干 - 100|n贵族头环 - 165|n|n|c00838b8b总价：465|r
+[h07T]
+Name=原力法杖|nForce Staff
+Hotkey=F
+Tip=原力法杖|nForce Staff
+Ubertip=|cffffcc00属性：|r|n增加10点智力|n提升4/秒生命恢复速度|n|cffff8000弹射|r（主动）|n|n|cffffcc00需要：|r|n回复戒指 - 350|n魔力法杖 - 1000|n卷轴 - 900|n|n|c00838b8b总价：2250|r
+[h07U]
+Name=牛头人酋长
+[h07V]
+Name=幽灵药剂|nGhost Potion
+Hotkey=G
+Tip=幽灵药剂|nGhost Potion
+Ubertip="Transforms you to Ethereal Form for 4 seconds. While in this form, you can neither attack nor be attacked and you take 40% bonus damage from spells. 2 Charges.  |n|n|cff99ccffCooldown: |r 60"
+[h07W]
+Name=压制之刃|nQuelling Blade
+Hotkey=U
+Tip=压制之刃|nQuelling Blade
+Ubertip=|cffffcc00属性：|r|n|cff0033cc压制：|r|n近程/远程英雄对非英雄单位额外造成32%/12%的伤害|n|n|cffff8000砍树：|r|n砍掉一棵树|n|cff99ccff冷却时间：|r5|n|n|c00838B8B廉价的伐木斧，也可以用来对付野兽|r
+[h07X]
+Name=卡德加的洞察烟斗|nKhadgar's Pipe of Insight
+Hotkey=P
+Tip=卡德加的洞察烟斗|nKhadgar's Pipe of Insight
+Ubertip=|cffffcc00属性：|r|n提升9点/秒的生命恢复速率|n增加30%的魔法抗性|n|cff0033cc恢复光环|r（被动）|n|cffff8000绝缘|r（主动）|n|n|cffffcc00需要：|r|n挑战头巾 - 2100（保护领地）|n恢复头巾 - 600（支援法衣）|n卷轴 - 800|n|n|c00838b8b总价：3500|r
+[h07Y]
+Name=Raise Dead Projectile
+Hotkey=P
+[h07Z]
+Name=Great Stomp FX
+[h080]
+Name=Stormseeker FX - 2
+[h081]
+Name=Stormseeker FX - 1
+[h082]
+Name=Stormseeker FX - 3
+[h083]
+Name=闪避护符|nTalisman of Evasion
+Hotkey=E
+Tip=闪避护符|nTalisman of Evasion
+Ubertip=|cffffcc00属性：|r|n提升25%的闪避|n|n|c00838b8b你是摸不到它的！|r
+[h085]
+Name=运输物品
+Hotkey=T
+Tip=运输物品
+Ubertip=点击以将此物品运输给英雄
+[h086]
+Name=穷鬼盾|nPoor Man's Shield
+Tip=穷鬼盾|nPoor Man's Shield
+Ubertip=|cffffcc00属性：|r|n增加6点敏捷|n|cff0033cc伤害抵挡|r（被动）|n|n|cffffcc00需要：|r|n圆盾 - 200|n两个敏捷便鞋 - 300|n|n|c00838b8b总价：500|r
+[h087]
+Name=幽灵权杖|nGhost Scepter
+Hotkey=P
+Tip=幽灵权杖|nGhost Scepter
+Ubertip=|cffffcc00属性：|r|n增加7点所有属性|n|cffff8000幽灵形态|r（主动）|n|n|c00838B8B赐予使用者幽灵般的姿态|r
+[h088]
+Name=静电连接
+Hotkey=P
+[h089]
+Name=Voltage Caster
+Hotkey=P
+[h08A]
+Name=榴霰弹
+Hotkey=P
+[h08E]
+Name=敏捷便鞋|nSlippers of Agility
+Tip=敏捷便鞋
+Ubertip=|cffffcc00属性：|r|n增加3点敏捷|n|n|cff838B8B用蜘蛛皮做的皮靴，能使你感到些许刺痛|r
+[h08F]
+Name=压制之刃|nQuelling Blade
+Tip=压制之刃|nQuelling Blade
+Ubertip=|cffffcc00属性：|r|n|cff0033cc压制：|r|n近程/远程英雄对非英雄单位额外造成32%/12%的伤害|n|n|cffff8000砍树：|r|n砍掉一棵树|n|cff99ccff冷却时间：|r5|n|n|c00ff0303装备唯一|n海军上将不能使用|r|n|cffff0303该物品无法与很多法球效果相叠加|r|n|n|c00838B8B廉价的伐木斧，也可以用来对付野兽|r
+[h08G]
+Name=医疗指环|nRing of Health
+Tip=医疗指环|nRing of Health
+Ubertip=|cffffcc00属性：|r|n提高5点/秒的生命恢复速率|n|n|cff838B8B在半身人肥仔尸体下找到的发光戒指|r
+[h08H]
+Name=城镇传送卷轴|nScroll of Town Portal
+Hotkey=T
+Tip=城镇传送卷轴|nScroll of Town Portal
+Ubertip=|cffffcc00属性：|r|n|cffff8000传送：|r|n将你传送至任意友方建筑|n|cff99ccff冷却时间：|r70
+[h08I]
+Name=魔棒|nMagic Stick
+Tip=魔棒
+Ubertip=|cffffcc00属性：|r|n|cffff8000充能：|r|n使用后为你补充生命和魔法（补充效果取决于能量点数，每个能量点补充15点生命与魔法）；附近1200范围有敌方英雄单位施展技能时会自动充能（上限10次）|n|cff99ccff冷却时间：|r17|n|n|c00838B8B一个简易但实用的魔棒，能够补充使用者的能量--巫师学徒和高级术士都喜欢！|r
+[h08J]
+Name=艺人面罩|nSobi Mask
+Tip=艺人面罩|nSobi Mask
+Ubertip=|cffffcc00属性：|r|n提高50%的魔法恢复速率|n|n|cff838B8B法师和术士们在仪祭时使用的面具|r
+[h08K]
+Name=圆盾|nStout Shield
+Tip=圆盾
+Ubertip=|cffffcc00属性：|r|n近程/远程英雄受到普通攻击时有50%的概率抵挡16/8点伤害|n|n|c00838B8B这个小盾牌原先是某人的酒桶底子|r
+[h08L]
+Name=再生之戒|nRing of Regeneration
+Tip=再生之戒|nRing of Regeneration
+Ubertip=|cffffcc00属性：|r|n提升2点/秒的生命恢复速率|n|n|c00838B8B侏儒们都迷信这戒指能带来好运气|r
+[h08M]
+Name=流浪法师斗篷|nPlaneswalker's Cloak
+Tip=流浪法师斗篷
+Ubertip=|cffffcc00属性：|r|n提升15%的魔法抗性|n|n|cff838B8B以魔法材质制作的斗篷可以抵御法术攻击|r
+[h08N]
+Name=铁意头盔|nHelm of Iron Will
+Tip=铁意头盔|nHelm of Iron Will
+Ubertip=|cffffcc00属性：|r|n增加5点护甲|n提升3点/秒的生命恢复速率|n|n|c00838B8B一位战死沙场的传奇般的武士穿戴过的头盔|r
+[h08O]
+Name=死亡面具|nMask of Death
+Tip=死亡面具|nMask of Death
+Ubertip=|cffffcc00属性：|r|n增加15%的吸血|n|n|cff838B8B再没比这个更拉风的了|r
+[h08P]
+Name=精灵皮靴|nBoots of Elvenskin
+Tip=精灵皮靴|nBoots of Elvenskin
+Ubertip=|cffffcc00属性：|r|n增加6点敏捷|n|n|cff838B8B这双鞋子常用来表演太空步|r
+[h08Q]
+Name=巨人力量腰带|nBelt of Giant Strength
+Tip=巨人力量腰带|nBelt of Giant Strength
+Ubertip=|cffffcc00属性：|r|n增加6点力量|n|n|cff838B8B儿童及孕妇慎用|r
+[h08R]
+Name=法师长袍|nRobe of the Magi
+Tip=法师长袍|nRobe of the Magi
+Ubertip=|cffffcc00属性：|r|n增加6点智力|n|n|cff838B8B这件长袍会腐蚀使用者的灵魂，但作为回报，增加携带者的智力|r
+[h08S]
+Name=急速手套|nGloves of Haste
+Tip=急速手套
+Ubertip=|cffffcc00属性：|r|n提升20的攻击速度|n|n|c00838B8B这双神奇的手套，似乎可以使武器变轻|r
+[h08T]
+Name=攻击之爪|nBlades of Attack
+Tip=攻击之爪|nBlades of Attack
+Ubertip=|cffffcc00属性：|r|n增加9点攻击力|n|n|cff838B8B虐待狂们的可选武器之一|r
+[h08U]
+Name=短棍|nQuarterstaff
+Tip=短棍|nQuarterstaff
+Ubertip=|cffffcc00属性：|r|n增加10点攻击力|n提升10的攻击速度|n|n|c00838B8B要四根短棍才能组成一根普通的棍子，晕！|r
+[h08V]
+Name=闪避护符|nTalisman of Evasion
+Tip=闪避护符|nTalisman of Evasion
+Ubertip=|cffffcc00属性：|r|n提升25%的闪避|n|n|c00838b8b你是摸不到它的！|r
+[h08W]
+Name=凯伦的匕首|nKelen's Dagger
+Tip=凯伦的匕首|nKelen's Dagger
+Ubertip=|cffffcc00属性：|r|n|cffff8000瞬间移动：|r|n瞬间移动到目标地点；受到来自英雄的伤害后3秒之内无法使用|n|n|cff99ccff施法距离：|r1200|n|cff99ccff冷却时间：|r12|n|n|c00838B8B艾泽拉斯传说中来去如风的刺客凯伦所使用的匕首|r
+[h08X]
+Name=极限宝珠|nUltimate Orb
+Tip=极限宝珠|nUltimate Orb
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n|n|cff838B8B一个包含着生命本质的神秘球体|r
+[h08Y]
+Name=火焰枷锁
+Hotkey=P
+[h08Z]
+Name=Refraction
+Hotkey=P
+[h090]
+Name=秘术异蛇
+Hotkey=P
+[h091]
+Name=希瓦的守护|nShiva's Guard
+Hotkey=P
+[h092]
+Name=等离子场
+Hotkey=P
+[h093]
+Name=能量之球|nEnergy Booster
+Hotkey=E
+Tip=能量之球|nEnergy Booster
+Ubertip=|cffffcc00属性：|r|n提高250点魔法上限|n|n|c00838B8BEnie|r
+[h094]
+Name=Aura
+Hotkey=P
+[h095]
+Name=Gem_large
+Hotkey=P
+[h096]
+Name=Gem_small
+Hotkey=P
+[h097]
+Name=Gem_small
+Hotkey=P
+[h098]
+Name=黑暗之门
+Hotkey=P
+[h09A]
+Name=复活英雄（500）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h099]
+Name=复活英雄（450）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09B]
+Name=复活英雄（400）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09C]
+Name=复活英雄（350）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09D]
+Name=复活英雄（300）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09E]
+Name=复活英雄（250）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09F]
+Name=复活英雄（150）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09G]
+Name=复活英雄（50）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09H]
+Name=复活英雄（200）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09I]
+Name=复活英雄（1050）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09J]
+Name=复活英雄（550）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09K]
+Name=复活英雄（600）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09L]
+Name=复活英雄（650）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09M]
+Name=复活英雄（700）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09N]
+Name=复活英雄（750）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09O]
+Name=复活英雄（800）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09P]
+Name=复活英雄（850）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09Q]
+Name=复活英雄（900）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09R]
+Name=复活英雄（950）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09S]
+Name=复活英雄（1000）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09T]
+Name=复活英雄（100）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09U]
+Name=复活英雄（1600）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09V]
+Name=复活英雄（1500）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09W]
+Name=复活英雄（2650）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09X]
+Name=复活英雄（1150）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09Y]
+Name=复活英雄（1450）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h09Z]
+Name=复活英雄（1100）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0A0]
+Name=复活英雄（1550）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0A1]
+Name=复活英雄（1200）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0A2]
+Name=复活英雄（1250）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0A3]
+Name=复活英雄（1350）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0A4]
+Name=复活英雄（1400）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0A6]
+Name=复活英雄（1300）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0A7]
+Name=复活英雄（2050）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0A8]
+Name=复活英雄（2750）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0A9]
+Name=复活英雄（1950）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AA]
+Name=复活英雄（1900）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AB]
+Name=复活英雄（1850）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AC]
+Name=复活英雄（1800）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AD]
+Name=复活英雄（1700）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AE]
+Name=复活英雄（1750）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AF]
+Name=复活英雄（1650）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AG]
+Name=复活英雄（2000）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AH]
+Name=复活英雄（2200）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AI]
+Name=复活英雄（2250）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AJ]
+Name=复活英雄（2300）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AK]
+Name=复活英雄（2450）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AL]
+Name=复活英雄（2550）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AM]
+Name=复活英雄（2700）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AN]
+Name=复活英雄（2900）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AO]
+Name=复活英雄（2100）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AP]
+Name=复活英雄（2350）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AQ]
+Name=复活英雄（2400）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AR]
+Name=复活英雄（2500）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AS]
+Name=复活英雄（2600）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AT]
+Name=复活英雄（2800）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AU]
+Name=复活英雄（2850）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AV]
+Name=复活英雄（2950）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AW]
+Name=复活英雄（3000）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0A5]
+Name=城镇传送卷轴颜色 - 暗绿色
+[h0AX]
+Name=城镇传送卷轴颜色效果
+Hotkey=P
+[h0AY]
+Name=复活英雄（2150）
+Hotkey=R
+Tip=复活英雄
+Ubertip=点此立刻复活你的英雄
+[h0AZ]
+Name=Ice Cube
+Hotkey=P
+[h0B0]
+Name=远古冰魄
+[h0B1]
+Name=暗影之舞
+Hotkey=P
+[h0B2]
+Name=DarkPact FX
+Hotkey=P
+[h0B3]
+Name=Gust FX
+Hotkey=P
+[h0B4]
+Name=Chilling Touch Projectile
+Hotkey=P
+[h0B5]
+Name=Boomerang FX
+Hotkey=P
+[h0B6]
+Name=Ice Blast FX
+Hotkey=P
+[h0B7]
+Name=Ice Blast Fake FX
+Hotkey=P
+[H0B8]
+Name=冰晶爆轰
+Propernames=冰晶爆轰
+[h0B9]
+Name=幻象法杖
+Hotkey=I
+Tip=幻象法杖
+Ubertip=|cffffcc00属性：|r|n|cffff8000幻象：|r|n创建一个目标敌方英雄的幻象，幻象拥有本体40%的攻击力，承受200%的伤害|n|cff99ccff持续时间：|r25|n|cff99ccff冷却时间：|r30|n|n可以使用|cffff03032|r次|n|cff99ccff商店最大储量：|r1|n|cff99ccff再生时间：|r10分钟
+[h0BA]
+Name=影之灵龛|nUrn of Shadows
+Hotkey=S
+Tip=影之灵龛|nUrn of Shadows
+Ubertip=|cffffcc00属性：|r|n增加6点力量|n提升50%的魔法恢复速率|n|cffff8000灵魂释放|r（主动）|n|n|cffffcc00需要：|r|n艺人面罩 - 325|n力量护手x2 - 300|n卷轴 - 250|n|n|c00838B8B总价：875|r
+[h0BB]
+Name=爆炸
+Hotkey=D
+[H0BC]
+Name=光之守卫
+Propernames=伊扎洛
+[h0BD]
+Name=不稳定化合物
+Hotkey=P
+[h0BE]
+Name=Gravekeeper's Cloak Projectile
+Hotkey=P
+[h0BF]
+Name=城镇传送卷轴颜色 - 黄色
+[h0BG]
+Name=城镇传送卷轴颜色 - 紫色
+[h0BH]
+Name=城镇传送卷轴颜色 - 粉色
+[h0BI]
+Name=城镇传送卷轴颜色 - 蓝色
+[h0BJ]
+Name=城镇传送卷轴颜色 - 灰色
+[h0BK]
+Name=城镇传送卷轴颜色 - 青色
+[h0BL]
+Name=城镇传送卷轴颜色 - 橙色
+[h0BM]
+Name=城镇传送卷轴颜色 - 亮蓝色
+[h0BN]
+Name=城镇传送卷轴颜色 - 棕色
+[h0BO]
+Name=速度之鞋|nBoots of Speed
+Tip=速度之鞋|nBoots of Speed
+Ubertip=|cffffcc00属性：|r|n提升45点移动速度|n|n|c00ff0303移动速度提升效果不与其他任何鞋类物品叠加|r|n|n|c00838B8B穿双鞋子，跑得更快|r
+[h0BP]
+Name=Scream of Pain Projectile
+Hotkey=P
+[h0BQ]
+Name=灵魂之戒|nSoul Ring
+Hotkey=S
+Tip=灵魂之戒|nSoul Ring
+Ubertip=|cffffcc00属性：|r|n提升3点每秒的生命恢复速率|n提升50%的魔法恢复速率|n|cffff8000牺牲|r（主动）|n|n|cffffcc00需要：|r|n再生之戒 - 350|n艺人面具 - 325|n卷轴 - 125|n|n|c00838b8b总价：800|r
+[h0BR]
+Name=虚灵之刃|nEthereal Blade
+Tip=虚灵之刃|nEthereal Blade
+Ubertip=|cffffcc00属性：|r|n增加10点所有属性|n增加30点敏捷|n|cffff8000虚化冲击|r（主动）|n|n|cffffcc00需要：|r|n鹰角弓 - 3200|n幽灵权杖 - 1500|n|n|c00838B8B总价：4700|r|n|n|c00fffc01可以拆分|r
+[h0BS]
+Name=以太冲击弹
+Hotkey=P
+[h0BT]
+Name=丛林斥候
+Hotkey=P
+[h0BU]
+Name=丛林斥候
+Hotkey=P
+[h0BV]
+Name=收集你的物品
+Hotkey=Y
+Tip=收集你的物品
+Ubertip=丢弃所有不属于你的物品，并且收集附近所有属于你的物品，仅仅在泉水范围内有效
+[h0BW]
+Name=超新星太阳 等级3
+Hotkey=P
+[h0BX]
+Name=Supernova Ground
+Hotkey=P
+[h0BY]
+Name=Phoenix Dummy
+[h0BZ]
+Name=超新星太阳 等级1
+Hotkey=P
+[h0C0]
+Name=超新星太阳 等级2
+Hotkey=P
+[h0C2]
+Name=暗影剧毒
+Hotkey=P
+[h0C3]
+Name=雪球
+Hotkey=P
+[h0C4]
+Name=Snowball_Ground
+Hotkey=P
+[h0C1]
+Name=追踪导弹 - 2
+Hotkey=P
+[h0C5]
+Name=Flying Machine
+Hotkey=C
+Tip=学习 召唤飞弹 - [|cffffcc00等级 %d|r]|n(Call Down)
+Ubertip=学习 召唤飞弹 - [|cffffcc00等级 %d|r]|n(Call Down)
+[h0C8]
+Name=凤凰
+[h0C9]
+Name=巨牙海民
+[h0CA]
+Name=军团指挥官
+[h0CB]
+Name=艾瑞达
+[h0CC]
+Name=矮人直升机
+[h0CD]
+Name=干扰者
+[h0CE]
+Name=Energy Field
+Hotkey=P
+[h0CF]
+Name=追踪导弹 - 3
+Hotkey=P
+[h0CG]
+Name=追踪导弹 - 1
+Hotkey=P
+[h0CH]
+Name=追踪导弹 - 4
+Hotkey=P
+[h0CI]
+Name=精灵
+[h0CJ]
+Name=Wisps
+Hotkey=P
+[h0C6]
+Name=Glimpse Projectile
+Hotkey=P
+[h0C7]
+Name=Psionic Pulse Projectile
+Hotkey=P
+[h0CK]
+Name=斯帕克
+Hotkey=P
+[h0CL]
+Name=Phoenix Down Ground
+Hotkey=P
+[h0CM]
+Name=淬毒之珠|nOrb of Venom
+Hotkey=O
+Tip=淬毒之珠|nOrb of Venom
+Ubertip=|cffffcc00属性：|r|n|cff0042ff淬毒：|r|n在你的武器上附加毒素，对被攻击目标造成3点/秒的伤害，近战/远程英雄使用分别减缓敌人12%/4%的移动速度，持续4秒|n|n|c00838B8B给你的武器淬上蛇毒|r
+[h0CN]
+Name=淬毒之珠|nOrb of Venom
+Tip=淬毒之珠
+Ubertip=|cffffcc00属性：|r|n|cff0042ff淬毒：|r|n在你的武器上附加毒素，对被攻击目标造成3点/秒的伤害，近战/远程英雄使用分别减缓敌人12%/4%的移动速度，持续4秒|n|n|c00838B8B给你的武器淬上蛇毒|r
+[h0CO]
+Name=秘法鞋|nArcane Boots
+Tip=秘法鞋|nArcane Boots
+Ubertip=|cffffcc00属性：|r|n提升50点移动速度|n提高250点魔法上限|n|cffff8000补充魔法|r（主动）|n|n|cffffcc00需要：|r|n速度之鞋 - 400|n能量之球 - 900|n|n|c00838B8B总价：1300|r|n|n|c00fffc01可以拆分|r|n|n|c00ff0303移动速度提升效果不与其他任何鞋类物品叠加|r|n|n|cffff0303修补匠不能刷新此物品|r
+[h0CP]
+Name=Int Steal Projectile
+Hotkey=P
+[h0CR]
+Name=Necromastery Projectile
+Hotkey=P
+[h0CS]
+Name=寒冰尘
+Hotkey=P
+[h0CT]
+Name=卢比克
+[h0CU]
+Name=烈火精灵
+Hotkey=P
+[h0CV]
+Name=超新星太阳 等级1
+Hotkey=P
+[h0CW]
+Name=超新星太阳 等级3
+Hotkey=P
+[h0CX]
+Name=超新星太阳 等级2
+Hotkey=P
+[h0CY]
+Name=勇气勋章|nMedallion of Courage
+Hotkey=D
+Tip=勇气勋章|nMedallion of Courage
+Ubertip=|cffffcc00属性：|r|n增加7点护甲|n提升50%的魔法恢复速率|n|cffff8000孤注一掷|r（主动）|n|n|cffffcc00需要：|r|n锁甲 - 550|n艺人面罩 - 325|n卷轴 - 325|n|n|c00838b8b总价：1200|r
+[h0CZ]
+Name=堕落者
+Tip=堕落者
+Ubertip=|cffffcc00Gives:|r |n will add text later. |n|n|cffffcc00Requires:|r |n Quelling Blade - 225 |n Orb of Venom - 550  |n|n|c00838B8B Total Cost: 775 
+[h0D0]
+Name=锁甲|nChainmail
+Tip=锁甲
+Ubertip=|cffffcc00属性：|r|n增加5点护甲|n|n|c00838B8B金属锁链制成的编织甲|r
+[h0D1]
+Name=远古坚韧杖鼓|nAncient Janggo of Endurance
+Hotkey=A
+Tip=远古坚韧杖鼓|nAncient Janggo of Endurance
+Ubertip=|cffffcc00属性：|r|n增加9点所有属性|n增加3点攻击力|n|cff0033cc坚韧光环|r（被动）|n|cffff8000战鼓|r（主动）|n|n|cffffcc00需要：|r|n护腕 - 525（圣物关口）|n法师长袍 - 450|n卷轴 - 875|n|n|c00838b8b总价：1850|r|n|n|c00fffc01再次购买卷轴可重新充能|r
+[h0D2]
+Name=Ice Block
+Hotkey=P
+[h0D3]
+Name=诡计之雾|nSmoke of Deceit
+Hotkey=K
+Tip=诡计之雾|nSmoke of Deceit
+Ubertip=|cffffcc00属性：|r|n|cffff8000诡计之雾：|r|n使你和周围1200范围内所有友方玩家控制的单位隐形（大地图和小地图），并提升15%的移动速度；进行攻击动作，或者附近1050范围内有敌方英雄、防御塔时，均会失效|n|cff99ccff持续时间：|r35|n|cff99ccff冷却时间：|r90|n|cff99ccff商店最大储量：|r3|n|cff99ccff商店刷新时间：|r12分钟
+[h0D4]
+Name=复活英雄 - 冷却时间 
+Hotkey=R
+Tip=复活 冷却时间
+Ubertip=买活选项正处于冷却时间内
+[h0D5]
+Name=Water Spray Projectile
+Hotkey=P
+[h0D6]
+Name=Corpse Collector Gather Projectile
+Hotkey=P
+[h0D7]
+Name=Corpse Collector Attack Projectile
+Hotkey=P
+[h0D8]
+Name=Leech Seed Projectile
+Hotkey=P
+[h0D9]
+Name=Leech Seed Stun Projectile
+Hotkey=P
+[h0DA]
+Name=Sweeping Flame Projectile
+Hotkey=P
+[h0DB]
+Name=Spell Steal Projectile
+Hotkey=P
+[h0DC]
+Name=Fade Bolt Projectile
+Hotkey=P
+[h0DD]
+Name=纷争面纱|nVeil of Discord
+Hotkey=V
+Tip=纷争面纱|nVeil of Discord
+Ubertip=|cffffcc00属性：|r|n增加6点护甲|n增加18点智力|n增加6点力量|n增加6点敏捷|n增加6点攻击力|n提升6点/秒的生命恢复速率|n|cffff8000纷争|r（主动）|n|n|cffffcc00需要：|r|n铁意头盔 - 900|n空灵挂件 - 470|n法师长袍x2 - 900|n|n|c00838B8B总价：2270|r
+[h0DE]
+Name=继续运送
+Hotkey=W
+Tip=继续运送
+Ubertip=让你的信使继续执行之前的运送任务。
+[h0DF]
+Name=Infest Projectile
+Hotkey=P
+[h0DG]
+Name=灰烬之灵
+[h0DH]
+Name=天怒法师
+[h0DI]
+Name=神圣愤怒
+[h0DJ]
+Name=Ghost Ship 2
+Hotkey=P
+[h0DK]
+Name=Ghost Ship 2 Death
+Hotkey=P
+[H0DL]
+Name=Ghost Revenant
+Propernames=Ghost Revenant
+Tip=Ghost Revenant
+Ubertip="text. |n|n|c00ff0303Strength|r - 20 + 2.4|n|c000042ffAgility|r - 17 + 1.8|n|c000042ffIntelligence|r - 19 + 2.2|n|nLearns 1, 2, 3, and |c00ff80004|r.|n|nAttack range of 500.|nMovement speed of 290."
+Revivetip=Revive Ghost Revenant
+Awakentip=Revive Ghost Revenant
+[h0DM]
+Name=Ghost Revenant
+[h0DN]
+Name=21点
+Hotkey=P
+[h0DP]
+Name=Dragon Hawk
+[h0DQ]
+Name=Arcane Bolt Projectile
+Hotkey=P
+[h0DR]
+Name=Haunting Echos
+Hotkey=P
+[h0DS]
+Name=锯齿飞轮
+Hotkey=P
+[h0DT]
+Name=收割之刃
+Tip=收割之刃
+Ubertip=|cffffcc00Gives:|r |n will add text later. |n|n|cffffcc00Requires:|r |n Sacred Relic - 3800 |n Oblivion Staff - 1675  |n|n|c00838B8B Total Cost: 1675
+[h0DU]
+Name=静谧之鞋|nTranquil Boots
+Tip=静谧之鞋|nTranquil Boots
+Ubertip=|cffffcc00属性：|r|n提升85点移动速度|n增加3点护甲|n提升12点/秒的生命恢复速率|n|n|cffffcc00需要：|r|n速度之鞋 - 400|n再生之戒 - 350|n守护指环 - 175|n|n|c00838B8B总价：925|r|n|n|c00ff0303移动速度提升效果不与其他任何鞋类物品叠加|r
+[h0DV]
+Name=阿托斯之棍|nRod of Atos
+Hotkey=A
+Tip=阿托斯之棍|nRod of Atos
+Ubertip=|cffffcc00属性：|r|n增加30点智力|n提高350点生命上限|n|cffff8000致残|r（主动）|n|n|cffffcc00需要：|r|n魔力法杖x2 - 2000|n活力之球 - 1100 |n|n|c00838B8B总价：3100|r
+[h0DW]
+Name=寒冬飞龙
+[h0DX]
+Name=Breeze
+Hotkey=P
+[h0DY]
+Name=月之碎片|nMoon Shard
+Tip=月之碎片|nMoon Shard
+Ubertip=|cffffcc00属性：|r|n提升120的攻击速度|n|cff0033cc月夜之视|r（被动）|n|cffff8000吞噬|r（主动）|n|n|cffffcc00需要：|r|n振奋宝石x2 - 4000|n|n|c00838B8B总价：4000|r|n|n|cfffffc01可以拆分|r
+[h0DZ]
+Name=Holy Shackles Projectile
+Hotkey=P
+[h0E0]
+Name=Fire Shackles Projectile
+Hotkey=P
+[h0E2]
+Name=迫击炮小队
+[h0E6]
+Name=Concussive Shot Projectile
+Hotkey=P
+[h0E7]
+Name=Fire Panda Dummy
+[h0E8]
+Name=火烬
+[h0E9]
+Name=天堂之戟|nHeaven's Halberd
+Tip=天堂之戟|nHeaven's Halberd
+Ubertip=|cffffcc00属性：|r|n增加20点力量|n增加25点攻击力|n增加25%的闪避|n|cff0033cc残废|r（被动）|n|cffff8000缴械|r（主动）|n|n|cffffcc00需要：|r|n散华 - 2050（附魔古物）|n闪避护符 - 1800|n|n|c00838B8B总价：3850|r
+[h0EA]
+Name=深渊之刃|nAbyssal Blade
+Tip=深渊之刃|nAbyssal Blade
+Ubertip=|cffffcc00属性：|r|n增加100点攻击力|n增加10点力量|n|cff0033cc重击|r（被动）|n|cffff8000击溃|r（主动）|n|n|cffffcc00需要：|r|n圣者遗物 - 3800|n碎颅锤 - 2950（远古兵器）|n|n|c00838B8B总价：6750|r|n|n|c00fffc01可以拆分|r
+[h0EB]
+Name=地精撕裂者
+[h0EC]
+Name=天鹰之戒|nRing of Aquila
+Tip=天鹰之戒|nRing of Aquila
+Ubertip=|cffffcc00属性：|r|n增加9点攻击力|n增加6点敏捷|n增加6点所有属性|n增加1点护甲|n|cff0033cc虔诚光环|r（被动）|n|cff0033cc辉煌光环|r（被动）|n|n|cffffcc00需要：|r|n王者之戒 - 500（支援法衣）|n怨灵系带 - 485（圣物关口）|n|n|c00838B8B总价：985|r|n|n|cfffffc01可以拆分|r
+[h0ED]
+Name=Flamebreak new projectile
+Hotkey=P
+[h0EE]
+Name=Splinter Blast Secondary Projectile
+Hotkey=P
+[h0EF]
+Name=弧光守望者
+[h0EG]
+Name=闪电探寻者
+Hotkey=P
+[h0EH]
+Name=Magnetic Field
+Hotkey=P
+[h0EI]
+Name=暗影护符|nShadow Amulet
+Hotkey=A
+Tip=暗影护符|nShadow Amulet
+Ubertip=|cffffcc00属性：|r|n提升30的攻击速度|n|cffff8000渐隐|r（主动）|n|n|c00838B8B一件曾属于黑石塔之王奈法利安的小小的护符，握住了完全不动就能不被敌人感应|r
+[h0EJ]
+Name=Splinter Blast Main Projectile
+Hotkey=P
+[h0EK]
+Name=大地之灵
+[H0EL]
+Name=Edgewalker
+Propernames=内瑞弗
+Tip=Edgewalker
+Ubertip=text
+[h0EM]
+Name=Edgewalker
+[h0EN]
+Name=微光披肩|nGlimmer Cape
+Tip=微光披肩|nGlimmer Cape
+Ubertip=|cffffcc00属性：|r|n提升20%的魔法抗性|n提升30的攻击速度|n|cffff8000微光|r（主动）|n|n|cffffcc00需要：|r|n流浪法师斗篷 - 550|n暗影护符 - 1400|n|n|c00838B8B总价：1950|r|n|n|cfffffc01可以拆分|r
+[H0EO]
+Name=Edgewalker
+Propernames=内瑞弗
+Tip=Edgewalker
+Ubertip=text
+[h0EP]
+Name=神谕者
+[h0EQ]
+Name=剧毒之触弹道
+Hotkey=P
+[H0ES]
+Name=孙悟空
+Propernames=孙悟空
+Tip=孙悟空
+UberTip=孙悟空, adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt, Thunder Clap, Bash and Avatar. |n|n|cffffcc00Attacks land units.|r
+Revivetip=孙悟空
+Awakentip=孙悟空
+[h0ET]
+Name=热追踪导弹
+Hotkey=P
+[h0EU]
+Name=赤红甲|nCrimson Guard
+Hotkey=G
+Tip=赤红甲|nCrimson Guard
+Ubertip=|cffffcc00属性：|r|n增加250点生命值|n增加2点所有属性|n增加5点护甲|n提升6点/秒的生命恢复速率|n有100%的几率格挡32/16点伤害|n|cffff8000坚盾|r（主动）|n|n|cffffcc00需要：|r|n先锋盾 - 2150（保护领地）|n纳斯雷兹姆盾牌 - 800（支援法衣）|n卷轴 - 600|n|n|c00838b8b总价：3550|r
+[h0EV]
+Name=阔剑|nBroadsword
+Tip=阔剑|nBroadsword
+Ubertip=|cffffcc00属性：|r|n增加18点攻击力|n|n|cff838B8B想做个称职的骑士的话，就该买上一把|r
+[h0EW]
+Name=超声冲击波弹道
+Hotkey=P
+[n12A]
+Name=附魔芒果|nEnchanted Mango
+Hotkey=E
+Tip=附魔芒果|nEnchanted Mango
+Ubertip=|cffffcc00属性：|r|n增加1点/秒的生命恢复速率|n|n|cffff8000使用：|r|n吃下芒果，立刻回复150点魔法。|n|n|c00838B8B达拉然水果商苹果树售卖的一种奇异水果。|r
+[n12C]
+Name=卫士胫甲|nGuardian Greaves
+Hotkey=G
+Tip=卫士胫甲|nGuardian Greaves
+Ubertip=|cffffcc00属性：|r|n提升55点移动速度|n提高250点魔法上限|n增加5点所有属性|n增加5点护甲|n|cff0033cc守护光环|r（被动）|n|cffff8000修复|r（主动）|n|n|cffffcc00需要：|r|n秘法鞋 - 1300|n梅肯斯姆 - 2300|n卷轴 - 1650|n|n|c00838b8b总价：5250|r|n|n|c00ff0303移动速度提升效果不与其他任何鞋类物品叠加|r
+[n12D]
+Name=白银之锋|nSilver Edge
+Hotkey=S
+Tip=白银之锋|nSilver Edge
+Ubertip=|cffffcc00属性：|r|n增加32点攻击力|n提升30点攻击速度|n增加16点力量|n|cff0033cc残废|r（被动）|n|cffff8000疾风步|r（主动）|n|n|cffffcc00需要：|r|n洛萨之锋 - 2800|n散华 - 2050|n卷轴 - 600|n|n|c00838b8b总价：5450|r
+[n12E]
+Name=炎阳之冠|nSolar Crest
+Tip=炎阳之冠|nSolar Crest
+Ubertip=|cffffcc00属性：|r|n增加10点护甲|n提升75%的魔法恢复速率|n提升30%的闪避|n|cffff8000日耀|r（主动）|n|n|cffffcc00需要：|r|n勇气勋章 - 1200|n闪避护符 - 1800|n|n|c00838b8b总价：3000|r
+[n12F]
+Name=玲珑心|nOctarine Core
+Tip=玲珑心|nOctarine Core
+Ubertip=|cffffcc00属性：|r|n增加25点智力|n增加450点生命值|n提高400点魔法上限|n增加4点/秒的生命恢复速率|n提升100%的魔法恢复速率|n|cff0033cc冷却减少|r（被动）|n|cff0033cc技能回血|r（被动）|n|n|cffffcc00需要：|r|n神秘法杖 - 2700|n振魂石 - 3200|n|n|c00838b8b总价：5900|r
+[n12H]
+Name=红莲宝珠|nLotus Orb
+Hotkey=L
+Tip=红莲宝珠|nLotus Orb
+Ubertip=|cffffcc00属性：|r|n增加5点/秒的生命恢复速率|n提升125%的魔法恢复速率|n增加10点攻击力|n增加10点护甲|n|cffff8000回音护盾|r（主动）|n|n|cffffcc00需要：|r|n坚韧球 - 1700|n板甲 - 1400|n卷轴 - 900|n|n|c00838b8b总价：4000|r|n|n|cfffffc01可以拆分|r
+[n12U]
+Name=仙灵之火|nFaerie Fire
+Hotkey=A
+Tip=仙灵之火|nFaerie Fire
+Ubertip=|cffffcc00属性：|r|n增加2点攻击力|n|n|cffff8000吸食：|r|n吸食仙灵之火，回复75点生命值|n|cff99ccff冷却时间：|r5|n|n|c00838B8B有种飘飘欲仙的感觉，但绝不可过量吸食！|r
+[n12V]
+Name=魔龙枪|nDragon Lance
+Tip=魔龙枪|nDragon Lance
+Ubertip=|cffffcc00属性：|r|n增加10点力量|n提升10点攻击速度|n增加10点攻击力|n|cff0033cc魔龙之能|r（被动）|n|n|cffffcc00需要：|r|n食人魔之斧 - 1000|n短棍 - 875|n|n|c00838b8b总价：1875|r
+[n12W]
+Name=以太透镜|nAether Lens
+Tip=以太透镜|nAether Lens
+Ubertip=|cffffcc00属性：|r|n提高250点魔法上限|n增加8点/秒生命恢复速率|n增加8%的技能伤害|n|cff0033cc聚焦|r（被动）|n|n|cffffcc00需要：|r|n能量之球 - 900|n医疗指环 - 850|n卷轴 - 550|n|n|c00838b8b总价：2300|r
+[n12X]
+Name=镔铁之爪|nIron Talon
+Tip=镔铁之爪|nIron Talon
+Hotkey=T
+Ubertip=|cffffcc00属性：|r|n增加2点护甲|n|n|cff0033cc压制|r（被动）|n|cffff8000惩戒|r（主动）|n|n|cffffcc00需要：|r|n压制之刃 - 200|n守护指环 - 175|n卷轴 - 125|n|n|c00838b8b总价：500|r
+[n12Y]
+Name=剩一口的魔瓶|nBottle with One Sip
+Hotkey=B
+Tip=剩一口的魔瓶|nBottle with One Sip
+Ubertip=|cffffcc00属性：|r|n|cff0033cc储存泉水：|r|n每次使用在2.5秒内恢复90点生命和60点魔法，可以使用三次；魔瓶为空时，靠近己方泉水则自动被灌满|n|n|cffff8000储存神符：|r|n魔瓶为空时，可以用来储存神符，2分钟之后神符将自动被使用；使用神符后，魔瓶将自动被灌满|n|n|c00838B8B小精灵就不必存在这里啦……|r

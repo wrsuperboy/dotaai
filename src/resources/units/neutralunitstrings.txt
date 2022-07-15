@@ -1,0 +1,763 @@
+[HERO]
+Name=A Hero
+[nbrg]
+Name=Brigand
+Tip=Hire Brigand
+Ubertip=Light ranged unit with Shadowmeld. |n|n|cffffcc00Attacks land and air units.|r
+[nbdk]
+Name=黑色幼龙
+Tip=召唤 黑色幼龙
+Ubertip=小型远程飞行单位。|n|n|cffffcc00攻击地面和空中单位。|r
+Hotkey=K
+[nbwm]
+Name=黑色巨龙
+Tip=召唤 黑色巨龙
+Ubertip=大型远程飞行单位，免疫魔法，并且可以吞噬敌方单位。|n|n|cffffcc00攻击地面和空中单位。|r
+Hotkey=D
+[ncen]
+Name=半人马先驱者
+Tip=雇佣 半人马先驱者
+Ubertip=挥舞巨斧的中型近战单位。|n|n|cffffcc00攻击地面单位。|r
+Hotkey=O
+[ncnk]
+Name=半人马可汗
+Tip=雇佣 半人马可汗
+Ubertip=大型近战单位，拥有耐久光环，会战争践踏。|n|n|cffffcc00攻击地面和空中单位|r
+[ndtw]
+Name=黑暗巨魔督军
+Hotkey=W
+Tip=雇佣 黑暗巨魔督军
+Ubertip=大型远程单位，会召唤骷髅和诱捕。|n|n|cffffcc00攻击地面和空中单位。|r
+[ndtr]
+Name=黑暗巨魔
+Hotkey=T
+Tip=雇佣 黑暗巨魔
+Ubertip=小型远程单位。|n|n|cffffcc00攻击地面和空中单位。|r
+[nfsh]
+Name=森林巨魔高阶祭司
+Hotkey=H
+Tip=雇用 森林巨魔高阶祭司
+Ubertip=治愈系的高阶祭司，会使用治疗。|n|n|cffffcc00攻击地面和空中单位|r
+[nftb]
+Name=森林巨魔狂战士
+Hotkey=B
+Tip=雇用 丛林巨魔狂战士
+Ubertip=凶猛的掷斧手。|n|n|cffffcc00攻击地面和空中单位。|r
+[ngst]
+Name=岩石魔像
+Tip=召唤 岩石魔像
+Ubertip=大型近战单位，魔法免疫。|n|n|cffffcc00攻击地面单位|r
+[nggr]
+Name=宝石魔像
+Tip=召唤 宝石魔像
+Ubertip=大型近战单位，免疫所有魔法。|n|n|cffffcc00攻击地面和空中单位。|r
+[ngh1]
+Name=幽魂
+Tip=召唤 幽魂
+Ubertip=小型远程单位，拥有霜冻攻击。|n|n|cffffcc00攻击地面与空中单位|r
+[ngns]
+Name=豺狼人刺客
+Tip=雇佣 豺狼人刺客
+Hotkey=S
+Ubertip=小型远程单位，射出毒箭。|n|n|cffffcc00攻击地面与空中单位。|r
+[nkob]
+Name=狗头人
+Tip=雇佣 狗头人
+Hotkey=K
+Ubertip=小型近战单位。|n|n|cffffcc00攻击地面单位。|r
+[nkol]
+Name=狗头人监工
+Tip=雇佣 狗头人监工
+Ubertip=中型近战单位，拥有速度光环。|n|n|cffffcc00攻击地面单位。|r
+[nkot]
+Name=狗头人隧道工
+Tip=雇佣 狗头人隧道工
+Ubertip=小型近战单位。|n|n|cffffcc00攻击地面单位。|r
+[nmrl]
+Name=鱼人奔潮者
+Tip=雇佣 鱼人奔潮者
+Ubertip=小型近战单位。|n|n|cffffcc00攻击地面单位。|r
+[nmrr]
+Name=鱼人猎手
+Tip=雇佣 鱼人猎手(|cffffcc00H|)
+Hotkey=H
+Ubertip=小型近战单位。|n|n|cffffcc00攻击地面单位。|r
+[nmrm]
+Name=鱼人夜行者
+Tip=雇佣 鱼人夜行者
+Ubertip=小型近战单位，可使用隐偱和诱捕敌人。|n|n|cffffcc00攻击地面单位。|r
+[nowb]
+Name=野枭兽
+Tip=召唤 野枭兽
+Hotkey=W
+Ubertip=中型近战单位。|n|n|cffffcc00攻击地面单位。|r
+[nowe]
+Name=暴怒野枭兽
+Tip=召唤 暴怒野枭兽
+[ntav]
+Name=Light Tavern
+Description=Allows you to hire various Heroes.
+[nfoh]
+Name=生命之泉
+Tip=建造 生命之泉
+Description=Regenerates the health of all non-mechanical units nearby.
+[nogm]
+Name=食人魔重殴者
+Tip=雇佣 食人魔重殴者
+Ubertip=食人魔军团中的凶残的大型战士。|n|n|cffffcc00攻击地面单位|r
+Hotkey=M
+[nomg]
+Name=食人魔法师
+Tip=雇佣 食人魔法师
+Ubertip=食人魔军团中法术系的战士，会施放冰霜护甲。|n|n|cffffcc00攻击地面单位|r
+Hotkey=G
+[nsat]
+Name=萨特欺诈者
+Tip=雇佣 萨特欺诈者
+Ubertip=小型远程单位，会施放净化。|n|n|cffffcc00攻击地面和空中单位。|r
+[nsth]
+Name=萨特唤魔者
+Tip=雇佣 萨特唤魔者
+Ubertip=大型近战单位，拥有邪恶光环，会施放冲击波。|n|n|cffffcc00攻击地面单位。|r
+[nstl]
+Name=萨特窃魂者
+Tip=雇佣 萨特窃魂者
+Hotkey=S
+Ubertip=中型近战单位，会施放法力燃烧。|n|n|cffffcc00攻击地面单位。|r
+[nshe]
+Name=小绵羊
+Tip=召唤 小绵羊
+Ubertip=召唤小羊来为你运输物品。
+[nsha]
+Name=小绵羊
+Tip=召唤 小绵羊
+Ubertip=召唤小羊来为你运输物品。
+[nshw]
+Name=小绵羊
+Tip=召唤 小绵羊
+Ubertip=召唤小羊来为你运输物品。
+[nshf]
+Name=小飞羊
+Tip=召唤 小飞羊
+Ubertip=召唤小飞羊为你运输物品。
+[nvul]
+Name=小秃鹫
+Tip=召唤 小秃鹫
+Ubertip=召唤小秃鹫来为你运输物品。
+[nwlg]
+Name=巨狼
+Tip=召唤 小灰狼
+Ubertip=中型近战单位，会致命一击。|n|n|cffffcc00攻击地面单位|r
+[nbal]
+Name=末日守卫
+Tip=召唤 末日守卫
+Ubertip=大型单位，会驱散魔法、战争践踏、残废和火雨。|n|n|cffffcc00攻击地面和空中单位。|r
+[nwgt]
+Name=Way Gate
+Tip=Build Way Gate
+Description=Teleports units to a sister Way Gate.
+[ncop]
+Name=能量环
+Tip=建造 能量环
+Description=A small pedestal that glows with energy.
+[ncp2]
+Name=据点占据模式|r(|cffff0303CP|r)
+Tip=建造 能量环
+Description=A pedestal that glows with energy.
+[Npbm]
+Name=熊猫酒仙
+Propernames=曼吉克斯
+Tip=熊猫酒仙
+Ubertip=熊猫酒仙来自位于潘达利亚的一个神秘的岛上的一个高度隐秘的社会。他在石爪山脉的家里过着平静的生活。尽管远离世俗世界，潘达利亚的黄金流域仍然受到了天灾军团黑暗势力的侵扰。长者们在目睹耳闻了无辜者的哭泣和被残杀者的流血后，决定派遣一名精英战士，希望他能够扭转战局并恢复到和谐平衡状态。长老们所不知道的是，这个本地酒馆老板已经为了这一刻的到来训练了整整一生的时间。|n|n|cffff0303力量|r - 23 + 2.9|n|cff0042ff敏捷|r - 22 + 1.95|n|cff0042ff智力|r - 14 + 1.25|n|n可以学习 雷霆一击、酩酊酒雾、醉拳和|cffff8000元素分离|r。|n|n攻击距离 128（近程）|n移动速度 300
+Revivetip=复活 熊猫酒仙
+Awakentip=复活 熊猫酒仙
+[npn1]
+Name=火熊猫
+Tip=召唤 火熊猫
+Ubertip=凶猛的火之熊猫人战士。拥有永久献祭以及抗性皮肤。|n|n|cffffcc00攻击地面单位。|r
+Hotkey=F
+[npn2]
+Name=风熊猫 等级1
+Tip=召唤 风熊猫
+Ubertip=灵活的风之熊猫人战士，拥有抗性皮肤。会使用驱散魔法，龙卷风与疾风步。|n|n|cffffcc00攻击地面与空中单位。|r
+Hotkey=T
+[npn3]
+Name=土熊猫
+Tip=召唤 土熊猫
+Ubertip=强悍的大地熊猫人战士，拥有抗性皮肤以及魔法免疫。会使用粉碎击与嘲讽。|n|n|cffffcc00攻击地面单位。|r
+Hotkey=E
+[Nbrn]
+Name=卓尔游侠
+Propernames=崔希丝
+Tip=卓尔游侠
+Ubertip=卓尔游侠曾是地底世界冥狱深渊的一名优秀的弓箭手。她对家族所走的邪路厌恶之极，便逃到了地表世界。她的坚毅，使她带着她那杰出的实战弓术加入了近卫军团。她的技能包括剥夺魔法生物的嗓音，以及为她的箭矢附上寒冰魔法，还有她那每箭力求精准的成名技。她这些能力非常有价值，所以在其他人眼里，她的真实身世也就无足轻重了。|n|n|cff0042ff力量|r - 17 + 1.9|n|cffff0303敏捷|r - 26 + 1.9|n|cff0042ff智力|r - 15 + 1.4|n|n可以学习 霜冻之箭、阵风、强击光环和|cffff8000射手天赋|r。|n|n攻击距离 625（远程）|n移动速度 300
+Revivetip=复活 卓尔游侠
+Awakentip=复活 卓尔游侠
+Description=卓尔游侠
+[ndr1]
+Name=Lesser Dark Minion
+Tip=Summon Dark Minion
+[Nfir]
+Name=影魔
+Propernames=奈文魔尔,奈文魔尔,奈文魔尔,奈文魔尔,奈文魔尔,奈文魔尔,奈文魔尔,奈文魔尔,奈文魔尔,奈文魔尔,|c00FFFF00YaphetS|r
+Tip=影魔
+Ubertip=影魔是一种能吸收身体周围的灵魂的生物。他虽然是来自燃烧军团的恶魔，但是却讨厌和同类的恶魔一样蠕动，于是便重新伪装了自己。当影魔投入到战斗的时候，便能通过吸收灵魂来增强自己的力量，还能用他被灵魂增强过的攻击以及强力的精神冲击去击败对手。在遭遇过他的少数幸存者的心目中，影魔是最恐怖的对手，而那些被他残暴地杀死的人，才算见识过什么是世界上最卑鄙的杀人手段。|n|n|cff0042ff力量|r - 15 + 2.0|n|cffff0303敏捷|r - 20 + 2.9|n|cff0042ff智力|r - 18 + 2.0|n|n可以学习 毁灭阴影、支配死灵、魔王降临和|cffff8000魂之挽歌|r。|n|n攻击距离 500（远程）|n移动速度 305
+Revivetip=复活 影魔
+Awakentip=复活 影魔
+[Ntin]
+Name=地精修补匠
+Propernames=鲍什,鲍什,鲍什,鲍什,鲍什,|c00FFFF00X!!|r,鲍什
+Tip=地精修补匠
+Ubertip=地精工程学的成就一直让人惊叹，不过修补匠将之推向了难以置信的高度，以致于大多数人宁愿相信他依靠的是魔法而不是机器。他使用的集束光线和追踪性武器，不论从华丽的程度还是从威力上，都能与精灵的奥术魔法相提并论。据说，即使最强大的亡灵法师所召唤出来的骷髅部队在他随手召来的漫山遍野的地精部队面前也会自惭形秽。有些人拒绝相信他在机械上的造诣，也有人叫他工程学宗师。但总之，没人能否认这个地精的强大破坏力。|n|n|cff0042ff力量|r - 17 + 2.0|n|cff0042ff敏捷|r - 13 + 1.2|n|cffff0303智力|r - 27 + 2.2|n|n可以学习 激光、热导飞弹、机器人的进军和|cffff8000再装填|r。|n|n攻击距离 500（远程）|n移动速度 305
+Revivetip=复活 修补匠
+Awakentip=复活 修补匠
+[Nrob]
+Name=地精修补匠
+Propernames=Gazz Stripbolt,Riket Contraption,Mekka Gobb,Tek Piecetinker,Plug Rattletrap,Ratso Steamwheedle
+Hotkey=Z
+Tip=召唤 地精修补匠
+Ubertip="Cunning Hero, exceptional at disrupting battles and enduring damage. Can learn Pocket Factory, Cluster Rockets, Engineering Upgrade and Robo-Goblin.|n|n|cffffcc00Attacks land units.|r"
+Revivetip=复活 地精修补匠
+Awakentip=复活 地精修补匠
+[ncgb]
+Name=发条地精
+Tip=召唤 发条地精
+Ubertip=Poorly engineered mechanical goblin melee warrior.  Detonates after a certain period of time.|n|n|cffffcc00Attacks land units.|r
+Hotkey=C
+[ncg1]
+Name=发条地精
+Tip=召唤 发条地精
+Ubertip=Poorly engineered mechanical goblin melee warrior.  Detonates after a certain period of time.|n|n|cffffcc00Attacks land units.|r
+Hotkey=C
+[ncg2]
+Name=发条地精
+Tip=召唤 发条地精
+Ubertip=Poorly engineered mechanical goblin melee warrior.  Detonates after a certain period of time.|n|n|cffffcc00Attacks land units.|r
+Hotkey=C
+[nfac]
+Name=口袋工厂
+Tip=召唤 口袋工厂
+Ubertip=由口袋工厂技能召唤出来的用于生产地精机器人的单位。
+Hotkey=F
+[nfa1]
+Name=口袋工厂
+Tip=召唤 口袋工厂
+Ubertip=由口袋工厂技能召唤出来的用于生产地精机器人的单位。
+Hotkey=F
+[nfa2]
+Name=口袋工厂
+Tip=召唤 口袋工厂
+Ubertip=由口袋工厂技能召唤出来的用于生产地精机器人的单位。
+Hotkey=F
+[nech]
+Name=小鸡
+Tip=Invoke Chicken
+Ubertip=Call upon the spirit of fearsome Chicken to save you.
+[nfro]
+Name=IceFrog
+[nalb]
+Name=信天翁
+Tip=召唤 信天翁
+Ubertip=召唤信天翁为你运输物品。
+[ntor]
+Name=龙卷风
+[nbdo]
+Name=蓝色龙人督察
+Tip=雇佣 蓝色龙人督察
+Ubertip=大型近战单位，拥有虔诚光环和闪避技能。|n|n|cffffcc00攻击地面单位。|r
+[nbds]
+Name=蓝色龙人巫师
+Tip=雇佣 蓝色龙人巫师
+Ubertip=中型单位，拥有闪避技能。|n|n|cffffcc00攻击地面和空中单位。|r
+[nanm]
+Name=Barbed Arachnathid
+Tip=Hire |cffffcc00B|rarbed Arachnathid
+Hotkey=B
+Ubertip=Light ranged unit that has the Burrow ability. |n|n|cffffcc00Attacks land and air units.|r
+[nbnb]
+Name=Burrowed Barbed Arachnathid
+Tip=Hire Barbed Arachnathid
+Ubertip=小型远程单位。|n|n|cffffcc00攻击地面和空中单位。|r
+[nfpc]
+Name=极地熊怪勇士
+Tip=雇佣 极地熊怪勇士
+Ubertip=大型近战单位。|n|n|cffffcc00攻击地面单位|r 
+[nfpu]
+Name=极地巨熊怪战士
+Tip=雇佣 极地巨熊怪战士
+Ubertip=大型近战单位，会战争践踏。|n|n|cffffcc00攻击地面单位|r 
+[npng]
+Name=小企鹅
+Tip=召唤 小企鹅
+Ubertip=召唤小企鹅来为你运输物品。
+[npnw]
+Name=小企鹅
+Tip=召唤 小企鹅
+Ubertip=召唤小企鹅来为你运输物品。
+[nsno]
+Name=猫头鹰
+Tip=召唤 猫头鹰
+Ubertip=召唤猫头鹰来为你运输物品。
+[npfl]
+Name=邪能兽
+Tip=召唤 邪能兽
+Hotkey=F
+Ubertip=小型近战单位。|n|n|cffffcc00攻击地面单位|r
+[njga]
+Name=古老丛林捕猎者
+Tip=召唤 古老丛林捕猎者
+Ubertip=大型近战单位。|n|n|cffffcc00攻击地面单位|r 
+[njg1]
+Name=丛林捕猎者
+Tip=召唤 丛林捕猎者
+Ubertip=中型近战单位。|n|n|cffffcc00攻击地面单位|r
+[n00H]
+Name=死灵射手 等级1
+Tip=召唤 死灵射手
+Ubertip=小型远程单位。|n|n|cffffcc00攻击地面和空中单位|r
+[n00Q]
+Name=地精地雷
+[n005]
+Name=敏捷（天灾军团 - 1）
+Description=Allows you to hire various Heroes.
+[n006]
+Name=死灵战士 等级3
+Tip=训练 死灵战士
+Ubertip=小型近战单位。|n|n|cffffcc00攻击地面和空中单位。|r
+[n008]
+Name=智力（近卫军团 - 1）
+Description=Allows you to hire various Heroes.
+[n000]
+Name=Greater Infernel
+[n01B]
+Name=力量（近卫军团 - 1）
+Description=Allows you to hire various Heroes.
+[n019]
+Name=幼蛛
+Tip=召唤 幼蛛
+Ubertip=小型近战单位。|n|n|cffffcc00攻击地面单位。|r
+[n00E]
+Name=恐怖怪鱼
+[N01O]
+Name=德鲁伊
+Propernames=悉拉贝尔,悉拉贝尔,悉拉贝尔,悉拉贝尔,悉拉贝尔,悉拉贝尔,悉拉贝尔,悉拉贝尔
+Tip=德鲁伊
+Ubertip=在那次剧烈的冲突中，悉拉贝尔是他的部族中仅存的一个。当感觉到居住的地方面临着毁灭的时候，他的族人们将他的孩子变成一头熊，并放至山林。悉拉贝尔渐渐成长，并且变得和森林里那些栖息在他家的熊一样强壮、凶猛。他能通过德鲁伊的力量进入一个狂热的状态，甚至能呼唤强大的熊伙伴来援助他。被先知玛法里奥唤醒他的精灵血统后，德鲁伊重新变回精灵形态，并将他那野性的灵魂带到战场中去。|n|n|cff0042ff力量|r - 17 + 2.1|n|cffff0303敏捷|r - 24 + 2.7|n|cff0042ff智力|r - 13 + 1.4|n|n可以学习 熊灵伙伴、狂猛、野蛮咆哮和|cffff8000真实形态|r。|n|n攻击距离 550（远程）|n移动速度 325
+Revivetip=复活 德鲁伊
+Awakentip=复活 德鲁伊
+Description=德鲁伊
+[N013]
+Name=德鲁伊
+Propernames=悉拉贝尔
+Tip=德鲁伊
+Ubertip="Ranged strength hero, who is a powerful summoner and attacker.|n|n|c00ff0303Strength|r - 13 + 2.1|n|c000042ffAgility|r - 24 + 2.7|n|c000042ffIntelligence|r - 17 + 1.4|n|nLearns Summon Spirit Bear, Synergy, Summon Hawk, and |c00ff8000Stampede|r.|n|nAttack range of 100 (melee)."
+Revivetip=复活 德鲁伊
+Awakentip=复活 德鲁伊
+Description=德鲁伊
+[n01D]
+Name=智力（天灾军团 - 1）
+Description=Allows you to hire various Heroes.
+[n00O]
+Name=地精地雷
+[n00X]
+Name=附魔古物
+[n002]
+Name=支援法衣
+[n00P]
+Name=地精地雷
+[n00A]
+Name=死灵战士 等级2
+Tip=训练 死灵战士
+Ubertip=小型近战单位。|n|n|cffffcc00攻击地面和空中单位。|r
+[n00I]
+Name=动物信使
+Tip=小鸡
+Ubertip=召唤小鸡为你运输物品。
+[n00W]
+Name=远古兵器
+[n01E]
+Name=寄生蛛
+Tip=召唤 幼蛛
+Ubertip=小型近战单位。|n|n|cffffcc00攻击地面单位。|r
+[n007]
+Name=敏捷（近卫军团 - 2）
+Description=Allows you to hire various Heroes.
+[n00N]
+Name=地精地雷
+[n00L]
+Name=Roshan
+[n00D]
+Name=远古多头蛇
+[n00V]
+Name=秘法圣所
+[N014]
+Name=德鲁伊
+Propernames=悉拉贝尔
+Tip=德鲁伊
+Ubertip="Ranged strength hero, who is a powerful summoner and attacker.|n|n|c00ff0303Strength|r - 13 + 2.1|n|c000042ffAgility|r - 24 + 2.7|n|c000042ffIntelligence|r - 17 + 1.4|n|nLearns Summon Spirit Bear, Synergy, Summon Hawk, and |c00ff8000Stampede|r.|n|nAttack range of 100 (melee)."
+Revivetip=复活 德鲁伊
+Awakentip=复活 德鲁伊
+Description=德鲁伊
+[N015]
+Name=德鲁伊
+Propernames=悉拉贝尔
+Tip=德鲁伊
+Ubertip="Ranged strength hero, who is a powerful summoner and attacker.|n|n|c00ff0303Strength|r - 13 + 2.1|n|c000042ffAgility|r - 24 + 2.7|n|c000042ffIntelligence|r - 17 + 1.4|n|nLearns Summon Spirit Bear, Synergy, Summon Hawk, and |c00ff8000Stampede|r.|n|nAttack range of 100 (melee)."
+Revivetip=复活 德鲁伊
+Awakentip=复活 德鲁伊
+Description=德鲁伊
+[n00J]
+Name=死灵战士 等级1
+Tip=死灵战士
+Ubertip=小型近战单位。|n|n|cffffcc00攻击地面和空中单位。|r
+[n00K]
+Name=死灵射手 等级3
+Tip=召唤 死灵射手
+Ubertip=小型远程单位。|n|n|cffffcc00攻击地面和空中单位。|r
+[n00G]
+Name=死灵射手 等级2
+Tip=召唤 死灵射手
+Ubertip=小型远程单位。|n|n|cffffcc00攻击地面和空中单位。|r
+[n01N]
+Name=敏捷（近卫军团 - 1）
+Description=Allows you to hire various Heroes.
+[n01P]
+Name=力量（近卫军团 - 2）
+Description=Allows you to hire various Heroes.
+[n01M]
+Name=豪猪
+[n01Q]
+Name=侦查战鹰
+[n01R]
+Name=高等侦查战鹰
+[n01S]
+Name=高等豪猪
+[n009]
+Name=圣物关口
+[n00U]
+Name=地狱火
+Tip=召唤 地狱火
+Ubertip=大型近战单位，身上的恶魔烈焰烧伤周围的敌方单位。魔法免疫。|n|n|cffffcc00攻击地面和空中单位|r
+[n00Y]
+Name=地狱火
+Tip=召唤 地狱火
+Ubertip=大型近战单位，身上的恶魔烈焰烧伤周围的敌方单位。魔法免疫。|n|n|cffffcc00攻击地面和空中单位|r
+[n00Z]
+Name=地狱火
+Tip=召唤 地狱火
+Ubertip=大型近战单位，身上的恶魔烈焰烧伤周围的敌方单位。魔法免疫。|n|n|cffffcc00攻击地面和空中单位|r
+[N01H]
+Name=炼金术士
+Propernames=拉泽尔·黑酿
+[N01I]
+Name=炼金术士
+Propernames=拉泽尔·黑酿
+Tip=炼金术士
+Ubertip=炼金术士对于试验的态度是永不懈怠，加入近卫军团的编制也纯粹为了个人财富，以补助研究。为了得到可观的赏金，这个没良心的地精才不管采取什么残忍的手段。在麻醉或者毒害敌人的同时，他还能保持着客观冷静的态度，面不改色心不跳地聆听敌人痛苦的哀嚎。他以残酷和非人道声名远扬，让那些强大的天灾军团在他的小小药瓶前不寒而栗。|n|n|cffff0303力量|r - 25 + 1.8|n|cff0042ff敏捷|r - 11 + 1.2 |n|cff0042ff智力|r - 25 + 1.8|n|n可以学习 酸性喷雾、不稳定化合物、地精的贪婪和|cffff8000化学狂暴|r。|n|n攻击距离 128（近战）|n移动速度 295
+Revivetip=复活 炼金术士
+Awakentip=复活 炼金术士
+[N01J]
+Name=炼金术士
+Propernames=拉泽尔·黑酿
+[N01T]
+Name=炼金术士
+Propernames=拉泽尔·黑酿
+[N01V]
+Name=月之女祭司
+Propernames=米拉娜·夜影,米拉娜·夜影,米拉娜·夜影,米拉娜·夜影,米拉娜·夜影,米拉娜·夜影,米拉娜·夜影,米拉娜·夜影,米拉娜·夜影,米拉娜·夜影,米拉娜·夜影,朱蒙
+Tip=月之女祭司
+Ubertip=作为月神艾露恩庇护下的长老和高等祭司，月之女祭司在近卫军团中就如同那黑暗中的一线光明。她以雨点一般的箭矢和坠落的流星抵挡蜂拥而至的天灾大军，而她神圣的存在，消除了四周友军的疲倦，让他们在战场上的速度得到极大的提升。在必要的时候，她还能以隐形掩护自己和其他伙伴，使她成为重要的支援力量。|n|n|cff0042ff力量|r - 17 + 1.85|n|cffff0303敏捷|r - 20 + 3.3|n|cff0042ff智力|r - 17 + 1.65 |n|n可以学习 群星坠落、月神之箭、跳跃和|cffff8000月之暗面|r。|n|n攻击距离 630（远程）|n移动速度 300
+Revivetip=复活 月之女祭司
+Awakentip=复活 月之女祭司
+[n01Y]
+Name=Draft Tavern 1
+Description=Allows you to hire various Heroes.
+[n01Z]
+Name=Draft Tavern 2
+Description=Allows you to hire various Heroes.
+[N00R]
+Name=深渊领主
+Propernames=阿兹加洛
+Tip=深渊领主
+Ubertip=恶魔深渊领主是污染者阿克蒙德手下大将之一。在燃烧军团兵败卡利姆多后，他被困于元素位面。对破坏的热爱，使得他接受了巫妖王的邀请，以便弥补他对旧主的歉意，帮助他带领天灾军团去征服一切。深渊领主召唤出大量火焰，从敌人的头顶上倾泻，并在他们被烤成尸体后再挨个儿引爆——这是他最喜欢的事情。像他那样掌握着如此可憎力量的怪物在战场上出现时，无论产生多么强烈的恐惧感也不足为奇了。|n|n|cffff0303力量|r - 25 + 2.6|n|cff0042ff敏捷|r - 12 + 1.3|n|cff0042ff智力|r - 17 + 2.6|n|n可以学习 火焰风暴、怨念深渊、衰退光环和|cffff8000黑暗之门|r。|n|n攻击距离 128（近程）|n移动速度 305
+Revivetip=复活 深渊领主
+Awakentip=复活 深渊领主
+[n020]
+Name=活死人
+[n026]
+Name=泥土魔像
+[n127]
+Name=碎土魔像
+[n129]
+Name=雷区标识
+[n003]
+Name=攻城魔像
+Tip=召唤 攻城魔像
+Ubertip=大型近战单位。|n|n|cffffcc00攻击地面单位。|r
+[N00B]
+Name=仙女龙
+Propernames=帕克,帕克,帕克,帕克,帕克,帕克,帕克,库普-库普
+Tip=仙女龙
+Ubertip=近卫军团一直在寻找能够帮助他们对抗天灾的英雄，最终他们发现了生活在炽蓝仙野的神秘的仙女龙。在解释清楚同寒冬女王的冲突后，她决定派出她的贴身侍卫仙女龙来扭转整个战争的局势。虽然仙女龙身材瘦小又爱搞恶作剧，不过在战场上却有着足以证明自己的表现。能穿过所有敌人的爆炸性魔法球，仙女粉尘，以及以无与伦比的幻术麻痹所有敌人的能力，给所有和他对抗的敌人上了一课，所谓不可以貌取人。在他们面前出现的，是无穷无尽的欺骗。|n|n|cff0042ff力量|r - 15 + 1.7|n|cff0042ff敏捷|r - 22 + 1.7|n|cffff0303智力|r - 25 + 2.4|n|n可以学习 幻象法球、新月之痕、相位转移和|cffff8000梦境缠绕|r。|n|n攻击距离 550（远程）|n移动速度 295
+Revivetip=复活 仙女龙
+Awakentip=复活 仙女龙
+[n00T]
+Name=Transportation
+Tip=建造 能量环
+Description=A small pedestal that glows with energy.
+[n01F]
+Name=生产遗物
+Tip=建造 能量环
+Description=A small pedestal that glows with energy.
+[n00S]
+Name=头狼
+Tip=召唤 小灰狼
+Ubertip=中型近战单位，会致命一击。|n|n|cffffcc00攻击地面单位|r
+[n01L]
+Name=地精地雷
+[n01U]
+Name=召唤 飓风
+[n01X]
+Name=超震声波
+[n027]
+Name=熔炉精灵
+[n001]
+Name=Ancestral Spirit
+Ubertip=Melee unit. |n|n|cffffcc00Attacks land and air units.|r
+[n00F]
+Name=Ancestral Spirit
+Ubertip=Melee unit. |n|n|cffffcc00Attacks land and air units.|r
+[n028]
+Name=Ancestral Spirit
+Ubertip=Melee unit. |n|n|cffffcc00Attacks land and air units.|r
+[n029]
+Name=Ancestral Spirit
+Ubertip=Melee unit. |n|n|cffffcc00Attacks land and air units.|r
+[n02A]
+Name=英雄选择器
+Tip=建造 能量环
+Description=A small pedestal that glows with energy.
+[N0EG]
+Name=风行者
+Propernames=奥蕾莉亚·风行者
+Tip=风行者
+Ubertip=在冬泉谷流域，森林中翠绿沼泽的深处，一个拥有风之力量的精灵在那里安了家。她在法师之战后不久，就以自由人的身份加入了近卫军团。由于受到风之女神的宠爱，奥蕾莉亚得到了许多祝福。她射出的箭矢强劲且极具威力，能够穿透一条直线上的敌人；也可以射出蕴含风之魔力的箭矢，创造出桎梏将敌人牢牢束缚在一起；并且借助风的力量，移动迅速。最令人称赞的是，她能以肉眼无法看清的速度射出暴风雨般的利箭，将一群群不知天高地厚的敌人瞬间杀死。奥蕾莉亚·风行者，绝对是天灾军团不能小瞧的敌人！|n|n|c000042ff力量|r - 15 + 2.5|n|c000042ff敏捷|r - 17 + 1.4|n|c00ff0303智力|r - 22 + 2.6|n|n可以学习 束缚击、强力击、风行者和|c00ff8000集中火力|r。|n|n攻击距离 600（远程）|n移动速度 295
+Revivetip=复活 风行者
+Awakentip=复活 风行者
+Description=风行者
+[N0EI]
+Name=风行者
+Propernames=奥蕾莉亚
+Tip=Summon |cffffcc00W|rindrunner
+Ubertip="story.  |n|n|c000042ffStrength|r - 19 + 2.5|n|c000042ffAgility|r - 17 + 1.4|n|c00ff0303Intelligence|r - 22 + 2.6|n|nLearns Ability1, Ability2, Ability3, and |c00ff8000Ability4|r.|n|nAttack range of 600.|nMovement speed of 295."
+Revivetip=Revive |cffffcc00W|rindrunner
+Awakentip=Revive |cffffcc00W|rindrunner
+Description=风行者
+[N0EJ]
+Name=风行者
+Propernames=奥蕾莉亚
+Tip=Summon |cffffcc00W|rindrunner
+Ubertip="story.  |n|n|c000042ffStrength|r - 19 + 2.5|n|c000042ffAgility|r - 17 + 1.4|n|c00ff0303Intelligence|r - 22 + 2.6|n|nLearns Ability1, Ability2, Ability3, and |c00ff8000Ability4|r.|n|nAttack range of 600.|nMovement speed of 295."
+Revivetip=Revive |cffffcc00W|rindrunner
+Awakentip=Revive |cffffcc00W|rindrunner
+Description=风行者
+[N0EK]
+Name=风行者
+Propernames=奥蕾莉亚
+Tip=Summon |cffffcc00W|rindrunner
+Ubertip="story.  |n|n|c000042ffStrength|r - 19 + 2.5|n|c000042ffAgility|r - 17 + 1.4|n|c00ff0303Intelligence|r - 22 + 2.6|n|nLearns Ability1, Ability2, Ability3, and |c00ff8000Ability4|r.|n|nAttack range of 600.|nMovement speed of 295."
+Revivetip=Revive |cffffcc00W|rindrunner
+Awakentip=Revive |cffffcc00W|rindrunner
+Description=风行者
+[N0EM]
+Name=风行者
+Propernames=奥蕾莉亚
+Tip=Summon |cffffcc00W|rindrunner
+Ubertip="story.  |n|n|c000042ffStrength|r - 19 + 2.5|n|c000042ffAgility|r - 17 + 1.4|n|c00ff0303Intelligence|r - 22 + 2.6|n|nLearns Ability1, Ability2, Ability3, and |c00ff8000Ability4|r.|n|nAttack range of 600.|nMovement speed of 295."
+Revivetip=Revive |cffffcc00W|rindrunner
+Awakentip=Revive |cffffcc00W|rindrunner
+Description=风行者
+[n0EO]
+Name=Dummy Tavern
+Description=Allows you to hire various Heroes.
+[n0F5]
+Name=活死人
+[n0F6]
+Name=墓碑 - 等级3
+Tip=召唤 口袋工厂
+Ubertip=由口袋工厂技能召唤出来的用于生产地精机器人的单位。
+Hotkey=F
+[n0F7]
+Name=活死人
+[n0F8]
+Name=活死人
+[n0F9]
+Name=活死人
+[n0FH]
+Name=墓碑 - 等级4
+[n0FI]
+Name=墓碑 - 等级2
+[n0FJ]
+Name=墓碑 - 等级1
+[n0GJ]
+Name=智力（近卫军团 - 2）
+Description=Allows you to hire various Heroes.
+[n0GK]
+Name=力量（天灾军团 - 1）
+Description=Allows you to hire various Heroes.
+[n0HE]
+Name=保护领地
+[N0HP]
+Name=远古冰魄
+Propernames=卡尔德
+Tip=远古冰魄
+Ubertip=自从在那场被遗忘的战争中被击败后，这名伟大的法师便被永久的封印到一个寒冰墓穴之中。在经历了无数岁月的封印摧残后，终于，他被巫妖王的爪牙们发现了。为了获得这个古老的灵魂，巫妖王释放了他。但是，这个灵魂也从此忘记了什么是感激，也分不清敌人与朋友，仅存于他心灵的，只有痛苦。由于他的躯体早已腐烂，灵魂变成为了他唯一的形态。因为他被仇恨吞噬着，即使是轻轻的触碰都会造成极大的痛苦。他可以通过意念召唤出具有毁灭性的冰风暴，或者投掷出可以震碎灵魂的霜冻之箭。任何敢于反对他的人都会受到他无尽的惩罚。|n|n|c000042ff力量|r - 18 + 1.4|n|c000042ff敏捷|r - 20 + 2.2|n|c00ff0303智力|r - 25 + 2.6|n|n可以学习 寒霜之足、冰霜漩涡、极寒之触和|c00ff8000冰晶爆轰|r。|n|n攻击距离 600 （远程）|n移动速度 295
+Revivetip=远古冰魄
+Awakentip=复活 远古冰魄
+Description=远古冰魄
+[n0HQ]
+Name=雪旋风
+[N0HT]
+Name=炼金术士
+Propernames=拉泽尔·黑酿
+[n0HW]
+Name=鹰身人斥候
+Hotkey=B
+[n0HX]
+Name=鹰身人风暴巫师
+Hotkey=B
+[n0KU]
+Name=地狱火
+Tip=召唤 地狱火
+Ubertip=大型近战单位，身上的恶魔烈焰烧伤周围的敌方单位。魔法免疫。|n|n|cffffcc00攻击地面和空中单位|r
+[n0KV]
+Name=地狱火
+Tip=召唤 地狱火
+Ubertip=大型近战单位，身上的恶魔烈焰烧伤周围的敌方单位。魔法免疫。|n|n|cffffcc00攻击地面和空中单位|r
+[n0KW]
+Name=地狱火
+Tip=召唤 地狱火
+Ubertip=大型近战单位，身上的恶魔烈焰烧伤周围的敌方单位。魔法免疫。|n|n|cffffcc00攻击地面和空中单位|r
+[n0LC]
+Name=雷霆蜥蜴
+Tip=召唤 雷霆蜥蜴
+Hotkey=T
+[n0LD]
+Name=雷霆蜥蜴
+Tip=召唤 雷霆蜥蜴
+Hotkey=T
+[n0LH]
+Name=智力（天灾军团 - 2）
+Description=Allows you to hire various Heroes.
+[n0LI]
+Name=敏捷（天灾军团 - 2）
+Description=Allows you to hire various Heroes.
+[n0LJ]
+Name=力量（天灾军团 - 2）
+Description=Allows you to hire various Heroes.
+[n0LM]
+Name=腐化树人
+Tip=召唤 腐化树人
+Ubertip=轻型近战单位，攻击能使敌人中毒。
+[n0LN]
+Name=腐化树人
+Tip=召唤 腐化树人
+Ubertip=轻型近战单位，攻击能使敌人中毒。
+[N0M2]
+Name=Sissy
+Propernames=Dragonhawk
+Tip=Dragonhawk
+Ubertip="text. |n|n|c000042ffStrength|r - 20 + 2.0|n|c000042ffAgility|r - 14 + 1.3|n|c00ff0303Intelligence|r - 22 + 2.4 |n|nLearns text, text, text, and |c00ff8000text|r.|n|nAttack range of 450.|nMovement speed of 300."
+Revivetip=Revive Dragonhawk
+Awakentip=Revive Dragonhawk
+[N0M7]
+Name=寒冬飞龙
+Propernames=傲洛斯
+Tip=寒冬飞龙
+Ubertip=被诺森德的死灵法师复活并重塑为尸骨之龙之后，寒冬飞龙仍然拥有霜冻之力。为了歼灭世间一切闪耀着温暖生命光芒的事物，寒冬飞龙开始攻击近卫军团。他有着最纯粹的冰川元素之力，其寒冷的呼吸能给盟友带去生命的活力，也能给敌人带去使人发狂的严寒，让他们自相残杀。他还能发射冰片，让敌人的整个军队都寸步难行。这样一种邪恶的、强大的、拥有致命冰霜之力的生物，就连天灾军团都不知道这样的野兽当时是怎么死去的。|n|n|c000042ff力量|r - 24 + 2.1|n|c000042ff敏捷|r - 16 + 1.9|n|c00ff0303智力|r - 25 + 3.1 |n|n可以学习 严寒烧灼、碎裂冲击、寒冬之拥和|c00ff8000寒冬诅咒|r。|n|n攻击距离 425（远程）|n移动速度 285
+Revivetip=复活 寒冬飞龙
+Awakentip=复活 寒冬飞龙
+[N0M9]
+Name=Wyvern Outrider
+Propernames=Wyvern Outrider
+Tip=Wyvern Outrider
+Ubertip=text
+Revivetip=Revive Wyvern Outrider
+Awakentip=Revive Wyvern Outrider
+[N0MA]
+Name=寒冬飞龙
+Propernames=傲洛斯
+[N0MD]
+Name=神谕者
+Propernames=奈里夫
+Tip=神谕者
+Ubertip=有能力拨动命运之弦的人不多，何况能看清命运。命运的无常和其神秘一样无从捉摸，然而对奈里夫来说，这一直是个沉重的负担。那些被选中的人们必须对命运的召唤作出回应，从孩提时代起，他就担任着神圣的神谕者的职责，为那些配得上知道自己命运的人指出前方的路。虽然他族系中大多数人都选择安然服侍命运，他从未认为命运是被动接受已经注定的结局。当他看到他的命运时，他的力量已经积蓄完毕，准备去为那些需要的人们带来更好的生活。拥有此种力量不可避免的会被卷入战争。他早已知道这一切，他也准备好了为了世人的命运，奉献自己的生命。|n|n|c000042ff力量|r - 18 + 1.9|n|c000042ff敏捷|r - 15 + 1.7|n|c00ff0303智力|r - 23 + 2.9|n|n可以学习 气运之末、命运敕令、涤罪之焰和|c00ff8000虚妄诺言|r。|n|n攻击距离 620（远程）|n移动速度 305
+Revivetip=复活 神谕者
+Awakentip=复活 神谕者
+[N0MK]
+Name=弧光守望者
+Propernames=泽特
+Tip=弧光守望者
+Ubertip=在遥远的南方，有一块充满着以太和磁场之力的土地，风暴无尽的在这片土地上肆虐。在这里，只有一个游牧部族能够活下来并定居。这些游牧民族的人崇拜撕裂大地的风暴，在这种诡异的力量和虔诚的信仰中，一个混乱的神祗诞生了。神祗感受到了即将到来的战争的，于是他派出了他最信任的先知，赋予了他自己的力量，让他去镇压那股威胁到混乱神祗的秩序势力。拥有闪电、磁场的力量，同时还能完美的复制自我，弧光守望者是一个无法被忽视的存在。|n|n|c000042ff力量|r - 24 + 1.9|n|c00ff0303敏捷|r - 15 + 1.8|n|c000042ff智力|r - 24 + 2.1|n|n可以学习 乱流、磁场、闪光怨灵和|c00ff8000风暴双雄|r。|n|n攻击距离 625（远程） |n移动速度 295
+Revivetip=复活 弧光守望者
+Awakentip=复活 弧光守望者
+[N0MM]
+Name=弧光守望者
+Propernames=泽特
+[N0MB]
+Name=寒冬飞龙
+Propernames=傲洛斯
+[N0MC]
+Name=寒冬飞龙
+Propernames=傲洛斯
+[N0MO]
+Name=寒冬飞龙
+Propernames=傲洛斯
+[N0MU]
+Name=大地之灵
+Propernames=考林
+Tip=大地之灵
+Ubertip=当天灾军团的枯萎气息蔓延到峭壁之地的孤峰时，当地的人们祈求神灵的帮助，却没有得到回应。这群村民毅然往险峰更高处攀登，以寻求避难，然而却将老人和小孩留下独自面对灭亡的命运。当邪恶的力量正在吞噬那些无助的人们时，鲜血浸湿了山脚下的巨石。看到这一惨状，山脉之心忍不住悲恸的哭泣，于是派出了它的勇士去对抗成群的天灾军团。峭壁石落，考林诞生。他拥有着群山的力量，世间的巨石和金属都任由他驱使。|n|n|c00ff0303力量|r - 21 + 2.9|n|c000042ff敏捷|r - 17 + 1.5|n|c000042ff智力|r - 18 + 2.1|n|n可以学习 翻滚巨石、巨石猛击、地磁之握和|c00ff8000磁化|r。|n|n攻击距离 128（近战）|n移动速度 305
+Revivetip=复活 大地之灵
+Awakentip=复活 大地之灵
+[N0MW]
+Name=大地之灵
+Propernames=考林
+[n0N6]
+Name=孙悟空
+Tip=Summon Sasquatch
+Ubertip=中型近战单位。|n|n|cffffcc00攻击地面单位。|r
+[n0NI]
+Name=阵风
+[n0NM]
+Name=小鸡
+Tip=Invoke Chicken
+Ubertip=Call upon the spirit of fearsome Chicken to save you.
+[n0NN]
+Name=小羊
+Tip=召唤 小羊
+Ubertip=召唤小羊来为你运输物品。
+[n0NO]
+Name=小羊
+Tip=召唤 小羊
+Ubertip=召唤小羊来为你运输物品。
+[n0NP]
+Name=小飞羊
+Tip=召唤 小飞羊
+Ubertip=召唤小飞羊为你运输物品。
+[n0NS]
+Name=豪猪
+[n0NT]
+Name=豪猪
+[n0NU]
+Name=豪猪
+[n0NV]
+Name=侦查战鹰
+[n0NW]
+Name=侦查战鹰
+[n0NX]
+Name=侦查战鹰
+[n0NZ]
+Name=小鸡
+Tip=Invoke Chicken
+Ubertip=Call upon the spirit of fearsome Chicken to save you.

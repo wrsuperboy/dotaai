@@ -1,0 +1,89 @@
+// -- INCLUDE FILES ---------------------------------------------------------
+
+IncludeFile "UI\FrameDef\UI\EscMenuTemplates.fdf",
+IncludeFile "UI\FrameDef\Glue\StandardTemplates.fdf",
+
+// -- LOCAL TEMPLATES -------------------------------------------
+
+Frame "GLUEBUTTON" "DotaItemButtonTemplate" INHERITS WITHCHILDREN "StandardIconicButtonTemplate" { 
+
+    ControlBackdrop "DotaItemButtonBackdropTemplate",
+    Frame "BACKDROP" "DotaItemButtonBackdropTemplate" {
+        BackdropBackground  "UI\Widgets\Glues\GlueScreen-ROC-EditionButton-up.blp",
+        BackdropCornerFlags "UL|UR|BL|BR|T|L|B|R",
+        BackdropCornerSize  0.0155,
+        BackdropBackgroundSize  0.031,
+        BackdropBackgroundInsets 0.004 0.004 0.004 0.004,
+        BackdropEdgeFile  "UI\Widgets\Glues\GlueScreen-Button2-BackdropBorder.blp",
+    }
+
+    ControlPushedBackdrop "DotaItemButtonPushedBackdropTemplate",
+    Frame "BACKDROP" "DotaItemButtonPushedBackdropTemplate" {
+        BackdropBackground  "UI\Widgets\Glues\GlueScreen-ROC-EditionButton-down.blp",
+        BackdropCornerFlags "UL|UR|BL|BR|T|L|B|R",
+        BackdropCornerSize  0.0155,
+        BackdropBackgroundSize  0.031,
+        BackdropBackgroundInsets 0.004 0.004 0.004 0.004,
+        BackdropEdgeFile  "UI\Widgets\Glues\GlueScreen-Button2-BackdropBorder-Down.blp",
+    }
+
+    ControlDisabledBackdrop "DotaItemButtonDisabledBackdropTemplate",
+    Frame "BACKDROP" "DotaItemButtonDisabledBackdropTemplate" {
+        BackdropBackground  "UI\Widgets\Glues\GlueScreen-ROC-EditionButton-disabled.blp",
+        BackdropCornerFlags "UL|UR|BL|BR|T|L|B|R",
+        BackdropCornerSize  0.0155,
+        BackdropBackgroundSize  0.031,
+        BackdropBackgroundInsets 0.004 0.004 0.004 0.004,
+        BackdropEdgeFile  "UI\Widgets\Glues\GlueScreen-Button2-BackdropBorder-Disabled.blp",
+    }
+
+}
+
+// -- FRAMES ----------------------------------------------------------------
+Frame "FRAME" "DotaShop" {
+    
+    Width   0.001,
+    
+    Frame "BACKDROP" "DotaShopTitleBackdrop" {
+        Width  0.05f,
+        Height  0.024f,
+        SetPoint TOPLEFT, "DotaShop", TOPLEFT, 0.0, 0.0,
+        SetPoint BOTTOMRIGHT,   "DotaShopMinimizeButton", BOTTOMLEFT, 0.0057, 0.0,
+        UseActiveContext,
+        SetAllPoints,
+        DecorateFileNames,
+        BackdropTileBackground,
+        BackdropBackground          "MultiboardBackground",
+        BackdropCornerFlags         "UL|UR|BL|BR|T|L|B|R",
+        BackdropCornerSize          0.0125,
+        BackdropBackgroundInsets    0.005f 0.005f 0.005f 0.005f,
+        BackdropEdgeFile            "MultiboardBorder",
+        BackdropBlendAll,
+        
+        Frame "TEXT" "DotaShopTitle" INHERITS "EscMenuLabelTextTemplate" {
+            UseActiveContext,
+            SetPoint TOPLEFT,       "DotaShopTitleBackdrop", TOPLEFT,      0.0, 0.0,
+            SetPoint BOTTOMRIGHT,   "DotaShopTitleBackdrop", BOTTOMRIGHT,  0.0, 0.0,
+            FrameFont "MasterFont", 0.011, "",
+            FontJustificationH JUSTIFYCENTER,
+        }
+    }
+
+    
+    
+    Frame "BACKDROP" "DotaShopBackdrop" {
+        Width  0.35f,
+        UseActiveContext,
+        SetPoint TOPLEFT,  "DotaShopTitleBackdrop", BOTTOMLEFT, 0.0, 0.0057,
+        SetPoint BOTTOMLEFT,  "DotaShop", BOTTOMLEFT, 0.0, 0.0,
+        DecorateFileNames,
+        BackdropTileBackground,
+        BackdropBackground          "EscMenuEditBoxBackground",
+        BackdropCornerFlags         "UL|UR|BL|BR|T|L|B|R",
+        BackdropCornerSize          0.0125,
+        BackdropBackgroundInsets    0.005f 0.005f 0.005f 0.005f,
+        BackdropEdgeFile            "EscMenuEditBoxBorder",
+        BackdropBlendAll,        
+    }
+
+}
